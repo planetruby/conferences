@@ -95,7 +95,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Mexico
 
-- [Mexico City](http://www.meetup.com/Chilango-Rails)
+- Mexico City / México, D.F.
+    - [Chilango Rails](http://www.meetup.com/Chilango-Rails)
     - [UNAM / National University](http://www.meetup.com/UNAM-Ruby-Group)
 
 
