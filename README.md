@@ -1,6 +1,6 @@
 # awesome-events
 
-A collection of awesome Ruby events (meetups, conferences, camps, etc.) around the world
+A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world
 
 - [World](#world)
 - [Europe](#europe)
@@ -100,4 +100,14 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) around t
 
 - [Ruby Conferences](http://rubyconferences.org)
 - [Ruby User Groups](http://rubyusergroups.org)
+
+
+
+**License**
+
+The awesome list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+
+**Questions? Comments?**
+
+Send them along to the ruby-talk mailing list. Thanks!
 
