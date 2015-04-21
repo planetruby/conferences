@@ -53,6 +53,11 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Linz, Oberösterreich
     - [Ruby-User-Group-Linz (RUGL)](http://www.meetup.com/Ruby-User-Group-Linz-RUGL)
 
+#### Switzerland / Schweiz / Suisse / Confoederatio Helvetica (ch)
+
+- [Ruvetia (Helvetian Ruby User Group)](http://ruvetia.org) - [[GitHub]](https://github.com/ruvetia)
+
+
 #### Germany / Deutschland (de)
 
 - @ Berlin
@@ -91,6 +96,18 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - [Scottish Ruby User Group](http://www.scotrug.org) - [[GitHub]](https://github.com/scotrug)
    - @ Edinburgh & Glasgow
+
+#### Ireland (ie)
+
+- [Ruby Ireland](http://www.rubyireland.com) - [[GitHub]](https://github.com/rubyireland)
+    - @ Dublin
+
+#### Belgium / België / Belgique (be)
+
+- [Belgian Ruby User Group (BRUG)](http://brug.be) - [[GitHub]](https://github.com/brug-be)
+- [ArrrCamp](http://arrrrcamp.be)
+    - 2015 @ Ghent, Oost-Vlaanderen; Oct 1-2
+    - 2014 @ Ghent, Oost-Vlaanderen; Oct/2-3
 
 ## America
 
