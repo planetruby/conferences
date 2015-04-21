@@ -39,7 +39,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
     - 2015 @ Berlin (Potdam), Germany; Jul/31
 - [European Ruby Konference - EuRuKo](http://euruko.org)
     - 2015 @ Salzburg, Austria; Oct/17-18
-- [Ruby Open Source Conference - ROSSConf](http://rossconf.io)
+    - 2013 @ Athens, Greece; Jun/28-29
+- [Ruby Open Source Conference - ROSSConf](http://rossconf.io) - [[GitHub]](https://github.com/rossconf)
     - 2015 @ Vienna, Austria; Apr/25
 
 ### Central Europe
@@ -47,14 +48,17 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 #### Austria / Österreich
 
 - @ Vienna / Wien
-    - [Vienna Ruby Brigade](http://vienna-rb.at)
+    - [Vienna.rb](http://vienna-rb.at) - [[GitHub]](https://github.com/vienna-rb)
     - [Ruby Habits](http://www.meetup.com/RubyHabits)
-- [Linz](http://www.meetup.com/Ruby-User-Group-Linz-RUGL)
+- @ Linz, Oberösterreich
+    - [Ruby-User-Group-Linz (RUGL)](http://www.meetup.com/Ruby-User-Group-Linz-RUGL)
 
 #### Germany / Deutschland
 
-- [Berlin](http://berlin.onruby.de)
-- [Munich / München](http://www.meetup.com/Munich-Rubyshift-Ruby-User-Group)
+- @ Berlin
+    - [Ruby User Group Berlin (RUG::B)](http://berlin.onruby.de)
+- @ Munich / München, Bayern / Bavaria
+    - [Munich Rubyshift Ruby User Group](http://www.meetup.com/Munich-Rubyshift-Ruby-User-Group)
 
 #### Slovakia
 
