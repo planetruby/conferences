@@ -45,7 +45,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Central Europe
 
-#### Austria / Österreich
+#### Austria / Österreich (at)
 
 - @ Vienna / Wien
     - [Vienna.rb](http://vienna-rb.at) - [[GitHub]](https://github.com/vienna-rb)
@@ -53,32 +53,37 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Linz, Oberösterreich
     - [Ruby-User-Group-Linz (RUGL)](http://www.meetup.com/Ruby-User-Group-Linz-RUGL)
 
-#### Germany / Deutschland
+#### Germany / Deutschland (de)
 
 - @ Berlin
     - [Ruby User Group Berlin (RUG::B)](http://berlin.onruby.de)
 - @ Munich / München, Bayern / Bavaria
     - [Munich Rubyshift Ruby User Group](http://www.meetup.com/Munich-Rubyshift-Ruby-User-Group)
 
-#### Slovakia
+#### Slovakia (sk)
 
-- [Bratislava](http://lanyrd.com/series/rubyslava)
+- @ Bratislava
+   - [Rubyslava](http://lanyrd.com/series/rubyslava)
 
-#### Slovenia
+#### Slovenia (si)
 
-- [Ljubljana](http://rug.si)
+- @ Ljubljana
+   - [Slovenia Ruby User Group](http://rug.si)
 
-#### Czech Republic
+#### Czech Republic (cz)
 
-- [Brno](http://lanyrd.com/series/brno-pyvo)
+- @ Brno
+   - [Brněnské PyVo + BRUG](http://lanyrd.com/series/brno-pyvo)
 
-#### Poland
+#### Poland (pl)
 
-- [Warsaw](http://wrug.eu)
+- @ Warsaw
+   - [Warsaw Ruby Users Group (WRUG)](http://wrug.eu)
 
 #### Hungary
 
-- [Budapest](http://www.meetup.com/budapest-rb)
+- @ Budapest
+   - [Budapest.rb](http://www.meetup.com/budapest-rb)
 
 ### Western Europe
 
@@ -89,36 +94,44 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ## America
 
-### Canada
+### Canada (ca)
 
-- Toronto
+- @ Toronto, Ontario
    - [Ruby Pub Night] (https://unspace.ca/events/#rpn)
    - [Toronto Ruby Brigade] (http://www.meetup.com/torontoruby)
    - [Rails Girls TO] (http://www.meetup.com/railsgirlsTO)
 
-### United States
+### United States (us)
 
 - [RubyConf](http://rubyconf.org)
    - 2015 @ San Antonio, Texas; Nov/15-17
+   - 2014 @ San Diego, California; Nov/17-19
 - [RailsConf](http://railsconf.com)
    - 2015 @ Atlanta, Georgia; Apr/21-23
+   - 2014 @ Chicago, Illinois; Apr/22-25
 
 #### Pacific Nortwest
 
-- [Seattle](http://seattlerb.org)
+- @ Seattle, Washington
+    - [Seattle.rb](http://seattlerb.org) - [[GitHub]](https://github.com/seattlerb)
 
-### Mexico
+### Mexico (mx)
 
-- Mexico City / México, D.F.
+- @ Mexico City / México, D.F.
     - [Chilango Rails](http://www.meetup.com/Chilango-Rails)
     - [UNAM / National University](http://www.meetup.com/UNAM-Ruby-Group)
 
 
 ## Asia
 
-### Japan
+### Japan (jp)
 
 - [RubyKaigi](http://rubykaigi.org)
+   - 2014 @ Tokyo; Sep/18-20
+
+- [RubyWorld Conference - rubyworldconf](http://www.rubyworld-conf.org/en)
+   - 2015 @ Matsue; Nov 11-12
+   - 2014 @ Matsue; Nov 13-14
 
 
 ## More
