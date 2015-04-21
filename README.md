@@ -1,16 +1,22 @@
 # awesome-events
+
 A collection of awesome Ruby events (meetups, conferences, camps, etc.) around the world
 
 - [World](#world)
 - [Europe](#europe)
   - [Central Europe](#central-europe)
-      - [Austria / Österreich](#austria--österreich)
+      - [Austria / Österreich](#austria--%C3%96sterreich)
       - [Germany / Deutschland](#germany--deutschland)
       - [Slovakia](#slovakia)
       - [Slovenia](#slovenia)
       - [Czech Republic](#czech-republic)
       - [Poland](#poland)
       - [Hungary](#hungary)
+- [America](#america)
+   - [United States](#united-states)
+   - [Mexico](#mexico)
+- [Asia](#asia)
+   - [Japan](#japan)
 - [More](#more)
 
 ## World
@@ -26,37 +32,72 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) around t
     - 2015 @ Berlin (Potdam), Germany; Jul/31
 - [European Ruby Konference - EuRuKo](http://euruko.org)
     - 2015 @ Salzburg, Austria; Oct/17-18
+- [Ruby Open Source Conference - ROSSConf](http://rossconf.io)
+    - 2015 @ Vienna, Austria; Apr/25
 
 ### Central Europe
 
 #### Austria / Österreich
 
-- [Vienna / Wien]
-- [Linz]
+- [Vienna / Wien](http://vienna-rb.at)
+- [Linz](http://www.meetup.com/Ruby-User-Group-Linz-RUGL)
 
 #### Germany / Deutschland
 
+- [Berlin](http://berlin.onruby.de)
+- [Munich / München](http://www.meetup.com/Munich-Rubyshift-Ruby-User-Group)
+
 #### Slovakia
+
+- [Bratislava](http://lanyrd.com/series/rubyslava)
 
 #### Slovenia
 
+- [Ljubljana](http://rug.si)
+
 #### Czech Republic
+
+- [Praha / Prague](http://lanyrd.com/series/praha-pyvo)
+- [Brno](http://lanyrd.com/series/brno-pyvo)
 
 #### Poland
 
+- [Warsaw](http://wrug.eu)
+
 #### Hungary
 
-- [Budapest]()
+- [Budapest](http://www.meetup.com/budapest-rb)
 
-## United States
+
+
+## America
+
+### United States
 
 - [RubyConf](http://rubyconf.org)
+   - 2015 @ San Antonio, Texas; Nov/15-17
 - [RailsConf](http://railsconf.com)
+   - 2015 @ Atlanta, Georgia; Apr/21-23
 
-## Japan
+#### Pacific Nortwest
+
+- [Seattle](http://seattlerb.org)
+
+### Mexico
+
+- [Mexico City](http://www.meetup.com/Chilango-Rails)
+    - [UNAM / National University](http://www.meetup.com/UNAM-Ruby-Group)
+
+
+## Asia
+
+### Japan
 
 - [RubyKaigi](http://rubykaigi.org)
+
 
 ## More
 
 - [Ruby Conferences](http://rubyconferences.org)
+- [Ruby User Groups](http://rubyusergroups.org)
+
