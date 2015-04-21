@@ -41,7 +41,9 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Austria / Österreich
 
-- [Vienna / Wien](http://vienna-rb.at)
+- Vienna / Wien
+    - [Ruby Brigade](http://vienna-rb.at)
+    - [Ruby Habits](http://www.meetup.com/RubyHabits)
 - [Linz](http://www.meetup.com/Ruby-User-Group-Linz-RUGL)
 
 #### Germany / Deutschland
