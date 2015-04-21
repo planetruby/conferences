@@ -18,6 +18,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - [Asia](#asia)
    - [Japan](#japan)
 - [More](#more)
+- [Meta](#meta)
 
 ## World
 
@@ -102,6 +103,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - [Ruby User Groups](http://rubyusergroups.org)
 
 
+## Meta
 
 **License**
 
