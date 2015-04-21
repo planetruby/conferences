@@ -78,7 +78,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Toronto
 
-- [Ruby Pub Nigth] (https://unspace.ca/events/#rpn)
+- [Ruby Pub Night] (https://unspace.ca/events/#rpn)
 - [Toronto Ruby Brigade] (http://www.meetup.com/torontoruby/)
 - [Rails Girls TO] (http://www.meetup.com/railsgirlsTO/)
 
