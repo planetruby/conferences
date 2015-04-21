@@ -13,6 +13,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
       - [Poland](#poland)
       - [Hungary](#hungary)
 - [America](#america)
+   - [Canada] (#canada) 
    - [United States](#united-states)
    - [Mexico](#mexico)
 - [Asia](#asia)
@@ -71,6 +72,14 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 
 ## America
+
+### Canada
+
+#### Toronto
+
+- [Ruby Pub Nigth] (https://unspace.ca/events/#rpn)
+- [Toronto Ruby Brigade] (http://www.meetup.com/torontoruby/)
+- [Rails Girls TO] (http://www.meetup.com/railsgirlsTO/)
 
 ### United States
 
