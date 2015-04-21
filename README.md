@@ -147,8 +147,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - 2014 @ Tokyo; Sep/18-20
 
 - [RubyWorld Conference - rubyworldconf](http://www.rubyworld-conf.org/en)
-   - 2015 @ Matsue; Nov 11-12
-   - 2014 @ Matsue; Nov 13-14
+   - 2015 @ Matsue; Nov/11-12
+   - 2014 @ Matsue; Nov/13-14
 
 
 ## More
