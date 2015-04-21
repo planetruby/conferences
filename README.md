@@ -6,16 +6,21 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - [Europe](#europe)
   - [Central Europe](#central-europe)
       - [Austria / Österreich](#austria--%C3%96sterreich)
+      - [Switzerland / Schweiz / Suisse](#switzerland)
       - [Germany / Deutschland](#germany--deutschland)
       - [Slovakia](#slovakia)
       - [Slovenia](#slovenia)
       - [Czech Republic](#czech-republic)
       - [Poland](#poland)
       - [Hungary](#hungary)
+  - [Western Europe](#western-europe)
+     - [Scotland](#scotland)
+     - [Ireland / Éire](#ireland)
+     - [Belgium / België / Belgique](#belgium)
 - [America](#america)
    - [Canada] (#canada) 
    - [United States](#united-states)
-   - [Mexico](#mexico)
+   - [Mexico / México](#mexico)
 - [Asia](#asia)
    - [Japan](#japan)
 - [More](#more)
@@ -41,7 +46,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Austria / Österreich
 
-- Vienna / Wien
+- @ Vienna / Wien
     - [Vienna Ruby Brigade](http://vienna-rb.at)
     - [Ruby Habits](http://www.meetup.com/RubyHabits)
 - [Linz](http://www.meetup.com/Ruby-User-Group-Linz-RUGL)
@@ -71,7 +76,12 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - [Budapest](http://www.meetup.com/budapest-rb)
 
+### Western Europe
 
+#### Scotland
+
+- [Scottish Ruby User Group](http://www.scotrug.org) - [[GitHub]](https://github.com/scotrug)
+   - @ Edinburgh & Glasgow
 
 ## America
 
