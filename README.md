@@ -58,7 +58,6 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Czech Republic
 
-- [Praha / Prague](http://lanyrd.com/series/praha-pyvo)
 - [Brno](http://lanyrd.com/series/brno-pyvo)
 
 #### Poland
