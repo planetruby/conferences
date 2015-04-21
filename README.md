@@ -75,11 +75,10 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Canada
 
-#### Toronto
-
-- [Ruby Pub Nigth] (https://unspace.ca/events/#rpn)
-- [Toronto Ruby Brigade] (http://www.meetup.com/torontoruby/)
-- [Rails Girls TO] (http://www.meetup.com/railsgirlsTO/)
+- Toronto
+   - [Ruby Pub Nigth] (https://unspace.ca/events/#rpn)
+   - [Toronto Ruby Brigade] (http://www.meetup.com/torontoruby)
+   - [Rails Girls TO] (http://www.meetup.com/railsgirlsTO)
 
 ### United States
 
