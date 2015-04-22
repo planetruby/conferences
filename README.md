@@ -10,7 +10,6 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
       - [Germany / Deutschland](#germany--deutschland-de)
       - [Slovakia](#slovakia-sk)
       - [Slovenia](#slovenia-si)
-      - [Spain](#spain-es)
       - [Czech Republic](#czech-republic-cz)
       - [Poland](#poland-pl)
       - [Hungary](#hungary-hu)
@@ -19,6 +18,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
      - [Ireland / Éire](#ireland--%C3%89ire-ie)
      - [Belgium / België / Belgique](#belgium--belgi%C3%AB--belgique-be)
   - [Southern Europe](#southern-europe)
+     - [Spain / España](#spain-es)
      - [Portugal](#portugal-pt)
 - [America](#america)
    - [Canada](#canada-ca) 
@@ -80,11 +80,6 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Ljubljana
    - [Slovenia Ruby User Group](http://rug.si)
 
-#### Spain (es)
-
-- @ Barcelona
-   - [Baruco (Full Stack Fest)](http://www.fullstackfest.com/?from_baruco)
-
 #### Czech Republic (cz)
 
 - @ Brno
@@ -98,9 +93,9 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Warsaw
    - [Warsaw Ruby Users Group (WRUG)](http://wrug.eu)
 - @ Gdansk, Sopot, Gdynia
-  - [3City Ruby Users Group (TRUG)](http://trug.pl/)
+  - [3City Ruby Users Group (TRUG)](http://trug.pl)
 - @ Wrocław
-  - [Dolnośląska Grupa Użytkowników Ruby (DRUG)](http://drug.org.pl/)
+  - [Dolnośląska Grupa Użytkowników Ruby (DRUG)](http://drug.org.pl)
 
 #### Hungary (hu)
 
@@ -128,6 +123,12 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 
 ### Southern Europe
+
+#### Spain / España (es)
+
+- @ Barcelona
+   - [Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS](http://www.fullstackfest.com)
+      - 2015 @ Barcelona, Catalonia; Sept/1–5 
 
 #### Portugal (pt)
 
