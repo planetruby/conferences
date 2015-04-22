@@ -79,6 +79,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - @ Brno
    - [Brněnské PyVo + BRUG](http://lanyrd.com/series/brno-pyvo)
+- @ Prague / Praha
+   - [Prague.rb](http://www.meetup.com/Praguerb/) ([První středa v měsíci](http://srazy.info/prvni-streda-ruby-on-rails/))
 
 #### Poland (pl)
 
