@@ -90,6 +90,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - @ Warsaw
    - [Warsaw Ruby Users Group (WRUG)](http://wrug.eu)
+- @ Gdansk, Sopot, Gdynia
+  - [3City Ruby Users Group (TRUG)](http://trug.pl/)
 
 #### Hungary (hu)
 
