@@ -23,6 +23,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - [Mexico / México](#mexico)
 - [Asia](#asia)
    - [Japan](#japan)
+   - [Singapore](#singapore)
 - [More](#more)
 - [Meta](#meta)
 
@@ -152,6 +153,14 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - 2015 @ Matsue; Nov/11-12
    - 2014 @ Matsue; Nov/13-14
 
+### Singapore (sg)
+
+- [RedDotRubyConf](http://www.reddotrubyconf.com)
+   - 2015 @ Matrix, Biopolis; Jun/4-5
+   - 2014 @ Matrix, Biopolis; Jun/26-27
+
+- [Singapore Ruby Group](http://www.meetup.com/Singapore-Ruby-Group/)
+
 
 ## More
 
@@ -168,4 +177,3 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 **Questions? Comments?**
 
 Send them along to the ruby-talk mailing list. Thanks!
-
