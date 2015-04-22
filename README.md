@@ -173,6 +173,13 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Seattle, Washington
     - [Seattle.rb](http://seattlerb.org) - [[GitHub]](https://github.com/seattlerb)
 
+#### Pacific Southwest
+
+- @ San Francisco, California
+    - [SF Ruby Meetup](http://www.meetup.com/sfruby/)
+- @ San Jose, California
+    - [Silicon Valley Ruby Meetup](http://www.meetup.com/silicon-valley-ruby/)
+
 ### Mexico / México (mx)
 
 - @ Mexico City / México, D.F.
