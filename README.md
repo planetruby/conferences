@@ -40,7 +40,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - [European Ruby Camp - eurucamp](http://eurucamp.org)
     - 2015 @ Berlin (Potsdam); Germany Jul/31 – Aug/2
-- [JRuby Confernce Europe - jrubyconf.eu](http://jrubyconf.eu)
+- [JRuby Conference Europe - jrubyconf.eu](http://jrubyconf.eu)
     - 2015 @ Berlin (Potdam), Germany; Jul/31
 - [European Ruby Konference - EuRuKo](http://euruko.org)
     - 2015 @ Salzburg, Austria; Oct/17-18
@@ -161,7 +161,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
     - [Gotham Ruby Conference (GORUCO)](http://goruco.com)
       - 2015 @ New York, New York; Jun/20
 
-#### Pacific Nortwest
+#### Pacific Northwest
 
 - @ Seattle, Washington
     - [Seattle.rb](http://seattlerb.org) - [[GitHub]](https://github.com/seattlerb)
