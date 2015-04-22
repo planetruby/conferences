@@ -13,6 +13,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
       - [Czech Republic](#czech-republic-cz)
       - [Poland](#poland-pl)
       - [Hungary](#hungary-hu)
+      - [Croatia](#croatia-hr)
   - [Western Europe](#western-europe)
      - [Scotland](#scotland)
      - [Ireland / Éire](#ireland--%C3%89ire-ie)
@@ -101,6 +102,11 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - @ Budapest
    - [Budapest.rb](http://www.meetup.com/budapest-rb)
+
+#### Croatia (hr)
+
+- @ Zagreb
+   - [RubyZG](http://www.meetup.com/rubyzg)
 
 ### Western Europe
 
