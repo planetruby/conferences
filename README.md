@@ -5,26 +5,28 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - [World](#world)
 - [Europe](#europe)
   - [Central Europe](#central-europe)
-      - [Austria / Österreich](#austria--%C3%96sterreich)
-      - [Switzerland / Schweiz / Suisse](#switzerland)
-      - [Germany / Deutschland](#germany--deutschland)
-      - [Slovakia](#slovakia)
-      - [Slovenia](#slovenia)
-      - [Czech Republic](#czech-republic)
-      - [Poland](#poland)
-      - [Hungary](#hungary)
+      - [Austria / Österreich](#austria--%C3%96sterreich-at)
+      - [Switzerland / Schweiz / Suisse](#switzerland--schweiz--suisse--confoederatio-helvetica-ch)
+      - [Germany / Deutschland](#germany--deutschland-de)
+      - [Slovakia](#slovakia-sk)
+      - [Slovenia](#slovenia-si)
+      - [Czech Republic](#czech-republic-cz)
+      - [Poland](#poland-pl)
+      - [Hungary](#hungary-hu)
   - [Western Europe](#western-europe)
      - [Scotland](#scotland)
      - [Ireland / Éire](#ireland)
-     - [Belgium / België / Belgique](#belgium)
+     - [Belgium / België / Belgique](#belgium--belgi%C3%AB--belgique-be)
 - [America](#america)
-   - [Canada] (#canada) 
-   - [United States](#united-states)
+   - [Canada](#canada-ca) 
+   - [United States](#united-states-us)
    - [Mexico / México](#mexico)
 - [Asia](#asia)
-   - [Japan](#japan)
-   - [Singapore](#singapore)
+   - [Japan](#japan-jp)
+   - [Singapore](#singapore-sg)
 - [More](#more)
+   - [Links](#links)
+   - [Friends & Family](#friends)
 - [Meta](#meta)
 
 ## World
@@ -88,7 +90,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Warsaw
    - [Warsaw Ruby Users Group (WRUG)](http://wrug.eu)
 
-#### Hungary
+#### Hungary (hu)
 
 - @ Budapest
    - [Budapest.rb](http://www.meetup.com/budapest-rb)
@@ -100,7 +102,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - [Scottish Ruby User Group](http://www.scotrug.org) - [[GitHub]](https://github.com/scotrug)
    - @ Edinburgh & Glasgow
 
-#### Ireland (ie)
+#### Ireland / Éire (ie)
 
 - [Ruby Ireland](http://www.rubyireland.com) - [[GitHub]](https://github.com/rubyireland)
     - @ Dublin
@@ -130,16 +132,18 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - 2015 @ Atlanta, Georgia; Apr/21-23
    - 2014 @ Chicago, Illinois; Apr/22-25
 
+#### Mid Atlantic
+
 - @ New York, New York
-    - [GORUCO](http://goruco.com/)
-      - 2015 @ New York; June 20th
+    - [Gotham Ruby Conference (GORUCO)](http://goruco.com)
+      - 2015 @ New York, New York; Jun/20
 
 #### Pacific Nortwest
 
 - @ Seattle, Washington
     - [Seattle.rb](http://seattlerb.org) - [[GitHub]](https://github.com/seattlerb)
 
-### Mexico (mx)
+### Mexico / México (mx)
 
 - @ Mexico City / México, D.F.
     - [Chilango Rails](http://www.meetup.com/Chilango-Rails)
@@ -160,16 +164,30 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 ### Singapore (sg)
 
 - [RedDotRubyConf](http://www.reddotrubyconf.com)
-   - 2015 @ Matrix, Biopolis; Jun/4-5
-   - 2014 @ Matrix, Biopolis; Jun/26-27
+   - 2015 @ Singapore; Jun/4-5
+   - 2014 @ Singapore; Jun/26-27
 
-- [Singapore Ruby Group](http://www.meetup.com/Singapore-Ruby-Group/)
+- @ Singapore
+   - [Singapore Ruby Group](http://www.meetup.com/Singapore-Ruby-Group)
 
 
 ## More
 
+### Links
+
 - [Ruby Conferences](http://rubyconferences.org)
 - [Ruby User Groups](http://rubyusergroups.org)
+
+### Friends & Family
+
+#### Europe
+
+##### Central Europe
+
+###### Austria (at)
+
+- [Linuxwochen](http://www.linuxwochen.at)
+    - 2015 @ Wien; May/7-9
 
 
 ## Meta
