@@ -130,6 +130,10 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - 2015 @ Atlanta, Georgia; Apr/21-23
    - 2014 @ Chicago, Illinois; Apr/22-25
 
+- @ New York, New York
+    - [GORUCO](http://goruco.com/)
+      - 2015 @ New York; June 20th
+
 #### Pacific Nortwest
 
 - @ Seattle, Washington
