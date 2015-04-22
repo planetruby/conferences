@@ -18,7 +18,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
      - [Ireland / Éire](#ireland--%C3%89ire-ie)
      - [Belgium / België / Belgique](#belgium--belgi%C3%AB--belgique-be)
   - [Southern Europe](#southern-europe)
-     - [Spain / España](#spain-es)
+     - [Spain / España](#spain--espa%C3%B1a-es)
      - [Portugal](#portugal-pt)
 - [America](#america)
    - [Canada](#canada-ca) 
