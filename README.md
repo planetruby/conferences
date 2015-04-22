@@ -13,7 +13,6 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
       - [Czech Republic](#czech-republic-cz)
       - [Poland](#poland-pl)
       - [Hungary](#hungary-hu)
-      - [Croatia](#croatia-hr)
   - [Western Europe](#western-europe)
      - [Scotland](#scotland)
      - [Ireland / Éire](#ireland--%C3%89ire-ie)
@@ -21,6 +20,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
   - [Southern Europe](#southern-europe)
      - [Spain / España](#spain--espa%C3%B1a-es)
      - [Portugal](#portugal-pt)
+     - [Croatia / Hrvatska](#croatia--hrvatska-hr)
 - [America](#america)
    - [Canada](#canada-ca) 
    - [United States](#united-states-us)
@@ -55,9 +55,9 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - @ Vienna / Wien
     - [Vienna.rb](http://vienna-rb.at) - [[GitHub]](https://github.com/vienna-rb)
-    - [Ruby Habits](http://www.meetup.com/RubyHabits)
+    - [Ruby Habits](http://meetup.com/RubyHabits)
 - @ Linz, Oberösterreich
-    - [Ruby-User-Group-Linz (RUGL)](http://www.meetup.com/Ruby-User-Group-Linz-RUGL)
+    - [Ruby-User-Group-Linz (RUGL)](http://meetup.com/Ruby-User-Group-Linz-RUGL)
 
 #### Switzerland / Schweiz / Suisse / Confoederatio Helvetica (ch)
 
@@ -69,7 +69,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Berlin
     - [Ruby User Group Berlin (RUG::B)](http://berlin.onruby.de)
 - @ Munich / München, Bayern / Bavaria
-    - [Munich Rubyshift Ruby User Group](http://www.meetup.com/Munich-Rubyshift-Ruby-User-Group)
+    - [Munich Rubyshift Ruby User Group](http://meetup.com/Munich-Rubyshift-Ruby-User-Group)
 
 #### Slovakia (sk)
 
@@ -86,7 +86,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Brno
    - [Brněnské PyVo + BRUG](http://lanyrd.com/series/brno-pyvo)
 - @ Prague / Praha
-   - [Prague.rb](http://www.meetup.com/Praguerb) 
+   - [Prague.rb](http://meetup.com/Praguerb) 
    - [První středa v měsíci](http://srazy.info/prvni-streda-ruby-on-rails)
 
 #### Poland (pl)
@@ -101,12 +101,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 #### Hungary (hu)
 
 - @ Budapest
-   - [Budapest.rb](http://www.meetup.com/budapest-rb)
+   - [Budapest.rb](http://meetup.com/budapest-rb)
 
-#### Croatia (hr)
-
-- @ Zagreb
-   - [RubyZG](http://www.meetup.com/rubyzg)
 
 ### Western Europe
 
@@ -141,6 +137,11 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - [RubyConf Portugal](http://rubyconf.pt)
   - 2015 @ Braga; Sep/14-15
   - 2014 @ Braga; Oct/13-14
+
+#### Croatia / Hrvatska (hr)
+
+- @ Zagreb
+   - [RubyZG](http://www.meetup.com/rubyzg)
 
  
 ## America
