@@ -25,8 +25,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - [Japan](#japan-jp)
    - [Singapore](#singapore-sg)
 - [More](#more)
-   - [Links](#links)
-   - [Friends & Family](#friends--family)
+- [Friends & Family](#friends--family)
 - [Meta](#meta)
 
 ## World
@@ -180,23 +179,25 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - [Ruby Conferences](http://rubyconferences.org)
 - [Ruby User Groups](http://rubyusergroups.org)
 
-### Friends & Family
 
-#### Europe
+## Friends & Family
 
-##### Central Europe
+### Europe
 
-###### Austria / Österreich (at)
+#### Central Europe
+
+##### Austria / Österreich (at)
 
 - [Linuxwochen](http://www.linuxwochen.at)
     - 2015 @ Vienna / Wien; May/7-9
 
-##### Western Europe
+#### Western Europe
 
-###### #### Belgium / België / Belgique (be)
+##### Belgium / België / Belgique (be)
 
 - [Free and Open Source Software Developers' European Meeting (FOSDEM)](https://fosdem.org)
     - 2015 @ Brussels /  Brussel / Bruxelles; Jan/31+Feb/1
+
 
 ## Meta
 
