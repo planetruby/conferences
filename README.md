@@ -15,18 +15,18 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
       - [Hungary](#hungary-hu)
   - [Western Europe](#western-europe)
      - [Scotland](#scotland)
-     - [Ireland / Éire](#ireland)
+     - [Ireland / Éire](#ireland--%C3%89ire-ie)
      - [Belgium / België / Belgique](#belgium--belgi%C3%AB--belgique-be)
 - [America](#america)
    - [Canada](#canada-ca) 
    - [United States](#united-states-us)
-   - [Mexico / México](#mexico)
+   - [Mexico / México](#mexico--m%C3%A9xico-mx)
 - [Asia](#asia)
    - [Japan](#japan-jp)
    - [Singapore](#singapore-sg)
 - [More](#more)
    - [Links](#links)
-   - [Friends & Family](#friends)
+   - [Friends & Family](#friends--family)
 - [Meta](#meta)
 
 ## World
@@ -83,7 +83,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Brno
    - [Brněnské PyVo + BRUG](http://lanyrd.com/series/brno-pyvo)
 - @ Prague / Praha
-   - [Prague.rb](http://www.meetup.com/Praguerb/) ([První středa v měsíci](http://srazy.info/prvni-streda-ruby-on-rails/))
+   - [Prague.rb](http://www.meetup.com/Praguerb) 
+   - [První středa v měsíci](http://srazy.info/prvni-streda-ruby-on-rails)
 
 #### Poland (pl)
 
@@ -154,12 +155,13 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Japan (jp)
 
-- [RubyKaigi](http://rubykaigi.org)
-   - 2014 @ Tokyo; Sep/18-20
-
 - [RubyWorld Conference - rubyworldconf](http://www.rubyworld-conf.org/en)
    - 2015 @ Matsue; Nov/11-12
    - 2014 @ Matsue; Nov/13-14
+
+- [RubyKaigi](http://rubykaigi.org)
+   - 2014 @ Tokyo; Sep/18-20
+
 
 ### Singapore (sg)
 
@@ -184,11 +186,17 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ##### Central Europe
 
-###### Austria (at)
+###### Austria / Österreich (at)
 
 - [Linuxwochen](http://www.linuxwochen.at)
-    - 2015 @ Wien; May/7-9
+    - 2015 @ Vienna / Wien; May/7-9
 
+##### Western Europe
+
+###### #### Belgium / België / Belgique (be)
+
+- [Free and Open Source Software Developers' European Meeting (FOSDEM)](https://fosdem.org)
+    - 2015 @ Brussels /  Brussel / Bruxelles; Jan/31+Feb/1
 
 ## Meta
 
