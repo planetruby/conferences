@@ -97,6 +97,9 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
   - [3City Ruby Users Group (TRUG)](http://trug.pl)
 - @ Wrocław
   - [Dolnośląska Grupa Użytkowników Ruby (DRUG)](http://drug.org.pl)
+- @ Poznań
+  - [Poznań Ruby Users Group (PRUG)](https://www.facebook.com/rubypoznan) 
+  
 
 #### Hungary (hu)
 
