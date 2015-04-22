@@ -17,7 +17,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
      - [Scotland](#scotland)
      - [Ireland / Éire](#ireland--%C3%89ire-ie)
      - [Belgium / België / Belgique](#belgium--belgi%C3%AB--belgique-be)
-     - [Portugal](#portugal)
+  - [Southern Europe](#southern-europe)
+     - [Portugal](#portugal-pt)
 - [America](#america)
    - [Canada](#canada-ca) 
    - [United States](#united-states-us)
@@ -115,12 +116,18 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - [Belgian Ruby User Group (BRUG)](http://brug.be) - [[GitHub]](https://github.com/brug-be)
 - [ArrrCamp](http://arrrrcamp.be)
     - 2014 @ Ghent, Oost-Vlaanderen; Oct/2-3
+    - 2015 @ Ghent, Oost-Vlaanderen; Oct/1-2
 
-### Portugal
 
-- [RubyConf Portugal](http://rubyconf.pt/)
-    - 2015 @ Braga; Sep/14-15
+### Southern Europe
 
+#### Portugal (pt)
+
+- [RubyConf Portugal](http://rubyconf.pt)
+  - 2014 @ Braga; Oct/13-14 - [[GitHub]](https://github.com/groupbuddies/rubyconf-pt)
+  - 2015 @ Braga; Sep/14-15 - [[GitHub]](https://github.com/groupbuddies/rubyconfpt-2015)
+
+ 
 ## America
 
 ### Canada (ca)
