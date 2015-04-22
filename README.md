@@ -72,7 +72,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 #### Slovakia (sk)
 
 - @ Bratislava
-   - [Rubyslava](http://lanyrd.com/series/rubyslava)
+   - [Rubyslava](http://rubyslava.sk)
 
 #### Slovenia (si)
 
