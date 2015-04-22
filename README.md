@@ -10,6 +10,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
       - [Germany / Deutschland](#germany--deutschland-de)
       - [Slovakia](#slovakia-sk)
       - [Slovenia](#slovenia-si)
+      - [Spain](#spain-es)
       - [Czech Republic](#czech-republic-cz)
       - [Poland](#poland-pl)
       - [Hungary](#hungary-hu)
@@ -77,6 +78,11 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - @ Ljubljana
    - [Slovenia Ruby User Group](http://rug.si)
+
+#### Spain (es)
+
+- @ Barcelona
+   - [Baruco (Full Stack Fest)](http://www.fullstackfest.com/?from_baruco)
 
 #### Czech Republic (cz)
 
