@@ -2,6 +2,10 @@
 
 A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world
 
+<announce>
+Looking for awesome Gems? See the [Ruby Gems of the Week Series @ Planet Ruby](http://planetruby.github.io/gems). 
+</announce>
+
 - [World](#world)
 - [Europe](#europe)
   - [Central Europe](#central-europe)
