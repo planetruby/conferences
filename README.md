@@ -2,9 +2,10 @@
 
 A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world
 
-<announce>
-Looking for awesome Gems? See the [Ruby Gems of the Week Series @ Planet Ruby](http://planetruby.github.io/gems). 
-</announce>
+---
+[ANNOUNCEMENT] Looking for awesome Gems? See the [Ruby Gems of the Week Series @ Planet Ruby](http://planetruby.github.io/gems). 
+---
+
 
 - [World](#world)
 - [Europe](#europe)
@@ -62,7 +63,7 @@ Looking for awesome Gems? See the [Ruby Gems of the Week Series @ Planet Ruby](h
 #### Austria / Österreich (at)
 
 - @ Vienna / Wien
-    - [Vienna.rb](http://vienna-rb.at) - [:octopus:](https://github.com/vienna-rb)
+    - [Vienna.rb](http://vienna-rb.at) - [:octocat:](https://github.com/vienna-rb)
     - [Ruby Habits](http://meetup.com/RubyHabits)
 - @ Linz, Oberösterreich
     - [Ruby-User-Group-Linz (RUGL)](http://meetup.com/Ruby-User-Group-Linz-RUGL)
@@ -82,12 +83,12 @@ Looking for awesome Gems? See the [Ruby Gems of the Week Series @ Planet Ruby](h
 #### Slovakia (sk)
 
 - @ Bratislava
-   - [Rubyslava](http://rubyslava.sk) - [:octopus:](https://github.com/rubyslava)
+   - [Rubyslava](http://rubyslava.sk) - [:octocat:](https://github.com/rubyslava)
 
 #### Slovenia (si)
 
 - @ Ljubljana
-   - [Slovenia Ruby User Group](http://rug.si) - [:octopus:](https://github.com/RubySlovenia)
+   - [Slovenia Ruby User Group](http://rug.si) - [:octocat:](https://github.com/RubySlovenia)
 
 #### Czech Republic (cz)
 
@@ -118,17 +119,17 @@ Looking for awesome Gems? See the [Ruby Gems of the Week Series @ Planet Ruby](h
 
 #### Scotland
 
-- [Scottish Ruby User Group](http://www.scotrug.org) - [:octopus:](https://github.com/scotrug)
+- [Scottish Ruby User Group](http://www.scotrug.org) - [:octocat:](https://github.com/scotrug)
    - @ Edinburgh & Glasgow
 
 #### Ireland / Éire (ie)
 
-- [Ruby Ireland](http://www.rubyireland.com) - [:octopus:](https://github.com/rubyireland)
+- [Ruby Ireland](http://www.rubyireland.com) - [:octocat:](https://github.com/rubyireland)
     - @ Dublin
 
 #### Belgium / België / Belgique (be)
 
-- [Belgian Ruby User Group (BRUG)](http://brug.be) - [:octopus:](https://github.com/brug-be)
+- [Belgian Ruby User Group (BRUG)](http://brug.be) - [:octocat:](https://github.com/brug-be)
 - [ArrrCamp](http://arrrrcamp.be)
     - 2015 @ Ghent, Oost-Vlaanderen; Oct/1-2
     - 2014 @ Ghent, Oost-Vlaanderen; Oct/2-3
@@ -189,7 +190,7 @@ Looking for awesome Gems? See the [Ruby Gems of the Week Series @ Planet Ruby](h
 #### Pacific Northwest
 
 - @ Seattle, Washington
-    - [Seattle.rb](http://seattlerb.org) - [:octopus:](https://github.com/seattlerb)
+    - [Seattle.rb](http://seattlerb.org) - [:octocat:](https://github.com/seattlerb)
 
 #### California
 
@@ -224,7 +225,7 @@ Looking for awesome Gems? See the [Ruby Gems of the Week Series @ Planet Ruby](h
    - 2014 @ Singapore; Jun/26-27
 
 - @ Singapore
-   - [Ruby Singapore](http://ruby.sg) - [:octopus:](https://github.com/rubysg)
+   - [Ruby Singapore](http://ruby.sg) - [:octocat:](https://github.com/rubysg)
 
 
 ## More
