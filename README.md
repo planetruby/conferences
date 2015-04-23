@@ -78,12 +78,12 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 #### Slovakia (sk)
 
 - @ Bratislava
-   - [Rubyslava](http://rubyslava.sk)
+   - [Rubyslava](http://rubyslava.sk) - [[GitHub]](https://github.com/rubyslava)
 
 #### Slovenia (si)
 
 - @ Ljubljana
-   - [Slovenia Ruby User Group](http://rug.si)
+   - [Slovenia Ruby User Group](http://rug.si) - [[GitHub]](https://github.com/RubySlovenia)
 
 #### Czech Republic (cz)
 
@@ -220,7 +220,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - 2014 @ Singapore; Jun/26-27
 
 - @ Singapore
-   - [Ruby Singapore](http://ruby.sg)
+   - [Ruby Singapore](http://ruby.sg) - [[GitHub]](https://github.com/rubysg)
 
 
 ## More
