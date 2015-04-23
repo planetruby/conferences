@@ -78,12 +78,12 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 #### Slovakia (sk)
 
 - @ Bratislava
-   - [Rubyslava](http://rubyslava.sk) - [[GitHub]](https://github.com/rubyslava)
+   - [Rubyslava](http://rubyslava.sk) - [:octopus:](https://github.com/rubyslava)
 
 #### Slovenia (si)
 
 - @ Ljubljana
-   - [Slovenia Ruby User Group](http://rug.si) - [[GitHub]](https://github.com/RubySlovenia)
+   - [Slovenia Ruby User Group](http://rug.si) - [:octopus:](https://github.com/RubySlovenia)
 
 #### Czech Republic (cz)
 
@@ -114,17 +114,17 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Scotland
 
-- [Scottish Ruby User Group](http://www.scotrug.org) - [[GitHub]](https://github.com/scotrug)
+- [Scottish Ruby User Group](http://www.scotrug.org) - [:octopus:](https://github.com/scotrug)
    - @ Edinburgh & Glasgow
 
 #### Ireland / Éire (ie)
 
-- [Ruby Ireland](http://www.rubyireland.com) - [[GitHub]](https://github.com/rubyireland)
+- [Ruby Ireland](http://www.rubyireland.com) - [:octopus:](https://github.com/rubyireland)
     - @ Dublin
 
 #### Belgium / België / Belgique (be)
 
-- [Belgian Ruby User Group (BRUG)](http://brug.be) - [[GitHub]](https://github.com/brug-be)
+- [Belgian Ruby User Group (BRUG)](http://brug.be) - [:octopus:](https://github.com/brug-be)
 - [ArrrCamp](http://arrrrcamp.be)
     - 2015 @ Ghent, Oost-Vlaanderen; Oct/1-2
     - 2014 @ Ghent, Oost-Vlaanderen; Oct/2-3
@@ -185,7 +185,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 #### Pacific Northwest
 
 - @ Seattle, Washington
-    - [Seattle.rb](http://seattlerb.org) - [[GitHub]](https://github.com/seattlerb)
+    - [Seattle.rb](http://seattlerb.org) - [:octopus:](https://github.com/seattlerb)
 
 #### California
 
@@ -220,7 +220,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - 2014 @ Singapore; Jun/26-27
 
 - @ Singapore
-   - [Ruby Singapore](http://ruby.sg) - [[GitHub]](https://github.com/rubysg)
+   - [Ruby Singapore](http://ruby.sg) - [:octopus:](https://github.com/rubysg)
 
 
 ## More
