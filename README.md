@@ -220,7 +220,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - 2014 @ Singapore; Jun/26-27
 
 - @ Singapore
-   - [Singapore Ruby Group](http://www.meetup.com/Singapore-Ruby-Group)
+   - [Ruby Singapore](http://ruby.sg)
 
 
 ## More
