@@ -169,6 +169,9 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Canada (ca)
 
+- @ Montreal, Quebec
+   - [Montreal.rb] (http://www.montrealrb.com)
+
 - @ Toronto, Ontario
    - [Ruby Pub Night] (https://unspace.ca/events/#rpn)
    - [Toronto Ruby Brigade] (http://www.meetup.com/torontoruby)
