@@ -40,7 +40,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ## Europe
 
-- [European Ruby Camp - eurucamp](http://eurucamp.org)
+- [eurucamp](http://eurucamp.org)
     - 2015 @ Berlin (Potsdam); Germany Jul/31 – Aug/2
 - [JRuby Conference Europe - jrubyconf.eu](http://jrubyconf.eu)
     - 2015 @ Berlin (Potdam), Germany; Jul/31
