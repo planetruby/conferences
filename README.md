@@ -12,7 +12,6 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
       - [Slovenia](#slovenia-si)
       - [Czech Republic](#czech-republic-cz)
       - [Poland](#poland-pl)
-      - [Russia](#russia-ru)
       - [Hungary](#hungary-hu)
   - [Western Europe](#western-europe)
      - [Scotland](#scotland)
@@ -22,6 +21,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
      - [Spain / España](#spain--espa%C3%B1a-es)
      - [Portugal](#portugal-pt)
      - [Croatia / Hrvatska](#croatia--hrvatska-hr)
+  - [Eastern Europe](#eastern-europe)
+      - [Russia](#russia-ru)
 - [America](#america)
    - [Canada](#canada-ca) 
    - [United States](#united-states-us)
@@ -101,14 +102,6 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Poznań
   - [Poznań Ruby Users Group (PRUG)](https://www.facebook.com/rubypoznan) 
   
-
-#### Russia (ru)
-
-- @ Moscow
-  - [Rails Club](http://railsclub.ru)
-  - [DevConf](http://devconf.ru)
-  - [HighLoad](http://highload.ru)
-
 #### Hungary (hu)
 
 - @ Budapest
@@ -154,7 +147,15 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Zagreb
    - [RubyZG](http://www.meetup.com/rubyzg)
 
- 
+### Eastern Europe
+
+#### Russia (ru)
+
+- @ Moscow
+   - [Rails Club](http://railsclub.ru)
+      - 2015 @ Moscow; May/21-22
+
+
 ## America
 
 ### Canada (ca)
@@ -184,12 +185,12 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Seattle, Washington
     - [Seattle.rb](http://seattlerb.org) - [[GitHub]](https://github.com/seattlerb)
 
-#### Pacific Southwest
+#### California
 
 - @ San Francisco, California
-    - [SF Ruby Meetup](http://www.meetup.com/sfruby/)
+    - [SF Ruby Meetup](http://meetup.com/sfruby)
 - @ San Jose, California
-    - [Silicon Valley Ruby Meetup](http://www.meetup.com/silicon-valley-ruby/)
+    - [Silicon Valley Ruby Meetup](http://meetup.com/silicon-valley-ruby)
 
 ### Mexico / México (mx)
 
