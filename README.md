@@ -12,6 +12,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
       - [Slovenia](#slovenia-si)
       - [Czech Republic](#czech-republic-cz)
       - [Poland](#poland-pl)
+      - [Russia](#russia-ru)
       - [Hungary](#hungary-hu)
   - [Western Europe](#western-europe)
      - [Scotland](#scotland)
@@ -92,11 +93,18 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 #### Poland (pl)
 
 - @ Warsaw
-   - [Warsaw Ruby Users Group (WRUG)](http://wrug.eu)
+  - [Warsaw Ruby Users Group (WRUG)](http://wrug.eu)
 - @ Gdansk, Sopot, Gdynia
   - [3City Ruby Users Group (TRUG)](http://trug.pl)
 - @ Wrocław
   - [Dolnośląska Grupa Użytkowników Ruby (DRUG)](http://drug.org.pl)
+
+#### Russia (ru)
+
+- @ Moscow
+  - [Rails Club](http://railsclub.ru)
+  - [DevConf](http://devconf.ru)
+  - [HighLoad](http://highload.ru)
 
 #### Hungary (hu)
 
