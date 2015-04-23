@@ -46,10 +46,12 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - [JRuby Conference Europe - jrubyconf.eu](http://jrubyconf.eu)
     - 2015 @ Berlin (Potdam), Germany; Jul/31
 - [European Ruby Konference - EuRuKo](http://euruko.org)
-    - 2015 @ Salzburg, Austria; Oct/17-18
-    - 2013 @ Athens, Greece; Jun/28-29
+    - 2015 @ Salzburg, Austria; Oct/17+18
+    - 2013 @ Athens, Greece; Jun/28+29
 - [Ruby Open Source Conference - ROSSConf](http://rossconf.io) - [[GitHub]](https://github.com/rossconf)
     - 2015 @ Vienna, Austria; Apr/25
+- [RubyMotion Conference - #inspect](http://conference.rubymotion.com)
+    - 2015 @ Paris, France; Jul/1+2
 
 ### Central Europe
 
