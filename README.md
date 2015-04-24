@@ -10,6 +10,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 
 - [World](#world)
+- [Online](#online)
 - [Europe](#europe)
   - [Central Europe](#central-europe)
       - [Austria / Österreich](#austria--%C3%96sterreich-at)
@@ -46,6 +47,13 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - [Rails Girls](http://railsgirls.com)
 - [Rails Girls Summer of Code](http://railsgirlssummerofcode.org)
 
+## Online
+
+- [JekyllConf](http://jekyllconf.com)
+    - 2015 @ Intertubes; May/2
+- [Rails Rumble](https://railsrumble.com)
+    - 2014 @ Intertubes; Oct/18+19   
+
 ## Europe
 
 - [European Ruby Camp - eurucamp](http://eurucamp.org)
@@ -55,7 +63,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - [European Ruby Konference - EuRuKo](http://euruko.org)
     - 2015 @ Salzburg, Austria; Oct/17+18
     - 2013 @ Athens, Greece; Jun/28+29
-- [Ruby Open Source Conference - ROSSConf](http://rossconf.io) - [[GitHub]](https://github.com/rossconf)
+- [Ruby Open Source Conference - ROSSConf](http://rossconf.io) - [:octocat:](https://github.com/rossconf)
     - 2015 @ Vienna, Austria; Apr/25
 - [RubyMotion Conference - #inspect](http://conference.rubymotion.com)
     - 2015 @ Paris, France; Jul/1+2
@@ -72,7 +80,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Switzerland / Schweiz / Suisse / Confoederatio Helvetica (ch)
 
-- [Ruvetia (Helvetian Ruby User Group)](http://ruvetia.org) - [[GitHub]](https://github.com/ruvetia)
+- [Ruvetia (Helvetian Ruby User Group)](http://ruvetia.org) - [:octocat:](https://github.com/ruvetia)
 
 
 #### Germany / Deutschland (de)
