@@ -141,8 +141,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - [Belgian Ruby User Group (BRUG)](http://brug.be) - [:octocat:](https://github.com/brug-be)
 - [ArrrCamp](http://arrrrcamp.be)
-    - 2015 @ Ghent, Oost-Vlaanderen; Oct/1-2
-    - 2014 @ Ghent, Oost-Vlaanderen; Oct/2-3
+    - 2015 @ Ghent, Oost-Vlaanderen; Oct/1+2
+    - 2014 @ Ghent, Oost-Vlaanderen; Oct/2+3
 
 
 ### Southern Europe
@@ -156,8 +156,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 #### Portugal (pt)
 
 - [RubyConf Portugal](http://rubyconf.pt)
-  - 2015 @ Braga; Sep/14-15
-  - 2014 @ Braga; Oct/13-14
+  - 2015 @ Braga; Sep/14+15
+  - 2014 @ Braga; Oct/13+14
 
 #### Croatia / Hrvatska (hr)
 
@@ -170,14 +170,14 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - @ Moscow
    - [Rails Club](http://railsclub.ru)
-      - 2015 @ Moscow; May/21-22
+      - 2015 @ Moscow; May/21+22
 
 
 ## America
 
 ### Canada (ca)
 
-- @ Montreal, Quebec
+- @ Montreal, Quebec /  Montréal, Québec
    - [Montreal.rb] (http://www.montrealrb.com)
 
 - @ Toronto, Ontario
@@ -224,8 +224,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 ### Japan (jp)
 
 - [RubyWorld Conference - rubyworldconf](http://www.rubyworld-conf.org/en)
-   - 2015 @ Matsue; Nov/11-12
-   - 2014 @ Matsue; Nov/13-14
+   - 2015 @ Matsue; Nov/11+12
+   - 2014 @ Matsue; Nov/13+14
 
 - [RubyKaigi](http://rubykaigi.org)
    - 2014 @ Tokyo; Sep/18-20
@@ -234,8 +234,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 ### Singapore (sg)
 
 - [RedDotRubyConf](http://www.reddotrubyconf.com)
-   - 2015 @ Singapore; Jun/4-5
-   - 2014 @ Singapore; Jun/26-27
+   - 2015 @ Singapore; Jun/4+5
+   - 2014 @ Singapore; Jun/26+27
 
 - @ Singapore
    - [Ruby Singapore](http://ruby.sg) - [:octocat:](https://github.com/rubysg)
