@@ -35,9 +35,15 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - [Canada](#canada-ca) 
    - [United States](#united-states-us)
    - [Mexico / México](#mexico--m%C3%A9xico-mx)
+   - [Brazil / Brasil](#brazil--brasil)
 - [Asia](#asia)
    - [Japan](#japan-jp)
    - [Singapore](#singapore-sg)
+   - [India](#india)
+- [Africa](#africa)
+   - [South Africa](#south-africa)
+- [Pacific / Oceania](#pacific--oceania)
+   - [Australia](#australia)
 - [More](#more)
 - [Friends & Family](#friends--family)
 - [Meta](#meta)
@@ -191,6 +197,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - 2015 @ San Antonio, Texas; Nov/15-17
    - 2014 @ San Diego, California; Nov/17-19
 - [RailsConf](http://railsconf.com)
+   - 2016 @ Kansas City, Missouri; May/4-6
    - 2015 @ Atlanta, Georgia; Apr/21-23
    - 2014 @ Chicago, Illinois; Apr/22-25
 
@@ -218,6 +225,15 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
     - [Chilango Rails](http://www.meetup.com/Chilango-Rails)
     - [UNAM / National University](http://www.meetup.com/UNAM-Ruby-Group)
 
+### Brazil / Brasil (br)
+
+- [Rubyconf Brasil](http://www.rubyconf.com.br)
+    - 2015 @ São Paulo; Sept/18+19
+    - 2014 @ São Paulo; Aug/28+29
+
+- [Tropical Ruby](http://tropicalrb.com)
+    - 2015 @ Porto de Galinhas; Mar/5-8
+
 
 ## Asia
 
@@ -239,6 +255,32 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - @ Singapore
    - [Ruby Singapore](http://ruby.sg) - [:octocat:](https://github.com/rubysg)
+
+### India (in)
+
+- [RubyConf India](http://rubyconfindia.org)
+    - 2015 @ Goa; Apr/3-5
+
+- @ Bangalore
+   - [Garden City Ruby Conference](http://www.gardencityruby.org)
+       - 2015 @ Bangalore; Jan/10
+
+
+## Africa
+
+### South Africa (za)
+
+- [RubyFuza](http://www.rubyfuza.org)
+    - 2015 @ Cape Town; Feb/5+6
+
+
+## Pacific / Oceania
+
+### Australia (au)
+
+- [Ruby Australia - rubyAU](http://ruby.org.au) - [:octocat:](https://github.com/rubyaustralia), [:octocat:](https://github.com/rails-oceania)
+- [RubyConf Australia](http://www.rubyconf.org.au)
+    - 2015 @ Melbourne; Feb/4-7
 
 
 ## More
