@@ -26,7 +26,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
   - [Western Europe](#western-europe)
      - [Scotland](#scotland)
      - [Ireland / Éire](#ireland--%C3%89ire-ie)
-     - [France](#france--fr)
+     - [France](#france-fr)
      - [Belgium / België / Belgique](#belgium--belgi%C3%AB--belgique-be)
   - [Southern Europe](#southern-europe)
      - [Spain / España](#spain--espa%C3%B1a-es)
@@ -149,7 +149,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### France (fr)
 
 - @ Lyon
-   - [Lyon.rb](http://www.lyonrb.fr), [:octocat](https://github.com/lyonrb)
+   - [Lyon.rb](http://www.lyonrb.fr), [:octocat:](https://github.com/lyonrb)
 
 
 #### Belgium / België / Belgique (be)
