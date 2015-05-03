@@ -149,7 +149,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### France (fr)
 
 - @ Lyon
-   - [Lyon.rb](http://www.lyonrb.fr), [:octocat:](https://github.com/lyonrb)
+   - [Lyon.rb](http://www.lyonrb.fr) - [:octocat:](https://github.com/lyonrb)
 
 
 #### Belgium / België / Belgique (be)
