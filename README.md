@@ -73,6 +73,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
     - 2015 @ Salzburg, Austria; Oct/17+18
     - 2013 @ Athens, Greece; Jun/28+29
 - [Ruby Open Source Conference - ROSSConf](http://rossconf.io) - [:octocat:](https://github.com/rossconf)
+    - 2015 @ Berlin, Germany; Sept/26
     - 2015 @ Vienna, Austria; Apr/25
 - [RubyMotion Conference - #inspect](http://conference.rubymotion.com)
     - 2015 @ Paris, France; Jul/1+2
