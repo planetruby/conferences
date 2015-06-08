@@ -31,6 +31,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
   - [Southern Europe](#southern-europe)
      - [Spain / España](#spain--espa%C3%B1a-es)
      - [Portugal](#portugal-pt)
+     - [Italy](#italy-it)
      - [Croatia / Hrvatska](#croatia--hrvatska-hr)
   - [Eastern Europe](#eastern-europe)
       - [Russia](#russia-ru)
@@ -174,6 +175,12 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [RubyConf Portugal](http://rubyconf.pt)
   - 2015 @ Braga; Sep/14+15
   - 2014 @ Braga; Oct/13+14
+
+#### Italy (it)
+
+- [RubyDay](http://www.rubyday.it)
+  - 2015 @ Turin; Nov/13
+  - 2014 @ Roncade, Treviso; Sept/26th 
 
 #### Croatia / Hrvatska (hr)
 
