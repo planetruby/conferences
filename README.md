@@ -40,6 +40,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - [United States](#united-states-us)
    - [Mexico / México](#mexico--m%C3%A9xico-mx)
    - [Brazil / Brasil](#brazil--brasil-br)
+   - [Colombia](#colombia-co)
 - [Asia](#asia)
    - [Japan](#japan-jp)
    - [Singapore](#singapore-sg)
@@ -251,6 +252,10 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [Tropical Ruby](http://tropicalrb.com)
     - 2015 @ Porto de Galinhas; Mar/5-8
 
+### Colombia (co)
+
+- [RubyConf Colombia](http://www.rubyconf.co)
+    - 2015 @ Medellin; Oct/15+16
 
 ## Asia
 
@@ -261,6 +266,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - 2014 @ Matsue; Nov/13+14
 
 - [RubyKaigi](http://rubykaigi.org)
+   - 2015 @ Tokyo; Dec/11-13
    - 2014 @ Tokyo; Sep/18-20
 
 
