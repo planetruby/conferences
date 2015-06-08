@@ -43,7 +43,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - [Colombia](#colombia-co)
 - [Asia](#asia)
    - [Japan](#japan-jp)
+   - [Taiwan](#taiwan-tw)
    - [Singapore](#singapore-sg)
+   - [Vietnam](#vietnam-vn)
    - [India](#india-in)
 - [Africa](#africa)
    - [South Africa](#south-africa-za)
@@ -181,7 +183,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - [RubyDay](http://www.rubyday.it)
   - 2015 @ Turin; Nov/13
-  - 2014 @ Roncade, Treviso; Sept/26th 
+  - 2014 @ Roncade, Treviso; Sept/26 
 
 #### Croatia / Hrvatska (hr)
 
@@ -278,6 +280,16 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - @ Singapore
    - [Ruby Singapore](http://ruby.sg) - [:octocat:](https://github.com/rubysg)
+
+### Taiwan (tw)
+
+- [RubyConf Taiwan](http://rubyconf.tw)
+   - 2015 @ Taipei; Sept/11+12 
+   - 2014 @ Taipei; Apr/25+26
+
+### Vietnam (vn)
+
+- [Ruby Vietnam](http://ruby.org.vn) - [:octocat:](https://github.com/ruby-vietnam)
 
 ### India (in)
 
