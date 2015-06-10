@@ -317,7 +317,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [RubyConf Australia](http://www.rubyconf.org.au)
     - 2015 @ Melbourne; Feb/4-7
 - [RailsConfAU](http://www.railsconf.com.au)
-    - 2015 @ Sydney; September 17-18
+    - 2015 @ Sydney; Sept/17+18
 
 
 ## More
