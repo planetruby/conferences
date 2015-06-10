@@ -253,11 +253,11 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
     - 2014 @ São Paulo; Aug/28+29
 
 - [RuPy Campinas](http://campinas.rupy.com.br), [RuPy](http://rupy.com.br)
-    - 2015 @ Campinas; Jun/20
-    - 2014 @ São José dos Campos; Nov/29
+    - 2015 @ Campinas, São Paulo; Jun/20
+    - 2014 @ São José dos Campos, São Paulo; Nov/29
 
 - [Tropical Ruby](http://tropicalrb.com)
-    - 2015 @ Porto de Galinhas; Mar/5-8
+    - 2015 @ Porto de Galinhas, Pernambuco; Mar/5-8
 
 ### Colombia (co)
 
