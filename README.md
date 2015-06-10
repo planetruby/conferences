@@ -153,10 +153,10 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### France (fr)
 
+- @ Paris
+   - [Paris.rb](https://rubyparis.org) - [:octocat:](https://github.com/parisrb)
 - @ Lyon
    - [Lyon.rb](http://www.lyonrb.fr) - [:octocat:](https://github.com/lyonrb)
-- @ Paris
-   - [Paris.rb](http://www.meetup.com/parisrb/) - [:octocat:](https://github.com/parisrb)
 
 #### Belgium / België / Belgique (be)
 
