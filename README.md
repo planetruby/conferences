@@ -155,7 +155,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - @ Lyon
    - [Lyon.rb](http://www.lyonrb.fr) - [:octocat:](https://github.com/lyonrb)
-
+- @ Paris
+   - [Paris.rb](http://www.meetup.com/parisrb/) - [:octocat:](https://github.com/parisrb)
 
 #### Belgium / België / Belgique (be)
 
