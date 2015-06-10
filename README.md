@@ -316,6 +316,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [Ruby Australia - rubyAU](http://ruby.org.au) - [:octocat:](https://github.com/rubyaustralia), [:octocat:](https://github.com/rails-oceania)
 - [RubyConf Australia](http://www.rubyconf.org.au)
     - 2015 @ Melbourne; Feb/4-7
+- [RailsConfAU](http://www.railsconf.com.au)
+    - 2015 @ Sydney; September 17-18
 
 
 ## More
