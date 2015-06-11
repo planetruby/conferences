@@ -276,6 +276,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - 2015 @ Tokyo; Dec/11-13
    - 2014 @ Tokyo; Sep/18-20
 
+- @ Tokyo
+   - [Asakusa.rb](http://asakusa.rubyist.net) - [:octocat:](https://github.com/asakusarb)
 
 ### Singapore (sg)
 
