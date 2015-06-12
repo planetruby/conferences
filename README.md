@@ -210,8 +210,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### Ukraine (ua)
 
-- Online
-   - dev-ua/ruby-ua - [:octocat:](https://gitter.im/dev-ua/ruby-ua)
+- dev-ua/ruby-ua - [:octocat:](https://gitter.im/dev-ua/ruby-ua)
 - @ Kyiv
    - [Svitla Ruby Conference](http://rubyc.eu/)
       - 2015 @ Kyiv; May/30+31
