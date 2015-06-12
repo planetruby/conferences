@@ -133,8 +133,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - @ Wrocław
   - [Dolnośląska Grupa Użytkowników Ruby (DRUG)](http://drug.org.pl)
 - @ Poznań
-  - [Poznań Ruby Users Group (PRUG)](https://www.facebook.com/rubypoznan) 
-  
+  - [Poznań Ruby Users Group (PRUG)](https://www.facebook.com/rubypoznan)
+- [wroc_love.rb](http://www.wrocloverb.com/)
+
 #### Hungary (hu)
 
 - @ Budapest
