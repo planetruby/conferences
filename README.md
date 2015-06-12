@@ -238,6 +238,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### California
 
+- @ San Diego, California
+    - [SD Ruby Meetup](http://www.meetup.com/sdruby)
 - @ San Francisco, California
     - [SF Ruby Meetup](http://meetup.com/sfruby)
 - @ San Jose, California
