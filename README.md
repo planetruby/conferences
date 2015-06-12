@@ -127,16 +127,16 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### Poland (pl)
 
 - [wroc_love.rb](http://www.wrocloverb.com)
-   - 2015 @ Wrocław; Mar/13-15
+  - 2015 @ Wrocław; Mar/13-15
 
 - @ Warsaw
-  - [Warsaw Ruby Users Group (WRUG)](http://wrug.eu)
+   - [Warsaw Ruby Users Group (WRUG)](http://wrug.eu)
 - @ Gdansk, Sopot, Gdynia
-  - [3City Ruby Users Group (TRUG)](http://trug.pl)
+   - [3City Ruby Users Group (TRUG)](http://trug.pl)
 - @ Wrocław
-  - [Dolnośląska Grupa Użytkowników Ruby (DRUG)](http://drug.org.pl)
+   - [Dolnośląska Grupa Użytkowników Ruby (DRUG)](http://drug.org.pl)
 - @ Poznań
-  - [Poznań Ruby Users Group (PRUG)](https://www.facebook.com/rubypoznan)
+   - [Poznań Ruby Users Group (PRUG)](https://www.facebook.com/rubypoznan)
 
 #### Hungary (hu)
 
