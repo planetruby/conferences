@@ -4,7 +4,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ---
 
-[ANNOUNCEMENT] Looking for awesome Ruby Gems? See the [Ruby Gems of the Week Series @ Planet Ruby](http://planetruby.github.io/gems). 
+[ANNOUNCEMENT] Looking for awesome Ruby Gems? See the [Ruby Gems of the Week Series @ Planet Ruby](http://planetruby.github.io/gems).
 
 ---
 
@@ -35,9 +35,10 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
      - [Croatia / Hrvatska](#croatia--hrvatska-hr)
   - [Eastern Europe](#eastern-europe)
       - [Russia](#russia-ru)
+      - [Ukraine](#ukraine-ua)
 - [America](#america)
    - [North America](#north-america)
-       - [Canada](#canada-ca) 
+       - [Canada](#canada-ca)
        - [United States](#united-states-us)
        - [Mexico / México](#mexico--m%C3%A9xico-mx)
    - [South America](#south-america)
@@ -67,7 +68,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [JekyllConf](http://jekyllconf.com)
     - 2015 @ Intertubes; May/2
 - [Rails Rumble](https://railsrumble.com)
-    - 2014 @ Intertubes; Oct/18+19   
+    - 2014 @ Intertubes; Oct/18+19
 
 ## Europe
 
@@ -77,6 +78,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
     - 2015 @ Berlin (Potdam), Germany; Jul/31
 - [European Ruby Konference - EuRuKo](http://euruko.org)
     - 2015 @ Salzburg, Austria; Oct/17+18
+    - 2014 @ Kyiv, Ukraine; Jun/20+21
     - 2013 @ Athens, Greece; Jun/28+29
 - [Ruby Open Source Conference - ROSSConf](http://rossconf.io) - [:octocat:](https://github.com/rossconf)
     - 2015 @ Berlin, Germany; Sept/26
@@ -121,7 +123,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - @ Brno
    - [Brněnské PyVo + BRUG](http://lanyrd.com/series/brno-pyvo)
 - @ Prague / Praha
-   - [Prague.rb](http://meetup.com/Praguerb) 
+   - [Prague.rb](http://meetup.com/Praguerb)
    - [První středa v měsíci](http://srazy.info/prvni-streda-ruby-on-rails)
 
 #### Poland (pl)
@@ -133,8 +135,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - @ Wrocław
   - [Dolnośląska Grupa Użytkowników Ruby (DRUG)](http://drug.org.pl)
 - @ Poznań
-  - [Poznań Ruby Users Group (PRUG)](https://www.facebook.com/rubypoznan) 
-  
+  - [Poznań Ruby Users Group (PRUG)](https://www.facebook.com/rubypoznan)
+
 #### Hungary (hu)
 
 - @ Budapest
@@ -174,7 +176,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - @ Barcelona
    - [Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS](http://www.fullstackfest.com)
-      - 2015 @ Barcelona, Catalonia; Sept/1–5 
+      - 2015 @ Barcelona, Catalonia; Sept/1–5
 
 #### Portugal (pt)
 
@@ -186,7 +188,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - [RubyDay](http://www.rubyday.it)
   - 2015 @ Turin; Nov/13
-  - 2014 @ Roncade, Treviso; Sept/26 
+  - 2014 @ Roncade, Treviso; Sept/26
 
 #### Croatia / Hrvatska (hr)
 
@@ -195,12 +197,31 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ### Eastern Europe
 
+#### Belarus (by)
+
+- @ Minsk
+   - [BRUG](http://brug.by/)
+
 #### Russia (ru)
 
 - @ Moscow
    - [Rails Club](http://railsclub.ru)
       - 2015 @ Moscow; May/21+22
 
+#### Ukraine (ua)
+
+- Online
+   - dev-ua/ruby-ua - [:octocat:](https://gitter.im/dev-ua/ruby-ua)
+- @ Kyiv
+   - [Svitla Ruby Conference](http://rubyc.eu/)
+      - 2015 @ Kyiv; May/30+31
+   - [Kiev Ruby Meetup Group](http://www.meetup.com/ruby-kiev/)
+- @ Dniprpopetrovsk
+   - [Dnipropetrovsk Ruby Meetup Group](http://www.meetup.com/ruby-dp/)
+- @ Kharkiv
+   - [Kharkiv Ruby Users Group](http://www.meetup.com/kharkov-rb/)
+- @ Lviv
+   - [Lviv Ruby Meetup Group](http://www.meetup.com/ruby-lviv/)
 
 ## America
 
@@ -305,7 +326,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ### Taiwan (tw)
 
 - [RubyConf Taiwan](http://rubyconf.tw)
-   - 2015 @ Taipei; Sept/11+12 
+   - 2015 @ Taipei; Sept/11+12
    - 2014 @ Taipei; Apr/25+26
 
 ### Vietnam (vn)
