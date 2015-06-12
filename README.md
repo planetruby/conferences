@@ -162,6 +162,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - [Paris.rb](https://rubyparis.org) - [:octocat:](https://github.com/parisrb)
 - @ Lyon
    - [Lyon.rb](http://www.lyonrb.fr) - [:octocat:](https://github.com/lyonrb)
+- @ Lille
+   - [Ruby Nord](http://ruby-nord.org/) - [:octocat](http://github.com/ruby-nord/)
 
 #### Belgium / België / Belgique (be)
 
