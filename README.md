@@ -118,11 +118,11 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### Czech Republic (cz)
 
-- @ Brno
-   - [Brněnské PyVo + BRUG](http://lanyrd.com/series/brno-pyvo)
 - @ Prague / Praha
    - [Prague.rb](http://meetup.com/Praguerb)
    - [První středa v měsíci](http://srazy.info/prvni-streda-ruby-on-rails)
+- @ Brno
+   - [Brněnské PyVo + BRUG](http://lanyrd.com/series/brno-pyvo)
 
 #### Poland (pl)
 
@@ -216,8 +216,6 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### Canada (ca)
 
-- @ Edmonton, Alberta
-   - [YEGRB] (http://yegrb.com)
 - @ Ottawa, Ontario
    - [Ottawa Ruby] (http://ottawaruby.ca)
 - @ Toronto, Ontario
@@ -226,6 +224,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - [Rails Girls TO] (http://www.meetup.com/railsgirlsTO)
 - @ Montreal, Quebec /  Montréal, Québec
    - [Montreal.rb] (http://www.montrealrb.com)
+- @ Edmonton, Alberta
+   - [YEGRB -  Edmonton's Ruby Meetup] (http://yegrb.com)
 
 
 #### United States (us)
@@ -238,9 +238,10 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - 2015 @ Atlanta, Georgia; Apr/21-23
    - 2014 @ Chicago, Illinois; Apr/22-25
 
-##### North East
-- [Burlington Ruby Conference](http://www.burlingtonrubyconference.com/)
-  - 2015 @ Burlington, Vermont; Aug/1-2
+##### New England
+
+- [Burlington Ruby Conference](http://www.burlingtonrubyconference.com)
+  - 2015 @ Burlington, Vermont; Aug/1+2
 
 ##### Mid Atlantic
 
@@ -278,9 +279,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [RuPy Campinas](http://campinas.rupy.com.br), [RuPy](http://rupy.com.br)
     - 2015 @ Campinas, São Paulo; Jun/20
     - 2014 @ São José dos Campos, São Paulo; Nov/29
-- [Tropical Ruby](http://tropicalrb.com), [Abril Pro Ruby](http://tropicalrb.com/2014)
+- [Tropical Ruby](http://tropicalrb.com)
     - 2015 @ Porto de Galinhas, Pernambuco; Mar/5-8
-    - 2014 @ Porto de Galinhas, Pernambuco; Apr/24-27
+    - 2014 @ Porto de Galinhas, Pernambuco; Apr/24-27 (formerly: Abril Pro Ruby)
 
 #### Colombia (co)
 
