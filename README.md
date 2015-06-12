@@ -127,7 +127,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### Poland (pl)
 
 - [wroc_love.rb](http://www.wrocloverb.com)
-    2015 @ Wrocław; Mar/13-15
+   - 2015 @ Wrocław; Mar/13-15
 
 - @ Warsaw
   - [Warsaw Ruby Users Group (WRUG)](http://wrug.eu)
@@ -163,7 +163,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - @ Lyon
    - [Lyon.rb](http://www.lyonrb.fr) - [:octocat:](https://github.com/lyonrb)
 - @ Lille
-   - [Ruby Nord](http://ruby-nord.org/) - [:octocat](http://github.com/ruby-nord/)
+   - [Ruby Nord](http://ruby-nord.org) - [:octocat](https://github.com/ruby-nord)
 
 #### Belgium / België / Belgique (be)
 
