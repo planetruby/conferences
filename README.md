@@ -238,6 +238,10 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - 2015 @ Atlanta, Georgia; Apr/21-23
    - 2014 @ Chicago, Illinois; Apr/22-25
 
+##### North East
+- [Burlington Ruby Conference](http://www.burlingtonrubyconference.com/)
+  - 2015 @ Burlington, Vermont; Aug/1-2
+
 ##### Mid Atlantic
 
 - [Gotham Ruby Conference (GORUCO)](http://goruco.com)
