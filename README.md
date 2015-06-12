@@ -35,12 +35,14 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
      - [Croatia / Hrvatska](#croatia--hrvatska-hr)
   - [Eastern Europe](#eastern-europe)
       - [Russia](#russia-ru)
-- [North America](#north-america)
-   - [Canada](#canada-ca) 
-   - [United States](#united-states-us)
-   - [Mexico / México](#mexico--m%C3%A9xico-mx)
-   - [Brazil / Brasil](#brazil--brasil-br)
-   - [Colombia](#colombia-co)
+- [America](#america)
+   - [North America](#north-america)
+       - [Canada](#canada-ca) 
+       - [United States](#united-states-us)
+       - [Mexico / México](#mexico--m%C3%A9xico-mx)
+   - [South America](#south-america)
+      - [Brazil / Brasil](#brazil--brasil-br)
+      - [Colombia](#colombia-co)
 - [Asia](#asia)
    - [Japan](#japan-jp)
    - [Taiwan](#taiwan-tw)
@@ -200,22 +202,25 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
       - 2015 @ Moscow; May/21+22
 
 
-## North America
+## America
 
-### Canada (ca)
+### North America
 
-- @ Montreal, Quebec /  Montréal, Québec
-   - [Montreal.rb] (http://www.montrealrb.com)
+#### Canada (ca)
 
 - @ Ottawa, Ontario
--  - [Ottawa Ruby] (http://ottawaruby.ca)
+   - [Ottawa Ruby] (http://ottawaruby.ca)
 
 - @ Toronto, Ontario
    - [Ruby Pub Night] (https://unspace.ca/events/#rpn)
    - [Toronto Ruby Brigade] (http://www.meetup.com/torontoruby)
    - [Rails Girls TO] (http://www.meetup.com/railsgirlsTO)
 
-### United States (us)
+- @ Montreal, Quebec /  Montréal, Québec
+   - [Montreal.rb] (http://www.montrealrb.com)
+
+
+#### United States (us)
 
 - [RubyConf](http://rubyconf.org)
    - 2015 @ San Antonio, Texas; Nov/15-17
@@ -225,18 +230,18 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - 2015 @ Atlanta, Georgia; Apr/21-23
    - 2014 @ Chicago, Illinois; Apr/22-25
 
-#### Mid Atlantic
+##### Mid Atlantic
 
 - @ New York, New York
     - [Gotham Ruby Conference (GORUCO)](http://goruco.com)
       - 2015 @ New York, New York; Jun/20
 
-#### Pacific Northwest
+##### Pacific Northwest
 
 - @ Seattle, Washington
     - [Seattle.rb](http://seattlerb.org) - [:octocat:](https://github.com/seattlerb)
 
-#### California
+##### California
 
 - @ San Diego, California
     - [SD Ruby Meetup](http://www.meetup.com/sdruby)
@@ -245,13 +250,16 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - @ San Jose, California
     - [Silicon Valley Ruby Meetup](http://meetup.com/silicon-valley-ruby)
 
-### Mexico / México (mx)
+#### Mexico / México (mx)
 
 - @ Mexico City / México, D.F.
     - [Chilango Rails](http://www.meetup.com/Chilango-Rails)
     - [UNAM / National University](http://www.meetup.com/UNAM-Ruby-Group)
 
-### Brazil / Brasil (br)
+
+### South America
+
+#### Brazil / Brasil (br)
 
 - [Rubyconf Brasil](http://www.rubyconf.com.br)
     - 2015 @ São Paulo; Sept/18+19
@@ -264,10 +272,11 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [Tropical Ruby](http://tropicalrb.com)
     - 2015 @ Porto de Galinhas, Pernambuco; Mar/5-8
 
-### Colombia (co)
+#### Colombia (co)
 
 - [RubyConf Colombia](http://www.rubyconf.co)
     - 2015 @ Medellin; Oct/15+16
+
 
 ## Asia
 
