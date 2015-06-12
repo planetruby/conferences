@@ -216,6 +216,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### Canada (ca)
 
+- @ Edmonton, Alberta
+   - [YEGRB] (http://yegrb.com)
 - @ Ottawa, Ontario
    - [Ottawa Ruby] (http://ottawaruby.ca)
 - @ Toronto, Ontario
