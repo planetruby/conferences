@@ -225,7 +225,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - @ Montreal, Quebec /  Montréal, Québec
    - [Montreal.rb] (http://www.montrealrb.com)
 - @ Edmonton, Alberta
-   - [YEGRB -  Edmonton's Ruby Meetup] (http://yegrb.com)
+   - [YEGRB -  Edmonton's Ruby Meetup] (http://yegrb.com) - [:octocat:](https://github.com/yegrb)
 
 
 #### United States (us)
