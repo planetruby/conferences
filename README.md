@@ -35,7 +35,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
      - [Croatia / Hrvatska](#croatia--hrvatska-hr)
   - [Eastern Europe](#eastern-europe)
       - [Russia](#russia-ru)
-- [America](#america)
+- [North America](#north-america)
    - [Canada](#canada-ca) 
    - [United States](#united-states-us)
    - [Mexico / México](#mexico--m%C3%A9xico-mx)
@@ -200,12 +200,15 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
       - 2015 @ Moscow; May/21+22
 
 
-## America
+## North America
 
 ### Canada (ca)
 
 - @ Montreal, Quebec /  Montréal, Québec
    - [Montreal.rb] (http://www.montrealrb.com)
+
+- @ Ottawa, Ontario
+-  - [Ottawa Ruby] (http://ottawaruby.ca)
 
 - @ Toronto, Ontario
    - [Ruby Pub Night] (https://unspace.ca/events/#rpn)
