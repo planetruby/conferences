@@ -169,10 +169,13 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### Belgium / België / Belgique (be)
 
-- [Belgian Ruby User Group (BRUG)](http://brug.be) - [:octocat:](https://github.com/brug-be)
 - [ArrrCamp](http://arrrrcamp.be)
     - 2015 @ Ghent, Oost-Vlaanderen; Oct/1+2
     - 2014 @ Ghent, Oost-Vlaanderen; Oct/2+3
+
+<!-- new list; user groups -->
+
+- [Belgian Ruby User Group (BRUG)](http://brug.be) - [:octocat:](https://github.com/brug-be)
 
 
 ### Southern Europe
@@ -335,11 +338,14 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ### Australia (au)
 
-- [Ruby Australia - rubyAU](http://ruby.org.au) - [:octocat:](https://github.com/rubyaustralia), [:octocat:](https://github.com/rails-oceania)
 - [RubyConf Australia](http://www.rubyconf.org.au)
     - 2015 @ Melbourne; Feb/4-7
 - [RailsConfAU](http://www.railsconf.com.au)
     - 2015 @ Sydney; Sept/17+18
+
+<!-- new list; user groups -->
+
+- [Ruby Australia - rubyAU](http://ruby.org.au) - [:octocat:](https://github.com/rubyaustralia), [:octocat:](https://github.com/rails-oceania)
 
 
 ## More
