@@ -127,7 +127,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### Poland (pl)
 
 - [wroc_love.rb](http://www.wrocloverb.com)
-  - 2015 @ Wrocław; Mar/13-15
+   - 2015 @ Wrocław; Mar/13-15
+
+<!-- new list -->
 
 - @ Warsaw
    - [Warsaw Ruby Users Group (WRUG)](http://wrug.eu)
