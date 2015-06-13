@@ -34,6 +34,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
      - [Italy](#italy-it)
      - [Croatia / Hrvatska](#croatia--hrvatska-hr)
   - [Eastern Europe](#eastern-europe)
+      - [Belarus](#belarus-by)
       - [Russia](#russia-ru)
       - [Ukraine](#ukraine-ua)
 - [America](#america)
@@ -215,6 +216,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - [Svitla Ruby Conference](http://rubyc.eu/)
       - 2015 @ Kyiv; May/30+31
    - [Kiev Ruby Meetup Group](http://www.meetup.com/ruby-kiev/)
+   - [Ruby Meditation](http://www.eventbrite.com/o/ruby-meditation-team-3148051176)
 - @ Dniprpopetrovsk
    - [Dnipropetrovsk Ruby Meetup Group](http://www.meetup.com/ruby-dp/)
 - @ Kharkiv
