@@ -302,11 +302,15 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - [Burlington Ruby Conference](http://www.burlingtonrubyconference.com)
   - 2015 @ Burlington, Vermont; Aug/1+2
+- @ Boston.rb
+    - [Boston.rb](http://bostonrb.org)
 
 ##### Mid Atlantic
 
 - [Gotham Ruby Conference (GORUCO)](http://goruco.com)
    - 2015 @ New York, New York; Jun/20
+- @ Washington, DC
+    - [DCRUG](http://meetup.com/dcruby)
 
 ##### Pacific Northwest
 
