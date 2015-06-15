@@ -274,6 +274,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### Canada (ca)
 
+##### Eastern Canada
+
 - @ Ottawa, Ontario
    - [Ottawa Ruby] (http://ottawaruby.ca)
 - @ Toronto, Ontario
@@ -282,6 +284,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - [Rails Girls TO] (http://www.meetup.com/railsgirlsTO)
 - @ Montreal, Quebec /  Montréal, Québec
    - [Montreal.rb] (http://www.montrealrb.com)
+
+##### Western Canada
+
 - @ Edmonton, Alberta
    - [YEGRB - Edmonton's Ruby Meetup](http://yegrb.com) - [:octocat:](https://github.com/yegrb)
 - @ Vancouver, British Columbia
@@ -302,15 +307,26 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - [Burlington Ruby Conference](http://www.burlingtonrubyconference.com)
   - 2015 @ Burlington, Vermont; Aug/1+2
-- @ Boston.rb
-    - [Boston.rb](http://bostonrb.org)
+
+<!-- new list; user groups -->
+
+- @ Boston, Massachusetts
+    - [Boston.rb](http://bostonrb.org) - [:octocat:](https://github.com/bostonrb)
 
 ##### Mid Atlantic
 
 - [Gotham Ruby Conference (GORUCO)](http://goruco.com)
    - 2015 @ New York, New York; Jun/20
-- @ Washington, DC
-    - [DCRUG](http://meetup.com/dcruby)
+
+<!-- new list; user groups -->
+
+- @ New York, New York
+    - [NYC Ruby](http://meetup.com/nycruby)
+
+##### Capital Region
+
+- @ Washington, D.C.
+    - [DCRUG - DC Ruby Users Group](http://meetup.com/dcruby)
 
 ##### Pacific Northwest
 
