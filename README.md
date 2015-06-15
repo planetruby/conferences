@@ -24,6 +24,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
       - [Poland](#poland-pl)
       - [Hungary](#hungary-hu)
   - [Western Europe](#western-europe)
+     - [England](#england-en)
      - [Scotland](#scotland)
      - [Ireland / Éire](#ireland--%C3%89ire-ie)
      - [France](#france-fr)
@@ -164,7 +165,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ### Western Europe
 
-#### England
+#### England (en)
 
 - [Brighton Ruby Conference](http://brightonruby.com)
     - 2015 @ Brighton, East Sussex; Jul/20
