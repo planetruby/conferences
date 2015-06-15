@@ -94,9 +94,11 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
     - [Ruby Habits](http://meetup.com/RubyHabits)
 - @ Linz, Oberösterreich
     - [Ruby-User-Group-Linz (RUGL)](http://meetup.com/Ruby-User-Group-Linz-RUGL)
+
+<!--
 - @ Innsbruck, Tirol
     - [Innsbruck.rb](http://innsbruck.onruby.at)
-
+ -->
 
 #### Switzerland / Schweiz / Suisse / Confoederatio Helvetica (ch)
 
@@ -107,7 +109,14 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - @ Berlin
     - [Ruby User Group Berlin (RUG::B)](http://berlin.onruby.de)
-- @ Munich / München, Bayern / Bavaria
+    - [Rails Girls Berlin](http://railsgirlsberlin.de)
+- @ Hamburg
+    - [Hamburg on Ruby](http://hamburg.onruby.de)
+- @ Cologne / Köln, North Rhine-Westphalia / Nordrhein-Westfalen
+    - [Kölsch.rb / Cologne.rb](http://cologne.onruby.de)
+- @ Dresden, Saxony / Sachsen
+    - [Dresden on Ruby](http://dresden.onruby.de)
+- @ Munich / München, Bavaria / Bayern
     - [Munich Rubyshift Ruby User Group](http://meetup.com/Munich-Rubyshift-Ruby-User-Group)
 
 #### Slovakia (sk)
@@ -152,6 +161,11 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ### Western Europe
 
+#### England
+
+- @ London
+   - [LRUG - London Ruby User Group](http://lrug.org) - [:octocat:](https://github.com/lrug)
+
 #### Scotland
 
 - [Scottish Ruby User Group](http://www.scotrug.org) - [:octocat:](https://github.com/scotrug)
@@ -170,6 +184,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - [Lyon.rb](http://www.lyonrb.fr) - [:octocat:](https://github.com/lyonrb)
 - @ Lille
    - [Ruby Nord](http://ruby-nord.org) - [:octocat:](https://github.com/ruby-nord)
+- @ Marseille
+   - [Pastis.rb de Marseille](http://pastisrb.org)
 
 #### Belgium / België / Belgique (be)
 
