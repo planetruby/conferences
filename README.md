@@ -321,6 +321,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 <!-- new list; user groups -->
 
 - @ New York, New York
+    - [NYC.rb](http://meetup.com/NYC-rb)
     - [NYC Ruby](http://meetup.com/nycruby)
 
 ##### Capital Region
