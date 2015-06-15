@@ -28,6 +28,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
      - [Ireland / Éire](#ireland--%C3%89ire-ie)
      - [France](#france-fr)
      - [Belgium / België / Belgique](#belgium--belgi%C3%AB--belgique-be)
+     - [Netherlands](#netherlands-nl)
   - [Southern Europe](#southern-europe)
      - [Spain / España](#spain--espa%C3%B1a-es)
      - [Portugal](#portugal-pt)
@@ -93,6 +94,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
     - [Ruby Habits](http://meetup.com/RubyHabits)
 - @ Linz, Oberösterreich
     - [Ruby-User-Group-Linz (RUGL)](http://meetup.com/Ruby-User-Group-Linz-RUGL)
+- @ Innsbruck, Tirol
+    - [Innsbruck.rb](http://innsbruck.onruby.at)
+
 
 #### Switzerland / Schweiz / Suisse / Confoederatio Helvetica (ch)
 
@@ -178,12 +182,25 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [Belgian Ruby User Group (BRUG)](http://brug.be) - [:octocat:](https://github.com/brug-be)
 
 
+#### Netherlands (nl)
+
+- @ Amsterdam, Noord-Holland
+   - [Amsterdam.rb](http://amsrb.org) - [:octocat:](https://github.com/amsrb)
+- @ Rotterdam, Zuid-Holland 
+   - [Rotterdam.rb](http://rtmrb.org)
+
+
 ### Southern Europe
 
 #### Spain / España (es)
 
 - [Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS](http://www.fullstackfest.com)
    - 2015 @ Barcelona, Catalonia; Sept/1–5
+
+<!-- new list; user groups -->
+
+- @ Madrid
+   - [Madrid.rb](http://madridrb.com) - [:octocat:](https://github.com/madridrb)
 
 #### Portugal (pt)
 
@@ -225,7 +242,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - @ Montreal, Quebec /  Montréal, Québec
    - [Montreal.rb] (http://www.montrealrb.com)
 - @ Edmonton, Alberta
-   - [YEGRB -  Edmonton's Ruby Meetup] (http://yegrb.com) - [:octocat:](https://github.com/yegrb)
+   - [YEGRB - Edmonton's Ruby Meetup](http://yegrb.com) - [:octocat:](https://github.com/yegrb)
+- @ Vancouver, British Columbia
+   - [VanRuby - Vancouver Ruby Meetup](http://vanruby.org)  - [:octocat:](https://github.com/vanruby)
 
 
 #### United States (us)
@@ -252,6 +271,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - @ Seattle, Washington
     - [Seattle.rb](http://seattlerb.org) - [:octocat:](https://github.com/seattlerb)
+- @ Portland, Oregon
+    - [pdx.rb - Portland Ruby Brigade, pdxruby](http://pdxruby.org) - [:octocat:](https://github.com/pdxruby)
 
 ##### California
 
