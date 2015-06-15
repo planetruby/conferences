@@ -34,6 +34,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
      - [Portugal](#portugal-pt)
      - [Italy](#italy-it)
      - [Croatia / Hrvatska](#croatia--hrvatska-hr)
+  - [Northern Europe](#northern-europe)
+      - [Denmark](#denmark-dk)
+      - [Lithuania](#lithuania-lt)
   - [Eastern Europe](#eastern-europe)
       - [Russia](#russia-ru)
 - [America](#america)
@@ -163,8 +166,16 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### England
 
+- [Brighton Ruby Conference](http://brightonruby.com)
+    - 2015 @ Brighton, East Sussex; Jul/20
+- [Bath Ruby Conference](http://bathruby.org)
+    - 2015 @ Bath, Somerset; Mar/13
+
+<!-- new list; user groups -->
+
 - @ London
    - [LRUG - London Ruby User Group](http://lrug.org) - [:octocat:](https://github.com/lrug)
+   - [Rails Girls London](http://railsgirls.london) - [:octocat:](https://github.com/railsgirlslondon)
 
 #### Scotland
 
@@ -234,6 +245,19 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - @ Zagreb
    - [RubyZG](http://www.meetup.com/rubyzg)
+
+### Northern Europe
+
+#### Denmark (dk)
+
+- @ Copenhagen
+   - [Copenhagen.rb](http://www.copenhagenrb.dk)
+
+#### Lithuania (lt)
+
+- [RubyConfLT - Lithuanian Ruby Conference](http://rubyconf.lt)
+    - 2015 @ Vilnius; Mar/21
+
 
 ### Eastern Europe
 
@@ -395,9 +419,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ### Links
 
-- [Ruby Conferences](http://rubyconferences.org)
-- [Ruby User Groups](http://rubyusergroups.org)
-
+- [Ruby Conferences](http://rubyconferences.org) - [:octocat:](https://github.com/ruby-conferences)
+- [Ruby @ Lanyrd](http://lanyrd.com/topics/ruby) - social conference directory
+- [Ruby User Groups](http://rubyusergroups.org) - old world wide directory; out-of-date site
 
 ## Friends & Family
 
