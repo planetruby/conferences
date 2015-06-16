@@ -69,23 +69,23 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ## Online
 
-- [JekyllConf](http://jekyllconf.com)
-    - 2015 @ Intertubes; May/2
 - [Rails Rumble](https://railsrumble.com)
     - 2014 @ Intertubes; Oct/18+19
+- [JekyllConf](http://jekyllconf.com)
+    - 2015 @ Intertubes; May/2
 
 ## Europe
 
-- [European Ruby Camp - eurucamp](http://eurucamp.org)
-    - 2015 @ Berlin (Potsdam); Germany Jul/31 – Aug/2
-- [JRuby Conference Europe - jrubyconf.eu](http://jrubyconf.eu)
-    - 2015 @ Berlin (Potdam), Germany; Jul/31
 - [European Ruby Konference - EuRuKo](http://euruko.org)
     - 2015 @ Salzburg, Austria; Oct/17+18
     - 2013 @ Athens, Greece; Jun/28+29
+- [European Ruby Camp - eurucamp](http://eurucamp.org)
+    - 2015 @ Berlin (Potsdam); Germany Jul/31 – Aug/2
 - [Ruby Open Source Conference - ROSSConf](http://rossconf.io) - [:octocat:](https://github.com/rossconf)
     - 2015 @ Berlin, Germany; Sept/26
     - 2015 @ Vienna, Austria; Apr/25
+- [JRuby Conference Europe - jrubyconf.eu](http://jrubyconf.eu)
+    - 2015 @ Berlin (Potdam), Germany; Jul/31
 - [RubyMotion Conference - #inspect](http://conference.rubymotion.com)
     - 2015 @ Paris, France; Jul/1+2
 
@@ -245,7 +245,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### Croatia / Hrvatska (hr)
 
 - @ Zagreb
-   - [RubyZG](http://www.meetup.com/rubyzg)
+   - [RubyZG](http://meetup.com/rubyzg)
 
 ### Northern Europe
 
@@ -329,6 +329,18 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - @ Washington, D.C.
     - [DCRUG - DC Ruby Users Group](http://meetup.com/dcruby)
 
+##### Great Lakes Region
+
+- [Madison Ruby](http://madisonpl.us/ruby)
+   - 2015 @ Madison, Wisconsin; Aug/21+22
+
+<!-- new list; user groups -->
+
+- @ Madison, Wisconsin
+    - [Mad Railers Meetup](http://meetup.com/Mad-Railers)
+- @ Milwaukee, Wisconsin
+    - [RubyMKE Meetup](http://meetup.com/RubyMKE)
+
 ##### Pacific Northwest
 
 - @ Seattle, Washington
@@ -339,27 +351,18 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ##### California
 
 - @ San Diego, California
-    - [SD Ruby Meetup](http://www.meetup.com/sdruby)
+    - [SD Ruby Meetup](http://meetup.com/sdruby)
 - @ San Francisco, California
     - [SF Ruby Meetup](http://meetup.com/sfruby)
 - @ San Jose, California
     - [Silicon Valley Ruby Meetup](http://meetup.com/silicon-valley-ruby)
 
-##### Wisconsin
-
-- [Madison Ruby](http://madisonpl.us/ruby/)
-   - 2015 @ Madison, Wisconsin; Aug/21-Aug/22
-
-- @ Madison, Wisconsin
-    - [Mad-Railers Meetup](http://www.meetup.com/Mad-Railers/)
-- @ Milwaukee, Wisconsin
-    - [RubyMKE Meetup](http://www.meetup.com/RubyMKE/)
 
 #### Mexico / México (mx)
 
 - @ Mexico City / México, D.F.
-    - [Chilango Rails](http://www.meetup.com/Chilango-Rails)
-    - [UNAM / National University](http://www.meetup.com/UNAM-Ruby-Group)
+    - [Chilango Rails](http://meetup.com/Chilango-Rails)
+    - [UNAM / National University](http://meetup.com/UNAM-Ruby-Group)
 
 
 ### South America
@@ -398,6 +401,12 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - @ Tokyo
    - [Asakusa.rb](http://asakusa.rubyist.net) - [:octocat:](https://github.com/asakusarb)
 
+### Taiwan (tw)
+
+- [RubyConf Taiwan](http://rubyconf.tw)
+   - 2015 @ Taipei; Sept/11+12
+   - 2014 @ Taipei; Apr/25+26
+
 ### Singapore (sg)
 
 - [RedDotRubyConf](http://www.reddotrubyconf.com)
@@ -409,11 +418,6 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - @ Singapore
    - [Ruby Singapore](http://ruby.sg) - [:octocat:](https://github.com/rubysg)
 
-### Taiwan (tw)
-
-- [RubyConf Taiwan](http://rubyconf.tw)
-   - 2015 @ Taipei; Sept/11+12
-   - 2014 @ Taipei; Apr/25+26
 
 ### Vietnam (vn)
 
