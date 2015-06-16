@@ -37,6 +37,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
      - [Croatia / Hrvatska](#croatia--hrvatska-hr)
   - [Northern Europe](#northern-europe)
       - [Denmark](#denmark-dk)
+      - [Sweden](#sweden-se)
+      - [Finnland](#finnland-fi)
+      - [Norway](#norway-no)
       - [Lithuania](#lithuania-lt)
   - [Eastern Europe](#eastern-europe)
       - [Russia](#russia-ru)
@@ -247,12 +250,30 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - @ Zagreb
    - [RubyZG](http://meetup.com/rubyzg)
 
+
 ### Northern Europe
 
 #### Denmark (dk)
 
 - @ Copenhagen
    - [Copenhagen.rb](http://www.copenhagenrb.dk)
+
+#### Sweden (se)
+
+- @ Stockholm
+   - [Stockholm Ruby](http://stockholmruby.com) - [:octocat:](https://github.com/sthlmrb)
+- @ Malmö
+   - [Malmö.rb](http://malmorb.se) - [:octocat:](https://github.com/malmorb)
+
+#### Finland (fi)
+
+-@ Helsinki
+   - [Helsinki Ruby Brigade](http://rubybrigade.fi)
+
+#### Norway (no)
+
+- @ Oslo
+   - [irb.no - Ruby Meetup Oslo](http://irb.no)
 
 #### Lithuania (lt)
 
