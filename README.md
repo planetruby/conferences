@@ -42,7 +42,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
       - [Norway / Norge](#norway--norge-no)
       - [Lithuania / Lietuva](#lithuania--lietuva-lt)
   - [Eastern Europe](#eastern-europe)
-      - [Russia / Россия](#russia--Россия--ru)
+      - [Russia / Россия](#russia--%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-ru)
 - [America](#america)
    - [North America](#north-america)
        - [Canada](#canada-ca)
@@ -51,7 +51,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - [South America](#south-america)
       - [Brazil / Brasil](#brazil--brasil-br)
       - [Colombia](#colombia-co)
-      - [Peru / Perú](#peru--peru-pe)
+      - [Peru / Perú](#peru--per%C3%BA-pe)
       - [Uruguay](#uruguay-uy)
       - [Argentina](#argentina-ar)
 - [Asia](#asia)
@@ -429,11 +429,12 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### Argentina (ar)
 
 - [Ruby Argentina](http://ruby.com.ar)
-    @ Buenos Aires
+   - @ Buenos Aires
+
+<!-- new list; user groups -->
 
 - @ Buenos Aires
     - [Ruby Buenos Aires](http://meetup.com/rubyba)
-
 - @ La Plata
    - [la_plata.rb](http://laplatarb.com) - [:octocat:](https://github.com/laplatarb)
 
