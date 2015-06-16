@@ -103,7 +103,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
     - [Vienna.rb](http://vienna-rb.at) - [:octocat:](https://github.com/vienna-rb)
     - [Ruby Habits](http://meetup.com/RubyHabits)
 - @ Linz, Oberösterreich
-    - [Ruby-User-Group-Linz (RUGL)](http://meetup.com/Ruby-User-Group-Linz-RUGL)
+    - [Ruby User Group Linz (RUGL)](http://meetup.com/Ruby-User-Group-Linz-RUGL)
 
 <!--
 - @ Innsbruck, Tirol
