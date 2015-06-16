@@ -51,6 +51,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - [South America](#south-america)
       - [Brazil / Brasil](#brazil--brasil-br)
       - [Colombia](#colombia-co)
+      - [Peru / Perú](#peru--peru-pe)
+      - [Uruguay](#uruguay-uy)
+      - [Argentina](#argentina-ar)
 - [Asia](#asia)
    - [Japan](#japan-jp)
    - [Taiwan](#taiwan-tw)
@@ -308,6 +311,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ##### Western Canada
 
+- @ Calgary, Alberta
+   - [YYC Ruby - Calgary Ruby User Group](http://yycruby.org) - [:octocat:](https://github.com/yycruby)
 - @ Edmonton, Alberta
    - [YEGRB - Edmonton's Ruby Meetup](http://yegrb.com) - [:octocat:](https://github.com/yegrb)
 - @ Vancouver, British Columbia
@@ -388,6 +393,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ### South America
 
+- [RubySur - Ruby de América del Sur](http://rubysur.org) - [:octocat:](https://github.com/rubysur)
+
 #### Brazil / Brasil (br)
 
 - [Rubyconf Brasil](http://www.rubyconf.com.br)
@@ -404,6 +411,31 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - [RubyConf Colombia](http://www.rubyconf.co)
     - 2015 @ Medellin; Oct/15+16
+
+<!-- new list; user groups -->
+
+- @ Bogotá
+   - [Bogotá Ruby](http://meetup.com/bogota-ruby-meetup)
+
+#### Peru / Perú (pe)
+
+- [Ruby Peru](http://ruby.pe) - [:octocat:](https://github.com/rubyperu)
+
+#### Uruguay (uy)
+
+- @ Montevideo
+   - [Ruby Montevideo](http://meetup.com/ruby-montevideo)
+
+#### Argentina (ar)
+
+- [Ruby Argentina](http://ruby.com.ar)
+    @ Buenos Aires
+
+- @ Buenos Aires
+    - [Ruby Buenos Aires](http://meetup.com/rubyba)
+
+- @ La Plata
+   - [la_plata.rb](http://laplatarb.com) - [:octocat:](https://github.com/laplatarb)
 
 
 ## Asia
