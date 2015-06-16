@@ -36,13 +36,13 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
      - [Italy](#italy-it)
      - [Croatia / Hrvatska](#croatia--hrvatska-hr)
   - [Northern Europe](#northern-europe)
-      - [Denmark](#denmark-dk)
-      - [Sweden](#sweden-se)
-      - [Finnland](#finnland-fi)
-      - [Norway](#norway-no)
-      - [Lithuania](#lithuania-lt)
+      - [Denmark / Danmark](#denmark--danmark-dk)
+      - [Sweden / Sverige](#sweden--sverige-se)
+      - [Finland / Suomi](#finland--suomi-fi)
+      - [Norway / Norge](#norway--norge-no)
+      - [Lithuania / Lietuva](#lithuania--lietuva-lt)
   - [Eastern Europe](#eastern-europe)
-      - [Russia](#russia-ru)
+      - [Russia / Россия](#russia-ru)
 - [America](#america)
    - [North America](#north-america)
        - [Canada](#canada-ca)
@@ -253,29 +253,29 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ### Northern Europe
 
-#### Denmark (dk)
+#### Denmark / Danmark (dk)
 
 - @ Copenhagen
    - [Copenhagen.rb](http://www.copenhagenrb.dk)
 
-#### Sweden (se)
+#### Sweden / Sverige (se)
 
 - @ Stockholm
    - [Stockholm Ruby](http://stockholmruby.com) - [:octocat:](https://github.com/sthlmrb)
 - @ Malmö
    - [Malmö.rb](http://malmorb.se) - [:octocat:](https://github.com/malmorb)
 
-#### Finland (fi)
+#### Finland / Suomi (fi)
 
 -@ Helsinki
    - [Helsinki Ruby Brigade](http://rubybrigade.fi)
 
-#### Norway (no)
+#### Norway / Norge (no)
 
 - @ Oslo
    - [irb.no - Ruby Meetup Oslo](http://irb.no)
 
-#### Lithuania (lt)
+#### Lithuania / Lietuva (lt)
 
 - [RubyConfLT - Lithuanian Ruby Conference](http://rubyconf.lt)
     - 2015 @ Vilnius; Mar/21
@@ -283,7 +283,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ### Eastern Europe
 
-#### Russia (ru)
+#### Russia / Россия (ru)
 
 - [Rails Club](http://railsclub.ru)
   - 2015 @ Moscow; May/21+22
