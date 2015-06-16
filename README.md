@@ -42,7 +42,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
       - [Norway / Norge](#norway--norge-no)
       - [Lithuania / Lietuva](#lithuania--lietuva-lt)
   - [Eastern Europe](#eastern-europe)
-      - [Russia / Россия](#russia-ru)
+      - [Russia / Россия](#russia--Россия--ru)
 - [America](#america)
    - [North America](#north-america)
        - [Canada](#canada-ca)
@@ -267,7 +267,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### Finland / Suomi (fi)
 
--@ Helsinki
+- @ Helsinki
    - [Helsinki Ruby Brigade](http://rubybrigade.fi)
 
 #### Norway / Norge (no)
