@@ -345,6 +345,16 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - @ San Jose, California
     - [Silicon Valley Ruby Meetup](http://meetup.com/silicon-valley-ruby)
 
+##### Wisconsin
+
+- [Madison Ruby](http://madisonpl.us/ruby/)
+   - 2015 @ Madison, Wisconsin; Aug/21-Aug/22
+
+- @ Madison, Wisconsin
+    - [Mad-Railers Meetup](http://www.meetup.com/Mad-Railers/)
+- @ Milwaukee, Wisconsin
+    - [RubyMKE Meetup](http://www.meetup.com/RubyMKE/)
+
 #### Mexico / México (mx)
 
 - @ Mexico City / México, D.F.
