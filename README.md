@@ -24,18 +24,26 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
       - [Poland](#poland-pl)
       - [Hungary](#hungary-hu)
   - [Western Europe](#western-europe)
+     - [England](#england-en)
      - [Scotland](#scotland)
      - [Ireland / Éire](#ireland--%C3%89ire-ie)
      - [France](#france-fr)
      - [Belgium / België / Belgique](#belgium--belgi%C3%AB--belgique-be)
+     - [Netherlands](#netherlands-nl)
   - [Southern Europe](#southern-europe)
      - [Spain / España](#spain--espa%C3%B1a-es)
      - [Portugal](#portugal-pt)
      - [Italy](#italy-it)
      - [Croatia / Hrvatska](#croatia--hrvatska-hr)
+  - [Northern Europe](#northern-europe)
+      - [Denmark / Danmark](#denmark--danmark-dk)
+      - [Sweden / Sverige](#sweden--sverige-se)
+      - [Finland / Suomi](#finland--suomi-fi)
+      - [Norway / Norge](#norway--norge-no)
+      - [Lithuania / Lietuva](#lithuania--lietuva-lt)
   - [Eastern Europe](#eastern-europe)
       - [Belarus](#belarus-by)
-      - [Russia](#russia-ru)
+      - [Russia / Россия](#russia--%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-ru)
       - [Ukraine](#ukraine-ua)
 - [America](#america)
    - [North America](#north-america)
@@ -45,6 +53,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - [South America](#south-america)
       - [Brazil / Brasil](#brazil--brasil-br)
       - [Colombia](#colombia-co)
+      - [Peru / Perú](#peru--per%C3%BA-pe)
+      - [Uruguay](#uruguay-uy)
+      - [Argentina](#argentina-ar)
 - [Asia](#asia)
    - [Japan](#japan-jp)
    - [Taiwan](#taiwan-tw)
@@ -66,24 +77,24 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ## Online
 
-- [JekyllConf](http://jekyllconf.com)
-    - 2015 @ Intertubes; May/2
 - [Rails Rumble](https://railsrumble.com)
     - 2014 @ Intertubes; Oct/18+19
+- [JekyllConf](http://jekyllconf.com)
+    - 2015 @ Intertubes; May/2
 
 ## Europe
 
-- [European Ruby Camp - eurucamp](http://eurucamp.org)
-    - 2015 @ Berlin (Potsdam); Germany Jul/31 – Aug/2
-- [JRuby Conference Europe - jrubyconf.eu](http://jrubyconf.eu)
-    - 2015 @ Berlin (Potdam), Germany; Jul/31
 - [European Ruby Konference - EuRuKo](http://euruko.org)
     - 2015 @ Salzburg, Austria; Oct/17+18
     - 2014 @ Kyiv, Ukraine; Jun/20+21
     - 2013 @ Athens, Greece; Jun/28+29
+- [European Ruby Camp - eurucamp](http://eurucamp.org)
+    - 2015 @ Berlin (Potsdam); Germany Jul/31 – Aug/2
 - [Ruby Open Source Conference - ROSSConf](http://rossconf.io) - [:octocat:](https://github.com/rossconf)
     - 2015 @ Berlin, Germany; Sept/26
     - 2015 @ Vienna, Austria; Apr/25
+- [JRuby Conference Europe - jrubyconf.eu](http://jrubyconf.eu)
+    - 2015 @ Berlin (Potdam), Germany; Jul/31
 - [RubyMotion Conference - #inspect](http://conference.rubymotion.com)
     - 2015 @ Paris, France; Jul/1+2
 
@@ -95,7 +106,12 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
     - [Vienna.rb](http://vienna-rb.at) - [:octocat:](https://github.com/vienna-rb)
     - [Ruby Habits](http://meetup.com/RubyHabits)
 - @ Linz, Oberösterreich
-    - [Ruby-User-Group-Linz (RUGL)](http://meetup.com/Ruby-User-Group-Linz-RUGL)
+    - [Ruby User Group Linz (RUGL)](http://meetup.com/Ruby-User-Group-Linz-RUGL)
+
+<!--
+- @ Innsbruck, Tirol
+    - [Innsbruck.rb](http://innsbruck.onruby.at)
+ -->
 
 #### Switzerland / Schweiz / Suisse / Confoederatio Helvetica (ch)
 
@@ -106,7 +122,14 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - @ Berlin
     - [Ruby User Group Berlin (RUG::B)](http://berlin.onruby.de)
-- @ Munich / München, Bayern / Bavaria
+    - [Rails Girls Berlin](http://railsgirlsberlin.de)
+- @ Hamburg
+    - [Hamburg on Ruby](http://hamburg.onruby.de)
+- @ Cologne / Köln, North Rhine-Westphalia / Nordrhein-Westfalen
+    - [Kölsch.rb / Cologne.rb](http://cologne.onruby.de)
+- @ Dresden, Saxony / Sachsen
+    - [Dresden on Ruby](http://dresden.onruby.de)
+- @ Munich / München, Bavaria / Bayern
     - [Munich Rubyshift Ruby User Group](http://meetup.com/Munich-Rubyshift-Ruby-User-Group)
 
 #### Slovakia (sk)
@@ -121,22 +144,27 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### Czech Republic (cz)
 
-- @ Brno
-   - [Brněnské PyVo + BRUG](http://lanyrd.com/series/brno-pyvo)
 - @ Prague / Praha
    - [Prague.rb](http://meetup.com/Praguerb)
    - [První středa v měsíci](http://srazy.info/prvni-streda-ruby-on-rails)
+- @ Brno
+   - [Brněnské PyVo + BRUG](http://lanyrd.com/series/brno-pyvo)
 
 #### Poland (pl)
 
+- [wroc_love.rb](http://www.wrocloverb.com)
+   - 2015 @ Wrocław; Mar/13-15
+
+<!-- new list; user groups -->
+
 - @ Warsaw
-  - [Warsaw Ruby Users Group (WRUG)](http://wrug.eu)
+   - [Warsaw Ruby Users Group (WRUG)](http://wrug.eu)
 - @ Gdansk, Sopot, Gdynia
-  - [3City Ruby Users Group (TRUG)](http://trug.pl)
+   - [3City Ruby Users Group (TRUG)](http://trug.pl)
 - @ Wrocław
-  - [Dolnośląska Grupa Użytkowników Ruby (DRUG)](http://drug.org.pl)
+   - [Dolnośląska Grupa Użytkowników Ruby (DRUG)](http://drug.org.pl)
 - @ Poznań
-  - [Poznań Ruby Users Group (PRUG)](https://www.facebook.com/rubypoznan)
+   - [Poznań Ruby Users Group (PRUG)](https://www.facebook.com/rubypoznan)
 
 #### Hungary (hu)
 
@@ -145,6 +173,19 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 
 ### Western Europe
+
+#### England (en)
+
+- [Brighton Ruby Conference](http://brightonruby.com)
+    - 2015 @ Brighton, East Sussex; Jul/20
+- [Bath Ruby Conference](http://bathruby.org)
+    - 2015 @ Bath, Somerset; Mar/13
+
+<!-- new list; user groups -->
+
+- @ London
+   - [LRUG - London Ruby User Group](http://lrug.org) - [:octocat:](https://github.com/lrug)
+   - [Rails Girls London](http://railsgirls.london) - [:octocat:](https://github.com/railsgirlslondon)
 
 #### Scotland
 
@@ -162,22 +203,41 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - [Paris.rb](https://rubyparis.org) - [:octocat:](https://github.com/parisrb)
 - @ Lyon
    - [Lyon.rb](http://www.lyonrb.fr) - [:octocat:](https://github.com/lyonrb)
+- @ Lille
+   - [Ruby Nord](http://ruby-nord.org) - [:octocat:](https://github.com/ruby-nord)
+- @ Marseille
+   - [Pastis.rb de Marseille](http://pastisrb.org)
 
 #### Belgium / België / Belgique (be)
 
-- [Belgian Ruby User Group (BRUG)](http://brug.be) - [:octocat:](https://github.com/brug-be)
 - [ArrrCamp](http://arrrrcamp.be)
     - 2015 @ Ghent, Oost-Vlaanderen; Oct/1+2
     - 2014 @ Ghent, Oost-Vlaanderen; Oct/2+3
+
+<!-- new list; user groups -->
+
+- [Belgian Ruby User Group (BRUG)](http://brug.be) - [:octocat:](https://github.com/brug-be)
+
+
+#### Netherlands (nl)
+
+- @ Amsterdam, Noord-Holland
+   - [Amsterdam.rb](http://amsrb.org) - [:octocat:](https://github.com/amsrb)
+- @ Rotterdam, Zuid-Holland 
+   - [Rotterdam.rb](http://rtmrb.org)
 
 
 ### Southern Europe
 
 #### Spain / España (es)
 
-- @ Barcelona
-   - [Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS](http://www.fullstackfest.com)
-      - 2015 @ Barcelona, Catalonia; Sept/1–5
+- [Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS](http://www.fullstackfest.com)
+   - 2015 @ Barcelona, Catalonia; Sept/1–5
+
+<!-- new list; user groups -->
+
+- @ Madrid
+   - [Madrid.rb](http://madridrb.com) - [:octocat:](https://github.com/madridrb)
 
 #### Portugal (pt)
 
@@ -194,7 +254,38 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### Croatia / Hrvatska (hr)
 
 - @ Zagreb
-   - [RubyZG](http://www.meetup.com/rubyzg)
+   - [RubyZG](http://meetup.com/rubyzg)
+
+
+### Northern Europe
+
+#### Denmark / Danmark (dk)
+
+- @ Copenhagen
+   - [Copenhagen.rb](http://www.copenhagenrb.dk)
+
+#### Sweden / Sverige (se)
+
+- @ Stockholm
+   - [Stockholm Ruby](http://stockholmruby.com) - [:octocat:](https://github.com/sthlmrb)
+- @ Malmö
+   - [Malmö.rb](http://malmorb.se) - [:octocat:](https://github.com/malmorb)
+
+#### Finland / Suomi (fi)
+
+- @ Helsinki
+   - [Helsinki Ruby Brigade](http://rubybrigade.fi)
+
+#### Norway / Norge (no)
+
+- @ Oslo
+   - [irb.no - Ruby Meetup Oslo](http://irb.no)
+
+#### Lithuania / Lietuva (lt)
+
+- [RubyConfLT - Lithuanian Ruby Conference](http://rubyconf.lt)
+    - 2015 @ Vilnius; Mar/21
+
 
 ### Eastern Europe
 
@@ -203,11 +294,10 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - @ Minsk
    - [BRUG](http://brug.by/)
 
-#### Russia (ru)
+#### Russia / Россия (ru)
 
-- @ Moscow
-   - [Rails Club](http://railsclub.ru)
-      - 2015 @ Moscow; May/21+22
+- [Rails Club](http://railsclub.ru)
+  - 2015 @ Moscow; May/21+22
 
 #### Ukraine (ua)
 
@@ -230,16 +320,25 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### Canada (ca)
 
+##### Eastern Canada
+
 - @ Ottawa, Ontario
    - [Ottawa Ruby] (http://ottawaruby.ca)
-
 - @ Toronto, Ontario
    - [Ruby Pub Night] (https://unspace.ca/events/#rpn)
    - [Toronto Ruby Brigade] (http://www.meetup.com/torontoruby)
    - [Rails Girls TO] (http://www.meetup.com/railsgirlsTO)
-
 - @ Montreal, Quebec /  Montréal, Québec
    - [Montreal.rb] (http://www.montrealrb.com)
+
+##### Western Canada
+
+- @ Calgary, Alberta
+   - [YYC Ruby - Calgary Ruby User Group](http://yycruby.org) - [:octocat:](https://github.com/yycruby)
+- @ Edmonton, Alberta
+   - [YEGRB - Edmonton's Ruby Meetup](http://yegrb.com) - [:octocat:](https://github.com/yegrb)
+- @ Vancouver, British Columbia
+   - [VanRuby - Vancouver Ruby Meetup](http://vanruby.org)  - [:octocat:](https://github.com/vanruby)
 
 
 #### United States (us)
@@ -252,52 +351,162 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - 2015 @ Atlanta, Georgia; Apr/21-23
    - 2014 @ Chicago, Illinois; Apr/22-25
 
+##### New England
+
+- [Burlington Ruby Conference](http://www.burlingtonrubyconference.com)
+  - 2015 @ Burlington, Vermont; Aug/1+2
+
+<!-- new list; user groups -->
+
+- @ Boston, Massachusetts
+    - [Boston.rb](http://bostonrb.org) - [:octocat:](https://github.com/bostonrb)
+
 ##### Mid Atlantic
 
+- [Gotham Ruby Conference (GORUCO)](http://goruco.com)
+   - 2015 @ New York, New York; Jun/20
+
+<!-- new list; user groups -->
+
 - @ New York, New York
-    - [Gotham Ruby Conference (GORUCO)](http://goruco.com)
-      - 2015 @ New York, New York; Jun/20
+    - [NYC.rb](http://meetup.com/NYC-rb)
+    - [NYC Ruby](http://meetup.com/nycruby)
+
+##### Capital Region
+
+- @ Washington, D.C.
+    - [DCRUG - DC Ruby Users Group](http://meetup.com/dcruby)
+
+##### South
+
+- @ Orlando, Florida
+   - [Orlando Ruby Users Group](http://meetup.com/Orlando-Ruby)
+
+##### Great Lakes
+
+- [Madison Ruby](http://madisonpl.us/ruby)
+   - 2015 @ Madison, Wisconsin; Aug/21+22
+
+<!-- new list; user groups -->
+
+- @ Chicago, Illinois  
+   - [Chicago Ruby](http://chicagoruby.org) - [:octocat:](https://github.com/chicagoruby)
+- @ Madison, Wisconsin
+    - [Mad Railers Meetup](http://meetup.com/Mad-Railers)
+- @ Milwaukee, Wisconsin
+    - [RubyMKE Meetup](http://meetup.com/RubyMKE)
+
+##### Great Plains
+
+- @ Kansas City, Missouri
+   - [KC Ruby](http://kcruby.org) - [:octocat:](https://github.com/kcruby)
+- @ St. Louis, Missouri
+   - [STLRuby - St. Louis Ruby User Group](http://meetup.com/stlruby) - [:octocat:](https://github.com/stlruby)
+
+##### Rocky Mountains
+
+- [Rocky Mountain Ruby Conference](http://rockymtnruby.com)
+   - 2015 @ Boulder, Colorado; Sept/23-25
+
+<!-- new list; user groups -->
+
+- @ Denver, Colorado
+   - [Denver.rb](http://meetup.com/Denver-rb)
+- @ Boulder, Colorado
+   - [Boulder Ruby Group](http://meetup.com/boulder_ruby_group)
+
+##### Southwest
+
+- @ Austin, Texas
+    - [Austin on Rails](http://austinonrails.org) - [:octocat:](https://github.com/austinonrails)
+- @ Dallas, Texas
+    - [Dallas.rb](http://dallasrb.org) - [:octocat:](https://github.com/dallasrb)
+
 
 ##### Pacific Northwest
 
 - @ Seattle, Washington
     - [Seattle.rb](http://seattlerb.org) - [:octocat:](https://github.com/seattlerb)
+- @ Portland, Oregon
+    - [pdx.rb - Portland Ruby Brigade, pdxruby](http://pdxruby.org) - [:octocat:](https://github.com/pdxruby)
 
 ##### California
 
 - @ San Diego, California
-    - [SD Ruby Meetup](http://www.meetup.com/sdruby)
+    - [SD Ruby Meetup](http://meetup.com/sdruby)
 - @ San Francisco, California
     - [SF Ruby Meetup](http://meetup.com/sfruby)
 - @ San Jose, California
     - [Silicon Valley Ruby Meetup](http://meetup.com/silicon-valley-ruby)
 
+
 #### Mexico / México (mx)
 
+- [MagmaConf](http://magmaconf.com)
+  - 2015 @ Manzanillo, Colima; Jun/18-20
+  - 2014 @ Manzanillo, Colima; Jun/4-6
+
+<!-- new list; user groups -->
+
 - @ Mexico City / México, D.F.
-    - [Chilango Rails](http://www.meetup.com/Chilango-Rails)
-    - [UNAM / National University](http://www.meetup.com/UNAM-Ruby-Group)
+    - [Chilango Rails](http://chilangorails.com)
+    - [UNAM / National University](http://meetup.com/UNAM-Ruby-Group)
+- @ Guadalajara, Jalisco
+    - [Ruby GDL](http://rubygdl.org)
 
 
 ### South America
+
+- [RubySur - Ruby de América del Sur](http://rubysur.org) - [:octocat:](https://github.com/rubysur)
 
 #### Brazil / Brasil (br)
 
 - [Rubyconf Brasil](http://www.rubyconf.com.br)
     - 2015 @ São Paulo; Sept/18+19
     - 2014 @ São Paulo; Aug/28+29
-
 - [RuPy Campinas](http://campinas.rupy.com.br), [RuPy](http://rupy.com.br)
     - 2015 @ Campinas, São Paulo; Jun/20
     - 2014 @ São José dos Campos, São Paulo; Nov/29
-
 - [Tropical Ruby](http://tropicalrb.com)
     - 2015 @ Porto de Galinhas, Pernambuco; Mar/5-8
+    - 2014 @ Porto de Galinhas, Pernambuco; Apr/24-27 (formerly: Abril Pro Ruby)
+
+<!-- new list; user groups -->
+
+- @ São Paulo
+   - [GURU SP - Grupo de Usuários Ruby de São Paulo](http://gurusp.org)
+
 
 #### Colombia (co)
 
 - [RubyConf Colombia](http://www.rubyconf.co)
     - 2015 @ Medellin; Oct/15+16
+
+<!-- new list; user groups -->
+
+- @ Bogotá
+   - [Bogotá Ruby](http://meetup.com/bogota-ruby-meetup)
+
+#### Peru / Perú (pe)
+
+- [Ruby Peru](http://ruby.pe) - [:octocat:](https://github.com/rubyperu)
+
+#### Uruguay (uy)
+
+- @ Montevideo
+   - [Ruby Montevideo](http://meetup.com/ruby-montevideo)
+
+#### Argentina (ar)
+
+- [Ruby Argentina](http://ruby.com.ar)
+   - @ Buenos Aires
+
+<!-- new list; user groups -->
+
+- @ Buenos Aires
+    - [Ruby Buenos Aires](http://meetup.com/rubyba)
+- @ La Plata
+   - [la_plata.rb](http://laplatarb.com) - [:octocat:](https://github.com/laplatarb)
 
 
 ## Asia
@@ -307,13 +516,20 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [RubyWorld Conference - rubyworldconf](http://www.rubyworld-conf.org/en)
    - 2015 @ Matsue; Nov/11+12
    - 2014 @ Matsue; Nov/13+14
-
 - [RubyKaigi](http://rubykaigi.org)
    - 2015 @ Tokyo; Dec/11-13
    - 2014 @ Tokyo; Sep/18-20
 
+<!-- new list; user groups -->
+
 - @ Tokyo
    - [Asakusa.rb](http://asakusa.rubyist.net) - [:octocat:](https://github.com/asakusarb)
+
+### Taiwan (tw)
+
+- [RubyConf Taiwan](http://rubyconf.tw)
+   - 2015 @ Taipei; Sept/11+12
+   - 2014 @ Taipei; Apr/25+26
 
 ### Singapore (sg)
 
@@ -321,14 +537,10 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - 2015 @ Singapore; Jun/4+5
    - 2014 @ Singapore; Jun/26+27
 
+<!-- new list; user groups -->
+
 - @ Singapore
    - [Ruby Singapore](http://ruby.sg) - [:octocat:](https://github.com/rubysg)
-
-### Taiwan (tw)
-
-- [RubyConf Taiwan](http://rubyconf.tw)
-   - 2015 @ Taipei; Sept/11+12
-   - 2014 @ Taipei; Apr/25+26
 
 ### Vietnam (vn)
 
@@ -338,10 +550,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - [RubyConf India](http://rubyconfindia.org)
     - 2015 @ Goa; Apr/3-5
-
-- @ Bangalore
-   - [Garden City Ruby Conference](http://www.gardencityruby.org)
-       - 2015 @ Bangalore; Jan/10
+- [Garden City Ruby Conference](http://www.gardencityruby.org)
+    - 2015 @ Bangalore; Jan/10
 
 
 ## Africa
@@ -356,20 +566,21 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ### Australia (au)
 
-- [Ruby Australia - rubyAU](http://ruby.org.au) - [:octocat:](https://github.com/rubyaustralia), [:octocat:](https://github.com/rails-oceania)
 - [RubyConf Australia](http://www.rubyconf.org.au)
     - 2015 @ Melbourne; Feb/4-7
-- [RailsConfAU](http://www.railsconf.com.au)
-    - 2015 @ Sydney; Sept/17+18
+
+<!-- new list; user groups -->
+
+- [Ruby Australia - rubyAU](http://ruby.org.au) - [:octocat:](https://github.com/rubyaustralia), [:octocat:](https://github.com/rails-oceania)
 
 
 ## More
 
 ### Links
 
-- [Ruby Conferences](http://rubyconferences.org)
-- [Ruby User Groups](http://rubyusergroups.org)
-
+- [Ruby Conferences](http://rubyconferences.org) - [:octocat:](https://github.com/ruby-conferences)
+- [Ruby @ Lanyrd](http://lanyrd.com/topics/ruby) - social conference directory
+- [Ruby User Groups](http://rubyusergroups.org) - old world wide directory; out-of-date site
 
 ## Friends & Family
 
