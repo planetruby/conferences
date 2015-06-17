@@ -301,7 +301,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### Ukraine / Україна / Украина (ua)
 
-- [RubyC / Svitla Ruby Conference](http://rubyc.eu)
+- [RubyC](http://rubyc.eu)
    - 2015 @ Kyiv; May/30+31
 
 <!-- new list; user groups -->
