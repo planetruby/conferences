@@ -355,6 +355,11 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - @ Washington, D.C.
     - [DCRUG - DC Ruby Users Group](http://meetup.com/dcruby)
 
+##### South
+
+- @ Orlando, Florida
+   - [Orlando Ruby Users Group](http://meetup.com/Orlando-Ruby)
+
 ##### Great Lakes Region
 
 - [Madison Ruby](http://madisonpl.us/ruby)
@@ -366,6 +371,33 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
     - [Mad Railers Meetup](http://meetup.com/Mad-Railers)
 - @ Milwaukee, Wisconsin
     - [RubyMKE Meetup](http://meetup.com/RubyMKE)
+- @ Chicago, Illinois  
+   - [Chicago Ruby](http://chicagoruby.org) - [:octocat:](https://github.com/chicagoruby)
+
+##### Great Plains
+
+- @ Kansas City, Missouri
+   - [KC Ruby](kcruby.org) - [:ocotocat:](https://github.com/kcruby)
+
+##### Rocky Mountains
+
+- [Rocky Mountain Ruby Conference](http://rockymtnruby.com)
+   - 2015 @ Boulder, Colorado; Sept/23-25
+
+<!-- new list; user groups -->
+
+- @ Denver, Colorado
+   - [Denver.rb](http://meetup.com/Denver-rb)
+- @ Boulder, Colorado
+   - [Boulder Ruby Group](http://meetup.com/boulder_ruby_group)
+
+##### Southwest
+
+- @ Austin, Texas
+    - [Austin on Rails](http://austinonrails.org) - [:octocat:](https://github.com/austinonrails)
+- @ Dallas, Texas
+    - [Dallas.rb](http://dallasrb.org) - [:octocat:](https://github.com/dallasrb)
+
 
 ##### Pacific Northwest
 
@@ -386,9 +418,18 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### Mexico / México (mx)
 
+- [MagmaConf](http://magmaconf.com)
+  - 2015 @ Manzanillo, Colima; Jun/18-20
+  - 2014 @ Manzanillo, Colima; Jun/4-6
+
+<!-- new list; user groups -->
+
 - @ Mexico City / México, D.F.
-    - [Chilango Rails](http://meetup.com/Chilango-Rails)
+    - [Chilango Rails](http://chilangorails.com)
     - [UNAM / National University](http://meetup.com/UNAM-Ruby-Group)
+
+- @ Guadalajara, Jalisco
+    - [Ruby GDL](http://rubygdl.org)
 
 
 ### South America
@@ -406,6 +447,12 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [Tropical Ruby](http://tropicalrb.com)
     - 2015 @ Porto de Galinhas, Pernambuco; Mar/5-8
     - 2014 @ Porto de Galinhas, Pernambuco; Apr/24-27 (formerly: Abril Pro Ruby)
+
+<!-- new list; user groups -->
+
+- @ São Paulo
+   - [GURU SP - Grupo de Usuários Ruby de São Paulo](http://gurusp.org)
+
 
 #### Colombia (co)
 
