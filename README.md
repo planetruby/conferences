@@ -292,7 +292,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### Belarus / Беларусь (by)
 
 - @ Minsk
-   - [BRUG](http://brug.by/)
+   - [BRUG - Belarus Ruby User Group](http://brug.by)
 
 #### Russia / Россия (ru)
 
@@ -301,18 +301,22 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### Ukraine / Україна / Украина (ua)
 
-- dev-ua/ruby-ua - [:octocat:](https://gitter.im/dev-ua/ruby-ua)
+- [RubyC / Svitla Ruby Conference](http://rubyc.eu)
+   - 2015 @ Kyiv; May/30+31
+
+<!-- new list; user groups -->
+
+- [Ruby Developers of Ukraine (Chat @ dev-ua/ruby-ua)](https://gitter.im/dev-ua/ruby-ua)
 - @ Kyiv
-   - [Svitla Ruby Conference](http://rubyc.eu/)
-      - 2015 @ Kyiv; May/30+31
-   - [Kiev Ruby Meetup Group](http://www.meetup.com/ruby-kiev/)
-   - [Ruby Meditation](http://www.eventbrite.com/o/ruby-meditation-team-3148051176)
+   - [Kiev Ruby Meetup Group](http://meetup.com/ruby-kiev)
+   - [Ruby Meditation Series](http://www.eventbrite.com/o/ruby-meditation-team-3148051176)
 - @ Dniprpopetrovsk
-   - [Dnipropetrovsk Ruby Meetup Group](http://www.meetup.com/ruby-dp/)
+   - [Dnipropetrovsk Ruby Meetup Group](http://meetup.com/ruby-dp)
 - @ Kharkiv
-   - [Kharkiv Ruby Users Group](http://www.meetup.com/kharkov-rb/)
+   - [Kharkiv Ruby Users Group](http://meetup.com/kharkov-rb)
 - @ Lviv
-   - [Lviv Ruby Meetup Group](http://www.meetup.com/ruby-lviv/)
+   - [Lviv Ruby Meetup Group](http://meetup.com/ruby-lviv)
+
 
 ## America
 
