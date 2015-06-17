@@ -360,19 +360,19 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - @ Orlando, Florida
    - [Orlando Ruby Users Group](http://meetup.com/Orlando-Ruby)
 
-##### Great Lakes Region
+##### Great Lakes
 
 - [Madison Ruby](http://madisonpl.us/ruby)
    - 2015 @ Madison, Wisconsin; Aug/21+22
 
 <!-- new list; user groups -->
 
+- @ Chicago, Illinois  
+   - [Chicago Ruby](http://chicagoruby.org) - [:octocat:](https://github.com/chicagoruby)
 - @ Madison, Wisconsin
     - [Mad Railers Meetup](http://meetup.com/Mad-Railers)
 - @ Milwaukee, Wisconsin
     - [RubyMKE Meetup](http://meetup.com/RubyMKE)
-- @ Chicago, Illinois  
-   - [Chicago Ruby](http://chicagoruby.org) - [:octocat:](https://github.com/chicagoruby)
 
 ##### Great Plains
 
@@ -427,7 +427,6 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - @ Mexico City / México, D.F.
     - [Chilango Rails](http://chilangorails.com)
     - [UNAM / National University](http://meetup.com/UNAM-Ruby-Group)
-
 - @ Guadalajara, Jalisco
     - [Ruby GDL](http://rubygdl.org)
 
