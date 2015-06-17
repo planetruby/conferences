@@ -377,7 +377,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ##### Great Plains
 
 - @ Kansas City, Missouri
-   - [KC Ruby](kcruby.org) - [:octocat:](https://github.com/kcruby)
+   - [KC Ruby](http://kcruby.org) - [:octocat:](https://github.com/kcruby)
 
 ##### Rocky Mountains
 
