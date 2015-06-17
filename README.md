@@ -289,7 +289,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ### Eastern Europe
 
-#### Belarus (by)
+#### Belarus / Беларусь (by)
 
 - @ Minsk
    - [BRUG](http://brug.by/)
@@ -299,7 +299,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [Rails Club](http://railsclub.ru)
   - 2015 @ Moscow; May/21+22
 
-#### Ukraine (ua)
+#### Ukraine / Україна / Украина (ua)
 
 - dev-ua/ruby-ua - [:octocat:](https://gitter.im/dev-ua/ruby-ua)
 - @ Kyiv
