@@ -42,7 +42,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
       - [Norway / Norge](#norway--norge-no)
       - [Lithuania / Lietuva](#lithuania--lietuva-lt)
   - [Eastern Europe](#eastern-europe)
+      - [Belarus / Беларусь](#belarus--%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C-by)
       - [Russia / Россия](#russia--%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-ru)
+      - [Ukraine / Україна / Украина](https://github.com/zverok/awesome-events#ukraine--%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0--%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0-ua)
 - [America](#america)
    - [North America](#north-america)
        - [Canada](#canada-ca)
@@ -84,6 +86,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - [European Ruby Konference - EuRuKo](http://euruko.org)
     - 2015 @ Salzburg, Austria; Oct/17+18
+    - 2014 @ Kyiv, Ukraine; Jun/20+21
     - 2013 @ Athens, Greece; Jun/28+29
 - [European Ruby Camp - eurucamp](http://eurucamp.org)
     - 2015 @ Berlin (Potsdam); Germany Jul/31 – Aug/2
@@ -286,11 +289,30 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ### Eastern Europe
 
+#### Belarus / Беларусь (by)
+
+- @ Minsk
+   - [BRUG](http://brug.by/)
+
 #### Russia / Россия (ru)
 
 - [Rails Club](http://railsclub.ru)
   - 2015 @ Moscow; May/21+22
 
+#### Ukraine / Україна / Украина (ua)
+
+- dev-ua/ruby-ua - [:octocat:](https://gitter.im/dev-ua/ruby-ua)
+- @ Kyiv
+   - [Svitla Ruby Conference](http://rubyc.eu/)
+      - 2015 @ Kyiv; May/30+31
+   - [Kiev Ruby Meetup Group](http://www.meetup.com/ruby-kiev/)
+   - [Ruby Meditation](http://www.eventbrite.com/o/ruby-meditation-team-3148051176)
+- @ Dniprpopetrovsk
+   - [Dnipropetrovsk Ruby Meetup Group](http://www.meetup.com/ruby-dp/)
+- @ Kharkiv
+   - [Kharkiv Ruby Users Group](http://www.meetup.com/kharkov-rb/)
+- @ Lviv
+   - [Lviv Ruby Meetup Group](http://www.meetup.com/ruby-lviv/)
 
 ## America
 
@@ -519,7 +541,6 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - @ Singapore
    - [Ruby Singapore](http://ruby.sg) - [:octocat:](https://github.com/rubysg)
-
 
 ### Vietnam (vn)
 
