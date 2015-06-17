@@ -378,6 +378,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - @ Kansas City, Missouri
    - [KC Ruby](http://kcruby.org) - [:octocat:](https://github.com/kcruby)
+- @ St. Louis, Missouri
+   - [STLRuby - St. Louis Ruby User Group](http://meetup.com/stlruby) - [:octocat:](https://github.com/stlruby)
 
 ##### Rocky Mountains
 
