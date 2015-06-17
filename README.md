@@ -306,7 +306,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 <!-- new list; user groups -->
 
-- [Ruby Developers of Ukraine (Chat @ dev-ua/ruby-ua)](https://gitter.im/dev-ua/ruby-ua)
+- [Ruby Developers of Ukraine - Chat @ ruby-ua)](https://gitter.im/dev-ua/ruby-ua)
 - @ Kyiv
    - [Kiev Ruby Meetup Group](http://meetup.com/ruby-kiev)
    - [Ruby Meditation Series](http://www.eventbrite.com/o/ruby-meditation-team-3148051176)
