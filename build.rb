@@ -1,5 +1,10 @@
 # encoding: utf-8
 
+
+###
+#  note:
+#    use   ruby ./build.rb    to run, that is, (re)-generate the CALENDAR.md page reading in the README.md
+
 require 'pp'
 require 'date'
 require 'strscan'  ## StringScanner lib
