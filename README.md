@@ -116,6 +116,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### Switzerland / Schweiz / Suisse / Confoederatio Helvetica (ch)
 
 - [Ruvetia (Helvetian Ruby User Group)](http://ruvetia.org) - [:octocat:](https://github.com/ruvetia)
+- @ Zürich
+   - [Ruby on Rails Schweiz](http://meetup.com/rubyonrails-ch)
 
 
 #### Germany / Deutschland (de)
@@ -129,7 +131,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
     - [Kölsch.rb / Cologne.rb](http://cologne.onruby.de)
 - @ Dresden, Saxony / Sachsen
     - [Dresden on Ruby](http://dresden.onruby.de)
-- @ Leipzig, Sachsen
+- @ Leipzig, Saxony / Sachsen
     - [Leipzig on Rails](http://leipzig.onruby.de)
 - @ Munich / München, Bavaria / Bayern
     - [Munich Rubyshift Ruby User Group](http://meetup.com/Munich-Rubyshift-Ruby-User-Group)
