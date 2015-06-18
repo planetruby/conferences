@@ -91,7 +91,7 @@ NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from this
     - 2014 @ Kyiv, Ukraine; Jun/20+21
     - 2013 @ Athens, Greece; Jun/28+29
 - [European Ruby Camp - eurucamp](http://eurucamp.org)
-    - 2015 @ Berlin (Potsdam); Germany Jul/31 – Aug/2
+    - 2015 @ Berlin (Potsdam), Germany; Jul/31-Aug/2
 - [Ruby Open Source Conference - ROSSConf](http://rossconf.io) - [:octocat:](https://github.com/rossconf)
     - 2015 @ Berlin, Germany; Sept/26
     - 2015 @ Vienna, Austria; Apr/25
