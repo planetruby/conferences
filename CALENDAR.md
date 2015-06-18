@@ -1,8 +1,8 @@
 # Ruby Events Calendar
 
-NOTE: This calendar page gets auto-generated from the /awesome-events list @ Planet Ruby.
-(Last update on 2015-06-18.) -- Do NOT edit this page, please update or edit conferences, camps, meetups etc.
-on the /awesome-events list page. Anything missing? Contributions welcome. Thanks!
+NOTE: This calendar page gets auto-generated from the [awesome-events page](README.md) @ [Planet Ruby](http://planetruby.github.io).
+(Last update on 2015-06-18.) /--/ Do NOT edit this page, please update or edit conferences, camps, meetups etc.
+on the [awesome-events page](README.md). Anything missing? Contributions welcome. Thanks!
 
 
 
@@ -11,22 +11,21 @@ on the /awesome-events list page. Anything missing? Contributions welcome. Thank
 ### May
 
 
-May/4-6  --  **[RailsConf](http://railsconf.com)** @ Kansas City, Missouri
+May/4-6  •  **[RailsConf](http://railsconf.com)** @ Kansas City, Missouri
 
 ## 2015
 
 ### December
 
 
-Dec/11-13  --  **[RubyKaigi](http://rubykaigi.org)** @ Tokyo
+Dec/11-13  •  **[RubyKaigi](http://rubykaigi.org)** @ Tokyo
 
 ### November
 
 
-Nov/15-17  --  **[RubyConf](http://rubyconf.org)** @ San Antonio, Texas
+Nov/15-17 •  **[RubyConf](http://rubyconf.org)** @ San Antonio, Texas
 
-
-Nov/13 @ Turin --  **[RubyDay](http://www.rubyday.it)** 
+Nov/13 •  **[RubyDay](http://www.rubyday.it)** @ Turin
 
 
 Nov/11+12  **[RubyWorld Conference - rubyworldconf](http://www.rubyworld-conf.org/en)** @ Matsue
