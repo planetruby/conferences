@@ -1,0 +1,28 @@
+# Ruby Events (Conference) Calendar
+
+NOTE: This calendar page gets auto-generated from the [awesome-events](README.md) page @ [Planet Ruby](http://planetruby.github.io).
+(Last update on <%= Date.today %>.) Do NOT edit this page, please update or edit conferences, camps, meetups etc.
+on the [awesome-events](README.md) page. Anything missing? Contributions welcome. Thanks!
+
+
+[2016](#2016) • [2015](#2015) • [2014](#2014)
+
+<% last_year = -1; last_month = -1
+   events.each do |event|
+     year  = event.start_date.year
+     month = event.start_date.month
+ %>
+<% if last_year != year %>
+## <%= year %>
+
+<% end %>
+<% if last_month != month  || last_year != year %>
+**<%= Date::MONTHNAMES[month] %>**
+
+<% end %>
+
+<%= event.date %> • **<%= event.title %>** @ <%= event.place %>
+
+<%   last_year = year; last_month = month
+   end
+ %>
