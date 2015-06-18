@@ -1,4 +1,4 @@
-# Ruby Events Calendar
+# Ruby World-Wide (Conference) Events Calendar
 
 [2016](#2016) • [2015](#2015) • [2014](#2014)
 
