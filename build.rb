@@ -146,52 +146,28 @@ class EventReader
     events
   end
 
-end
+end # class EventReader
 
 
 class EventCalendar
-
-  TMPL =<<EOS
-# Ruby Events (Conference) Calendar
-
-NOTE: This calendar page gets auto-generated from the [awesome-events](README.md) page @ [Planet Ruby](http://planetruby.github.io).
-(Last update on 2015-06-18.) Do NOT edit this page, please update or edit conferences, camps, meetups etc.
-on the [awesome-events](README.md) page. Anything missing? Contributions welcome. Thanks!
-
-
-[2016](#2016) • [2015](#2015) • [2014](#2014)
-
-<% last_year = -1; last_month = -1
-   events.each do |event|
-     year  = event.start_date.year
-     month = event.start_date.month
- %>
-<% if last_year != year %>
-## <%= year %>
-
-<% end %>
-<% if last_month != month  || last_year != year %>
-**<%= Date::MONTHNAMES[month] %>**
-
-<% end %>
-
-<%= event.date %> • **<%= event.title %>** @ <%= event.place %>
-
-<%   last_year = year; last_month = month
-   end
- %>
-EOS
 
   attr_accessor :events
 
   def initialize( events )
     @events = events.sort { |l,r| r.start_date <=> l.start_date }   ## sort events by date (newest first)
+    @tmpl = File.read_utf8('./CALENDAR.md.erb' )
   end
 
   def render
-    ERB.new( TMPL, nil, '<>' ).result( binding )   # <> omit newline for lines starting with <% and ending in %>
+    ERB.new( @tmpl, nil, '<>' ).result( binding )   # <> omit newline for lines starting with <% and ending in %>
   end
-end
+  
+  def save
+    File.open( 'CALENDAR.md', 'w' ) do |f|
+      f.write( render )
+    end
+  end
+end # class EventCalendar
 
 
 
@@ -201,7 +177,5 @@ end
 events = EventReader.new( './README.md' ).read
 pp events
 
+EventCalendar.new( events ).save
 
-File.open( 'CALENDAR.md', 'w' ) do |f|
-  f.write EventCalendar.new( events ).render
-end
