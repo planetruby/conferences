@@ -1,11 +1,11 @@
 # Ruby Events Calendar
 
+[2016](#2016) • [2015](#2015) • [2014](#2014)
+
 NOTE: This calendar page gets auto-generated from the [awesome-events](README.md) page @ [Planet Ruby](http://planetruby.github.io).
 (Last update on 2015-06-18.) Do NOT edit this page, please update or edit conferences, camps, meetups etc.
 on the [awesome-events](README.md) page. Anything missing? Contributions welcome. Thanks!
 
-
-[2016](#2016) • [2015](#2015) • [2014](#2014)
 
 
 ## 2016
