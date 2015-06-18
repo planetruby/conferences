@@ -129,6 +129,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
     - [Kölsch.rb / Cologne.rb](http://cologne.onruby.de)
 - @ Dresden, Saxony / Sachsen
     - [Dresden on Ruby](http://dresden.onruby.de)
+- @ Leipzig, Sachsen
+    - [Leipzig on Rails](http://leipzig.onruby.de)
 - @ Munich / München, Bavaria / Bayern
     - [Munich Rubyshift Ruby User Group](http://meetup.com/Munich-Rubyshift-Ruby-User-Group)
 
