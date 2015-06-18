@@ -1,211 +1,214 @@
 # Ruby Events Calendar
 
-NOTE: This calendar page gets auto-generated from the [awesome-events page](README.md) @ [Planet Ruby](http://planetruby.github.io).
-(Last update on 2015-06-18.) /--/ Do NOT edit this page, please update or edit conferences, camps, meetups etc.
-on the [awesome-events page](README.md). Anything missing? Contributions welcome. Thanks!
+NOTE: This calendar page gets auto-generated from the [awesome-events](README.md) page @ [Planet Ruby](http://planetruby.github.io).
+(Last update on 2015-06-18.) Do NOT edit this page, please update or edit conferences, camps, meetups etc.
+on the [awesome-events](README.md) page. Anything missing? Contributions welcome. Thanks!
 
+
+[2016](#2016) • [2015](#2015) • [2014](#2014)
 
 
 ## 2016
 
-### May
+**May**
 
 
-May/4-6  •  **[RailsConf](http://railsconf.com)** @ Kansas City, Missouri
+May/4-6 • **[RailsConf](http://railsconf.com)** @ Kansas City, Missouri
 
 ## 2015
 
-### December
+**December**
 
 
-Dec/11-13  •  **[RubyKaigi](http://rubykaigi.org)** @ Tokyo
+Dec/11-13 • **[RubyKaigi](http://rubykaigi.org)** @ Tokyo
 
-### November
+**November**
 
 
-Nov/15-17 •  **[RubyConf](http://rubyconf.org)** @ San Antonio, Texas
+Nov/15-17 • **[RubyConf](http://rubyconf.org)** @ San Antonio, Texas
 
-Nov/13 •  **[RubyDay](http://www.rubyday.it)** @ Turin
 
+Nov/13 • **[RubyDay](http://www.rubyday.it)** @ Turin
 
-Nov/11+12  **[RubyWorld Conference - rubyworldconf](http://www.rubyworld-conf.org/en)** @ Matsue
 
-### October
+Nov/11+12 • **[RubyWorld Conference - rubyworldconf](http://www.rubyworld-conf.org/en)** @ Matsue
 
+**October**
 
-Oct/17+18  **[European Ruby Konference - EuRuKo](http://euruko.org)** @ Salzburg, Austria
 
+Oct/17+18 • **[European Ruby Konference - EuRuKo](http://euruko.org)** @ Salzburg, Austria
 
-Oct/15+16  **[RubyConf Colombia](http://www.rubyconf.co)** @ Medellin
 
+Oct/15+16 • **[RubyConf Colombia](http://www.rubyconf.co)** @ Medellin
 
-Oct/1+2  **[ArrrCamp](http://arrrrcamp.be)** @ Ghent, Oost-Vlaanderen
 
-### September
+Oct/1+2 • **[ArrrCamp](http://arrrrcamp.be)** @ Ghent, Oost-Vlaanderen
 
+**September**
 
-Sept/26  **[Ruby Open Source Conference - ROSSConf](http://rossconf.io) - [:octocat:](https://github.com/rossconf)** @ Berlin, Germany
 
+Sept/26 • **[Ruby Open Source Conference - ROSSConf](http://rossconf.io) - [:octocat:](https://github.com/rossconf)** @ Berlin, Germany
 
-Sept/23-25  **[Rocky Mountain Ruby Conference](http://rockymtnruby.com)** @ Boulder, Colorado
 
+Sept/23-25 • **[Rocky Mountain Ruby Conference](http://rockymtnruby.com)** @ Boulder, Colorado
 
-Sept/18+19  **[Rubyconf Brasil](http://www.rubyconf.com.br)** @ São Paulo
 
+Sept/18+19 • **[Rubyconf Brasil](http://www.rubyconf.com.br)** @ São Paulo
 
-Sep/14+15  **[RubyConf Portugal](http://rubyconf.pt)** @ Braga
 
+Sep/14+15 • **[RubyConf Portugal](http://rubyconf.pt)** @ Braga
 
-Sept/11+12  **[RubyConf Taiwan](http://rubyconf.tw)** @ Taipei
 
+Sept/11+12 • **[RubyConf Taiwan](http://rubyconf.tw)** @ Taipei
 
-Sept/1-5  **[Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS](http://www.fullstackfest.com)** @ Barcelona, Catalo
-nia
 
-### August
+Sept/1–5 • **[Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS](http://www.fullstackfest.com)** @ Barcelona, Catalonia
 
+**August**
 
-Aug/21+22  **[Madison Ruby](http://madisonpl.us/ruby)** @ Madison, Wisconsin
 
+Aug/21+22 • **[Madison Ruby](http://madisonpl.us/ruby)** @ Madison, Wisconsin
 
-Aug/1+2  **[Burlington Ruby Conference](http://www.burlingtonrubyconference.com)** @ Burlington, Vermont
 
-### July
+Aug/1+2 • **[Burlington Ruby Conference](http://www.burlingtonrubyconference.com)** @ Burlington, Vermont
 
+**July**
 
-Jul/31  **[JRuby Conference Europe - jrubyconf.eu](http://jrubyconf.eu)** @ Berlin (Potdam), Germany
 
+Jul/31 • **[JRuby Conference Europe - jrubyconf.eu](http://jrubyconf.eu)** @ Berlin (Potdam), Germany
 
-Jul/20  **[Brighton Ruby Conference](http://brightonruby.com)** @ Brighton, East Sussex
 
+Jul/20 • **[Brighton Ruby Conference](http://brightonruby.com)** @ Brighton, East Sussex
 
-Jul/1+2  **[RubyMotion Conference - #inspect](http://conference.rubymotion.com)** @ Paris, France
 
-### June
+Jul/1+2 • **[RubyMotion Conference - #inspect](http://conference.rubymotion.com)** @ Paris, France
 
+**June**
 
-Jun/20  **[Gotham Ruby Conference (GORUCO)](http://goruco.com)** @ New York, New York
 
+Jun/20 • **[Gotham Ruby Conference (GORUCO)](http://goruco.com)** @ New York, New York
 
-Jun/20  **[RuPy Campinas](http://campinas.rupy.com.br), [RuPy](http://rupy.com.br)** @ Campinas, São Paulo
 
+Jun/20 • **[RuPy Campinas](http://campinas.rupy.com.br), [RuPy](http://rupy.com.br)** @ Campinas, São Paulo
 
-Jun/18-20  **[MagmaConf](http://magmaconf.com)** @ Manzanillo, Colima
 
+Jun/18-20 • **[MagmaConf](http://magmaconf.com)** @ Manzanillo, Colima
 
-Jun/4+5  **[RedDotRubyConf](http://www.reddotrubyconf.com)** @ Singapore
 
-### May
+Jun/4+5 • **[RedDotRubyConf](http://www.reddotrubyconf.com)** @ Singapore
 
+**May**
 
-May/30+31  **[RubyC](http://rubyc.eu)** @ Kyiv
 
+May/30+31 • **[RubyC](http://rubyc.eu)** @ Kyiv
 
-May/21+22  **[Rails Club](http://railsclub.ru)** @ Moscow
 
+May/21+22 • **[Rails Club](http://railsclub.ru)** @ Moscow
 
-May/2  **[JekyllConf](http://jekyllconf.com)** @ Intertubes
 
-### April
+May/2 • **[JekyllConf](http://jekyllconf.com)** @ Intertubes
 
+**April**
 
-Apr/25  **[Ruby Open Source Conference - ROSSConf](http://rossconf.io) - [:octocat:](https://github.com/rossconf)** @ Vienna, Austria
 
+Apr/25 • **[Ruby Open Source Conference - ROSSConf](http://rossconf.io) - [:octocat:](https://github.com/rossconf)** @ Vienna, Austria
 
-Apr/21-23  **[RailsConf](http://railsconf.com)** @ Atlanta, Georgia
 
+Apr/21-23 • **[RailsConf](http://railsconf.com)** @ Atlanta, Georgia
 
-Apr/3-5  **[RubyConf India](http://rubyconfindia.org)** @ Goa
 
-### March
+Apr/3-5 • **[RubyConf India](http://rubyconfindia.org)** @ Goa
 
+**March**
 
-Mar/21  **[RubyConfLT - Lithuanian Ruby Conference](http://rubyconf.lt)** @ Vilnius
 
+Mar/21 • **[RubyConfLT - Lithuanian Ruby Conference](http://rubyconf.lt)** @ Vilnius
 
-Mar/13-15  **[wroc_love.rb](http://www.wrocloverb.com)** @ Wroclaw
 
+Mar/13-15 • **[wroc_love.rb](http://www.wrocloverb.com)** @ Wrocław
 
-Mar/13  **[Bath Ruby Conference](http://bathruby.org)** @ Bath, Somerset
 
+Mar/13 • **[Bath Ruby Conference](http://bathruby.org)** @ Bath, Somerset
 
-Mar/5-8  **[Tropical Ruby](http://tropicalrb.com)** @ Porto de Galinhas, Pernambuco
 
-### February
+Mar/5-8 • **[Tropical Ruby](http://tropicalrb.com)** @ Porto de Galinhas, Pernambuco
 
+**February**
 
-Feb/5+6  **[RubyFuza](http://www.rubyfuza.org)** @ Cape Town
 
+Feb/5+6 • **[RubyFuza](http://www.rubyfuza.org)** @ Cape Town
 
-Feb/4-7  **[RubyConf Australia](http://www.rubyconf.org.au)** @ Melbourne
 
-### January
+Feb/4-7 • **[RubyConf Australia](http://www.rubyconf.org.au)** @ Melbourne
 
+**January**
 
-Jan/10  **[Garden City Ruby Conference](http://www.gardencityruby.org)** @ Bangalore
+
+Jan/10 • **[Garden City Ruby Conference](http://www.gardencityruby.org)** @ Bangalore
 
 ## 2014
 
-### November
+**November**
 
 
-Nov/29  **[RuPy Campinas](http://campinas.rupy.com.br), [RuPy](http://rupy.com.br)** @ São José dos Campos, São Paulo
+Nov/29 • **[RuPy Campinas](http://campinas.rupy.com.br), [RuPy](http://rupy.com.br)** @ São José dos Campos, São Paulo
 
 
-Nov/17-19  **[RubyConf](http://rubyconf.org)** @ San Diego, California
+Nov/17-19 • **[RubyConf](http://rubyconf.org)** @ San Diego, California
 
 
-Nov/13+14  **[RubyWorld Conference - rubyworldconf](http://www.rubyworld-conf.org/en)** @ Matsue
+Nov/13+14 • **[RubyWorld Conference - rubyworldconf](http://www.rubyworld-conf.org/en)** @ Matsue
 
-### October
-
-
-Oct/18+19  **[Rails Rumble](https://railsrumble.com)** @ Intertubes
+**October**
 
 
-Oct/13+14  **[RubyConf Portugal](http://rubyconf.pt)** @ Braga
+Oct/18+19 • **[Rails Rumble](https://railsrumble.com)** @ Intertubes
 
 
-Oct/2+3  **[ArrrCamp](http://arrrrcamp.be)** @ Ghent, Oost-Vlaanderen
-
-### September
+Oct/13+14 • **[RubyConf Portugal](http://rubyconf.pt)** @ Braga
 
 
-Sept/26  **[RubyDay](http://www.rubyday.it)** @ Roncade, Treviso
+Oct/2+3 • **[ArrrCamp](http://arrrrcamp.be)** @ Ghent, Oost-Vlaanderen
+
+**September**
 
 
-Sep/18-20  **[RubyKaigi](http://rubykaigi.org)** @ Tokyo
-
-### August
+Sept/26 • **[RubyDay](http://www.rubyday.it)** @ Roncade, Treviso
 
 
-Aug/28+29  **[Rubyconf Brasil](http://www.rubyconf.com.br)** @ São Paulo
+Sep/18-20 • **[RubyKaigi](http://rubykaigi.org)** @ Tokyo
 
-### June
-
-
-Jun/26+27  **[RedDotRubyConf](http://www.reddotrubyconf.com)** @ Singapore
+**August**
 
 
-Jun/20+21  **[European Ruby Konference - EuRuKo](http://euruko.org)** @ Kyiv, Ukraine
+Aug/28+29 • **[Rubyconf Brasil](http://www.rubyconf.com.br)** @ São Paulo
+
+**June**
 
 
-Jun/4-6  **[MagmaConf](http://magmaconf.com)** @ Manzanillo, Colima
-
-### April
+Jun/26+27 • **[RedDotRubyConf](http://www.reddotrubyconf.com)** @ Singapore
 
 
-Apr/25+26  **[RubyConf Taiwan](http://rubyconf.tw)** @ Taipei
+Jun/20+21 • **[European Ruby Konference - EuRuKo](http://euruko.org)** @ Kyiv, Ukraine
 
 
-Apr/24-27  **[Tropical Ruby](http://tropicalrb.com)** @ Porto de Galinhas, Pernambuco
+Jun/4-6 • **[MagmaConf](http://magmaconf.com)** @ Manzanillo, Colima
+
+**April**
 
 
-Apr/22-25  **[RailsConf](http://railsconf.com)** @ Chicago, Illinois
+Apr/25+26 • **[RubyConf Taiwan](http://rubyconf.tw)** @ Taipei
+
+
+Apr/24-27 • **[Tropical Ruby](http://tropicalrb.com)** @ Porto de Galinhas, Pernambuco
+
+
+Apr/22-25 • **[RailsConf](http://railsconf.com)** @ Chicago, Illinois
 
 ## 2013
 
-### June
+**June**
 
 
-Jun/28+29  **[European Ruby Konference - EuRuKo](http://euruko.org)** @ Athens, Greece
+Jun/28+29 • **[European Ruby Konference - EuRuKo](http://euruko.org)** @ Athens, Greece
+
