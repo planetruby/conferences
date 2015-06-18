@@ -10,7 +10,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
-NOTE: A calendar page (that is, [CALENDAR.md](CALENDAR.md)) listing conferences by year and month gets auto-generated from the awesome-events page.
+NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from the awesome-events page listing conferences sorted by year and month.
 
 
 - [World](#world)
