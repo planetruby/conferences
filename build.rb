@@ -30,20 +30,6 @@ class EventReader
     @text = File.read_utf8( path )
   end
 
-
-  MONTH_EN = 'Jan|'+
-             'Feb|'+
-             'March|Mar|'+
-             'April|Apr|'+
-             'May|'+
-             'June|Jun|'+
-             'July|Jul|'+
-             'Aug|'+
-             'Sept|Sep|'+
-             'Oct|'+
-             'Nov|'+
-             'Dec'
-
   MONTH_EN_TO_MM = {
         'Jan' => '1',
         'Feb' => '2',
@@ -57,6 +43,8 @@ class EventReader
         'Oct' => '10',
         'Nov' => '11',
         'Dec' => '12' }
+
+  MONTH_EN = MONTH_EN_TO_MM.keys.join('|')  # e.g. 'Jan|Feb|March|Mar|...'
 
 ## examples:
 ## - 2015 @ Salzburg, Austria; Oct/17+18
@@ -93,6 +81,7 @@ class EventReader
   def read
 
     events = []
+    stack  = []   ## header/heading stack;  note: last_stack is stack.size; starts w/ 0
 
     last_link_entry = nil
 
@@ -105,7 +94,36 @@ class EventReader
       next  if line =~ /^\s*$/      #  skip blank lines
 
       m = nil
-      if line =~ /^[ ]*-[ ]*/  ##  list item
+      if line =~ /^[ ]*(#+)[ ]+/    ## heading/headers - note: must escpape #
+          s = StringScanner.new( line )
+          s.skip( /[ ]*/ )  ## skip whitespaces
+          markers = s.scan( /#+/)
+          level   = markers.size
+          s.skip( /[ ]*/ )  ## skip whitespaces
+          title   = s.rest.rstrip
+          
+          puts " heading level: #{level}, title: >#{title}<"
+
+          level_diff = level - stack.size
+
+          if level_diff > 0
+            puts "[EventReader]    up  +#{level_diff}"
+            ## FIX!!! todo/check/verify/assert: always must be +1
+            if level_diff > 1
+              puts "fatal: level step must be one (+1)"; exit 1
+            end
+          elsif level_diff < 0
+            puts "[EventReader]    down #{level_diff}"
+            level_diff.abs.times { stack.pop }
+            stack.pop
+          else
+            ## same level
+            stack.pop
+          end
+          stack.push( [level,title] )
+          puts "  stack: #{stack.inspect}"
+          
+      elsif line =~ /^[ ]*-[ ]+/     ## list item
         if( m=LINK_ENTRY_REGEX.match( line ) )
           puts " link entry: #{line}"
 
@@ -131,6 +149,11 @@ class EventReader
           place = place.strip          
           puts "  place: #{place}, rest: >#{s.rest}<"
 
+          ## note: cut of heading 1 (e.g. awesome-events title)
+          more_places = stack[1..-1].reverse.map {|it| it[1] }.join(' › ')
+          place = "#{place} › #{more_places}"
+          puts "  place: #{place}"
+
           s.skip( /;/ )
           s.skip( /[ ]*/ ) ## skip whitespaces
           date  = s.scan( /[^ ]+/ ) # e.g. everything untils first space (or end-of-line)
@@ -154,13 +177,61 @@ class EventReader
 end # class EventReader
 
 
-class EventCalendar
+class EventCursor
+  def initialize( events )
+    @events = events
+  end
 
-  attr_accessor :events
+  def each
+    state = State.new
+    @events.each do |event|
+       state.next( event )
+       yield( event, state )
+    end
+  end
+
+  class State
+    def initialize
+      @last_date  = Date.new( 1971, 1, 1 )
+      @new_date   = true
+      @new_year   = true
+      @new_month  = true
+    end
+    def new_date?()  @new_date; end
+    def new_year?()  @new_year; end
+    def new_month?() @new_month; end
+
+    def next( event )
+      if @last_date.year  == event.start_date.year &&
+         @last_date.month == event.start_date.month
+           @new_date  = false
+           @new_year  = false
+           @new_month = false
+      else
+        @new_date = true
+        ## new year?
+        @new_year  = @last_date.year != event.start_date.year ? true : false
+        ## new_month ?
+        @new_month = (@new_year == true || @last_date.month != event.start_date.month) ? true : false
+      end
+      @last_date = event.start_date
+    end
+
+  end # class State
+
+end # class EventCursor
+
+
+class EventCalendar
 
   def initialize( events )
     @events = events.sort { |l,r| r.start_date <=> l.start_date }   ## sort events by date (newest first)
     @tmpl = File.read_utf8('./CALENDAR.md.erb' )
+  end
+
+  def events
+    ## note: return new cursor  -- use decorator (instead of extra loop arg, why? why not?
+    EventCursor.new( @events )
   end
 
   def render
@@ -180,7 +251,6 @@ end # class EventCalendar
 # run (main code)
 
 events = EventReader.new( './README.md' ).read
-pp events
+## pp events
 
 EventCalendar.new( events ).save
-
