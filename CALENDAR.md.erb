@@ -1,28 +1,24 @@
 # Ruby Conference Calendar
 
-NOTE: This page gets auto-generated from the [awesome-events](README.md) page @ [Planet Ruby](http://planetruby.github.io).
+NOTE: This page gets auto-generated from the [awesome-events](README.md) page @ Planet Ruby.
 (Last update on <%= Date.today %>.) Do NOT edit this page, please update or edit conferences, camps, meetups etc.
 on the [awesome-events](README.md) page. Anything missing? Contributions welcome. Thanks!
 
 
-[2016](#2016) • [2015](#2015) • [2014](#2014)
+[2016](#2016) • [2015](#2015) • [2014](#2014)  • [2013](#2013)
 
-<% last_year = -1; last_month = -1
-   events.each do |event|
-     year  = event.start_date.year
-     month = event.start_date.month
- %>
-<% if last_year != year %>
-## <%= year %>
+<% events.each do |ev,evd| %>
+<% if evd.new_year? %>
+  
+## <%= ev.start_date.year %>
 
 <% end %>
-<% if last_month != month  || last_year != year %>
-**<%= Date::MONTHNAMES[month] %>**
+<% if evd.new_month? %>
+
+**<%= Date::MONTHNAMES[ev.start_date.month] %>**
 
 <% end %>
 
-<%= event.date %> • **<%= event.title %>** @ <%= event.place %>
+<%= ev.date %> • **<%= ev.title %>** @ <%= ev.place %>
 
-<%   last_year = year; last_month = month
-   end
- %>
+<% end %>
