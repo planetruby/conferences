@@ -62,9 +62,11 @@ NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from this
    - [Japan](#japan-jp)
    - [Taiwan](#taiwan-tw)
    - [Singapore](#singapore-sg)
+   - [Philippines / Pilipinas](#philippines--pilipinas-ph) 
    - [Vietnam](#vietnam-vn)
    - [India](#india-in)
 - [Africa](#africa)
+   - [Kenya](#kenya-ke)
    - [South Africa](#south-africa-za)
 - [Pacific / Oceania](#pacific--oceania)
    - [Australia](#australia-au)
@@ -394,7 +396,7 @@ NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from this
 
 ##### Great Lakes
 
-- [Madison Ruby](http://madisonpl.us/ruby)
+- [Madison+ Ruby](http://madisonpl.us/ruby)
    - 2015 @ Madison, Wisconsin; Aug/21+22
 
 <!-- new list; user groups -->
@@ -441,6 +443,13 @@ NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from this
     - [pdx.rb - Portland Ruby Brigade, pdxruby](http://pdxruby.org) - [:octocat:](https://github.com/pdxruby)
 
 ##### California
+
+<!--  check back later if happending?
+- [LA RubyConf - Los Angeles Ruby Conference](http://www.larubyconf.com)
+   - 2015 @ Burbank, California; Oct/10
+  -->
+
+<!-- new list; user groups -->
 
 - @ San Diego, California
     - [SD Ruby Meetup](http://meetup.com/sdruby)
@@ -552,6 +561,12 @@ NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from this
 - @ Singapore
    - [Ruby Singapore](http://ruby.sg) - [:octocat:](https://github.com/rubysg)
 
+### Philippines / Pilipinas (ph) 
+
+- [RubyConf Philippines](http://rubyconf.ph)
+    - 2015 @ Boracy Island; Mar/27-28
+    - 2014 @ Manila; Mar/28-29
+
 ### Vietnam (vn)
 
 - [Ruby Vietnam](http://ruby.org.vn) - [:octocat:](https://github.com/ruby-vietnam)
@@ -565,6 +580,16 @@ NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from this
 
 
 ## Africa
+
+### Kenya (ke)
+
+- [RubyConf Kenya](http://ruby-conf-ke.nairuby.org)
+   - 2015 @ Nairobi; May/8+9
+
+<!-- new list; user groups -->
+
+- @ Nairobi
+   - [Nairuby](http://nairuby.org) - [:octocat:](https://github.com/nairuby)
 
 ### South Africa (za)
 
