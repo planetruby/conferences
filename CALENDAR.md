@@ -53,9 +53,6 @@ Sept/26 • **[Ruby Open Source Software (ROSS) Conference - ROSSConf](http://ro
 Sept/23-25 • **[Rocky Mountain Ruby Conference](http://rockymtnruby.com)** @ Boulder, Colorado › Rocky Mountains › United States (us) › North America › America
 
 
-Sept/18+19 • **[RubyConf Brasil](http://www.rubyconf.com.br)** @ São Paulo › Brazil / Brasil (br) › South America › America
-
-
 Sep/14+15 • **[RubyConf Portugal](http://rubyconf.pt)** @ Braga › Portugal (pt) › Southern Europe › Europe
 
 
@@ -65,6 +62,9 @@ Sept/11+12 • **[RubyConf Taiwan](http://rubyconf.tw)** @ Taipei › Taiwan (tw
 Sept/1–5 • **[Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS](http://www.fullstackfest.com)** @ Barcelona, Catalonia › Spain / España (es) › Southern Europe › Europe
 
 **August**
+
+
+Aug/28+29 • **[RubyConf Brasil](http://www.rubyconf.com.br)** @ São Paulo › Brazil / Brasil (br) › South America › America
 
 
 Aug/21+22 • **[Madison Ruby](http://madisonpl.us/ruby)** @ Madison, Wisconsin › Great Lakes › United States (us) › North America › America
