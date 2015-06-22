@@ -45,6 +45,7 @@ NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from this
       - [Lithuania / Lietuva](#lithuania--lietuva-lt)
   - [Eastern Europe](#eastern-europe)
       - [Belarus / Беларусь](#belarus--%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C-by)
+      - [Romania / România](#romania--rom%C3%A2nia-ro)
       - [Russia / Россия](#russia--%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-ru)
       - [Ukraine / Україна / Украина](#ukraine--%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0--%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0-ua)
 - [America](#america)
