@@ -306,7 +306,7 @@ NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from this
 #### Romania / România (ro)
 
 - @ Cluj-Napoca
-  - [Cluj.rb](http://www.meetup.com/cluj-rb/)
+  - [Cluj.rb](http://meetup.com/cluj-rb)
 
 #### Russia / Россия (ru)
 
