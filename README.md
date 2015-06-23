@@ -99,7 +99,7 @@ NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from this
     - 2015 @ Berlin, Germany; Sept/26
     - 2015 @ Vienna, Austria; Apr/25
 - [JRuby Conference Europe - JRubyConf EU](http://jrubyconf.eu)
-    - 2015 @ Berlin (Potdam), Germany; Jul/31
+    - 2015 @ Berlin (Potsdam), Germany; Jul/31
 - [RubyMotion Conference - #inspect](http://conference.rubymotion.com)
     - 2015 @ Paris, France; Jul/1+2
 
@@ -241,7 +241,7 @@ NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from this
 #### Spain / España (es)
 
 - [Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS](http://www.fullstackfest.com)
-   - 2015 @ Barcelona, Catalonia; Sept/1–5
+   - 2015 @ Barcelona, Catalonia; Sept/1-5
 
 <!-- new list; user groups -->
 
@@ -251,7 +251,7 @@ NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from this
 #### Portugal (pt)
 
 - [RubyConf Portugal](http://rubyconf.pt)
-  - 2015 @ Braga; Sep/14+15
+  - 2015 @ Braga; Sept/14+15
   - 2014 @ Braga; Oct/13+14
 
 #### Italy (it)
@@ -320,7 +320,10 @@ NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from this
 
 <!-- new list; user groups -->
 
+<!--
 - [Ruby Developers of Ukraine - Chat @ ruby-ua](https://gitter.im/dev-ua/ruby-ua)
+  -->
+
 - @ Kyiv
    - [Kiev Ruby Meetup Group](http://meetup.com/ruby-kiev)
    - [Ruby Meditation Series](http://www.eventbrite.com/o/ruby-meditation-team-3148051176)
