@@ -128,7 +128,7 @@ NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from this
 #### Germany / Deutschland (de)
 
 - @ Berlin
-    - [Ruby User Group Berlin (RUG::B)](http://berlin.onruby.de)
+    - [Ruby User Group Berlin (RUG::B)](http://www.rug-b.de/)
     - [Rails Girls Berlin](http://railsgirlsberlin.de)
 - @ Hamburg
     - [Hamburg on Ruby](http://hamburg.onruby.de)
