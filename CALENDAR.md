@@ -205,9 +205,7 @@ Fri+Sat Jun/28+29 (2d) • **[European Ruby Konference - EuRuKo](http://euruko.o
 
 ## More
 
----
-
-**TIP:**  Try the "live" version using the [whatson command line tool](https://github.com/textkit/whatson). Type:
+TIP: Try the "live" version using the [whatson command line tool](https://github.com/textkit/whatson). Type:
 
 ~~~
 $ rubyconf
@@ -238,4 +236,3 @@ Upcoming Ruby Conferences:
   ...
 ~~~
 
----
