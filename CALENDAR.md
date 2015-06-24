@@ -1,8 +1,10 @@
 # Ruby Conference Calendar
 
-NOTE: This page gets auto-generated from the awesome-events page (e.g. [README.md](README.md)) @ Planet Ruby.
-(Last update on 2015-06-24.) Do NOT edit this page, please update or edit conferences, camps, meetups etc.
-on the awesome-events page (e.g. [README.md](README.md)). Anything missing? Contributions welcome. Thanks!
+__Last update on 2015-06-24.__
+
+NOTE: This page gets auto-generated from the awesome-events page ([README.md](README.md)) @ Planet Ruby.
+**Do NOT edit this page**, please update or edit conferences, camps, meetups etc.
+on the awesome-events page ([README.md](README.md)). Anything missing? Contributions welcome. Thanks!
 
 
 [2016](#2016) • [2015](#2015) • [2014](#2014)  • [2013](#2013)
