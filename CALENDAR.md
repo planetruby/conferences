@@ -11,7 +11,7 @@ on the awesome-events page ([README.md](README.md)). Anything missing? Contribut
 ---
 
 
-[2016](#2016) • [2015](#2015) • [2014](#2014)  • [2013](#2013)
+[2016](#2016) • [2015](#2015) • [2014](#2014)  • [2013](#2013) • [More](#more)
 
 
 ## 2016
@@ -202,9 +202,12 @@ Fri+Sat Mar/28+29 (2d) • **[RubyConf Philippines](http://rubyconf.ph)** @ Mani
 Fri+Sat Jun/28+29 (2d) • **[European Ruby Konference - EuRuKo](http://euruko.org)** @ Athens, Greece › Europe
 
 
+
+## More
+
 ---
 
-[TIP] Try the "live" version using the [whatson command line tool](https://github.com/textkit/whatson). Type:
+**TIP:**  Try the "live" version using the [whatson command line tool](https://github.com/textkit/whatson). Type:
 
 ~~~
 $ rubyconf
