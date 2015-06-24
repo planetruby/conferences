@@ -10,7 +10,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
-NOTE: A calendar page - [CALENDAR.md](CALENDAR.md) - gets auto-generated from this page listing conferences sorted by date (that is, year and month) or better try the "live" version using the [whatson command line tool](https://github.com/textkit/whatson). Type:
+NOTE: A calendar page (that is, [CALENDAR.md](CALENDAR.md)) gets auto-generated from this page listing conferences sorted by date (that is, year and month) or better try the "live" version using the [whatson command line tool](https://github.com/textkit/whatson). Type:
 
 ~~~
 $ rubyconf
