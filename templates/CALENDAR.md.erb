@@ -1,0 +1,24 @@
+# Ruby Conference Calendar
+
+NOTE: This page gets auto-generated from the [awesome-events](README.md) page @ Planet Ruby.
+(Last update on <%= Date.today %>.) Do NOT edit this page, please update or edit conferences, camps, meetups etc.
+on the [awesome-events](README.md) page. Anything missing? Contributions welcome. Thanks!
+
+
+[2016](#2016) • [2015](#2015) • [2014](#2014)  • [2013](#2013)
+
+<% events.each do |ev,evd| %>
+<% if evd.new_year? %>
+
+## <%= ev.start_date.year %>
+
+<% end %>
+<% if evd.new_month? %>
+
+**<%= Date::MONTHNAMES[ev.start_date.month] %>**
+
+<% end %>
+
+<%= ev.date_str %> (<%= ev.days %>d) • **<%= ev.text %>** @ <%= ev.place %>
+
+<% end %>
