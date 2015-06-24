@@ -200,3 +200,39 @@ Fri+Sat Mar/28+29 (2d) • **[RubyConf Philippines](http://rubyconf.ph)** @ Mani
 
 
 Fri+Sat Jun/28+29 (2d) • **[European Ruby Konference - EuRuKo](http://euruko.org)** @ Athens, Greece › Europe
+
+
+---
+
+[TIP] Try the "live" version using the [whatson command line tool](https://github.com/textkit/whatson). Type:
+
+~~~
+$ rubyconf
+~~~
+
+resulting in:
+
+~~~
+Upcoming Ruby Conferences:
+
+  NOW ON 2d   RubyMotion Conference - #inspect, Wed+Thu Jul/1+2 (2d) @ Paris, France › Europe
+
+  in 18d   Brighton Ruby Conference, Mon Jul/20 (1d) @ Brighton, East Sussex › England (en) › Western Europe › Europe
+  in 27d   European Ruby Camp - eurucamp, Fri-Sun Jul/31-Aug/2 (3d) @ Berlin (Potsdam), Germany › Europe
+  in 27d   JRuby Conference Europe - JRubyConf EU, Fri Jul/31 (1d) @ Berlin (Potsdam), Germany › Europe
+  in 28d   Burlington Ruby Conference, Sat+Sun Aug/1+2 (2d) @ Burlington, Vermont › New England › United States (us) › North America › America
+  in 50d   Madison+ Ruby, Fri+Sat Aug/21+22 (2d) @ Madison, Wisconsin › Great Lakes › United States (us) › North America › America
+  in 61d   Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS, Tue-Sat Sep/1-5 (5d) @ Barcelona, Catalonia › Spain / España (es) › Southern Europe › Europe
+  in 71d   RubyConf Taiwan, Fri+Sat Sep/11+12 (2d) @ Taipei › Taiwan (tw) › Asia
+  in 72d   RubyConf Portugal, Mon+Tue Sep/14+15 (2d) @ Braga › Portugal (pt) › Southern Europe › Europe
+  in 78d   RubyConf Brasil, Fri+Sat Sep/18+19 (2d) @ São Paulo › Brazil / Brasil (br) › South America › America
+  in 83d   Rocky Mountain Ruby Conference, Wed-Fri Sep/23-25 (3d) @ Boulder, Colorado › Rocky Mountains › United States (us) › North America › America
+  in 85d   Ruby Open Source Software (ROSS) Conference - ROSSConf, Sat Sep/26 (1d) @ Berlin, Germany › Europe
+  in 93d  ArrrCamp, Thu+Fri Oct/1+2 (2d) @ Ghent, Oost-Vlaanderen › Belgium / België / Belgique (be) › Western Europe › Europe
+  in 105d  RubyConf Colombia, Thu+Fri Oct/15+16 (2d) @ Medellin › Colombia (co) › South America › America
+  in 107d  European Ruby Konference - EuRuKo, Sat+Sun Oct/17+18 (2d) @ Salzburg, Austria › Europe
+  in 132d  RubyWorld Conference, Wed+Thu Nov/11+12 (2d) @ Matsue › Japan (jp) › Asia
+  ...
+~~~
+
+---
