@@ -8,7 +8,7 @@ on the awesome-events page (that is, [README.md](README.md)). Anything missing? 
 
 
 
-Contents
+_Contents_
 
 [2016](#2016) • [2015](#2015) • [2014](#2014)  • [2013](#2013)
 
