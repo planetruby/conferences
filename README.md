@@ -129,8 +129,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### Germany / Deutschland (de)
 
 - @ Berlin
-    - [Ruby User Group Berlin (RUG::B)](http://rug-b.de)
-    - [Rails Girls Berlin](http://railsgirlsberlin.de)
+    - [Ruby User Group Berlin (RUG::B)](http://rug-b.de), [@rug_b](https://twitter.com/rug_b)
+    - [Rails Girls Berlin](http://railsgirlsberlin.de), [@railsgirls_bln](https://twitter.com/railsgirls_bln)
 - @ Hamburg
     - [Hamburg on Ruby](http://hamburg.onruby.de)
 - @ Cologne / Köln, North Rhine-Westphalia / Nordrhein-Westfalen
@@ -145,7 +145,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### Slovakia (sk)
 
 - @ Bratislava
-   - [Rubyslava](http://rubyslava.sk) - [:octocat:](https://github.com/rubyslava)
+   - [Rubyslava](http://rubyslava.sk) - [:octocat:](https://github.com/rubyslava), [@rubyslava](https://twitter.com/rubyslava)
 
 #### Slovenia (si)
 
