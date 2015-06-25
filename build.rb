@@ -21,4 +21,10 @@ File.open( './CALENDAR.md', 'w' ) do |f|
   f.write buf
 end
 
+buf = cal.render( template: "./templates/rubyconf.json.erb" )
+File.open( './data/rubyconf.json', 'w' ) do |f|
+  f.write buf
+end
+
+
 puts 'Done.'

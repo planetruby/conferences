@@ -42,7 +42,7 @@ Wed+Thu Nov/11+12 (2d) • **[RubyWorld Conference](http://www.rubyworld-conf.or
 **October**
 
 
-Sat+Sun Oct/17+18 (2d) • **[European Ruby Konference - EuRuKo](http://euruko.org)** @ Salzburg, Austria › Europe
+Sat+Sun Oct/17+18 (2d) • **[EuRuKo - European Ruby Konference](http://euruko.org), [@euruko](https://twitter.com/euruko)** @ Salzburg, Austria › Europe
 
 Thu+Fri Oct/15+16 (2d) • **[RubyConf Colombia](http://www.rubyconf.co)** @ Medellin › Colombia (co) › South America › America
 
@@ -51,7 +51,7 @@ Thu+Fri Oct/1+2 (2d) • **[ArrrCamp](http://arrrrcamp.be)** @ Ghent, Oost-Vlaan
 **September**
 
 
-Sat Sep/26 (1d) • **[Ruby Open Source Software (ROSS) Conference - ROSSConf](http://rossconf.io) - [:octocat:](https://github.com/rossconf)** @ Berlin, Germany › Europe
+Sat Sep/26 (1d) • **[Ruby Open Source Software (ROSS) Conference - ROSSConf](http://rossconf.io), [:octocat:](https://github.com/rossconf), [@ROSSConf](https://twitter.com/ROSSConf)** @ Berlin, Germany › Europe
 
 Wed-Fri Sep/23-25 (3d) • **[Rocky Mountain Ruby Conference](http://rockymtnruby.com)** @ Boulder, Colorado › Rocky Mountains › United States (us) › North America › America
 
@@ -73,9 +73,9 @@ Sat+Sun Aug/1+2 (2d) • **[Burlington Ruby Conference](http://www.burlingtonrub
 **July**
 
 
-Fri-Sun Jul/31-Aug/2 (3d) • **[European Ruby Camp - eurucamp](http://eurucamp.org)** @ Berlin (Potsdam), Germany › Europe
+Fri-Sun Jul/31-Aug/2 (3d) • **[eurucamp - European Ruby Camp](http://eurucamp.org), [@eurucamp](https://twitter.com/eurucamp)** @ Berlin (Potsdam), Germany › Europe
 
-Fri Jul/31 (1d) • **[JRuby Conference Europe - JRubyConf EU](http://jrubyconf.eu)** @ Berlin (Potsdam), Germany › Europe
+Fri Jul/31 (1d) • **[JRuby Conference Europe - JRubyConf EU](http://jrubyconf.eu), [@JRubyConfEU](https://twitter.com/JRubyConfEU)** @ Berlin (Potsdam), Germany › Europe
 
 Mon Jul/20 (1d) • **[Brighton Ruby Conference](http://brightonruby.com)** @ Brighton, East Sussex › England (en) › Western Europe › Europe
 
@@ -101,12 +101,12 @@ Thu+Fri May/21+22 (2d) • **[Rails Club](http://railsclub.ru)** @ Moscow › Ru
 
 Fri+Sat May/8+9 (2d) • **[RubyConf Kenya](http://ruby-conf-ke.nairuby.org)** @ Nairobi › Kenya (ke) › Africa
 
-Sat May/2 (1d) • **[JekyllConf](http://jekyllconf.com)** @ Intertubes › Online
+Sat May/2 (1d) • **[JekyllConf](http://jekyllconf.com), [@JekyllConf](https://twitter.com/JekyllConf)** @ Intertubes › Online
 
 **April**
 
 
-Sat Apr/25 (1d) • **[Ruby Open Source Software (ROSS) Conference - ROSSConf](http://rossconf.io) - [:octocat:](https://github.com/rossconf)** @ Vienna, Austria › Europe
+Sat Apr/25 (1d) • **[Ruby Open Source Software (ROSS) Conference - ROSSConf](http://rossconf.io), [:octocat:](https://github.com/rossconf), [@ROSSConf](https://twitter.com/ROSSConf)** @ Vienna, Austria › Europe
 
 Tue-Thu Apr/21-23 (3d) • **[RailsConf](http://railsconf.com)** @ Atlanta, Georgia › United States (us) › North America › America
 
@@ -152,7 +152,7 @@ Thu+Fri Nov/13+14 (2d) • **[RubyWorld Conference](http://www.rubyworld-conf.or
 **October**
 
 
-Sat+Sun Oct/18+19 (2d) • **[Rails Rumble](https://railsrumble.com)** @ Intertubes › Online
+Sat+Sun Oct/18+19 (2d) • **[Rails Rumble](https://railsrumble.com), [@railsrumble](https://twitter.com/railsrumble)** @ Intertubes › Online
 
 Mon+Tue Oct/13+14 (2d) • **[RubyConf Portugal](http://rubyconf.pt)** @ Braga › Portugal (pt) › Southern Europe › Europe
 
@@ -175,7 +175,7 @@ Thu+Fri Aug/28+29 (2d) • **[RubyConf Brasil](http://www.rubyconf.com.br)** @ S
 
 Thu+Fri Jun/26+27 (2d) • **[RedDotRubyConf](http://www.reddotrubyconf.com)** @ Singapore › Singapore (sg) › Asia
 
-Fri+Sat Jun/20+21 (2d) • **[European Ruby Konference - EuRuKo](http://euruko.org)** @ Kyiv, Ukraine › Europe
+Fri+Sat Jun/20+21 (2d) • **[EuRuKo - European Ruby Konference](http://euruko.org), [@euruko](https://twitter.com/euruko)** @ Kyiv, Ukraine › Europe
 
 Wed-Fri Jun/4-6 (3d) • **[MagmaConf](http://magmaconf.com)** @ Manzanillo, Colima › Mexico / México (mx) › North America › America
 
@@ -199,7 +199,7 @@ Fri+Sat Mar/28+29 (2d) • **[RubyConf Philippines](http://rubyconf.ph)** @ Mani
 **June**
 
 
-Fri+Sat Jun/28+29 (2d) • **[European Ruby Konference - EuRuKo](http://euruko.org)** @ Athens, Greece › Europe
+Fri+Sat Jun/28+29 (2d) • **[EuRuKo - European Ruby Konference](http://euruko.org), [@euruko](https://twitter.com/euruko)** @ Athens, Greece › Europe
 
 
 ## More

@@ -1,0 +1,13 @@
+[
+<% events.each do |ev,_| %>
+  {
+    "name": "<%= ev.title %>",
+    "start_date": "<%= ev.start_date.strftime( '%Y-%m-%d' ) %>",
+    "end_date": "<%= ev.end_date.strftime( '%Y-%m-%d' ) %>",
+    "days": <%= ev.days %>,
+    "place": "<%= ev.place %>",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+<% end %>
+]

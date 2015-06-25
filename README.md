@@ -84,25 +84,25 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ## Online
 
 - [Rails Rumble](https://railsrumble.com), [@railsrumble](https://twitter.com/railsrumble)
-    - 2014 @ Intertubes; Oct/18+19
+    - 2014 @ Intertubes; Oct/18+19  (FREE)
 - [JekyllConf](http://jekyllconf.com), [@JekyllConf](https://twitter.com/JekyllConf)
-    - 2015 @ Intertubes; May/2
+    - 2015 @ Intertubes; May/2   (FREE)
 
 ## Europe
 
 - [EuRuKo - European Ruby Konference](http://euruko.org), [@euruko](https://twitter.com/euruko)
-    - 2015 @ Salzburg, Austria; Oct/17+18
+    - 2015 @ Salzburg, Austria; Oct/17+18  (€65)
     - 2014 @ Kyiv, Ukraine; Jun/20+21
     - 2013 @ Athens, Greece; Jun/28+29
 - [eurucamp - European Ruby Camp](http://eurucamp.org), [@eurucamp](https://twitter.com/eurucamp)
-    - 2015 @ Berlin (Potsdam), Germany; Jul/31-Aug/2
+    - 2015 @ Berlin (Potsdam), Germany; Jul/31-Aug/2  (€180, Student €120)
 - [Ruby Open Source Software (ROSS) Conference - ROSSConf](http://rossconf.io), [:octocat:](https://github.com/rossconf), [@ROSSConf](https://twitter.com/ROSSConf)
-    - 2015 @ Berlin, Germany; Sept/26
-    - 2015 @ Vienna, Austria; Apr/25
+    - 2015 @ Berlin, Germany; Sept/26  (FREE)
+    - 2015 @ Vienna, Austria; Apr/25  (FREE)
 - [JRuby Conference Europe - JRubyConf EU](http://jrubyconf.eu), [@JRubyConfEU](https://twitter.com/JRubyConfEU)
-    - 2015 @ Berlin (Potsdam), Germany; Jul/31
+    - 2015 @ Berlin (Potsdam), Germany; Jul/31  (€130, Student €120)
 - [RubyMotion Conference - #inspect](http://conference.rubymotion.com)
-    - 2015 @ Paris, France; Jul/1+2
+    - 2015 @ Paris, France; Jul/1+2  (€299)
 
 ### Central Europe
 
@@ -187,9 +187,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### England (en)
 
 - [Brighton Ruby Conference](http://brightonruby.com)
-    - 2015 @ Brighton, East Sussex; Jul/20
+    - 2015 @ Brighton, East Sussex; Jul/20  (£100)
 - [Bath Ruby Conference](http://bathruby.org)
-    - 2015 @ Bath, Somerset; Mar/13
+    - 2015 @ Bath, Somerset; Mar/13  (£99/£79/£59, Student £39)
 
 <!-- new list; user groups -->
 
@@ -221,7 +221,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### Belgium / België / Belgique (be)
 
 - [ArrrCamp](http://arrrrcamp.be)
-    - 2015 @ Ghent, Oost-Vlaanderen; Oct/1+2
+    - 2015 @ Ghent, Oost-Vlaanderen; Oct/1+2  (€250/210)
     - 2014 @ Ghent, Oost-Vlaanderen; Oct/2+3
 
 <!-- new list; user groups -->
@@ -242,7 +242,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### Spain / España (es)
 
 - [Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS](http://www.fullstackfest.com)
-   - 2015 @ Barcelona, Catalonia; Sept/1-5
+   - 2015 @ Barcelona, Catalonia; Sept/1-5  (BaRuCo €295, Future JS €295, Combo €490)
 
 <!-- new list; user groups -->
 
@@ -252,13 +252,13 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### Portugal (pt)
 
 - [RubyConf Portugal](http://rubyconf.pt)
-  - 2015 @ Braga; Sept/14+15
+  - 2015 @ Braga; Sept/14+15  (€250/200/150, Student €80)
   - 2014 @ Braga; Oct/13+14
 
 #### Italy (it)
 
 - [RubyDay](http://www.rubyday.it)
-  - 2015 @ Turin; Nov/13
+  - 2015 @ Turin; Nov/13  (€52)
   - 2014 @ Roncade, Treviso; Sept/26
 
 #### Croatia / Hrvatska (hr)
@@ -316,7 +316,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### Ukraine / Україна / Украина (ua)
 
-- [RubyC](http://rubyc.eu)
+- [RubyC](http://rubyc.eu) by Svitla Systems
    - 2015 @ Kyiv; May/30+31
 
 <!-- new list; user groups -->
@@ -365,10 +365,10 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### United States (us)
 
-- [RubyConf](http://rubyconf.org)
+- [RubyConf](http://rubyconf.org) by Ruby Central
    - 2015 @ San Antonio, Texas; Nov/15-17
    - 2014 @ San Diego, California; Nov/17-19
-- [RailsConf](http://railsconf.com)
+- [RailsConf](http://railsconf.com) by Ruby Central
    - 2016 @ Kansas City, Missouri; May/4-6
    - 2015 @ Atlanta, Georgia; Apr/21-23
    - 2014 @ Chicago, Illinois; Apr/22-25
@@ -376,7 +376,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ##### New England
 
 - [Burlington Ruby Conference](http://www.burlingtonrubyconference.com)
-  - 2015 @ Burlington, Vermont; Aug/1+2
+  - 2015 @ Burlington, Vermont; Aug/1+2  ($250)
 
 <!-- new list; user groups -->
 
@@ -407,7 +407,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ##### Great Lakes
 
 - [Madison+ Ruby](http://madisonpl.us/ruby)
-   - 2015 @ Madison, Wisconsin; Aug/21+22
+   - 2015 @ Madison, Wisconsin; Aug/21+22  ($349)
 
 <!-- new list; user groups -->
 
@@ -428,7 +428,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ##### Rocky Mountains
 
 - [Rocky Mountain Ruby Conference](http://rockymtnruby.com)
-   - 2015 @ Boulder, Colorado; Sept/23-25
+   - 2015 @ Boulder, Colorado; Sept/23-25  ($199.99)
 
 <!-- new list; user groups -->
 
@@ -542,8 +542,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ### Japan (jp)
 
-- [RubyWorld Conference](http://www.rubyworld-conf.org/en)
-   - 2015 @ Matsue; Nov/11+12
+- [RubyWorld Conference](http://www.rubyworld-conf.org/en) by Ruby Association
+   - 2015 @ Matsue; Nov/11+12  (¥5000)
    - 2014 @ Matsue; Nov/13+14
 - [RubyKaigi](http://rubykaigi.org)
    - 2015 @ Tokyo; Dec/11-13
@@ -563,7 +563,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ### Singapore (sg)
 
 - [RedDotRubyConf](http://www.reddotrubyconf.com)
-   - 2015 @ Singapore; Jun/4+5
+   - 2015 @ Singapore; Jun/4+5  ($350/$285)
    - 2014 @ Singapore; Jun/26+27
 
 <!-- new list; user groups -->
@@ -584,7 +584,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ### India (in)
 
 - [RubyConf India](http://rubyconfindia.org)
-    - 2015 @ Goa; Apr/3-5
+    - 2015 @ Goa; Apr/3-5  ($400/200/125, Rs22000/11000/6500)
 - [Garden City Ruby Conference](http://www.gardencityruby.org)
     - 2015 @ Bangalore; Jan/10
 
@@ -636,14 +636,14 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ##### Austria / Österreich (at)
 
 - [Linuxwochen](http://www.linuxwochen.at)
-    - 2015 @ Vienna / Wien; May/7-9
+    - 2015 @ Vienna / Wien; May/7-9  (FREE)
 
 #### Western Europe
 
 ##### Belgium / België / Belgique (be)
 
 - [Free and Open Source Software Developers' European Meeting (FOSDEM)](https://fosdem.org)
-    - 2015 @ Brussels /  Brussel / Bruxelles; Jan/31+Feb/1
+    - 2015 @ Brussels /  Brussel / Bruxelles; Jan/31+Feb/1  (FREE)
 
 
 ## Calendar

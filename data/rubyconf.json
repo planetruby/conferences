@@ -1,0 +1,506 @@
+[
+  {
+    "name": "RailsConf",
+    "start_date": "2016-05-04",
+    "end_date": "2016-05-06",
+    "days": 3,
+    "place": "Kansas City, Missouri › United States (us) › North America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyKaigi",
+    "start_date": "2015-12-11",
+    "end_date": "2015-12-13",
+    "days": 3,
+    "place": "Tokyo › Japan (jp) › Asia",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyConf",
+    "start_date": "2015-11-15",
+    "end_date": "2015-11-17",
+    "days": 3,
+    "place": "San Antonio, Texas › United States (us) › North America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyDay",
+    "start_date": "2015-11-13",
+    "end_date": "2015-11-13",
+    "days": 1,
+    "place": "Turin › Italy (it) › Southern Europe › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyWorld Conference",
+    "start_date": "2015-11-11",
+    "end_date": "2015-11-12",
+    "days": 2,
+    "place": "Matsue › Japan (jp) › Asia",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "EuRuKo - European Ruby Konference",
+    "start_date": "2015-10-17",
+    "end_date": "2015-10-18",
+    "days": 2,
+    "place": "Salzburg, Austria › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyConf Colombia",
+    "start_date": "2015-10-15",
+    "end_date": "2015-10-16",
+    "days": 2,
+    "place": "Medellin › Colombia (co) › South America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "ArrrCamp",
+    "start_date": "2015-10-01",
+    "end_date": "2015-10-02",
+    "days": 2,
+    "place": "Ghent, Oost-Vlaanderen › Belgium / België / Belgique (be) › Western Europe › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "Ruby Open Source Software (ROSS) Conference - ROSSConf",
+    "start_date": "2015-09-26",
+    "end_date": "2015-09-26",
+    "days": 1,
+    "place": "Berlin, Germany › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "Rocky Mountain Ruby Conference",
+    "start_date": "2015-09-23",
+    "end_date": "2015-09-25",
+    "days": 3,
+    "place": "Boulder, Colorado › Rocky Mountains › United States (us) › North America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyConf Brasil",
+    "start_date": "2015-09-18",
+    "end_date": "2015-09-19",
+    "days": 2,
+    "place": "São Paulo › Brazil / Brasil (br) › South America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyConf Portugal",
+    "start_date": "2015-09-14",
+    "end_date": "2015-09-15",
+    "days": 2,
+    "place": "Braga › Portugal (pt) › Southern Europe › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyConf Taiwan",
+    "start_date": "2015-09-11",
+    "end_date": "2015-09-12",
+    "days": 2,
+    "place": "Taipei › Taiwan (tw) › Asia",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS",
+    "start_date": "2015-09-01",
+    "end_date": "2015-09-05",
+    "days": 5,
+    "place": "Barcelona, Catalonia › Spain / España (es) › Southern Europe › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "Madison+ Ruby",
+    "start_date": "2015-08-21",
+    "end_date": "2015-08-22",
+    "days": 2,
+    "place": "Madison, Wisconsin › Great Lakes › United States (us) › North America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "Burlington Ruby Conference",
+    "start_date": "2015-08-01",
+    "end_date": "2015-08-02",
+    "days": 2,
+    "place": "Burlington, Vermont › New England › United States (us) › North America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "eurucamp - European Ruby Camp",
+    "start_date": "2015-07-31",
+    "end_date": "2015-08-02",
+    "days": 3,
+    "place": "Berlin (Potsdam), Germany › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "JRuby Conference Europe - JRubyConf EU",
+    "start_date": "2015-07-31",
+    "end_date": "2015-07-31",
+    "days": 1,
+    "place": "Berlin (Potsdam), Germany › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "Brighton Ruby Conference",
+    "start_date": "2015-07-20",
+    "end_date": "2015-07-20",
+    "days": 1,
+    "place": "Brighton, East Sussex › England (en) › Western Europe › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyMotion Conference - #inspect",
+    "start_date": "2015-07-01",
+    "end_date": "2015-07-02",
+    "days": 2,
+    "place": "Paris, France › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "Gotham Ruby Conference (GORUCO)",
+    "start_date": "2015-06-20",
+    "end_date": "2015-06-20",
+    "days": 1,
+    "place": "New York, New York › Mid Atlantic › United States (us) › North America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RuPy Campinas",
+    "start_date": "2015-06-20",
+    "end_date": "2015-06-20",
+    "days": 1,
+    "place": "Campinas, São Paulo › Brazil / Brasil (br) › South America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "MagmaConf",
+    "start_date": "2015-06-18",
+    "end_date": "2015-06-20",
+    "days": 3,
+    "place": "Manzanillo, Colima › Mexico / México (mx) › North America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RedDotRubyConf",
+    "start_date": "2015-06-04",
+    "end_date": "2015-06-05",
+    "days": 2,
+    "place": "Singapore › Singapore (sg) › Asia",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyC",
+    "start_date": "2015-05-30",
+    "end_date": "2015-05-31",
+    "days": 2,
+    "place": "Kyiv › Ukraine / Україна / Украина (ua) › Eastern Europe › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "Rails Club",
+    "start_date": "2015-05-21",
+    "end_date": "2015-05-22",
+    "days": 2,
+    "place": "Moscow › Russia / Россия (ru) › Eastern Europe › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyConf Kenya",
+    "start_date": "2015-05-08",
+    "end_date": "2015-05-09",
+    "days": 2,
+    "place": "Nairobi › Kenya (ke) › Africa",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "JekyllConf",
+    "start_date": "2015-05-02",
+    "end_date": "2015-05-02",
+    "days": 1,
+    "place": "Intertubes › Online",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "Ruby Open Source Software (ROSS) Conference - ROSSConf",
+    "start_date": "2015-04-25",
+    "end_date": "2015-04-25",
+    "days": 1,
+    "place": "Vienna, Austria › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RailsConf",
+    "start_date": "2015-04-21",
+    "end_date": "2015-04-23",
+    "days": 3,
+    "place": "Atlanta, Georgia › United States (us) › North America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyConf India",
+    "start_date": "2015-04-03",
+    "end_date": "2015-04-05",
+    "days": 3,
+    "place": "Goa › India (in) › Asia",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyConf Philippines",
+    "start_date": "2015-03-27",
+    "end_date": "2015-03-28",
+    "days": 2,
+    "place": "Boracy Island › Philippines / Pilipinas (ph) › Asia",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyConfLT - Lithuanian Ruby Conference",
+    "start_date": "2015-03-21",
+    "end_date": "2015-03-21",
+    "days": 1,
+    "place": "Vilnius › Lithuania / Lietuva (lt) › Northern Europe › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "wroc_love.rb",
+    "start_date": "2015-03-13",
+    "end_date": "2015-03-15",
+    "days": 3,
+    "place": "Wrocław › Poland (pl) › Central Europe › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "Bath Ruby Conference",
+    "start_date": "2015-03-13",
+    "end_date": "2015-03-13",
+    "days": 1,
+    "place": "Bath, Somerset › England (en) › Western Europe › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "Tropical Ruby",
+    "start_date": "2015-03-05",
+    "end_date": "2015-03-08",
+    "days": 4,
+    "place": "Porto de Galinhas, Pernambuco › Brazil / Brasil (br) › South America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyFuza",
+    "start_date": "2015-02-05",
+    "end_date": "2015-02-06",
+    "days": 2,
+    "place": "Cape Town › South Africa (za) › Africa",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyConf Australia",
+    "start_date": "2015-02-04",
+    "end_date": "2015-02-07",
+    "days": 4,
+    "place": "Melbourne › Australia (au) › Pacific / Oceania",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "Garden City Ruby Conference",
+    "start_date": "2015-01-10",
+    "end_date": "2015-01-10",
+    "days": 1,
+    "place": "Bangalore › India (in) › Asia",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RuPy Campinas",
+    "start_date": "2014-11-29",
+    "end_date": "2014-11-29",
+    "days": 1,
+    "place": "São José dos Campos, São Paulo › Brazil / Brasil (br) › South America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyConf",
+    "start_date": "2014-11-17",
+    "end_date": "2014-11-19",
+    "days": 3,
+    "place": "San Diego, California › United States (us) › North America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyWorld Conference",
+    "start_date": "2014-11-13",
+    "end_date": "2014-11-14",
+    "days": 2,
+    "place": "Matsue › Japan (jp) › Asia",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "Rails Rumble",
+    "start_date": "2014-10-18",
+    "end_date": "2014-10-19",
+    "days": 2,
+    "place": "Intertubes › Online",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyConf Portugal",
+    "start_date": "2014-10-13",
+    "end_date": "2014-10-14",
+    "days": 2,
+    "place": "Braga › Portugal (pt) › Southern Europe › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "ArrrCamp",
+    "start_date": "2014-10-02",
+    "end_date": "2014-10-03",
+    "days": 2,
+    "place": "Ghent, Oost-Vlaanderen › Belgium / België / Belgique (be) › Western Europe › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyDay",
+    "start_date": "2014-09-26",
+    "end_date": "2014-09-26",
+    "days": 1,
+    "place": "Roncade, Treviso › Italy (it) › Southern Europe › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyKaigi",
+    "start_date": "2014-09-18",
+    "end_date": "2014-09-20",
+    "days": 3,
+    "place": "Tokyo › Japan (jp) › Asia",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyConf Brasil",
+    "start_date": "2014-08-28",
+    "end_date": "2014-08-29",
+    "days": 2,
+    "place": "São Paulo › Brazil / Brasil (br) › South America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RedDotRubyConf",
+    "start_date": "2014-06-26",
+    "end_date": "2014-06-27",
+    "days": 2,
+    "place": "Singapore › Singapore (sg) › Asia",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "EuRuKo - European Ruby Konference",
+    "start_date": "2014-06-20",
+    "end_date": "2014-06-21",
+    "days": 2,
+    "place": "Kyiv, Ukraine › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "MagmaConf",
+    "start_date": "2014-06-04",
+    "end_date": "2014-06-06",
+    "days": 3,
+    "place": "Manzanillo, Colima › Mexico / México (mx) › North America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyConf Taiwan",
+    "start_date": "2014-04-25",
+    "end_date": "2014-04-26",
+    "days": 2,
+    "place": "Taipei › Taiwan (tw) › Asia",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "Tropical Ruby",
+    "start_date": "2014-04-24",
+    "end_date": "2014-04-27",
+    "days": 4,
+    "place": "Porto de Galinhas, Pernambuco › Brazil / Brasil (br) › South America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RailsConf",
+    "start_date": "2014-04-22",
+    "end_date": "2014-04-25",
+    "days": 4,
+    "place": "Chicago, Illinois › United States (us) › North America › America",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "RubyConf Philippines",
+    "start_date": "2014-03-28",
+    "end_date": "2014-03-29",
+    "days": 2,
+    "place": "Manila › Philippines / Pilipinas (ph) › Asia",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+  {
+    "name": "EuRuKo - European Ruby Konference",
+    "start_date": "2013-06-28",
+    "end_date": "2013-06-29",
+    "days": 2,
+    "place": "Athens, Greece › Europe",
+    "url": "-to be done-",
+    "twitter": "-to be done-"
+  },
+]
