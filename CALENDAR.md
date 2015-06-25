@@ -1,6 +1,6 @@
 # Ruby Conference Calendar
 
-_Last update on 2015-06-24._
+_Last update on 2015-06-25._
 
 ---
 
@@ -202,7 +202,6 @@ Fri+Sat Mar/28+29 (2d) • **[RubyConf Philippines](http://rubyconf.ph)** @ Mani
 Fri+Sat Jun/28+29 (2d) • **[European Ruby Konference - EuRuKo](http://euruko.org)** @ Athens, Greece › Europe
 
 
-
 ## More
 
 TIP: Try the "live" version using the [whatson command line tool](https://github.com/textkit/whatson). Type:
@@ -235,4 +234,3 @@ Upcoming Ruby Conferences:
   in 132d  RubyWorld Conference, Wed+Thu Nov/11+12 (2d) @ Matsue › Japan (jp) › Asia
   ...
 ~~~
-
