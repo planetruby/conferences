@@ -2,7 +2,7 @@
 
 A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world
 
-Note: :octocat: stands for the GitHub page.
+Note: :octocat: or :octopus: stands for the GitHub page.
 
 ---
 
@@ -78,28 +78,28 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ## World
 
-- [Rails Girls](http://railsgirls.com)
-- [Rails Girls Summer of Code](http://railsgirlssummerofcode.org)
+- [Rails Girls](http://railsgirls.com), [@railsgirls](https://twitter.com/railsgirls)
+- [Rails Girls Summer of Code](http://railsgirlssummerofcode.org), [@RailsGirlsSoC](https://twitter.com/RailsGirlsSoC)
 
 ## Online
 
-- [Rails Rumble](https://railsrumble.com)
+- [Rails Rumble](https://railsrumble.com), [@railsrumble](https://twitter.com/railsrumble)
     - 2014 @ Intertubes; Oct/18+19
-- [JekyllConf](http://jekyllconf.com)
+- [JekyllConf](http://jekyllconf.com), [@JekyllConf](https://twitter.com/JekyllConf)
     - 2015 @ Intertubes; May/2
 
 ## Europe
 
-- [European Ruby Konference - EuRuKo](http://euruko.org)
+- [EuRuKo - European Ruby Konference](http://euruko.org), [@euruko](https://twitter.com/euruko)
     - 2015 @ Salzburg, Austria; Oct/17+18
     - 2014 @ Kyiv, Ukraine; Jun/20+21
     - 2013 @ Athens, Greece; Jun/28+29
-- [European Ruby Camp - eurucamp](http://eurucamp.org)
+- [eurucamp - European Ruby Camp](http://eurucamp.org), [@eurucamp](https://twitter.com/eurucamp)
     - 2015 @ Berlin (Potsdam), Germany; Jul/31-Aug/2
-- [Ruby Open Source Software (ROSS) Conference - ROSSConf](http://rossconf.io) - [:octocat:](https://github.com/rossconf)
+- [Ruby Open Source Software (ROSS) Conference - ROSSConf](http://rossconf.io), [:octocat:](https://github.com/rossconf), [@ROSSConf](https://twitter.com/ROSSConf)
     - 2015 @ Berlin, Germany; Sept/26
     - 2015 @ Vienna, Austria; Apr/25
-- [JRuby Conference Europe - JRubyConf EU](http://jrubyconf.eu)
+- [JRuby Conference Europe - JRubyConf EU](http://jrubyconf.eu), [@JRubyConfEU](https://twitter.com/JRubyConfEU)
     - 2015 @ Berlin (Potsdam), Germany; Jul/31
 - [RubyMotion Conference - #inspect](http://conference.rubymotion.com)
     - 2015 @ Paris, France; Jul/1+2
@@ -109,7 +109,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 #### Austria / Österreich (at)
 
 - @ Vienna / Wien
-    - [Vienna.rb](http://vienna-rb.at) - [:octocat:](https://github.com/vienna-rb)
+    - [Vienna.rb](http://vienna-rb.at) - [:octocat:](https://github.com/vienna-rb), [@viennarb](https://twitter.com/viennarb)
     - [Ruby Habits](http://meetup.com/RubyHabits)
 - @ Linz, Oberösterreich
     - [Ruby User Group Linz (RUGL)](http://meetup.com/Ruby-User-Group-Linz-RUGL)
