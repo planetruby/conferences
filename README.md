@@ -1,4 +1,13 @@
-# awesome-events
+Awesome Series @ Planet Ruby
+
+[Rubies (Virtual Machines, Compilers, ...)](https://github.com/planetruby/awesome-rubies) • 
+[ActiveRecord](https://github.com/planetruby/awesome-activerecord)  •
+[Webframeworks (Micro, Macro, APIs, ...)](https://github.com/planetruby/awesome-webframeworks) •
+[Events (Conferences, Camps, Meetups, ...)](https://github.com/planetruby/awesome-events) •
+[Blogs (News, Opinions, Podcasts, ...)](https://github.com/planetruby/awesome-blogs)
+
+
+# Events
 
 A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world
 
@@ -6,7 +15,7 @@ Note: :octocat: or :octopus: stands for the GitHub page.
 
 ---
 
-[ANNOUNCEMENT] Looking for awesome Ruby Gems? See the [Ruby Gems of the Week Series @ Planet Ruby](http://planetruby.github.io/gems).
+[ANNOUNCEMENT] Looking for awesome football events (tournaments, leagues, cups, etc.)? See the [Football Calendar @ Open Football](https://github.com/openfootball/calendar).
 
 ---
 
