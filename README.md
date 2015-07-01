@@ -567,6 +567,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ### Australia (au)
 
 - [RubyConf Australia](http://www.rubyconf.org.au)
+    - 2016 @ Gold Coast; Feb/13-10
     - 2015 @ Melbourne; Feb/4-7
 
 <!-- new list; user groups -->
