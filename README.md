@@ -389,6 +389,11 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ##### Southwest
 
+- [LoneStarRuby Conference](http://lonestarruby.org)
+    - 2015 @ Austin, Texas; Aug/15  ($249/199/150)
+
+<!-- new list; user groups -->
+
 - @ Austin, Texas
     - [Austin on Rails](http://austinonrails.org) - [:octocat:](https://github.com/austinonrails)
 - @ Dallas, Texas
