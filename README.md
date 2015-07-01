@@ -11,7 +11,7 @@ Awesome Series @ Planet Ruby
 
 A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world
 
-Note: :octocat: or :octopus: stands for the GitHub page.
+Note: :octocat: stands for the GitHub page.
 
 ---
 
