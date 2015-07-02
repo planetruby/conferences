@@ -177,6 +177,8 @@ Note: :octocat: stands for the GitHub page.
 <!-- new list; user groups -->
 
 - [Belgian Ruby User Group (BRUG)](http://brug.be) - [:octocat:](https://github.com/brug-be)
+- [Ruby Burgers](http://www.meetup.com/ruby_burgers-rb)
+- [Rails Girls Brussels](http://railsgirls.com/brussels) - [:octocat:](https://github.com/railsgirls-be/)
 
 
 #### Netherlands (nl)
