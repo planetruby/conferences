@@ -171,7 +171,7 @@ Note: :octocat: stands for the GitHub page.
 #### Belgium / België / Belgique (be)
 
 - [ArrrCamp](http://arrrrcamp.be)
-    - 2015 @ Ghent, Oost-Vlaanderen; Oct/1+2  (€250/210)
+    - 2015 @ Ghent, Oost-Vlaanderen; Oct/1+2  (€250/210/160)
     - 2014 @ Ghent, Oost-Vlaanderen; Oct/2+3
 - [RubyCamp Belgium](http://rubycamp.brug.be)
     - 2015 @ Tilff, Liège; Aug/28-30 (€100)
