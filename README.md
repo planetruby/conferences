@@ -11,8 +11,6 @@ Awesome Series @ Planet Ruby
 
 A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world
 
-Note: :octocat: stands for the GitHub page.
-
 ---
 
 [ANNOUNCEMENT] Looking for awesome football events (tournaments, leagues, cups, etc.)? See the [Football Calendar @ Open Football](https://github.com/openfootball/calendar).
@@ -25,6 +23,8 @@ Note: :octocat: stands for the GitHub page.
 [South America](#south-america) • [Asia](#asia) • [Africa](#africa) • [Pacific / Oceania](#pacific--oceania) • 
 [Calendar](#calendar) • [Meta](#meta)
 
+
+Note: :octocat: stands for the GitHub page.
 
 ## World
 
