@@ -19,7 +19,7 @@ Note: :octocat: stands for the GitHub page.
 
 ---
 
-Contributions welcome. Anything missing? Send in a pull request. Thanks.
+#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 [World](#world) • [Online](#online) • [Europe](#europe) • [North America](#north-america) •
 [South America](#south-america) • [Asia](#asia) • [Africa](#africa) • [Pacific / Oceania](#pacific--oceania) • 
