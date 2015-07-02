@@ -173,12 +173,18 @@ Note: :octocat: stands for the GitHub page.
 - [ArrrCamp](http://arrrrcamp.be)
     - 2015 @ Ghent, Oost-Vlaanderen; Oct/1+2  (€250/210)
     - 2014 @ Ghent, Oost-Vlaanderen; Oct/2+3
+- [RubyCamp Belgium](http://rubycamp.brug.be)
+    - 2015 @ Tilff, Liège; Aug/28-30 (€100)
 
 <!-- new list; user groups -->
 
 - [Belgian Ruby User Group (BRUG)](http://brug.be) - [:octocat:](https://github.com/brug-be)
-- [Ruby Burgers](http://www.meetup.com/ruby_burgers-rb)
-- [Rails Girls Brussels](http://railsgirls.com/brussels) - [:octocat:](https://github.com/railsgirls-be/)
+
+<!-- new list -->
+
+- @ Brussels
+   - [Ruby Burgers](http://meetup.com/ruby_burgers-rb)
+   - [Rails Girls Brussels](http://railsgirls.com/brussels) - [:octocat:](https://github.com/railsgirls-be)
 
 
 #### Netherlands (nl)
