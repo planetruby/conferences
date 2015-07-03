@@ -3,6 +3,8 @@ Awesome Series @ Planet Ruby
 [Rubies (Virtual Machines, Compilers, ...)](https://github.com/planetruby/awesome-rubies) • 
 [ActiveRecord](https://github.com/planetruby/awesome-activerecord)  •
 [Webframeworks (Micro, Macro, APIs, ...)](https://github.com/planetruby/awesome-webframeworks) •
+[Webservers (Single-Threaded, Multi-Threaded, Evented, ...)](https://github.com/planetruby/awesome-webservers) •
+[Static Generators (Sites, Books, Presentations, ...)](https://github.com/planetruby/awesome-staticgen) •
 [Events (Conferences, Camps, Meetups, ...)](https://github.com/planetruby/awesome-events) •
 [Blogs (News, Opinions, Podcasts, ...)](https://github.com/planetruby/awesome-blogs)
 
@@ -40,15 +42,17 @@ Note: :octocat: stands for the GitHub page.
 
 ## Europe
 
-- [EuRuKo - European Ruby Konference](http://euruko.org), [@euruko](https://twitter.com/euruko)
+- [EuRuKo - European Ruby Konference](http://euruko.org), [@euruko](https://twitter.com/euruko) - _since 2003_
     - 2015 @ Salzburg, Austria; Oct/17+18  (€65)
     - 2014 @ Kyiv, Ukraine; Jun/20+21
     - 2013 @ Athens, Greece; Jun/28+29
+    - ...
+    - 2003 @ Karlsruhe, Germany; ???    - #1
 - [eurucamp - European Ruby Camp](http://eurucamp.org), [@eurucamp](https://twitter.com/eurucamp)
     - 2015 @ Berlin (Potsdam), Germany; Jul/31-Aug/2  (€180, Student €120)
 - [Ruby Open Source Software (ROSS) Conference - ROSSConf](http://rossconf.io), [:octocat:](https://github.com/rossconf), [@ROSSConf](https://twitter.com/ROSSConf)
-    - 2015 @ Berlin, Germany; Sept/26  (FREE)
-    - 2015 @ Vienna, Austria; Apr/25  (FREE)
+    - 2015 @ Berlin, Germany; Sept/26  (FREE) - #2
+    - 2015 @ Vienna, Austria; Apr/25  (FREE)  - #1
 - [JRuby Conference Europe - JRubyConf EU](http://jrubyconf.eu), [@JRubyConfEU](https://twitter.com/JRubyConfEU)
     - 2015 @ Berlin (Potsdam), Germany; Jul/31  (€130, Student €120)
 - [RubyMotion Conference - #inspect](http://conference.rubymotion.com)
@@ -323,13 +327,17 @@ Note: :octocat: stands for the GitHub page.
 
 #### United States (us)
 
-- [RubyConf](http://rubyconf.org) by Ruby Central
+- [RubyConf](http://rubyconf.org) _since 2001_  by Ruby Central
    - 2015 @ San Antonio, Texas; Nov/15-17
    - 2014 @ San Diego, California; Nov/17-19
-- [RailsConf](http://railsconf.com) by Ruby Central
+   - ...
+   - 2001 @ ??, Florida;  ??   - #1
+- [RailsConf](http://railsconf.com) _since 2006_ by Ruby Central
    - 2016 @ Kansas City, Missouri; May/4-6
    - 2015 @ Atlanta, Georgia; Apr/21-23
    - 2014 @ Chicago, Illinois; Apr/22-25
+   - ...
+   - 2006 @ Chicago, Illinois; ???  - #1
 
 ##### New England
 
