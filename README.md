@@ -405,6 +405,8 @@ Note: :octocat: stands for the GitHub page.
 
 ##### Southwest
 
+- [Keep Ruby Weird](http://keeprubyweird.com)
+   - 2015 @ Austin, Texas; Oct/23
 - [LoneStarRuby Conference](http://lonestarruby.org)
     - 2015 @ Austin, Texas; Aug/15  ($249/199/150)
 
