@@ -65,10 +65,10 @@ Note: :octocat: stands for the GitHub page.
 #### Austria / Österreich (at)
 
 - @ Vienna / Wien
-    - [Vienna.rb](http://vienna-rb.at) - [:octocat:](https://github.com/vienna-rb), [@viennarb](https://twitter.com/viennarb)
-    - [Ruby Habits](http://meetup.com/RubyHabits)
+    - **Vienna.rb** (web: [vienna-rb.at](http://vienna-rb.at), github: [vienna-rb](https://github.com/vienna-rb), t: [viennarb](https://twitter.com/viennarb))
+    - **Ruby Habits** (m: [RubyHabits](http://meetup.com/RubyHabits))
 - @ Linz, Oberösterreich
-    - [Ruby User Group Linz (RUGL)](http://meetup.com/Ruby-User-Group-Linz-RUGL)
+    - **Ruby User Group Linz - RUGL** (m: [Ruby-User-Group-Linz-RUGL](http://meetup.com/Ruby-User-Group-Linz-RUGL))
 
 <!--
 - @ Innsbruck, Tirol
