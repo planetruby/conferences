@@ -25,19 +25,20 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 [South America](#south-america) • [Asia](#asia) • [Africa](#africa) • [Pacific / Oceania](#pacific--oceania) • 
 [Calendar](#calendar) • [Meta](#meta)
 
-
+<!--
 Note: :octocat: stands for the GitHub page.
-
+  -->
+  
 ## World
 
-- [Rails Girls](http://railsgirls.com), [@railsgirls](https://twitter.com/railsgirls)
-- [Rails Girls Summer of Code](http://railsgirlssummerofcode.org), [@RailsGirlsSoC](https://twitter.com/RailsGirlsSoC)
+- **Rails Girls** (web: [railsgirls.com](http://railsgirls.com), t: [railsgirls](https://twitter.com/railsgirls))
+- **Rails Girls Summer of Code** (web: [railsgirlssummerofcode.org](http://railsgirlssummerofcode.org), t: [RailsGirlsSoC](https://twitter.com/RailsGirlsSoC))
 
 ## Online
 
-- [Rails Rumble](https://railsrumble.com), [@railsrumble](https://twitter.com/railsrumble)
+- **Rails Rumble** (web: [railsrumble.com](https://railsrumble.com), t: [railsrumble](https://twitter.com/railsrumble))
     - 2014 @ Intertubes; Oct/18+19  (FREE)
-- [JekyllConf](http://jekyllconf.com), [@JekyllConf](https://twitter.com/JekyllConf)
+- **JekyllConf** (web: [jekyllconf.com](http://jekyllconf.com), t: [JekyllConf](https://twitter.com/JekyllConf))
     - 2015 @ Intertubes; May/2   (FREE)
 
 ## Europe
