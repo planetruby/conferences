@@ -66,9 +66,9 @@ Note: :octocat: stands for the GitHub page.
 
 - @ Vienna / Wien
     - **Vienna.rb** (web: [vienna-rb.at](http://vienna-rb.at), github: [vienna-rb](https://github.com/vienna-rb), t: [viennarb](https://twitter.com/viennarb))
-    - **Ruby Habits** (m: [RubyHabits](http://meetup.com/RubyHabits))
+    - **Ruby Habits** (meetup: [RubyHabits](http://meetup.com/RubyHabits))
 - @ Linz, Oberösterreich
-    - **Ruby User Group Linz - RUGL** (m: [Ruby-User-Group-Linz-RUGL](http://meetup.com/Ruby-User-Group-Linz-RUGL))
+    - **Ruby User Group Linz - RUGL** (meetup: [Ruby-User-Group-Linz-RUGL](http://meetup.com/Ruby-User-Group-Linz-RUGL))
 
 <!--
 - @ Innsbruck, Tirol
@@ -77,36 +77,38 @@ Note: :octocat: stands for the GitHub page.
 
 #### Switzerland / Schweiz / Suisse / Confoederatio Helvetica (ch)
 
-- [Ruvetia (Helvetian Ruby User Group)](http://ruvetia.org) - [:octocat:](https://github.com/ruvetia)
+- **Ruvetia - Helvetian Ruby User Group** (web: [ruvetia.org](http://ruvetia.org), github: [ruvetia](https://github.com/ruvetia))
 - @ Zürich
-   - [Ruby on Rails Schweiz](http://meetup.com/rubyonrails-ch)
+   - **Ruby on Rails Schweiz** (meetup: [rubyonrails-ch](http://meetup.com/rubyonrails-ch))
 
 
 #### Germany / Deutschland (de)
 
 - @ Berlin
-    - [Ruby User Group Berlin (RUG::B)](http://rug-b.de), [@rug_b](https://twitter.com/rug_b)
-    - [Rails Girls Berlin](http://railsgirlsberlin.de), [@railsgirls_bln](https://twitter.com/railsgirls_bln)
+    - **Ruby User Group Berlin - RUG::B** (web: [rug-b.de](http://rug-b.de), t: [rug_b](https://twitter.com/rug_b))
+    - **Rails Girls Berlin** (web: [railsgirlsberlin.de](http://railsgirlsberlin.de), t:  [railsgirls_bln](https://twitter.com/railsgirls_bln))
 - @ Hamburg
-    - [Hamburg on Ruby](http://hamburg.onruby.de)
+    - **Hamburg on Ruby** (web: [hamburg.onruby.de](http://hamburg.onruby.de))
 - @ Cologne / Köln, North Rhine-Westphalia / Nordrhein-Westfalen
-    - [Kölsch.rb / Cologne.rb](http://cologne.onruby.de)
+    - **Kölsch.rb / Cologne.rb** (web: [cologne.onruby.de](http://cologne.onruby.de))
 - @ Dresden, Saxony / Sachsen
-    - [Dresden on Ruby](http://dresden.onruby.de)
+    - **Dresden on Ruby** (web: [dresden.onruby.de](http://dresden.onruby.de))
 - @ Leipzig, Saxony / Sachsen
-    - [Leipzig on Rails](http://leipzig.onruby.de)
+    - **Leipzig on Rails** (web: [leipzig.onruby.de](http://leipzig.onruby.de))
 - @ Munich / München, Bavaria / Bayern
-    - [Munich Rubyshift Ruby User Group](http://meetup.com/Munich-Rubyshift-Ruby-User-Group)
+    - **Munich Rubyshift Ruby User Group** (meetup: [Munich-Rubyshift-Ruby-User-Group](http://meetup.com/Munich-Rubyshift-Ruby-User-Group))
+
 
 #### Slovakia (sk)
 
 - @ Bratislava
-   - [Rubyslava](http://rubyslava.sk) - [:octocat:](https://github.com/rubyslava), [@rubyslava](https://twitter.com/rubyslava)
+   - **Rubyslava** (web: [rubyslava.sk](http://rubyslava.sk), github: [rubyslava](https://github.com/rubyslava), t:  [rubyslava](https://twitter.com/rubyslava))
+
 
 #### Slovenia (si)
 
 - @ Ljubljana
-   - [Slovenia Ruby User Group](http://rug.si) - [:octocat:](https://github.com/RubySlovenia)
+   - **Slovenia Ruby User Group** (web: [rug.si](http://rug.si), github: [RubySlovenia](https://github.com/RubySlovenia))
 
 #### Czech Republic (cz)
 
