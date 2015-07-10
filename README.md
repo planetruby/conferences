@@ -43,21 +43,22 @@ Note: :octocat: stands for the GitHub page.
 
 ## Europe
 
-- [EuRuKo - European Ruby Konference](http://euruko.org), [@euruko](https://twitter.com/euruko) - _since 2003_
+- **European Ruby Konference - EuRuKo** (web: [euruko.org](http://euruko.org), t: [euruko](https://twitter.com/euruko)) - _since 2003_
     - 2015 @ Salzburg, Austria; Oct/17+18  (€65)
     - 2014 @ Kyiv, Ukraine; Jun/20+21
     - 2013 @ Athens, Greece; Jun/28+29
     - ...
     - 2003 @ Karlsruhe, Germany; ???    - #1
-- [eurucamp - European Ruby Camp](http://eurucamp.org), [@eurucamp](https://twitter.com/eurucamp)
+- **European Ruby Camp - eurucamp** (web: [eurucamp.org](http://eurucamp.org), t: [eurucamp](https://twitter.com/eurucamp))
     - 2015 @ Berlin (Potsdam), Germany; Jul/31-Aug/2  (€180, Student €120)
-- [Ruby Open Source Software (ROSS) Conference - ROSSConf](http://rossconf.io), [:octocat:](https://github.com/rossconf), [@ROSSConf](https://twitter.com/ROSSConf)
+- **Ruby Open Source Software (ROSS) Conference - ROSSConf** (web: [rossconf.io](http://rossconf.io), github:  [rossconf](https://github.com/rossconf), t: [ROSSConf](https://twitter.com/ROSSConf))
     - 2015 @ Berlin, Germany; Sept/26  (FREE) - #2
     - 2015 @ Vienna, Austria; Apr/25  (FREE)  - #1
-- [JRuby Conference Europe - JRubyConf EU](http://jrubyconf.eu), [@JRubyConfEU](https://twitter.com/JRubyConfEU)
+- **JRuby Conference Europe - JRubyConf EU** (web: [jrubyconf.eu](http://jrubyconf.eu), t:  [JRubyConfEU](https://twitter.com/JRubyConfEU))
     - 2015 @ Berlin (Potsdam), Germany; Jul/31  (€130, Student €120)
-- [RubyMotion Conference - #inspect](http://conference.rubymotion.com)
+- **RubyMotion Conference - #inspect** (web: [conference.rubymotion.com](http://conference.rubymotion.com))
     - 2015 @ Paris, France; Jul/1+2  (€299)
+
 
 ### Central Europe
 
