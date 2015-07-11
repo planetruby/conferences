@@ -25,9 +25,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 [South America](#south-america) • [Asia](#asia) • [Africa](#africa) • [Pacific / Oceania](#pacific--oceania) • 
 [Calendar](#calendar) • [Meta](#meta)
 
-<!--
-Note: :octocat: stands for the GitHub page.
-  -->
+
   
 ## World
 
@@ -151,18 +149,18 @@ Note: :octocat: stands for the GitHub page.
 <!-- new list; user groups -->
 
 - @ Warsaw
-   - [Warsaw Ruby Users Group (WRUG)](http://wrug.eu)
+   - **Warsaw Ruby Users Group - WRUG** (web: [wrug.eu](http://wrug.eu))
 - @ Gdansk, Sopot, Gdynia
-   - [3City Ruby Users Group (TRUG)](http://trug.pl)
+   - **3City Ruby Users Group - TRUG** (web: [trug.pl](http://trug.pl))
 - @ Wrocław
-   - [Dolnośląska Grupa Użytkowników Ruby (DRUG)](http://drug.org.pl)
+   - **Dolnośląska Grupa Użytkowników Ruby - DRUG** (web: [drug.org.pl](http://drug.org.pl))
 - @ Poznań
-   - [Poznań Ruby Users Group (PRUG)](https://www.facebook.com/rubypoznan)
+   - **Poznań Ruby Users Group - PRUG** (f: [rubypoznan](https://www.facebook.com/rubypoznan))
 
 #### Hungary (hu)
 
 - @ Budapest
-   - [Budapest.rb](http://meetup.com/budapest-rb)
+   - **Budapest.rb** (meetup: [budapest-rb](http://meetup.com/budapest-rb))
 
 
 ### Western Europe
@@ -177,9 +175,9 @@ Note: :octocat: stands for the GitHub page.
 
 #### England (en)
 
-- [Brighton Ruby Conference](http://brightonruby.com)
+- **Brighton Ruby Conference** (web: [brightonruby.com](http://brightonruby.com))
     - 2015 @ Brighton, East Sussex; Jul/20  (£100)
-- [Bath Ruby Conference](http://bathruby.org)
+- **Bath Ruby Conference** (web: [bathruby.org](http://bathruby.org))
     - 2015 @ Bath, Somerset; Mar/13  (£99/£79/£59, Student £39)
 
 <!-- new list; user groups -->
@@ -192,50 +190,50 @@ Note: :octocat: stands for the GitHub page.
 
 #### Scotland
 
-- [Scottish Ruby User Group](http://www.scotrug.org) - [:octocat:](https://github.com/scotrug)
+- **Scottish Ruby User Group** (web: [scotrug.org](http://www.scotrug.org), github: [scotrug](https://github.com/scotrug))
    - @ Edinburgh & Glasgow
 
 #### Ireland / Éire (ie)
 
-- [Ruby Ireland](http://www.rubyireland.com) - [:octocat:](https://github.com/rubyireland)
+- **Ruby Ireland** (web: [rubyireland.com](http://www.rubyireland.com), github: [rubyireland](https://github.com/rubyireland))
     - @ Dublin
 
 #### France (fr)
 
 - @ Paris
-   - [Paris.rb](https://rubyparis.org) - [:octocat:](https://github.com/parisrb)
+   - **Paris.rb** (web: [rubyparis.org](https://rubyparis.org), github: [parisrb](https://github.com/parisrb))
 - @ Lyon
-   - [Lyon.rb](http://www.lyonrb.fr) - [:octocat:](https://github.com/lyonrb)
+   - **Lyon.rb** (web: [lyonrb.fr](http://www.lyonrb.fr), github: [lyonrb](https://github.com/lyonrb))
 - @ Lille
-   - [Ruby Nord](http://ruby-nord.org) - [:octocat:](https://github.com/ruby-nord)
+   - **Ruby Nord** (web: [ruby-nord.org](http://ruby-nord.org), github: [ruby-nord](https://github.com/ruby-nord))
 - @ Marseille
-   - [Pastis.rb de Marseille](http://pastisrb.org)
+   - **Pastis.rb de Marseille** (web: [pastisrb.org](http://pastisrb.org))
 
 #### Belgium / België / Belgique (be)
 
-- [ArrrCamp](http://arrrrcamp.be)
+- **ArrrCamp** (web: [arrrrcamp.be](http://arrrrcamp.be))
     - 2015 @ Ghent, Oost-Vlaanderen; Oct/1+2  (€250/210/160)
     - 2014 @ Ghent, Oost-Vlaanderen; Oct/2+3
-- [RubyCamp Belgium](http://rubycamp.brug.be)
+- **RubyCamp Belgium** (web: [rubycamp.brug.be](http://rubycamp.brug.be))
     - 2015 @ Tilff, Liège; Aug/28-30 (€100)
 
 <!-- new list; user groups -->
 
-- [Belgian Ruby User Group (BRUG)](http://brug.be) - [:octocat:](https://github.com/brug-be)
+- **Belgian Ruby User Group - BRUG** (web: [brug.be](http://brug.be), github: [brug-be](https://github.com/brug-be))
 
 <!-- new list -->
 
 - @ Brussels
-   - [Ruby Burgers](http://meetup.com/ruby_burgers-rb)
-   - [Rails Girls Brussels](http://railsgirls.com/brussels) - [:octocat:](https://github.com/railsgirls-be)
+   - **Ruby Burgers** (meetup: [ruby_burgers-rb](http://meetup.com/ruby_burgers-rb))
+   - **Rails Girls Brussels** (railsgirls: [brussels](http://railsgirls.com/brussels), github: [railsgirls-be](https://github.com/railsgirls-be))
 
 
 #### Netherlands (nl)
 
 - @ Amsterdam, Noord-Holland
-   - [Amsterdam.rb](http://amsrb.org) - [:octocat:](https://github.com/amsrb)
+   - **Amsterdam.rb** (web: [amsrb.org](http://amsrb.org), github: [amsrb](https://github.com/amsrb))
 - @ Rotterdam, Zuid-Holland 
-   - [Rotterdam.rb](http://rtmrb.org)
+   - **Rotterdam.rb** (web: [rtmrb.org](http://rtmrb.org))
 
 
 ### Southern Europe
@@ -247,30 +245,30 @@ Note: :octocat: stands for the GitHub page.
 
 #### Spain / España (es)
 
-- [Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS](http://www.fullstackfest.com)
+- **Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS** (web: [fullstackfest.com](http://www.fullstackfest.com))
    - 2015 @ Barcelona, Catalonia; Sept/1-5  (BaRuCo €295, Future JS €295, Combo €490)
 
 <!-- new list; user groups -->
 
 - @ Madrid
-   - [Madrid.rb](http://madridrb.com) - [:octocat:](https://github.com/madridrb)
+   - **Madrid.rb** (web: [madridrb.com](http://madridrb.com), github: [madridrb](https://github.com/madridrb))
 
 #### Portugal (pt)
 
-- [RubyConf Portugal](http://rubyconf.pt)
+- **RubyConf Portugal** (web: [rubyconf.pt](http://rubyconf.pt))
   - 2015 @ Braga; Sept/14+15  (€250/200/150, Student €80)
   - 2014 @ Braga; Oct/13+14
 
 #### Italy (it)
 
-- [RubyDay](http://www.rubyday.it)
+- **RubyDay** (web: [rubyday.it](http://www.rubyday.it))
   - 2015 @ Turin; Nov/13  (€52)
   - 2014 @ Roncade, Treviso; Sept/26
 
 #### Croatia / Hrvatska (hr)
 
 - @ Zagreb
-   - [RubyZG](http://meetup.com/rubyzg)
+   - **RubyZG** (meetup: [rubyzg](http://meetup.com/rubyzg))
 
 
 ### Northern Europe
@@ -284,28 +282,28 @@ Note: :octocat: stands for the GitHub page.
 #### Denmark / Danmark (dk)
 
 - @ Copenhagen
-   - [Copenhagen.rb](http://www.copenhagenrb.dk)
+   - **Copenhagen.rb** (web: [copenhagenrb.dk](http://www.copenhagenrb.dk))
 
 #### Sweden / Sverige (se)
 
 - @ Stockholm
-   - [Stockholm Ruby](http://stockholmruby.com) - [:octocat:](https://github.com/sthlmrb)
+   - **Stockholm Ruby** (web: [stockholmruby.com](http://stockholmruby.com), github: [sthlmrb](https://github.com/sthlmrb))
 - @ Malmö
-   - [Malmö.rb](http://malmorb.se) - [:octocat:](https://github.com/malmorb)
+   - **Malmö.rb** (web: [malmorb.se](http://malmorb.se), github: [malmorb](https://github.com/malmorb))
 
 #### Finland / Suomi (fi)
 
 - @ Helsinki
-   - [Helsinki Ruby Brigade](http://rubybrigade.fi)
+   - **Helsinki Ruby Brigade** (web: [rubybrigade.fi](http://rubybrigade.fi))
 
 #### Norway / Norge (no)
 
 - @ Oslo
-   - [irb.no - Ruby Meetup Oslo](http://irb.no)
+   - **Ruby Meetup Oslo** (web: [irb.no](http://irb.no))
 
 #### Lithuania / Lietuva (lt)
 
-- [RubyConfLT - Lithuanian Ruby Conference](http://rubyconf.lt)
+- **Lithuanian Ruby Conference - RubyConfLT** (web: [rubyconf.lt](http://rubyconf.lt))
     - 2015 @ Vilnius; Mar/21
 
 
@@ -320,21 +318,21 @@ Note: :octocat: stands for the GitHub page.
 #### Belarus / Беларусь (by)
 
 - @ Minsk
-   - [BRUG - Belarus Ruby User Group](http://brug.by)
+   - **Belarus Ruby User Group - BRUG** (web: [brug.by](http://brug.by))
 
 #### Romania / România (ro)
 
 - @ Cluj-Napoca
-  - [Cluj.rb](http://meetup.com/cluj-rb)
+  - **Cluj.rb** (meetup: [cluj-rb](http://meetup.com/cluj-rb))
 
 #### Russia / Россия (ru)
 
-- [Rails Club](http://railsclub.ru)
+- **Rails Club** (web: [railsclub.ru](http://railsclub.ru))
   - 2015 @ Moscow; May/21+22
 
 #### Ukraine / Україна / Украина (ua)
 
-- [RubyC](http://rubyc.eu) by Svitla Systems
+- **RubyC** (web: [rubyc.eu](http://rubyc.eu)) by Svitla Systems
    - 2015 @ Kyiv; May/30+31
 
 <!-- new list; user groups -->
@@ -344,14 +342,14 @@ Note: :octocat: stands for the GitHub page.
   -->
 
 - @ Kyiv
-   - [Kiev Ruby Meetup Group](http://meetup.com/ruby-kiev)
-   - [Ruby Meditation Series](http://www.eventbrite.com/o/ruby-meditation-team-3148051176)
+   - **Kiev Ruby Meetup Group** (meetup: [ruby-kiev](http://meetup.com/ruby-kiev))
+   - **Ruby Meditation Series** (eventbrite: [ruby-meditation-team](http://www.eventbrite.com/o/ruby-meditation-team-3148051176))
 - @ Dniprpopetrovsk
-   - [Dnipropetrovsk Ruby Meetup Group](http://meetup.com/ruby-dp)
+   - **Dnipropetrovsk Ruby Meetup Group** (meetup: [ruby-dp](http://meetup.com/ruby-dp))
 - @ Kharkiv
-   - [Kharkiv Ruby Users Group](http://meetup.com/kharkov-rb)
+   - **Kharkiv Ruby Users Group** (meetup: [kharkov-rb](http://meetup.com/kharkov-rb))
 - @ Lviv
-   - [Lviv Ruby Meetup Group](http://meetup.com/ruby-lviv)
+   - **Lviv Ruby Meetup Group** (meetup: [ruby-lviv](http://meetup.com/ruby-lviv))
 
 
 ## America
@@ -374,22 +372,22 @@ Note: :octocat: stands for the GitHub page.
 ##### Eastern Canada
 
 - @ Ottawa, Ontario
-   - [Ottawa Ruby] (http://ottawaruby.ca)
+   - **Ottawa Ruby** (web: [ottawaruby.ca](http://ottawaruby.ca))
 - @ Toronto, Ontario
-   - [Ruby Pub Night] (https://unspace.ca/events/#rpn)
-   - [Toronto Ruby Brigade] (http://www.meetup.com/torontoruby)
-   - [Rails Girls TO] (http://www.meetup.com/railsgirlsTO)
+   - **Ruby Pub Night** (unspace: [rpn](https://unspace.ca/events/#rpn))
+   - **Toronto Ruby Brigade** (meetup: [torontoruby](http://www.meetup.com/torontoruby))
+   - **Rails Girls TO** (meetup: [railsgirlsTO](http://www.meetup.com/railsgirlsTO))
 - @ Montreal, Quebec /  Montréal, Québec
-   - [Montreal.rb] (http://www.montrealrb.com)
+   - **Montreal.rb** (web: [montrealrb.com](http://www.montrealrb.com))
 
 ##### Western Canada
 
 - @ Calgary, Alberta
-   - [YYC Ruby - Calgary Ruby User Group](http://yycruby.org) - [:octocat:](https://github.com/yycruby)
+   - **Calgary Ruby User Group - YYC Ruby** (web: [yycruby.org](http://yycruby.org), github: [yycruby](https://github.com/yycruby))
 - @ Edmonton, Alberta
-   - [YEGRB - Edmonton's Ruby Meetup](http://yegrb.com) - [:octocat:](https://github.com/yegrb)
+   - **Edmonton's Ruby Meetup - YEGRB** (web: [yegrb.com](http://yegrb.com), github: [yegrb](https://github.com/yegrb))
 - @ Vancouver, British Columbia
-   - [VanRuby - Vancouver Ruby Meetup](http://vanruby.org)  - [:octocat:](https://github.com/vanruby)
+   - **Vancouver Ruby Meetup - VanRuby** (web: [vanruby.org](http://vanruby.org), github: [vanruby](https://github.com/vanruby))
 
 
 #### United States (us)
