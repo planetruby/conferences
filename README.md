@@ -47,24 +47,32 @@ Note: :octocat: stands for the GitHub page.
 [Western Europe](#western-europe) •
 [Southern Europe](#southern-europe) •
 [Northern Europe](#northern-europe) •
-[Eastern Europe](#eastern-europe) •
+[Eastern Europe](#eastern-europe)
 
 
 - **European Ruby Konference - EuRuKo** (web: [euruko.org](http://euruko.org), t: [euruko](https://twitter.com/euruko)) - _since 2003_
-    - 2015 @ Salzburg, Austria; Oct/17+18  (€65)
-    - 2014 @ Kyiv, Ukraine; Jun/20+21
-    - 2013 @ Athens, Greece; Jun/28+29
-    - ...
-    - 2003 @ Karlsruhe, Germany; ???    - #1
+    - 2015 @ Salzburg, Austria; Oct/17+18  (€65)    - #13
+    - ~2014~ @ Kyiv, Ukraine; June/20+21 (CANCELED) - #12
+    - 2013 @ Athens, Greece; June/28+29             - #11
+    - 2012 @ Amsterdam, Netherlands; June/1+2       - #10
+    - 2011 @ Berlin, Germany; May/28+29             - #9
+    - 2010 @ Krakow, Poland; May/29+30              - #8
+    - 2009 @ Barcelona, Spain; May/9+10             - #7
+    - 2008 @ Prague, Czech Republic; March/29+30    - #6
+    - 2007 @ Vienna, Austria; Nov/10+11  (€20)      - #5
+    - 2006 @ Munich, Germany; Nov/4+5               - #4
+    - 2005 @ Munich, Germany; Oct/15+16             - #3
+    - 2004 @ Munich, Germany; Oct/9+10              - #2
+    - 2003 @ Karlsruhe, Germany; June/21+22 (€20)   - #1
 - **European Ruby Camp - eurucamp** (web: [eurucamp.org](http://eurucamp.org), t: [eurucamp](https://twitter.com/eurucamp))
-    - 2015 @ Berlin (Potsdam), Germany; Jul/31-Aug/2  (€180, Student €120)
+    - 2015 @ Berlin (Potsdam), Germany; July/31-Aug/2  (€180, Student €120)
 - **Ruby Open Source Software (ROSS) Conference - ROSSConf** (web: [rossconf.io](http://rossconf.io), github:  [rossconf](https://github.com/rossconf), t: [ROSSConf](https://twitter.com/ROSSConf))
-    - 2015 @ Berlin, Germany; Sept/26  (FREE) - #2
-    - 2015 @ Vienna, Austria; Apr/25  (FREE)  - #1
+    - 2015 @ Berlin, Germany; Sept/26  (FREE)   - #2
+    - 2015 @ Vienna, Austria; April/25  (FREE)  - #1
 - **JRuby Conference Europe - JRubyConf EU** (web: [jrubyconf.eu](http://jrubyconf.eu), t:  [JRubyConfEU](https://twitter.com/JRubyConfEU))
-    - 2015 @ Berlin (Potsdam), Germany; Jul/31  (€130, Student €120)
+    - 2015 @ Berlin (Potsdam), Germany; July/31  (€130, Student €120)
 - **RubyMotion Conference - #inspect** (web: [conference.rubymotion.com](http://conference.rubymotion.com))
-    - 2015 @ Paris, France; Jul/1+2  (€299)
+    - 2015 @ Paris, France; July/1+2  (€299)
 
 
 ### Central Europe
@@ -76,7 +84,7 @@ Note: :octocat: stands for the GitHub page.
 [Slovenia](#) •
 [Czech Republic](#) •
 [Poland](#) •
-[Hungary](#) •
+[Hungary](#)
 
 
 #### Austria / Österreich (at)
@@ -130,15 +138,15 @@ Note: :octocat: stands for the GitHub page.
 #### Czech Republic (cz)
 
 - @ Prague / Praha
-   - [Prague.rb](http://meetup.com/Praguerb)
-   - [První středa v měsíci](http://srazy.info/prvni-streda-ruby-on-rails)
+   - **Prague.rb** (meetup: [Praguerb](http://meetup.com/Praguerb))
+   - **První středa v měsíci** (srazy: [prvni-streda-ruby-on-rails](http://srazy.info/prvni-streda-ruby-on-rails))
 - @ Brno
-   - [Brněnské PyVo + BRUG](http://lanyrd.com/series/brno-pyvo)
+   - **Brněnské PyVo + BRUG** (lanyrd: [brno-pyvo](http://lanyrd.com/series/brno-pyvo))
 
 #### Poland (pl)
 
-- [wroc_love.rb](http://www.wrocloverb.com)
-   - 2015 @ Wrocław; Mar/13-15
+- **wroc_love.rb** (web: [wrocloverb.com](http://www.wrocloverb.com))
+   - 2015 @ Wrocław; March/13-15
 
 <!-- new list; user groups -->
 
@@ -355,7 +363,7 @@ Note: :octocat: stands for the GitHub page.
 
 [Canada](#) •
 [United States](#) •
-[Mexico](#) •
+[Mexico](#)
 
 
 #### Canada (ca)
@@ -398,12 +406,21 @@ Note: :octocat: stands for the GitHub page.
 [California](#) 
 
 
-- [RubyConf](http://rubyconf.org) _since 2001_  by Ruby Central
+- **RubyConf** (web: [rubyconf.org](http://rubyconf.org)) _since 2001_  by Ruby Central
    - 2015 @ San Antonio, Texas; Nov/15-17
    - 2014 @ San Diego, California; Nov/17-19
    - ...
-   - 2001 @ ??, Florida;  ??   - #1
-- [RailsConf](http://railsconf.com) _since 2006_ by Ruby Central
+   - 2009 @ San Francisco, California; Nov/19-21 - #9
+   - 2008 @ Orlando, Florida; Nov/6-8            - #8
+   - 2007 @ Charlotte, North Carolina; Nov/2-4   - #7
+   - 2006 @ Denver, Colorado; Oct/20-22          - #6
+   - 2005 @ San Diego, California; Oct/14-16     - #5
+   - 2004 @ Washington, D.C.; Oct/1-3            - #4
+   - 2003 @ Austin, Texas; Nov/16-18             - #3
+   - 2002 @ Seattle, Washington; Nov/1-3         - #2
+   - 2001 @ Tampa, Florida;  Oct/12+13           - #1
+
+- **RailsConf** (web: [railsconf.com](http://railsconf.com)) _since 2006_ by Ruby Central
    - 2016 @ Kansas City, Missouri; May/4-6
    - 2015 @ Atlanta, Georgia; Apr/21-23
    - 2014 @ Chicago, Illinois; Apr/22-25
@@ -601,12 +618,17 @@ Note: :octocat: stands for the GitHub page.
 
 ### Japan (jp)
 
-- [RubyWorld Conference](http://www.rubyworld-conf.org/en) by Ruby Association
+- **RubyWorld Conference** (web: [rubyworld-conf.org](http://www.rubyworld-conf.org/en)) by Ruby Association
    - 2015 @ Matsue; Nov/11+12  (¥5000)
    - 2014 @ Matsue; Nov/13+14
-- [RubyKaigi](http://rubykaigi.org)
+- **RubyKaigi** (web: [rubykaigi.org](http://rubykaigi.org))
    - 2015 @ Tokyo; Dec/11-13
    - 2014 @ Tokyo; Sep/18-20
+   ...
+   - 2009 @ Chiyoda, Tokyo; July/17-19  - #4
+   - 2008 @ Tsukuba, Ibaraki; June/20-22 - #3
+   - 2007 @ Chiyoda, Tokyo; June/9+10 - #2
+   - 2006 @ Koutou, Tokyo; June/10+11 - #1
 
 <!-- new list; user groups -->
 
