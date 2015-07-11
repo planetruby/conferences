@@ -623,7 +623,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - **RubyKaigi** (web: [rubykaigi.org](http://rubykaigi.org))
    - 2015 @ Tokyo; Dec/11-13
    - 2014 @ Tokyo; Sep/18-20
-   ...
+   - ...
    - 2009 @ Chiyoda, Tokyo; July/17-19  - #4
    - 2008 @ Tsukuba, Ibaraki; June/20-22 - #3
    - 2007 @ Chiyoda, Tokyo; June/9+10 - #2
