@@ -427,89 +427,90 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ##### New England
 
-- [Burlington Ruby Conference](http://www.burlingtonrubyconference.com)
+- **Burlington Ruby Conference** (web: [burlingtonrubyconference.com](http://www.burlingtonrubyconference.com))
   - 2015 @ Burlington, Vermont; Aug/1+2  ($250)
 
 <!-- new list; user groups -->
 
 - @ Boston, Massachusetts
-    - [Boston.rb](http://bostonrb.org) - [:octocat:](https://github.com/bostonrb)
+    - **Boston.rb** (web: [bostonrb.org](http://bostonrb.org), github: [bostonrb](https://github.com/bostonrb))
 
 ##### Mid Atlantic
 
-- [Gotham Ruby Conference (GORUCO)](http://goruco.com)
+- **Gotham Ruby Conference - GORUCO** (web: [goruco.com](http://goruco.com))
    - 2015 @ New York, New York; Jun/20
 
 <!-- new list; user groups -->
 
 - @ New York, New York
-    - [NYC.rb](http://meetup.com/NYC-rb)
-    - [NYC Ruby](http://meetup.com/nycruby)
+    - **NYC.rb** (meetup: [NYC-rb](http://meetup.com/NYC-rb))
+    - **NYC Ruby** (meetup: [nycruby](http://meetup.com/nycruby))
 
 ##### Capital Region
 
 - @ Washington, D.C.
-    - [DCRUG - DC Ruby Users Group](http://meetup.com/dcruby)
+    - **DC Ruby Users Group - DCRUG** (meetup: [dcruby](http://meetup.com/dcruby))
 
 ##### South
 
 - @ Orlando, Florida
-   - [Orlando Ruby Users Group](http://meetup.com/Orlando-Ruby)
+   - **Orlando Ruby Users Group** (meetup: [Orlando-Ruby](http://meetup.com/Orlando-Ruby))
 
 ##### Great Lakes
 
-- [Madison+ Ruby](http://madisonpl.us/ruby)
+- **Madison+ Ruby** (web: [madisonpl.us/ruby](http://madisonpl.us/ruby))
    - 2015 @ Madison, Wisconsin; Aug/21+22  ($349)
 
 <!-- new list; user groups -->
 
 - @ Chicago, Illinois  
-   - [Chicago Ruby](http://chicagoruby.org) - [:octocat:](https://github.com/chicagoruby)
+   - **Chicago Ruby** (web: [chicagoruby.org](http://chicagoruby.org), github: [chicagoruby](https://github.com/chicagoruby))
 - @ Madison, Wisconsin
-    - [Mad Railers Meetup](http://meetup.com/Mad-Railers)
+    - **Mad Railers Meetup** (meetup: [Mad-Railers](http://meetup.com/Mad-Railers))
 - @ Milwaukee, Wisconsin
-    - [RubyMKE Meetup](http://meetup.com/RubyMKE)
+    - **RubyMKE Meetup** (meetup: [RubyMKE](http://meetup.com/RubyMKE))
 
 ##### Great Plains
 
 - @ Kansas City, Missouri
-   - [KC Ruby](http://kcruby.org) - [:octocat:](https://github.com/kcruby)
+   - **KC Ruby** (web: [kcruby.org](http://kcruby.org), github: [kcruby](https://github.com/kcruby))
 - @ St. Louis, Missouri
-   - [STLRuby - St. Louis Ruby User Group](http://meetup.com/stlruby) - [:octocat:](https://github.com/stlruby)
+   - **St. Louis Ruby User Group - STLRuby** (meetup: [stlruby](http://meetup.com/stlruby), github: [stlruby](https://github.com/stlruby))
 
 ##### Rocky Mountains
 
-- [Rocky Mountain Ruby Conference](http://rockymtnruby.com)
+- **Rocky Mountain Ruby Conference** (web: [rockymtnruby.com](http://rockymtnruby.com))
    - 2015 @ Boulder, Colorado; Sept/23-25  ($199.99)
 
 <!-- new list; user groups -->
 
 - @ Denver, Colorado
-   - [Denver.rb](http://meetup.com/Denver-rb)
+   - **Denver.rb** (meetup: [Denver-rb](http://meetup.com/Denver-rb))
 - @ Boulder, Colorado
-   - [Boulder Ruby Group](http://meetup.com/boulder_ruby_group)
+   - **Boulder Ruby Group** (meetup: [boulder_ruby_group](http://meetup.com/boulder_ruby_group))
 
 ##### Southwest
 
-- [Keep Ruby Weird](http://keeprubyweird.com)
+- **Keep Ruby Weird** (web: [keeprubyweird.com](http://keeprubyweird.com))
    - 2015 @ Austin, Texas; Oct/23
-- [LoneStarRuby Conference](http://lonestarruby.org)
+- **LoneStarRuby Conference** (web: [lonestarruby.org](http://lonestarruby.org))
     - 2015 @ Austin, Texas; Aug/15  ($249/199/150)
 
 <!-- new list; user groups -->
 
 - @ Austin, Texas
-    - [Austin on Rails](http://austinonrails.org) - [:octocat:](https://github.com/austinonrails)
+    - **Austin on Rails** (web: [austinonrails.org](http://austinonrails.org), github: [austinonrails](https://github.com/austinonrails))
 - @ Dallas, Texas
-    - [Dallas.rb](http://dallasrb.org) - [:octocat:](https://github.com/dallasrb)
+    - **Dallas.rb** (web: [dallasrb.org](http://dallasrb.org), github: [dallasrb](https://github.com/dallasrb))
 
 
 ##### Pacific Northwest
 
 - @ Seattle, Washington
-    - [Seattle.rb](http://seattlerb.org) - [:octocat:](https://github.com/seattlerb)
+    - **Seattle.rb** (web: [seattlerb.org](http://seattlerb.org), github: [seattlerb](https://github.com/seattlerb))
 - @ Portland, Oregon
-    - [pdx.rb - Portland Ruby Brigade, pdxruby](http://pdxruby.org) - [:octocat:](https://github.com/pdxruby)
+    - **pdx.rb - Portland Ruby Brigade, pdxruby** (web: [pdxruby.org](http://pdxruby.org), github: [pdxruby](https://github.com/pdxruby))
+
 
 ##### California
 
@@ -521,26 +522,26 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 <!-- new list; user groups -->
 
 - @ San Diego, California
-    - [SD Ruby Meetup](http://meetup.com/sdruby)
+    - **SD Ruby Meetup** (meetup: [sdruby](http://meetup.com/sdruby))
 - @ San Francisco, California
-    - [SF Ruby Meetup](http://meetup.com/sfruby)
+    - **SF Ruby Meetup** (meetup: [sfruby](http://meetup.com/sfruby))
 - @ San Jose, California
-    - [Silicon Valley Ruby Meetup](http://meetup.com/silicon-valley-ruby)
+    - **Silicon Valley Ruby Meetup** (meetup: [silicon-valley-ruby](http://meetup.com/silicon-valley-ruby))
 
 
 #### Mexico / México (mx)
 
-- [MagmaConf](http://magmaconf.com)
+- **MagmaConf** (web: [magmaconf.com](http://magmaconf.com))
   - 2015 @ Manzanillo, Colima; Jun/18-20
   - 2014 @ Manzanillo, Colima; Jun/4-6
 
 <!-- new list; user groups -->
 
 - @ Mexico City / México, D.F.
-    - [Chilango Rails](http://chilangorails.com)
-    - [UNAM / National University](http://meetup.com/UNAM-Ruby-Group)
+    - **Chilango Rails** (web: [chilangorails.com](http://chilangorails.com))
+    - **UNAM / National University** (meetup: [UNAM-Ruby-Group](http://meetup.com/UNAM-Ruby-Group))
 - @ Guadalajara, Jalisco
-    - [Ruby GDL](http://rubygdl.org)
+    - **Ruby GDL** (web: [rubygdl.org](http://rubygdl.org))
 
 
 ### South America
