@@ -152,8 +152,10 @@ Note: :octocat: stands for the GitHub page.
 <!-- new list; user groups -->
 
 - @ London
-   - [LRUG - London Ruby User Group](http://lrug.org) - [:octocat:](https://github.com/lrug)
-   - [Rails Girls London](http://railsgirls.london) - [:octocat:](https://github.com/railsgirlslondon)
+   - **London Ruby User Group - LRUG** (web: [lrug.org](http://lrug.org), github:  [lrug](https://github.com/lrug))
+   - **Rails Girls London** (web: [railsgirls.london](http://railsgirls.london), github: [railsgirlslondon](https://github.com/railsgirlslondon))
+- @ Sheffield
+   - **Sheffield Ruby User Group - ShRUG** (web: [shrug.org](http://shrug.org), github: [shruggers](https://github.com/shruggers))
 
 #### Scotland
 
