@@ -553,56 +553,56 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 [Argentina](#)
 
 
-- [RubySur - Ruby de América del Sur](http://rubysur.org) - [:octocat:](https://github.com/rubysur)
+- **RubySur - Ruby de América del Sur** (web: [rubysur.org](http://rubysur.org), github: [rubysur](https://github.com/rubysur))
 
 #### Brazil / Brasil (br)
 
-- [RubyConf Brasil](http://www.rubyconf.com.br)
+- **RubyConf Brasil** (web: [rubyconf.com.br](http://www.rubyconf.com.br))
     - 2015 @ São Paulo; Sept/18+19
     - 2014 @ São Paulo; Aug/28+29
-- [RuPy Campinas](http://campinas.rupy.com.br), [RuPy](http://rupy.com.br)
+- **RuPy, RuPy Campinas** (web: [rupy.com.br](http://rupy.com.br), [campinas.rupy.com.br](http://campinas.rupy.com.br))
     - 2015 @ Campinas, São Paulo; Jun/20
     - 2014 @ São José dos Campos, São Paulo; Nov/29
-- [Tropical Ruby](http://tropicalrb.com)
+- **Tropical Ruby** (web: [tropicalrb.com](http://tropicalrb.com))
     - 2015 @ Porto de Galinhas, Pernambuco; Mar/5-8
     - 2014 @ Porto de Galinhas, Pernambuco; Apr/24-27 (formerly: Abril Pro Ruby)
 
 <!-- new list; user groups -->
 
 - @ São Paulo
-   - [GURU SP - Grupo de Usuários Ruby de São Paulo](http://gurusp.org)
+   - **GURU SP - Grupo de Usuários Ruby de São Paulo** (web: [gurusp.org](http://gurusp.org))
 
 
 #### Colombia (co)
 
-- [RubyConf Colombia](http://www.rubyconf.co)
+- **RubyConf Colombia** (web: [rubyconf.co](http://www.rubyconf.co))
     - 2015 @ Medellin; Oct/15+16
 
 <!-- new list; user groups -->
 
 - @ Bogotá
-   - [Bogotá Ruby](http://meetup.com/bogota-ruby-meetup)
+   - **Bogotá Ruby** (meetup: [bogota-ruby-meetup](http://meetup.com/bogota-ruby-meetup))
 
 #### Peru / Perú (pe)
 
-- [Ruby Peru](http://ruby.pe) - [:octocat:](https://github.com/rubyperu)
+- **Ruby Peru** (web: [ruby.pe](http://ruby.pe), github: [rubyperu](https://github.com/rubyperu))
 
 #### Uruguay (uy)
 
 - @ Montevideo
-   - [Ruby Montevideo](http://meetup.com/ruby-montevideo)
+   - **Ruby Montevideo** (meetup: [ruby-montevideo](http://meetup.com/ruby-montevideo))
 
 #### Argentina (ar)
 
-- [Ruby Argentina](http://ruby.com.ar)
+- **Ruby Argentina** (web: [ruby.com.ar](http://ruby.com.ar))
    - @ Buenos Aires
 
 <!-- new list; user groups -->
 
 - @ Buenos Aires
-    - [Ruby Buenos Aires](http://meetup.com/rubyba)
+    - **Ruby Buenos Aires** (meetup: [rubyba](http://meetup.com/rubyba))
 - @ La Plata
-   - [la_plata.rb](http://laplatarb.com) - [:octocat:](https://github.com/laplatarb)
+   - **la_plata.rb** (web: [laplatarb.com](http://laplatarb.com), github: [laplatarb](https://github.com/laplatarb))
 
 
 ## Asia
@@ -632,40 +632,40 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 <!-- new list; user groups -->
 
 - @ Tokyo
-   - [Asakusa.rb](http://asakusa.rubyist.net) - [:octocat:](https://github.com/asakusarb)
+   - **Asakusa.rb** (web: [asakusa.rubyist.net](http://asakusa.rubyist.net), github: [asakusarb](https://github.com/asakusarb))
 
 ### Taiwan (tw)
 
-- [RubyConf Taiwan](http://rubyconf.tw)
+- **RubyConf Taiwan** (web: [rubyconf.tw](http://rubyconf.tw))
    - 2015 @ Taipei; Sept/11+12
    - 2014 @ Taipei; Apr/25+26
 
 ### Singapore (sg)
 
-- [RedDotRubyConf](http://www.reddotrubyconf.com)
+- **RedDotRubyConf** (web: [reddotrubyconf.com](http://www.reddotrubyconf.com))
    - 2015 @ Singapore; Jun/4+5  ($350/$285)
    - 2014 @ Singapore; Jun/26+27
 
 <!-- new list; user groups -->
 
 - @ Singapore
-   - [Ruby Singapore](http://ruby.sg) - [:octocat:](https://github.com/rubysg)
+   - **Ruby Singapore** (web: [ruby.sg](http://ruby.sg), github: [rubysg](https://github.com/rubysg))
 
 ### Philippines / Pilipinas (ph) 
 
-- [RubyConf Philippines](http://rubyconf.ph)
+- **RubyConf Philippines** (web: [rubyconf.ph](http://rubyconf.ph))
     - 2015 @ Boracy Island; Mar/27-28
     - 2014 @ Manila; Mar/28-29
 
 ### Vietnam (vn)
 
-- [Ruby Vietnam](http://ruby.org.vn) - [:octocat:](https://github.com/ruby-vietnam)
+- **Ruby Vietnam** (web: [ruby.org.vn](http://ruby.org.vn), github: [ruby-vietnam](https://github.com/ruby-vietnam))
 
 ### India (in)
 
-- [RubyConf India](http://rubyconfindia.org)
+- **RubyConf India** (web: [rubyconfindia.org](http://rubyconfindia.org))
     - 2015 @ Goa; Apr/3-5  ($400/200/125, Rs22000/11000/6500)
-- [Garden City Ruby Conference](http://www.gardencityruby.org)
+- **Garden City Ruby Conference** (web: [gardencityruby.org](http://www.gardencityruby.org))
     - 2015 @ Bangalore; Jan/10
 
 
@@ -677,17 +677,17 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Kenya (ke)
 
-- [RubyConf Kenya](http://ruby-conf-ke.nairuby.org)
+- **RubyConf Kenya** (web: [ruby-conf-ke.nairuby.org](http://ruby-conf-ke.nairuby.org))
    - 2015 @ Nairobi; May/8+9
 
 <!-- new list; user groups -->
 
 - @ Nairobi
-   - [Nairuby](http://nairuby.org) - [:octocat:](https://github.com/nairuby)
+   - **Nairuby** (web: [nairuby.org](http://nairuby.org), github: [nairuby](https://github.com/nairuby))
 
 ### South Africa (za)
 
-- [RubyFuza](http://www.rubyfuza.org)
+- **RubyFuza** (web: [rubyfuza.org](http://www.rubyfuza.org))
     - 2015 @ Cape Town; Feb/5+6
 
 
@@ -697,13 +697,13 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Australia (au)
 
-- [RubyConf Australia](http://www.rubyconf.org.au)
+- **RubyConf Australia** (web: [rubyconf.org.au](http://www.rubyconf.org.au))
     - 2016 @ Gold Coast; Feb/13-10
     - 2015 @ Melbourne; Feb/4-7
 
 <!-- new list; user groups -->
 
-- [Ruby Australia - rubyAU](http://ruby.org.au) - [:octocat:](https://github.com/rubyaustralia), [:octocat:](https://github.com/rails-oceania)
+- **Ruby Australia - rubyAU** (web: [ruby.org.au](http://ruby.org.au), github: [rubyaustralia](https://github.com/rubyaustralia), [rails-oceania](https://github.com/rails-oceania))
 
 
 
@@ -715,14 +715,14 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ##### Austria / Österreich (at)
 
-- [Linuxwochen](http://www.linuxwochen.at)
+- **Linuxwochen** (web: [linuxwochen.at](http://www.linuxwochen.at))
     - 2015 @ Vienna / Wien; May/7-9  (FREE)
 
 #### Western Europe
 
 ##### Belgium / België / Belgique (be)
 
-- [Free and Open Source Software Developers' European Meeting (FOSDEM)](https://fosdem.org)
+- **Free and Open Source Software Developers' European Meeting - FOSDEM** (web: [fosdem.org](https://fosdem.org))
     - 2015 @ Brussels /  Brussel / Bruxelles; Jan/31+Feb/1  (FREE)
 
 
