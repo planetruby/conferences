@@ -43,6 +43,13 @@ Note: :octocat: stands for the GitHub page.
 
 ## Europe
 
+[Central Europe](#central-europe) •
+[Western Europe](#western-europe) •
+[Southern Europe](#southern-europe) •
+[Northern Europe](#northern-europe) •
+[Eastern Europe](#eastern-europe) •
+
+
 - **European Ruby Konference - EuRuKo** (web: [euruko.org](http://euruko.org), t: [euruko](https://twitter.com/euruko)) - _since 2003_
     - 2015 @ Salzburg, Austria; Oct/17+18  (€65)
     - 2014 @ Kyiv, Ukraine; Jun/20+21
@@ -61,6 +68,16 @@ Note: :octocat: stands for the GitHub page.
 
 
 ### Central Europe
+
+[Austria](#) •
+[Switzerland](#) •
+[Germany](#) •
+[Slovakia](#) •
+[Slovenia](#) •
+[Czech Republic](#) •
+[Poland](#) •
+[Hungary](#) •
+
 
 #### Austria / Österreich (at)
 
@@ -142,6 +159,14 @@ Note: :octocat: stands for the GitHub page.
 
 ### Western Europe
 
+[England](#) •
+[Scotland](#) •
+[Ireland](#) •
+[France](#) •
+[Belgium](#) •
+[Netherlands](#)
+
+
 #### England (en)
 
 - [Brighton Ruby Conference](http://brightonruby.com)
@@ -207,6 +232,11 @@ Note: :octocat: stands for the GitHub page.
 
 ### Southern Europe
 
+[Spain](#) •
+[Portugal](#) •
+[Italy](#) •
+[Croatia](#)
+
 #### Spain / España (es)
 
 - [Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS](http://www.fullstackfest.com)
@@ -237,6 +267,12 @@ Note: :octocat: stands for the GitHub page.
 
 ### Northern Europe
 
+[Denmark](#) •
+[Sweden](#) •
+[Finland](#) •
+[Norway](#) •
+[Lithuania](#)
+
 #### Denmark / Danmark (dk)
 
 - @ Copenhagen
@@ -266,6 +302,12 @@ Note: :octocat: stands for the GitHub page.
 
 
 ### Eastern Europe
+
+[Belarus](#) •
+[Romania](#) •
+[Russia](#) •
+[Ukraine](#)
+
 
 #### Belarus / Беларусь (by)
 
@@ -306,9 +348,20 @@ Note: :octocat: stands for the GitHub page.
 
 ## America
 
+[North America](#) •
+[South America](#)
+
 ### North America
 
+[Canada](#) •
+[United States](#) •
+[Mexico](#) •
+
+
 #### Canada (ca)
+
+[Eastern Canada](#) •
+[Western Canada](#)
 
 ##### Eastern Canada
 
@@ -332,6 +385,18 @@ Note: :octocat: stands for the GitHub page.
 
 
 #### United States (us)
+
+[New England](#) •
+[Mid Atlantic](#) •
+[Capital Region](#) •
+[South](#) •
+[Great Lakes](#) •
+[Great Plains](#) •
+[Rocky Mountains](#) •
+[Southwest](#) •
+[Pacific Northwest](#) •
+[California](#) 
+
 
 - [RubyConf](http://rubyconf.org) _since 2001_  by Ruby Central
    - 2015 @ San Antonio, Texas; Nov/15-17
@@ -465,6 +530,13 @@ Note: :octocat: stands for the GitHub page.
 
 ### South America
 
+[Brazil](#) •
+[Colombia](#) •
+[Peru](#) •
+[Uruguay](#) •
+[Argentina](#)
+
+
 - [RubySur - Ruby de América del Sur](http://rubysur.org) - [:octocat:](https://github.com/rubysur)
 
 #### Brazil / Brasil (br)
@@ -519,6 +591,14 @@ Note: :octocat: stands for the GitHub page.
 
 ## Asia
 
+[Japan](#) •
+[Taiwan](#) •
+[Singapore](#) •
+[Philippines](#) •
+[Vietnam](#) •
+[India](#)
+
+
 ### Japan (jp)
 
 - [RubyWorld Conference](http://www.rubyworld-conf.org/en) by Ruby Association
@@ -570,6 +650,10 @@ Note: :octocat: stands for the GitHub page.
 
 ## Africa
 
+[Kenya](#) •
+[South Africa](#)
+
+
 ### Kenya (ke)
 
 - [RubyConf Kenya](http://ruby-conf-ke.nairuby.org)
@@ -588,6 +672,8 @@ Note: :octocat: stands for the GitHub page.
 
 ## Pacific / Oceania
 
+[Australia](#)
+
 ### Australia (au)
 
 - [RubyConf Australia](http://www.rubyconf.org.au)
@@ -599,9 +685,8 @@ Note: :octocat: stands for the GitHub page.
 - [Ruby Australia - rubyAU](http://ruby.org.au) - [:octocat:](https://github.com/rubyaustralia), [:octocat:](https://github.com/rails-oceania)
 
 
-## More
 
-## Friends & Family
+## More / Friends & Family
 
 ### Europe
 
