@@ -176,9 +176,9 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 #### England (en)
 
 - **Brighton Ruby Conference** (web: [brightonruby.com](http://brightonruby.com))
-    - 2015 @ Brighton, East Sussex; Jul/20  (£100)
+    - 2015 @ Brighton, East Sussex; July/20  (£100)
 - **Bath Ruby Conference** (web: [bathruby.org](http://bathruby.org))
-    - 2015 @ Bath, Somerset; Mar/13  (£99/£79/£59, Student £39)
+    - 2015 @ Bath, Somerset; March/13  (£99/£79/£59, Student £39)
 
 <!-- new list; user groups -->
 
@@ -304,7 +304,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 #### Lithuania / Lietuva (lt)
 
 - **Lithuanian Ruby Conference - RubyConfLT** (web: [rubyconf.lt](http://rubyconf.lt))
-    - 2015 @ Vilnius; Mar/21
+    - 2015 @ Vilnius; March/21
 
 
 ### Eastern Europe
@@ -420,8 +420,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - **RailsConf** (web: [railsconf.com](http://railsconf.com)) _since 2006_ by Ruby Central
    - 2016 @ Kansas City, Missouri; May/4-6
-   - 2015 @ Atlanta, Georgia; Apr/21-23
-   - 2014 @ Chicago, Illinois; Apr/22-25
+   - 2015 @ Atlanta, Georgia; April/21-23
+   - 2014 @ Chicago, Illinois; April/22-25
    - ...
    - 2006 @ Chicago, Illinois; ???  - #1
 
@@ -438,7 +438,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 ##### Mid Atlantic
 
 - **Gotham Ruby Conference - GORUCO** (web: [goruco.com](http://goruco.com))
-   - 2015 @ New York, New York; Jun/20
+   - 2015 @ New York, New York; June/20
 
 <!-- new list; user groups -->
 
@@ -532,8 +532,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 #### Mexico / México (mx)
 
 - **MagmaConf** (web: [magmaconf.com](http://magmaconf.com))
-  - 2015 @ Manzanillo, Colima; Jun/18-20
-  - 2014 @ Manzanillo, Colima; Jun/4-6
+  - 2015 @ Manzanillo, Colima; June/18-20
+  - 2014 @ Manzanillo, Colima; June/4-6
 
 <!-- new list; user groups -->
 
@@ -561,11 +561,11 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
     - 2015 @ São Paulo; Sept/18+19
     - 2014 @ São Paulo; Aug/28+29
 - **RuPy, RuPy Campinas** (web: [rupy.com.br](http://rupy.com.br), [campinas.rupy.com.br](http://campinas.rupy.com.br))
-    - 2015 @ Campinas, São Paulo; Jun/20
+    - 2015 @ Campinas, São Paulo; June/20
     - 2014 @ São José dos Campos, São Paulo; Nov/29
 - **Tropical Ruby** (web: [tropicalrb.com](http://tropicalrb.com))
-    - 2015 @ Porto de Galinhas, Pernambuco; Mar/5-8
-    - 2014 @ Porto de Galinhas, Pernambuco; Apr/24-27 (formerly: Abril Pro Ruby)
+    - 2015 @ Porto de Galinhas, Pernambuco; March/5-8
+    - 2014 @ Porto de Galinhas, Pernambuco; April/24-27 (formerly: Abril Pro Ruby)
 
 <!-- new list; user groups -->
 
@@ -638,13 +638,13 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - **RubyConf Taiwan** (web: [rubyconf.tw](http://rubyconf.tw))
    - 2015 @ Taipei; Sept/11+12
-   - 2014 @ Taipei; Apr/25+26
+   - 2014 @ Taipei; April/25+26
 
 ### Singapore (sg)
 
 - **RedDotRubyConf** (web: [reddotrubyconf.com](http://www.reddotrubyconf.com))
-   - 2015 @ Singapore; Jun/4+5  ($350/$285)
-   - 2014 @ Singapore; Jun/26+27
+   - 2015 @ Singapore; June/4+5  ($350/$285)
+   - 2014 @ Singapore; June/26+27
 
 <!-- new list; user groups -->
 
@@ -654,8 +654,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 ### Philippines / Pilipinas (ph) 
 
 - **RubyConf Philippines** (web: [rubyconf.ph](http://rubyconf.ph))
-    - 2015 @ Boracy Island; Mar/27-28
-    - 2014 @ Manila; Mar/28-29
+    - 2015 @ Boracy Island; March/27-28
+    - 2014 @ Manila; March/28-29
 
 ### Vietnam (vn)
 
@@ -664,7 +664,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 ### India (in)
 
 - **RubyConf India** (web: [rubyconfindia.org](http://rubyconfindia.org))
-    - 2015 @ Goa; Apr/3-5  ($400/200/125, Rs22000/11000/6500)
+    - 2015 @ Goa; April/3-5  ($400/200/125, Rs22000/11000/6500)
 - **Garden City Ruby Conference** (web: [gardencityruby.org](http://www.gardencityruby.org))
     - 2015 @ Bangalore; Jan/10
 
@@ -698,7 +698,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 ### Australia (au)
 
 - **RubyConf Australia** (web: [rubyconf.org.au](http://www.rubyconf.org.au))
-    - 2016 @ Gold Coast; Feb/13-10
+    - 2016 @ Gold Coast; Feb/10-13
     - 2015 @ Melbourne; Feb/4-7
 
 <!-- new list; user groups -->
@@ -723,12 +723,17 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 ##### Belgium / België / Belgique (be)
 
 - **Free and Open Source Software Developers' European Meeting - FOSDEM** (web: [fosdem.org](https://fosdem.org))
-    - 2015 @ Brussels /  Brussel / Bruxelles; Jan/31+Feb/1  (FREE)
+    - 2016 @ Brussels / Brussel / Bruxelles; Jan/30+31  (FREE)
+    - 2015 @ Brussels / Brussel / Bruxelles; Jan/31+Feb/1  (FREE)
 
 
 ## Calendar
 
-NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from this page listing conferences sorted by date (that is, year and month) or better try the "live" version using the [whatson command line tool](https://github.com/textkit/whatson). Type:
+NOTE: A [calendar page](http://planetruby.github.io/calendar)
+gets auto-generated from this page listing conferences sorted by
+date (that is, year and month)
+or better try the "live" version using the [whatson command line tool](https://github.com/textkit/whatson).
+Type:
 
 ~~~
 $ rubyconf
@@ -752,7 +757,7 @@ Upcoming Ruby Conferences:
   in 78d   RubyConf Brasil, Fri+Sat Sep/18+19 (2d) @ São Paulo › Brazil / Brasil (br) › South America › America
   in 83d   Rocky Mountain Ruby Conference, Wed-Fri Sep/23-25 (3d) @ Boulder, Colorado › Rocky Mountains › United States (us) › North America › America
   in 85d   Ruby Open Source Software (ROSS) Conference - ROSSConf, Sat Sep/26 (1d) @ Berlin, Germany › Europe
-  in 93d  ArrrCamp, Thu+Fri Oct/1+2 (2d) @ Ghent, Oost-Vlaanderen › Belgium / België / Belgique (be) › Western Europe › Europe
+  in 93d   ArrrCamp, Thu+Fri Oct/1+2 (2d) @ Ghent, Oost-Vlaanderen › Belgium / België / Belgique (be) › Western Europe › Europe
   in 105d  RubyConf Colombia, Thu+Fri Oct/15+16 (2d) @ Medellin › Colombia (co) › South America › America
   in 107d  European Ruby Konference - EuRuKo, Sat+Sun Oct/17+18 (2d) @ Salzburg, Austria › Europe
   in 132d  RubyWorld Conference, Wed+Thu Nov/11+12 (2d) @ Matsue › Japan (jp) › Asia

@@ -1,17 +1,40 @@
-# Ruby Conference Calendar
+---
+layout: default
+title:  "Ruby Conference Calendar"
+---
+
+
+# {{ page.title }}
 
 _Last update on <%= Date.today %>._
 
 ---
 
-NOTE: This page gets auto-generated from the awesome-events page ([README.md](README.md)).
-**Do NOT edit this page**, please update or edit conferences, camps, meetups etc.
-on the awesome-events page ([README.md](README.md)). Anything missing? Contributions welcome. Thanks!
+NOTE: This page gets auto-generated from the awesome-events page ([README.md](https://github.com/planetruby/awesome-events/blob/master/README.md)).
+Please update or edit conferences, camps, meetups etc.
+on the awesome-events page ([README.md](https://github.com/planetruby/awesome-events/blob/master/README.md)).
+Anything missing? Contributions welcome. Thanks!
 
 ---
 
 
-[2016](#2016) • [2015](#2015) • [2014](#2014)  • [2013](#2013) • [More](#more)
+[2016](#2016) •
+[2015](#2015) •
+[2014](#2014) •
+[2013](#2013) •
+[2012](#2012) •
+[2011](#2011) •
+[2010](#2010) •
+[2009](#2009) •
+[2008](#2008) •
+[2007](#2007) •
+[2006](#2006) •
+[2005](#2005) •
+[2004](#2004) •
+[2003](#2003) •
+[2002](#2002) •
+[2001](#2001) •
+[More](#more)
 
 <% events.each do |ev,evd| %>
 <% if evd.new_year? %>
@@ -25,7 +48,7 @@ on the awesome-events page ([README.md](README.md)). Anything missing? Contribut
 
 <% end %>
 
-<%= ev.date_str %> (<%= ev.days %>d) • **<%= ev.text %>** @ <%= ev.place %>
+<%= ev.date_str %> (<%= ev.days %>d) • **[<%= ev.title %>](<%= ev.link %>)** @ <%= ev.place %>
 
 <% end %>
 
@@ -56,7 +79,7 @@ Upcoming Ruby Conferences:
   in 78d   RubyConf Brasil, Fri+Sat Sep/18+19 (2d) @ São Paulo › Brazil / Brasil (br) › South America › America
   in 83d   Rocky Mountain Ruby Conference, Wed-Fri Sep/23-25 (3d) @ Boulder, Colorado › Rocky Mountains › United States (us) › North America › America
   in 85d   Ruby Open Source Software (ROSS) Conference - ROSSConf, Sat Sep/26 (1d) @ Berlin, Germany › Europe
-  in 93d  ArrrCamp, Thu+Fri Oct/1+2 (2d) @ Ghent, Oost-Vlaanderen › Belgium / België / Belgique (be) › Western Europe › Europe
+  in 93d   ArrrCamp, Thu+Fri Oct/1+2 (2d) @ Ghent, Oost-Vlaanderen › Belgium / België / Belgique (be) › Western Europe › Europe
   in 105d  RubyConf Colombia, Thu+Fri Oct/15+16 (2d) @ Medellin › Colombia (co) › South America › America
   in 107d  European Ruby Konference - EuRuKo, Sat+Sun Oct/17+18 (2d) @ Salzburg, Austria › Europe
   in 132d  RubyWorld Conference, Wed+Thu Nov/11+12 (2d) @ Matsue › Japan (jp) › Asia

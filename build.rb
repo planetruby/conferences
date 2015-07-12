@@ -17,7 +17,8 @@ cal = EventDb::EventCalendar.new
 buf = cal.render( template: "./templates/CALENDAR.md.erb" )
 pp buf
 
-File.open( './CALENDAR.md', 'w' ) do |f|
+### note: save calendar page and website repo (sibling repo)
+File.open( '../planetruby.github.io/calendar/index.md', 'w' ) do |f|
   f.write buf
 end
 
