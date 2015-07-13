@@ -159,9 +159,14 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Kraków
    - **Kraków Ruby User Group - KRUG** (meetup: [Krakow-Ruby-Users-Group](http://meetup.com/Krakow-Ruby-Users-Group))
 - @ Szczecin
-   - **Szczecin Ruby User Group - SZRUG** (f: [Szczecin.Ruby.User.Group](https://www.facebook.com/Szczecin.Ruby.User.Group))
+   - **Szczecin Ruby User Group - SzRUG** (f: [Szczecin.Ruby.User.Group](https://www.facebook.com/Szczecin.Ruby.User.Group))
+
+<!--
+   note: sorry fb group is NOT public; requires login - please fix
 - @ Białystok
    - **Białystok Ruby Users Group - BRUG** (f: [BRUG](https://www.facebook.com/groups/128561290667160/))
+-->
+
 
 #### Hungary (hu)
 
@@ -772,7 +777,7 @@ Upcoming Ruby Conferences:
 
 ## Thanks
 
-Jon de Andrés • Bruno Azevedo • Lailson Bandeira • Anna Banaszek • Joshua Burke • Alan Da Costa • Glauco Custódio • Mathieu Gagné • Florian Gilcher • Joe Grossberg • Filipe Goncalves • Jingwen • Istvan Hoka • Ash Kamel • Kamil Lelonek • Alex Lemanski • Ivan Lučev • Akira Matsuda • Chris Mitchell • Edward Ocampo-Gooding • Alexey Poimtsev • Sunny Ripert • Peter Scholz • Victor Shepelev • Rebecca Skinner • Ben Turner • Jan Vlnas • Bartlomiej Weber • Tobias Pfeiffer • Cecile Veneziani • Daniel Zanzini • Mario Zigliotto
+Jon de Andrés • Bruno Azevedo • Lailson Bandeira • Anna Banaszek • Joshua Burke • Alan Da Costa • Glauco Custódio • Mathieu Gagné • Florian Gilcher • Joe Grossberg • Filipe Goncalves • Jingwen • Istvan Hoka • Ash Kamel • Kamil Lelonek • Alex Lemanski • Ivan Lučev • Akira Matsuda • Chris Mitchell • Edward Ocampo-Gooding • Alexey Poimtsev • Tomasz Radziejewski • Sunny Ripert • Peter Scholz • Victor Shepelev • Rebecca Skinner • Ben Turner • Jan Vlnas • Bartlomiej Weber • Tobias Pfeiffer • Cecile Veneziani • Daniel Zanzini • Mario Zigliotto
 
 ## Meta
 
