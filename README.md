@@ -156,6 +156,12 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - **Dolnośląska Grupa Użytkowników Ruby - DRUG** (web: [drug.org.pl](http://drug.org.pl))
 - @ Poznań
    - **Poznań Ruby Users Group - PRUG** (f: [rubypoznan](https://www.facebook.com/rubypoznan))
+- @ Kraków
+   - **Kraków Ruby User Group - KRUG** (meetup: [Krakow-Ruby-Users-Group](http://meetup.com/Krakow-Ruby-Users-Group))
+- @ Szczecin
+   - **Szczecin Ruby User Group - SZRUG** (f: [Szczecin.Ruby.User.Group](https://www.facebook.com/Szczecin.Ruby.User.Group))
+- @ Białystok
+   - **Białystok Ruby Users Group - BRUG** (f: [BRUG](https://www.facebook.com/groups/128561290667160/))
 
 #### Hungary (hu)
 
