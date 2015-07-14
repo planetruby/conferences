@@ -75,14 +75,14 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Central Europe
 
-[Austria](#) •
-[Switzerland](#) •
-[Germany](#) •
-[Slovakia](#) •
-[Slovenia](#) •
-[Czech Republic](#) •
-[Poland](#) •
-[Hungary](#)
+[Austria](#austria--Österreich-at) •
+[Switzerland](#switzerland--schweiz--suisse--confoederatio-helvetica-ch) •
+[Germany](#germany--deutschland-de) •
+[Slovakia](#slovakia-sk) •
+[Slovenia](#slovenia-si) •
+[Czech Republic](#czech-republic-cz) •
+[Poland](#poland-pl) •
+[Hungary](#hungary-hu)
 
 
 #### Austria / Österreich (at)
@@ -176,12 +176,12 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Western Europe
 
-[England](#) •
-[Scotland](#) •
-[Ireland](#) •
-[France](#) •
-[Belgium](#) •
-[Netherlands](#)
+[England](#england-en) •
+[Scotland](#scotland) •
+[Ireland](#ireland--Éire-ie) •
+[France](#france-fr) •
+[Belgium](#belgium--belgië--belgique-be) •
+[Netherlands](#netherlands-nl)
 
 
 #### England (en)
@@ -249,10 +249,10 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Southern Europe
 
-[Spain](#) •
-[Portugal](#) •
-[Italy](#) •
-[Croatia](#)
+[Spain](#spain--españa-es) •
+[Portugal](#portugal-pt) •
+[Italy](#italy-it) •
+[Croatia](#croatia--hrvatska-hr)
 
 #### Spain / España (es)
 
@@ -284,11 +284,11 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Northern Europe
 
-[Denmark](#) •
-[Sweden](#) •
-[Finland](#) •
-[Norway](#) •
-[Lithuania](#)
+[Denmark](#denmark--danmark-dk) •
+[Sweden](#sweden--sverige-se) •
+[Finland](#finland--suomi-fi) •
+[Norway](#norway--norge-no) •
+[Lithuania](#lithuania--lietuva-lt)
 
 #### Denmark / Danmark (dk)
 
@@ -320,10 +320,10 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Eastern Europe
 
-[Belarus](#) •
-[Romania](#) •
-[Russia](#) •
-[Ukraine](#)
+[Belarus](#belarus--Беларусь-by) •
+[Romania](#romania--românia-ro) •
+[Russia](#russia--Россия-ru) •
+[Ukraine](#ukraine--Україна--Украина-ua)
 
 
 #### Belarus / Беларусь (by)
@@ -365,20 +365,20 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ## America
 
-[North America](#) •
-[South America](#)
+[North America](#north-america) •
+[South America](#south-america)
 
 ### North America
 
-[Canada](#) •
-[United States](#) •
-[Mexico](#)
+[Canada](#canada-ca) •
+[United States](#united-states-us) •
+[Mexico](#mexico--méxico-mx)
 
 
 #### Canada (ca)
 
-[Eastern Canada](#) •
-[Western Canada](#)
+[Eastern Canada](#eastern-canada) •
+[Western Canada](#western-canada)
 
 ##### Eastern Canada
 
@@ -403,17 +403,17 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### United States (us)
 
-[New England](#) •
-[Mid Atlantic](#) •
-[Capital Region](#) •
-[Florida](#) •
-[Great Lakes](#) •
-[Great Plains](#) •
-[Rocky Mountains](#) •
-[Southwest](#) •
-[Texas](#) •
-[Pacific Northwest](#) •
-[California](#) 
+[New England](#new-england) •
+[Mid Atlantic](#mid-atlantic) •
+[Capital Region](#capital-region) •
+[Florida](#florida) •
+[Great Lakes](#great-lakes) •
+[Great Plains](#great-plains) •
+[Rocky Mountains](#rocky-mountains) •
+[Southwest](#southwest) •
+[Texas](#texas) •
+[Pacific Northwest](#pacific-northwest) •
+[California](#california) 
 
 
 - **RubyConf** (web: [rubyconf.org](http://rubyconf.org), t: [rubyconf](https://twitter.com/rubyconf)) _since 2001_  by Ruby Central
@@ -588,11 +588,11 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### South America
 
-[Brazil](#) •
-[Colombia](#) •
-[Peru](#) •
-[Uruguay](#) •
-[Argentina](#)
+[Brazil](#brazil--brasil-br) •
+[Colombia](#colombia-co) •
+[Peru](#peru--perú-pe) •
+[Uruguay](#uruguay-uy) •
+[Argentina](#argentina-ar)
 
 
 - **RubySur - Ruby de América del Sur** (web: [rubysur.org](http://rubysur.org), github: [rubysur](https://github.com/rubysur))
@@ -649,12 +649,12 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ## Asia
 
-[Japan](#) •
-[Taiwan](#) •
-[Singapore](#) •
-[Philippines](#) •
-[Vietnam](#) •
-[India](#)
+[Japan](#japan-jp) •
+[Taiwan](#taiwan-tw) •
+[Singapore](#singapore-sg) •
+[Philippines](#philippines--pilipinas-ph) •
+[Vietnam](#vietnam-vn) •
+[India](#india-in)
 
 
 ### Japan (jp)
@@ -715,8 +715,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ## Africa
 
-[Kenya](#) •
-[South Africa](#)
+[Kenya](#kenya-ke) •
+[South Africa](#south-africa-za)
 
 
 ### Kenya (ke)
@@ -737,7 +737,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ## Pacific / Oceania
 
-[Australia](#)
+[Australia](#australia-au)
 
 ### Australia (au)
 
