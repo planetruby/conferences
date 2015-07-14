@@ -406,16 +406,17 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 [New England](#) •
 [Mid Atlantic](#) •
 [Capital Region](#) •
-[South](#) •
+[Florida](#) •
 [Great Lakes](#) •
 [Great Plains](#) •
 [Rocky Mountains](#) •
 [Southwest](#) •
+[Texas](#) •
 [Pacific Northwest](#) •
 [California](#) 
 
 
-- **RubyConf** (web: [rubyconf.org](http://rubyconf.org)) _since 2001_  by Ruby Central
+- **RubyConf** (web: [rubyconf.org](http://rubyconf.org), t: [rubyconf](https://twitter.com/rubyconf)) _since 2001_  by Ruby Central
    - 2015 @ San Antonio, Texas; Nov/15-17
    - 2014 @ San Diego, California; Nov/17-19
    - ...
@@ -429,7 +430,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - 2002 @ Seattle, Washington; Nov/1-3         - #2
    - 2001 @ Tampa, Florida;  Oct/12+13           - #1
 
-- **RailsConf** (web: [railsconf.com](http://railsconf.com)) _since 2006_ by Ruby Central
+- **RailsConf** (web: [railsconf.com](http://railsconf.com), t: [railsconf](https://twitter.com/railsconf)) _since 2006_ by Ruby Central
    - 2016 @ Kansas City, Missouri; May/4-6
    - 2015 @ Atlanta, Georgia; April/21-23
    - 2014 @ Chicago, Illinois; April/22-25
@@ -448,7 +449,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ##### Mid Atlantic
 
-- **Gotham Ruby Conference - GORUCO** (web: [goruco.com](http://goruco.com))
+- **Gotham Ruby Conference - GORUCO** (web: [goruco.com](http://goruco.com), t: [goruco](https://twitter.com/goruco))
    - 2015 @ New York, New York; June/20
 
 <!-- new list; user groups -->
@@ -459,10 +460,20 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ##### Capital Region
 
+- **RubyNation** (web: [rubynation.org](http://rubynation.org), t: [rubynation](https://twitter.com/rubynation))
+ - @ Washington, D.C.
+ 
+<!-- new list; user groups -->
+
 - @ Washington, D.C.
     - **DC Ruby Users Group - DCRUG** (meetup: [dcruby](http://meetup.com/dcruby))
 
-##### South
+##### Florida
+
+- **Ancient City Ruby Conference** (web: [ancientcityruby.com](http://ancientcityruby.com), t: [ancientcityruby](https://twitter.com/ancientcityruby))
+   - @ St Augustine, Florida
+ 
+<!-- new list; user groups -->
 
 - @ Orlando, Florida
    - **Orlando Ruby Users Group** (meetup: [Orlando-Ruby](http://meetup.com/Orlando-Ruby))
@@ -502,9 +513,14 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ##### Southwest
 
-- **Keep Ruby Weird** (web: [keeprubyweird.com](http://keeprubyweird.com))
+- **Mountain West Ruby Conference - MtnWestRubyConf - MWRC** (web: [mtnwestrubyconf.org](http://mtnwestrubyconf.org), t: [mwrc](https://twitter.com/mwrc))
+   - @ Salt Lake City, Utah
+
+##### Texas
+
+- **Keep Ruby Weird** (web: [keeprubyweird.com](http://keeprubyweird.com), t: [keeprubyweird](https://twitter.com/keeprubyweird))
    - 2015 @ Austin, Texas; Oct/23
-- **LoneStarRuby Conference** (web: [lonestarruby.org](http://lonestarruby.org))
+- **LoneStarRuby Conference** (web: [lonestarruby.org](http://lonestarruby.org), t: [LoneStarRuby](https://twitter.com/LoneStarRuby))
     - 2015 @ Austin, Texas; Aug/15  ($249/199/150)
 
 <!-- new list; user groups -->
