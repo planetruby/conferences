@@ -69,7 +69,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
     - 2015 @ Vienna, Austria; April/25  (FREE)  - #1
 - **JRuby Conference Europe - JRubyConf EU** (web: [jrubyconf.eu](http://jrubyconf.eu), t:  [JRubyConfEU](https://twitter.com/JRubyConfEU))
     - 2015 @ Berlin (Potsdam), Germany; July/31  (€130, Student €120)
-- **RubyMotion Conference - #inspect** (web: [conference.rubymotion.com](http://conference.rubymotion.com))
+- **RubyMotion Conference - #inspect** (web: [conference.rubymotion.com](http://conference.rubymotion.com), t: [rubymotion](https://twitter.com/rubymotion))
     - 2015 @ Paris, France; July/1+2  (€299)
 
 
@@ -225,7 +225,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - **ArrrCamp** (web: [arrrrcamp.be](http://arrrrcamp.be), t: [arrrrcamp](https://twitter.com/arrrrcamp))
     - 2015 @ Ghent, Oost-Vlaanderen; Oct/1+2  (€250/210/160)
     - 2014 @ Ghent, Oost-Vlaanderen; Oct/2+3
-- **RubyCamp Belgium** (web: [rubycamp.brug.be](http://rubycamp.brug.be))
+- **RubyCamp Belgium** (web: [rubycamp.brug.be](http://rubycamp.brug.be), t: [brug_be](https://twitter.com/brug_be))
     - 2015 @ Tilff, Liège; Aug/28-30 (€100)
 
 <!-- new list; user groups -->
@@ -256,7 +256,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Spain / España (es)
 
-- **Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS** (web: [fullstackfest.com](http://www.fullstackfest.com))
+- **Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS** (web: [fullstackfest.com](http://www.fullstackfest.com), t: [fullstackfest](https://twitter.com/fullstackfest))
    - 2015 @ Barcelona, Catalonia; Sept/1-5  (BaRuCo €295, Future JS €295, Combo €490)
 
 <!-- new list; user groups -->
@@ -580,7 +580,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Mexico / México (mx)
 
-- **MagmaConf** (web: [magmaconf.com](http://magmaconf.com))
+- **MagmaConf** (web: [magmaconf.com](http://magmaconf.com), t: [magmaconf](https://twitter.com/magmaconf))
   - 2015 @ Manzanillo, Colima; June/18-20
   - 2014 @ Manzanillo, Colima; June/4-6
 
@@ -609,7 +609,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - **RubyConf Brasil** (web: [rubyconf.com.br](http://www.rubyconf.com.br), t: [rubyconfbr](https://twitter.com/rubyconfbr))
     - 2015 @ São Paulo; Sept/18+19
     - 2014 @ São Paulo; Aug/28+29
-- **RuPy, RuPy Campinas** (web: [rupy.com.br](http://rupy.com.br), [campinas.rupy.com.br](http://campinas.rupy.com.br))
+- **RuPy Campinas, RuPy** (web: [campinas.rupy.com.br](http://campinas.rupy.com.br), [rupy.com.br](http://rupy.com.br), t: [rupycampinas](https://twitter.com/rupycampinas))
     - 2015 @ Campinas, São Paulo; June/20
     - 2014 @ São José dos Campos, São Paulo; Nov/29
 - **Tropical Ruby** (web: [tropicalrb.com](http://tropicalrb.com), t: [tropicalrb](https://twitter.com/tropicalrb))
@@ -738,7 +738,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Kenya (ke)
 
-- **RubyConf Kenya** (web: [ruby-conf-ke.nairuby.org](http://ruby-conf-ke.nairuby.org))
+- **RubyConf Kenya** (web: [ruby-conf-ke.nairuby.org](http://ruby-conf-ke.nairuby.org), t: [NairubyKE](https://twitter.com/NairubyKE))
    - 2015 @ Nairobi; May/8+9
 
 <!-- new list; user groups -->
@@ -783,7 +783,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ##### Belgium / België / Belgique (be)
 
-- **Free and Open Source Software Developers' European Meeting - FOSDEM** (web: [fosdem.org](https://fosdem.org))
+- **Free and Open Source Software Developers' European Meeting - FOSDEM** (web: [fosdem.org](https://fosdem.org), t: [fosdem](https://twitter.com/fosdem))
     - 2016 @ Brussels / Brussel / Bruxelles; Jan/30+31  (FREE)
     - 2015 @ Brussels / Brussel / Bruxelles; Jan/31+Feb/1  (FREE)
 
