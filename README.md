@@ -131,7 +131,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 #### Slovenia (si)
 
 - @ Ljubljana
-   - **Slovenia Ruby User Group** (web: [rug.si](http://rug.si), github: [RubySlovenia](https://github.com/RubySlovenia))
+   - **Slovenia Ruby User Group** (web: [rug.si](http://rug.si), github: [RubySlovenia](https://github.com/RubySlovenia), t: [RubySlovenia](https://twitter.com/RubySlovenia))
 
 #### Czech Republic (cz)
 
@@ -139,11 +139,11 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - **Prague.rb** (meetup: [Praguerb](http://meetup.com/Praguerb))
    - **První středa v měsíci** (srazy: [prvni-streda-ruby-on-rails](http://srazy.info/prvni-streda-ruby-on-rails))
 - @ Brno
-   - **Brněnské PyVo + BRUG** (lanyrd: [brno-pyvo](http://lanyrd.com/series/brno-pyvo))
+   - **Brněnské PyVo + BRUG** (lanyrd: [brno-pyvo](http://lanyrd.com/series/brno-pyvo), t: [brugcz](https://twitter.com/brugcz))
 
 #### Poland (pl)
 
-- **wroc_love.rb** (web: [wrocloverb.com](http://www.wrocloverb.com))
+- **wroc_love.rb** (web: [wrocloverb.com](http://www.wrocloverb.com), t: [wrocloverb](https://twitter.com/wrocloverb))
    - 2015 @ Wrocław; March/13-15
 
 <!-- new list; user groups -->
@@ -188,7 +188,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - **Brighton Ruby Conference** (web: [brightonruby.com](http://brightonruby.com), t: [brightonruby](https://twitter.com/brightonruby))
     - 2015 @ Brighton, East Sussex; July/20  (£100)
-- **Bath Ruby Conference** (web: [bathruby.org](http://bathruby.org))
+- **Bath Ruby Conference** (web: [bathruby.org](http://bathruby.org), t: [BathRuby](https://twitter.com/BathRuby))
     - 2015 @ Bath, Somerset; March/13  (£99/£79/£59, Student £39)
 
 <!-- new list; user groups -->
@@ -222,7 +222,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Belgium / België / Belgique (be)
 
-- **ArrrCamp** (web: [arrrrcamp.be](http://arrrrcamp.be))
+- **ArrrCamp** (web: [arrrrcamp.be](http://arrrrcamp.be), t: [arrrrcamp](https://twitter.com/arrrrcamp))
     - 2015 @ Ghent, Oost-Vlaanderen; Oct/1+2  (€250/210/160)
     - 2014 @ Ghent, Oost-Vlaanderen; Oct/2+3
 - **RubyCamp Belgium** (web: [rubycamp.brug.be](http://rubycamp.brug.be))
@@ -230,7 +230,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 <!-- new list; user groups -->
 
-- **Belgian Ruby User Group - BRUG** (web: [brug.be](http://brug.be), github: [brug-be](https://github.com/brug-be))
+- **Belgian Ruby User Group - BRUG** (web: [brug.be](http://brug.be), github: [brug-be](https://github.com/brug-be), t: [brug_be](https://twitter.com/brug_be))
 
 <!-- new list -->
 
@@ -272,7 +272,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Italy (it)
 
-- **RubyDay** (web: [rubyday.it](http://www.rubyday.it))
+- **RubyDay** (web: [rubyday.it](http://www.rubyday.it), t: [rubydayit](https://twitter.com/rubydayit))
   - 2015 @ Turin; Nov/13  (€52)
   - 2014 @ Roncade, Treviso; Sept/26
 
@@ -319,7 +319,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Lithuania / Lietuva (lt)
 
-- **Lithuanian Ruby Conference - RubyConfLT** (web: [rubyconf.lt](http://rubyconf.lt))
+- **Lithuanian Ruby Conference - RubyConfLT** (web: [rubyconf.lt](http://rubyconf.lt), t: [RubyConfLT](https://twitter.com/RubyConfLT))
     - 2015 @ Vilnius; March/21
 
 
@@ -348,7 +348,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Ukraine / Україна / Украина (ua)
 
-- **RubyC** (web: [rubyc.eu](http://rubyc.eu)) by Svitla Systems
+- **RubyC** (web: [rubyc.eu](http://rubyc.eu), t: [rubyc_eu](https://twitter.com/rubyc_eu)) by Svitla Systems
    - 2015 @ Kyiv; May/30+31
 
 <!-- new list; user groups -->
@@ -560,7 +560,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Seattle, Washington
     - **Seattle.rb** (web: [seattlerb.org](http://seattlerb.org), github: [seattlerb](https://github.com/seattlerb))
 - @ Portland, Oregon
-    - **pdx.rb - Portland Ruby Brigade, pdxruby** (web: [pdxruby.org](http://pdxruby.org), github: [pdxruby](https://github.com/pdxruby))
+    - **pdx.rb - Portland Ruby Brigade, pdxruby** (web: [pdxruby.org](http://pdxruby.org), github: [pdxruby](https://github.com/pdxruby), t: [pdxruby](https://twitter.com/pdxruby))
 
 
 ##### California
@@ -612,7 +612,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - **RuPy, RuPy Campinas** (web: [rupy.com.br](http://rupy.com.br), [campinas.rupy.com.br](http://campinas.rupy.com.br))
     - 2015 @ Campinas, São Paulo; June/20
     - 2014 @ São José dos Campos, São Paulo; Nov/29
-- **Tropical Ruby** (web: [tropicalrb.com](http://tropicalrb.com))
+- **Tropical Ruby** (web: [tropicalrb.com](http://tropicalrb.com), t: [tropicalrb](https://twitter.com/tropicalrb))
     - 2015 @ Porto de Galinhas, Pernambuco; March/5-8
     - 2014 @ Porto de Galinhas, Pernambuco; April/24-27 (formerly: Abril Pro Ruby)
 
@@ -624,7 +624,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Colombia (co)
 
-- **RubyConf Colombia** (web: [rubyconf.co](http://www.rubyconf.co))
+- **RubyConf Colombia** (web: [rubyconf.co](http://www.rubyconf.co), t: [RubyConfCo](https://twitter.com/RubyConfCo))
     - 2015 @ Medellin; Oct/15+16
 
 <!-- new list; user groups -->
@@ -712,7 +712,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Philippines / Pilipinas (ph) 
 
-- **RubyConf Philippines** (web: [rubyconf.ph](http://rubyconf.ph))
+- **RubyConf Philippines** (web: [rubyconf.ph](http://rubyconf.ph), t: [RubyConfPH](https://twitter.com/RubyConfPH))
     - 2015 @ Boracy Island; March/27-28
     - 2014 @ Manila; March/28-29
 
