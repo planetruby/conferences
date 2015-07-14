@@ -451,6 +451,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - **Gotham Ruby Conference - GORUCO** (web: [goruco.com](http://goruco.com), t: [goruco](https://twitter.com/goruco))
    - 2015 @ New York, New York; June/20
+- **Nickel City Ruby** (web: [nickelcityruby.com](http://nickelcityruby.com), t: [nickelcityruby](https://twitter.com/nickelcityruby))
+   - 2014 @ Buffalo, New York; Oct/2-4
 
 <!-- new list; user groups -->
 
@@ -494,6 +496,14 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ##### Great Plains
 
+- **Ruby Midwest** (t: [RubyMidwest](https://twitter.com/RubyMidwest))
+   - @ Kansas City, Missouri
+
+<!--  note: link - not workign for now; http://www.rubymidwest.com
+  -->
+
+<!-- new list; user groups -->
+
 - @ Kansas City, Missouri
    - **KC Ruby** (web: [kcruby.org](http://kcruby.org), github: [kcruby](https://github.com/kcruby))
 - @ St. Louis, Missouri
@@ -533,6 +543,13 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ##### Pacific Northwest
 
+- **Ruby on Ales** (web: [ruby.onales.com](https://ruby.onales.com), t: [rbonales](https://twitter.com/rbonales))
+   - 2015 @ Bend, Oregon; March/5+6 ($350)
+- **Cascadia Ruby** (web: [cascadiaruby.com](http://cascadiaruby.com), t: [cascadiaruby](https://twitter.com/cascadiaruby))
+   - 2014 @ Portland, Oregon; Aug/11+12
+
+<!-- new list; user groups -->
+
 - @ Seattle, Washington
     - **Seattle.rb** (web: [seattlerb.org](http://seattlerb.org), github: [seattlerb](https://github.com/seattlerb))
 - @ Portland, Oregon
@@ -541,10 +558,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ##### California
 
-<!--  check back later if happending?
-- [LA RubyConf - Los Angeles Ruby Conference](http://www.larubyconf.com)
-   - 2015 @ Burbank, California; Oct/10
-  -->
+- **Los Angeles Ruby Conference - LA RubyConf** (web: [larubyconf.com](https://larubyconf.com), t: [larubyconf](https://twitter.com/larubyconf))
+   - 2015 @ Burbank, California; Oct/10  ($249)
 
 <!-- new list; user groups -->
 
@@ -584,7 +599,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Brazil / Brasil (br)
 
-- **RubyConf Brasil** (web: [rubyconf.com.br](http://www.rubyconf.com.br))
+- **RubyConf Brasil** (web: [rubyconf.com.br](http://www.rubyconf.com.br), t: [rubyconfbr](https://twitter.com/rubyconfbr))
     - 2015 @ São Paulo; Sept/18+19
     - 2014 @ São Paulo; Aug/28+29
 - **RuPy, RuPy Campinas** (web: [rupy.com.br](http://rupy.com.br), [campinas.rupy.com.br](http://campinas.rupy.com.br))
@@ -663,7 +678,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Taiwan (tw)
 
-- **RubyConf Taiwan** (web: [rubyconf.tw](http://rubyconf.tw))
+- **RubyConf Taiwan** (web: [rubyconf.tw](http://rubyconf.tw), t: [rubytaiwan](https://twitter.com/rubytaiwan))
    - 2015 @ Taipei; Sept/11+12
    - 2014 @ Taipei; April/25+26
 
@@ -690,11 +705,13 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### India (in)
 
-- **RubyConf India** (web: [rubyconfindia.org](http://rubyconfindia.org))
-    - 2015 @ Goa; April/3-5  ($400/200/125, Rs22000/11000/6500)
-- **Garden City Ruby Conference** (web: [gardencityruby.org](http://www.gardencityruby.org))
-    - 2015 @ Bangalore; Jan/10
-
+- **RubyConf India** (web: [rubyconfindia.org](http://rubyconfindia.org), t: [rubyconfindia](https://twitter.com/rubyconfindia))
+    - 2015 @ Dona Paula (Vainguinim Beach), Goa; April/3-5  (Rs22000/11000/6500, $400/200/125)
+    - 2014 @ Canacona (Goan Coastline), Goa; March/22+23
+- **Garden City Ruby Conference** (web: [gardencityruby.org](http://www.gardencityruby.org), t: [GardenCityRb](https://twitter.com/GardenCityRb))
+    - 2015 @ Bangalore, Karnataka; Jan/10
+- **Deccan Ruby Conf** (web: [deccanrubyconf.org](http://www.deccanrubyconf.org), t: [deccanrubyconf](https://twitter.com/deccanrubyconf))
+    - 2015 @ Pune, Maharashtra; Aug/8  (Rs1800/1100)
 
 ## Africa
 
@@ -714,7 +731,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### South Africa (za)
 
-- **RubyFuza** (web: [rubyfuza.org](http://www.rubyfuza.org))
+- **RubyFuza** (web: [rubyfuza.org](http://www.rubyfuza.org), t: [rubyfuza](https://twitter.com/rubyfuza))
     - 2015 @ Cape Town; Feb/5+6
 
 
@@ -724,7 +741,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Australia (au)
 
-- **RubyConf Australia** (web: [rubyconf.org.au](http://www.rubyconf.org.au))
+- **RubyConf Australia** (web: [rubyconf.org.au](http://www.rubyconf.org.au), t: [rubyconf_au](https://twitter.com/rubyconf_au))
     - 2016 @ Gold Coast; Feb/10-13
     - 2015 @ Melbourne; Feb/4-7
 
