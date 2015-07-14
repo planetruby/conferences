@@ -23,7 +23,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 [World](#world) • [Online](#online) • [Europe](#europe) • [North America](#north-america) •
 [South America](#south-america) • [Asia](#asia) • [Africa](#africa) • [Pacific / Oceania](#pacific--oceania) • 
-[Calendar](#calendar) • [Meta](#meta)
+[Calendar / What's On?](#calendar-whats-on) • [Meta](#meta)
 
 
   
@@ -782,10 +782,14 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Central Europe
 
+- **PolyConf** (web: [polyconf.com](http://polyconf.com), t: [polyconfhq](https://twitter.com/polyconfhq)) - formerly RuPy Conference - now includes (even) more programming languages
+    - 2015 @ Poznań, Poland; July/2-4 (€192/139)
+
 ##### Austria / Österreich (at)
 
 - **Linuxwochen** (web: [linuxwochen.at](http://www.linuxwochen.at))
     - 2015 @ Vienna / Wien; May/7-9  (FREE)
+
 
 #### Western Europe
 
@@ -796,7 +800,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
     - 2015 @ Brussels / Brussel / Bruxelles; Jan/31+Feb/1  (FREE)
 
 
-## Calendar
+## Calendar / What's On?
 
 NOTE: A [calendar page](http://planetruby.github.io/calendar)
 gets auto-generated from this page listing conferences sorted by
