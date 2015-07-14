@@ -101,7 +101,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Switzerland / Schweiz / Suisse / Confoederatio Helvetica (ch)
 
-- **Ruvetia - Helvetian Ruby User Group** (web: [ruvetia.org](http://ruvetia.org), github: [ruvetia](https://github.com/ruvetia))
+- **Ruvetia - Helvetian Ruby User Group** (web: [ruvetia.org](http://ruvetia.org), github: [ruvetia](https://github.com/ruvetia), t: [ruvetia](https://twitter.com/ruvetia))
     - @ Basel • Lucerne • Bern • Zug
 - @ Zürich
    - **Ruby on Rails Schweiz** (meetup: [rubyonrails-ch](http://meetup.com/rubyonrails-ch))
@@ -410,9 +410,9 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Ottawa, Ontario
    - **Ottawa Ruby** (web: [ottawaruby.ca](http://ottawaruby.ca))
 - @ Toronto, Ontario
-   - **Ruby Pub Night** (unspace: [rpn](https://unspace.ca/events/#rpn))
    - **Toronto Ruby Brigade** (meetup: [torontoruby](http://www.meetup.com/torontoruby))
    - **Rails Girls TO** (meetup: [railsgirlsTO](http://www.meetup.com/railsgirlsTO))
+   - **Ruby Pub Night** (unspace: [rpn](https://unspace.ca/events/#rpn))
 - @ Montreal, Quebec /  Montréal, Québec
    - **Montreal.rb** (web: [montrealrb.com](http://www.montrealrb.com))
 
@@ -799,7 +799,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - **PolyConf** (web: [polyconf.com](http://polyconf.com), t: [polyconfhq](https://twitter.com/polyconfhq)) - _since 2014_; formerly RuPy Conference -- now includes (even) more programming languages
     - 2015 @ Poznań, Poland; July/2-4 (€192/139) - #2
-    - 2014 @ Poznań, Poland; Oct/30-31 - #1
+    - 2014 @ Poznań, Poland; Oct/30+31 - #1
 
 #### Central Europe
 
