@@ -31,9 +31,12 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - **Rails Girls** (web: [railsgirls.com](http://railsgirls.com), t: [railsgirls](https://twitter.com/railsgirls))
 - **Rails Girls Summer of Code** (web: [railsgirlssummerofcode.org](http://railsgirlssummerofcode.org), t: [RailsGirlsSoC](https://twitter.com/RailsGirlsSoC))
-- **RubyMotion Conference - #inspect** (web: [conference.rubymotion.com](http://conference.rubymotion.com), t: [rubymotion](https://twitter.com/rubymotion)) - _since 2013_
+
+<!-- new list for not by non-profits -->
+
+- **RubyMotion Conference - #inspect** (web: [conference.rubymotion.com](http://conference.rubymotion.com), t: [rubymotion](https://twitter.com/rubymotion)) - _since 2013_ by HipByte SPRL
     - 2015 @ Paris, France; July/1+2  (€299) - #3
-    - 2014 @ San Francisco, California, United States, May/28-29 - #2                  - 
+    - 2014 @ San Francisco, California, United States, May/28+29 - #2
     - 2013 @ Brussels, Belgium; March/28+29  -  #1
 
 ## Online
@@ -54,7 +57,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - **European Ruby Konference - EuRuKo** (web: [euruko.org](http://euruko.org), t: [euruko](https://twitter.com/euruko)) - _since 2003_
     - 2015 @ Salzburg, Austria; Oct/17+18  (€65)    - #13
-    - ~~2014~~ @ Kyiv, Ukraine; June/20+21 (CANCELED) - #12
+    - ~~2014 @ Kyiv, Ukraine; June/20+21~~ (CANCELED) - #12
     - 2013 @ Athens, Greece; June/28+29             - #11
     - 2012 @ Amsterdam, Netherlands; June/1+2       - #10
     - 2011 @ Berlin, Germany; May/28+29             - #9
@@ -99,19 +102,20 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 #### Switzerland / Schweiz / Suisse / Confoederatio Helvetica (ch)
 
 - **Ruvetia - Helvetian Ruby User Group** (web: [ruvetia.org](http://ruvetia.org), github: [ruvetia](https://github.com/ruvetia))
+    - @ Basel • Lucerne • Bern • Zug
 - @ Zürich
    - **Ruby on Rails Schweiz** (meetup: [rubyonrails-ch](http://meetup.com/rubyonrails-ch))
 
 
 #### Germany / Deutschland (de)
 
-- **European Ruby Camp - eurucamp** (web: [eurucamp.org](http://eurucamp.org), t: [eurucamp](https://twitter.com/eurucamp)) - _since 2011_  by RUG::B
+- **European Ruby Camp - eurucamp** (web: [eurucamp.org](http://eurucamp.org), t: [eurucamp](https://twitter.com/eurucamp)) - _since 2011_  by Ruby Berlin e.V.
     - 2015 @ Potsdam, Brandenburg (Berlin); July/31-Aug/2  (€180, Student €120)  - #5
     - 2014 @ Berlin; Aug/1-3    - #4
     - 2013 @ Berlin; Aug/16-18  - #3
     - 2012 @ Berlin; Aug/17–19  - #2
     - 2011 @ Berlin; May/28+29  - #1
-- **JRuby Conference Europe - JRubyConf EU** (web: [jrubyconf.eu](http://jrubyconf.eu), t:  [JRubyConfEU](https://twitter.com/JRubyConfEU)) _since 2012_
+- **JRuby Conference Europe - JRubyConf EU** (web: [jrubyconf.eu](http://jrubyconf.eu), t:  [JRubyConfEU](https://twitter.com/JRubyConfEU)) _since 2012_ 
     - 2015 @ Potsdam, Brandenburg (Berlin); July/31  (€130, Student €120)  - #4
     - 2014 @ Berlin; Aug/1     - #3
     - 2013 @ Berlin; Aug/14+15 - #2
@@ -190,6 +194,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 [England](#england-en) •
 [Scotland](#scotland) •
+[Northern Ireland](#northern-ireland) •
 [Ireland](#ireland--Éire-ie) •
 [France](#france-fr) •
 [Belgium](#belgium--belgië--belgique-be) •
@@ -213,13 +218,19 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Scotland
 
-- **Scottish Ruby User Group** (web: [scotrug.org](http://www.scotrug.org), github: [scotrug](https://github.com/scotrug))
-   - @ Edinburgh & Glasgow
+- **Scottish Ruby User Group** (web: [scotrug.org](http://www.scotrug.org), github: [scotrug](https://github.com/scotrug), t: [scotrug](https://twitter.com/scotrug))
+   - @ Edinburgh • Glasgow
+
+#### Northern Ireland
+
+- @ Belfast
+   - **Belfast Ruby** (web: [belfastruby.com](http://belfastruby.com), github: [belfastruby](https://github.com/belfastruby), t: [belfastruby](https://twitter.com/belfastruby))
 
 #### Ireland / Éire (ie)
 
-- **Ruby Ireland** (web: [rubyireland.com](http://www.rubyireland.com), github: [rubyireland](https://github.com/rubyireland))
-    - @ Dublin
+- **Ruby Ireland** (web: [rubyireland.com](http://www.rubyireland.com), github: [rubyireland](https://github.com/rubyireland), t: [rubyireland](https://twitter.com/rubyireland))
+    - @ Dublin • Cork 
+
 
 #### France (fr)
 
@@ -243,9 +254,6 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 <!-- new list; user groups -->
 
 - **Belgian Ruby User Group - BRUG** (web: [brug.be](http://brug.be), github: [brug-be](https://github.com/brug-be), t: [brug_be](https://twitter.com/brug_be))
-
-<!-- new list -->
-
 - @ Brussels
    - **Ruby Burgers** (meetup: [ruby_burgers-rb](http://meetup.com/ruby_burgers-rb))
    - **Rails Girls Brussels** (railsgirls: [brussels](http://railsgirls.com/brussels), github: [railsgirls-be](https://github.com/railsgirls-be))
@@ -452,7 +460,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - 2015 @ Atlanta, Georgia; April/21-23
    - 2014 @ Chicago, Illinois; April/22-25
    - ...
-   - 2006 @ Chicago, Illinois; ???  - #1
+   - 2006 @ Chicago, Illinois; June/22-25  - #1
 
 ##### New England
 
@@ -614,7 +622,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 [Argentina](#argentina-ar)
 
 
-- **RubySur - Ruby de América del Sur** (web: [rubysur.org](http://rubysur.org), github: [rubysur](https://github.com/rubysur))
+- **Ruby de América del Sur - RubySur** (web: [rubysur.org](http://rubysur.org), github: [rubysur](https://github.com/rubysur))
 
 #### Brazil / Brasil (br)
 
@@ -631,7 +639,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 <!-- new list; user groups -->
 
 - @ São Paulo
-   - **GURU SP - Grupo de Usuários Ruby de São Paulo** (web: [gurusp.org](http://gurusp.org))
+   - **Grupo de Usuários Ruby de São Paulo - GURU SP** (web: [gurusp.org](http://gurusp.org))
 
 
 #### Colombia (co)
@@ -667,9 +675,6 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - **Ruby Argentina** (web: [ruby.com.ar](http://ruby.com.ar))
    - @ Buenos Aires
-
-<!-- new list; user groups -->
-
 - @ Buenos Aires
     - **Ruby Buenos Aires** (meetup: [rubyba](http://meetup.com/rubyba))
 - @ La Plata
@@ -778,13 +783,13 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 <!-- new list; user groups -->
 
 - **Ruby Australia - rubyAU** (web: [ruby.org.au](http://ruby.org.au), github: [rubyaustralia](https://github.com/rubyaustralia), [rails-oceania](https://github.com/rails-oceania), t: [rubyaustralia](https://twitter.com/rubyaustralia))
-    - @Adelaide, Brisbane, Canberra, Melbourne, Perth, Sydney
+    - @ Adelaide • Brisbane • Canberra • Melbourne • Perth • Sydney
 
 
 ### New Zealand / Aotearoa (nz)
 
 - **Ruby New Zealand** (web: [ruby.nz](http://ruby.nz), github: [nzruby](https://github.com/nzruby), t: [NewZealandRuby](https://twitter.com/NewZealandRuby))
-    - @ Auckland, Wellington, Christchurch
+    - @ Auckland • Wellington • Christchurch
 
 
 
@@ -792,9 +797,9 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Europe
 
-- **PolyConf** (web: [polyconf.com](http://polyconf.com), t: [polyconfhq](https://twitter.com/polyconfhq)) - _since 2014_; formerly RuPy Conference - now includes (even) more programming languages
+- **PolyConf** (web: [polyconf.com](http://polyconf.com), t: [polyconfhq](https://twitter.com/polyconfhq)) - _since 2014_; formerly RuPy Conference -- now includes (even) more programming languages
     - 2015 @ Poznań, Poland; July/2-4 (€192/139) - #2
-    - 2014 @ Poznań, Poland; Oct/30-31- #1
+    - 2014 @ Poznań, Poland; Oct/30-31 - #1
 
 #### Central Europe
 
