@@ -23,7 +23,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 [World](#world) • [Online](#online) • [Europe](#europe) • [North America](#north-america) •
 [South America](#south-america) • [Asia](#asia) • [Africa](#africa) • [Pacific / Oceania](#pacific--oceania) • 
-[Calendar / What's On?](#calendar-whats-on) • [Meta](#meta)
+[Calendar / What's On?](#calendar--whats-on) • [Meta](#meta)
 
 
   
@@ -62,15 +62,13 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
     - 2005 @ Munich, Germany; Oct/15+16             - #3
     - 2004 @ Munich, Germany; Oct/9+10              - #2
     - 2003 @ Karlsruhe, Germany; June/21+22 (€20)   - #1
-- **European Ruby Camp - eurucamp** (web: [eurucamp.org](http://eurucamp.org), t: [eurucamp](https://twitter.com/eurucamp))
-    - 2015 @ Berlin (Potsdam), Germany; July/31-Aug/2  (€180, Student €120)
-- **Ruby Open Source Software (ROSS) Conference - ROSSConf** (web: [rossconf.io](http://rossconf.io), github:  [rossconf](https://github.com/rossconf), t: [ROSSConf](https://twitter.com/ROSSConf))
+- **Ruby Open Source Software (ROSS) Conference - ROSSConf** (web: [rossconf.io](http://rossconf.io), github:  [rossconf](https://github.com/rossconf), t: [ROSSConf](https://twitter.com/ROSSConf)) - _since 2015_
     - 2015 @ Berlin, Germany; Sept/26  (FREE)   - #2
     - 2015 @ Vienna, Austria; April/25  (FREE)  - #1
-- **JRuby Conference Europe - JRubyConf EU** (web: [jrubyconf.eu](http://jrubyconf.eu), t:  [JRubyConfEU](https://twitter.com/JRubyConfEU))
-    - 2015 @ Berlin (Potsdam), Germany; July/31  (€130, Student €120)
-- **RubyMotion Conference - #inspect** (web: [conference.rubymotion.com](http://conference.rubymotion.com), t: [rubymotion](https://twitter.com/rubymotion))
+- **RubyMotion Conference - #inspect** (web: [conference.rubymotion.com](http://conference.rubymotion.com), t: [rubymotion](https://twitter.com/rubymotion)) - _since 2013_
     - 2015 @ Paris, France; July/1+2  (€299)
+    - ...
+    - 2013 @ Brussels; March/28+29  -  #1
 
 
 ### Central Europe
@@ -106,6 +104,20 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 
 #### Germany / Deutschland (de)
+
+- **European Ruby Camp - eurucamp** (web: [eurucamp.org](http://eurucamp.org), t: [eurucamp](https://twitter.com/eurucamp)) - _since 2011_  by RUG::B
+    - 2015 @ Potsdam, Brandenburg (Berlin); July/31-Aug/2  (€180, Student €120)  - #5
+    - 2014 @ Berlin; Aug/1-3    - #4
+    - 2013 @ Berlin; Aug/16-18  - #3
+    - 2012 @ Berlin; Aug/17–19  - #2
+    - 2011 @ Berlin; May/28+29  - #1
+- **JRuby Conference Europe - JRubyConf EU** (web: [jrubyconf.eu](http://jrubyconf.eu), t:  [JRubyConfEU](https://twitter.com/JRubyConfEU)) _since 2012_
+    - 2015 @ Potsdam, Brandenburg (Berlin); July/31  (€130, Student €120)  - #4
+    - 2014 @ Berlin; Aug/1     - #3
+    - 2013 @ Berlin; Aug/14+15 - #2
+    - 2012 @ Berlin; Aug/17    - #1
+
+<!-- new list; user groups -->
 
 - @ Berlin
     - **Ruby User Group Berlin - RUG::B** (web: [rug-b.de](http://rug-b.de), t: [rug_b](https://twitter.com/rug_b))
@@ -780,10 +792,10 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Europe
 
-#### Central Europe
-
-- **PolyConf** (web: [polyconf.com](http://polyconf.com), t: [polyconfhq](https://twitter.com/polyconfhq)) - formerly RuPy Conference - now includes (even) more programming languages
+- **PolyConf** (web: [polyconf.com](http://polyconf.com), t: [polyconfhq](https://twitter.com/polyconfhq)) - _since 2014_, formerly RuPy Conference - now includes (even) more programming languages
     - 2015 @ Poznań, Poland; July/2-4 (€192/139)
+
+#### Central Europe
 
 ##### Austria / Österreich (at)
 
