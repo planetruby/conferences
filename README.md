@@ -186,7 +186,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### England (en)
 
-- **Brighton Ruby Conference** (web: [brightonruby.com](http://brightonruby.com))
+- **Brighton Ruby Conference** (web: [brightonruby.com](http://brightonruby.com), t: [brightonruby](https://twitter.com/brightonruby))
     - 2015 @ Brighton, East Sussex; July/20  (£100)
 - **Bath Ruby Conference** (web: [bathruby.org](http://bathruby.org))
     - 2015 @ Bath, Somerset; March/13  (£99/£79/£59, Student £39)
@@ -266,7 +266,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Portugal (pt)
 
-- **RubyConf Portugal** (web: [rubyconf.pt](http://rubyconf.pt))
+- **RubyConf Portugal** (web: [rubyconf.pt](http://rubyconf.pt), t: [rubyconfpt](https://twitter.com/rubyconfpt))
   - 2015 @ Braga; Sept/14+15  (€250/200/150, Student €80)
   - 2014 @ Braga; Oct/13+14
 
@@ -304,6 +304,11 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Finland / Suomi (fi)
 
+- **Ruby Sauna** (web: [rubysauna.org](http://rubysauna.org), t: [rubysauna](https://twitter.com/rubysauna))
+   - @ Oulu
+
+<!-- new list; user groups -->
+
 - @ Helsinki
    - **Helsinki Ruby Brigade** (web: [rubybrigade.fi](http://rubybrigade.fi))
 
@@ -338,7 +343,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Russia / Россия (ru)
 
-- **Rails Club** (web: [railsclub.ru](http://railsclub.ru))
+- **Rails Club** (web: [railsclub.ru](http://railsclub.ru), t: [railsclub_ru](https://twitter.com/railsclub_ru))
   - 2015 @ Moscow; May/21+22
 
 #### Ukraine / Україна / Украина (ua)
@@ -439,7 +444,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ##### New England
 
-- **Burlington Ruby Conference** (web: [burlingtonrubyconference.com](http://www.burlingtonrubyconference.com))
+- **Burlington Ruby Conference** (web: [burlingtonrubyconference.com](http://www.burlingtonrubyconference.com), t: [btvrubyconf](https://twitter.com/btvrubyconf))
   - 2015 @ Burlington, Vermont; Aug/1+2  ($250)
 
 <!-- new list; user groups -->
@@ -453,6 +458,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - 2015 @ New York, New York; June/20
 - **Nickel City Ruby** (web: [nickelcityruby.com](http://nickelcityruby.com), t: [nickelcityruby](https://twitter.com/nickelcityruby))
    - 2014 @ Buffalo, New York; Oct/2-4
+- **Steel City Ruby Conf** (web: [steelcityruby.org](http://steelcityruby.org), t: [SteelCityRuby](https://twitter.com/SteelCityRuby))
+   - 2014 @ Pittsburgh, Pennsylvania; Aug/15+16
 
 <!-- new list; user groups -->
 
@@ -482,7 +489,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ##### Great Lakes
 
-- **Madison+ Ruby** (web: [madisonpl.us/ruby](http://madisonpl.us/ruby))
+- **Madison+ Ruby** (web: [madisonpl.us/ruby](http://madisonpl.us/ruby), t: [MadisonRuby](https://twitter.com/MadisonRuby))
    - 2015 @ Madison, Wisconsin; Aug/21+22  ($349)
 
 <!-- new list; user groups -->
@@ -511,7 +518,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ##### Rocky Mountains
 
-- **Rocky Mountain Ruby Conference** (web: [rockymtnruby.com](http://rockymtnruby.com))
+- **Rocky Mountain Ruby Conference** (web: [rockymtnruby.com](http://rockymtnruby.com), t: [rockymtnruby](https://twitter.com/rockymtnruby))
    - 2015 @ Boulder, Colorado; Sept/23-25  ($199.99)
 
 <!-- new list; user groups -->
@@ -631,10 +638,20 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 #### Uruguay (uy)
 
+- **RubyConf Uruguay** (web: [rubyconfuruguay.org](http://rubyconfuruguay.org), t: [rubyconfuruguay](https://twitter.com/rubyconfuruguay))
+   - 2014 @ Montevideo; May/23+24
+
+<!-- new list; user groups -->
+
 - @ Montevideo
    - **Ruby Montevideo** (meetup: [ruby-montevideo](http://meetup.com/ruby-montevideo))
 
 #### Argentina (ar)
+
+- **RubyConf Argentina** (web: [rubyconfargentina.org](http://rubyconfargentina.org), t: [RubyConfAR](https://twitter.com/RubyConfAR))
+   -  2014 @ Buenos Aires; Oct/24+25
+
+<!-- new list; user groups -->
 
 - **Ruby Argentina** (web: [ruby.com.ar](http://ruby.com.ar))
    - @ Buenos Aires
@@ -659,10 +676,10 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Japan (jp)
 
-- **RubyWorld Conference** (web: [rubyworld-conf.org](http://www.rubyworld-conf.org/en)) by Ruby Association
+- **RubyWorld Conference** (web: [rubyworld-conf.org](http://www.rubyworld-conf.org/en), t: [RubyWorldConf](https://twitter.com/RubyWorldConf)) by Ruby Association
    - 2015 @ Matsue; Nov/11+12  (¥5000)
    - 2014 @ Matsue; Nov/13+14
-- **RubyKaigi** (web: [rubykaigi.org](http://rubykaigi.org))
+- **RubyKaigi** (web: [rubykaigi.org](http://rubykaigi.org), t: [rubykaigi](https://twitter.com/rubykaigi))
    - 2015 @ Tokyo; Dec/11-13
    - 2014 @ Tokyo; Sep/18-20
    - ...
@@ -684,7 +701,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Singapore (sg)
 
-- **RedDotRubyConf** (web: [reddotrubyconf.com](http://www.reddotrubyconf.com))
+- **RedDotRubyConf** (web: [reddotrubyconf.com](http://www.reddotrubyconf.com), t: [reddotrubyconf](https://twitter.com/reddotrubyconf))
    - 2015 @ Singapore; June/4+5  ($350/$285)
    - 2014 @ Singapore; June/26+27
 
