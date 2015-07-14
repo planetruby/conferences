@@ -31,6 +31,10 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - **Rails Girls** (web: [railsgirls.com](http://railsgirls.com), t: [railsgirls](https://twitter.com/railsgirls))
 - **Rails Girls Summer of Code** (web: [railsgirlssummerofcode.org](http://railsgirlssummerofcode.org), t: [RailsGirlsSoC](https://twitter.com/RailsGirlsSoC))
+- **RubyMotion Conference - #inspect** (web: [conference.rubymotion.com](http://conference.rubymotion.com), t: [rubymotion](https://twitter.com/rubymotion)) - _since 2013_
+    - 2015 @ Paris, France; July/1+2  (€299) - #3
+    - 2014 @ San Francisco, California, United States, May/28-29 - #2                  - 
+    - 2013 @ Brussels, Belgium; March/28+29  -  #1
 
 ## Online
 
@@ -50,7 +54,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - **European Ruby Konference - EuRuKo** (web: [euruko.org](http://euruko.org), t: [euruko](https://twitter.com/euruko)) - _since 2003_
     - 2015 @ Salzburg, Austria; Oct/17+18  (€65)    - #13
-    - ~2014~ @ Kyiv, Ukraine; June/20+21 (CANCELED) - #12
+    - ~~2014~~ @ Kyiv, Ukraine; June/20+21 (CANCELED) - #12
     - 2013 @ Athens, Greece; June/28+29             - #11
     - 2012 @ Amsterdam, Netherlands; June/1+2       - #10
     - 2011 @ Berlin, Germany; May/28+29             - #9
@@ -65,10 +69,6 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - **Ruby Open Source Software (ROSS) Conference - ROSSConf** (web: [rossconf.io](http://rossconf.io), github:  [rossconf](https://github.com/rossconf), t: [ROSSConf](https://twitter.com/ROSSConf)) - _since 2015_
     - 2015 @ Berlin, Germany; Sept/26  (FREE)   - #2
     - 2015 @ Vienna, Austria; April/25  (FREE)  - #1
-- **RubyMotion Conference - #inspect** (web: [conference.rubymotion.com](http://conference.rubymotion.com), t: [rubymotion](https://twitter.com/rubymotion)) - _since 2013_
-    - 2015 @ Paris, France; July/1+2  (€299)
-    - ...
-    - 2013 @ Brussels; March/28+29  -  #1
 
 
 ### Central Europe
@@ -792,8 +792,9 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Europe
 
-- **PolyConf** (web: [polyconf.com](http://polyconf.com), t: [polyconfhq](https://twitter.com/polyconfhq)) - _since 2014_, formerly RuPy Conference - now includes (even) more programming languages
-    - 2015 @ Poznań, Poland; July/2-4 (€192/139)
+- **PolyConf** (web: [polyconf.com](http://polyconf.com), t: [polyconfhq](https://twitter.com/polyconfhq)) - _since 2014_; formerly RuPy Conference - now includes (even) more programming languages
+    - 2015 @ Poznań, Poland; July/2-4 (€192/139) - #2
+    - 2014 @ Poznań, Poland; Oct/30-31- #1
 
 #### Central Europe
 
