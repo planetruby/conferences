@@ -90,7 +90,8 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 - @ Vienna / Wien
     - **Vienna.rb** (web: [vienna-rb.at](http://vienna-rb.at), github: [vienna-rb](https://github.com/vienna-rb), t: [viennarb](https://twitter.com/viennarb))
-    - **Ruby Habits** (meetup: [RubyHabits](http://meetup.com/RubyHabits))
+    - **Vienna.html** (github: [viennahtml](https://github.com/viennahtml), t: [viennahtml](https://twitter.com/viennahtml)) - Jekyll 'n' friends; Static is the New Dynamic
+    - **Ruby Habits** (meetup: [RubyHabits](http://meetup.com/RubyHabits)) - Ruby Study Group
 - @ Linz, Oberösterreich
     - **Ruby User Group Linz - RUGL** (meetup: [Ruby-User-Group-Linz-RUGL](http://meetup.com/Ruby-User-Group-Linz-RUGL))
 
