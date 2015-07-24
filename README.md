@@ -26,7 +26,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 [Calendar / What's On?](#calendar--whats-on) • [Meta](#meta)
 
 
-NOTE: For news about upcoming Ruby conferences, camps, meetups, etc. around the world follow along [@rubycalendar](https://twitter.com/rubycalendar) on Twitter 
+NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for news about upcoming Ruby conferences, camps, meetups, etc. around the world
 
   
 ## World
