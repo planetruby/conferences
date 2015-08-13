@@ -743,8 +743,9 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 ### Nepal (np)
 
-- **RubyNepal** (web: [RubyNepal.org](http://rubynepal.org), github: [RubyNepal](https://github.com/RubyNepal), t: [@ruby_nepal](https://twitter.com/ruby_nepal))
-- **Nepal Ruby and Rails Users Group** (meetup: [Nepal-Ruby-Users-Group-NRUG](http://meetup.com/Nepal-Ruby-Users-Group))
+- **Ruby Nepal** (web: [rubynepal.org](http://rubynepal.org), github: [RubyNepal](https://github.com/RubyNepal), t: [ruby_nepal](https://twitter.com/ruby_nepal))
+- @ Kathmandu
+    - **Nepal Ruby and Rails Users Group - NRUG** (meetup: [Nepal-Ruby-Users-Group](http://meetup.com/Nepal-Ruby-Users-Group))
 
 
 ### India (in)
