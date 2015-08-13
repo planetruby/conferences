@@ -691,6 +691,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 [Singapore](#singapore-sg) •
 [Philippines](#philippines--pilipinas-ph) •
 [Vietnam](#vietnam-vn) •
+[Nepal](#nepal-np) •
 [India](#india-in)
 
 
@@ -739,6 +740,12 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### Vietnam (vn)
 
 - **Ruby Vietnam** (web: [ruby.org.vn](http://ruby.org.vn), github: [ruby-vietnam](https://github.com/ruby-vietnam))
+
+### Nepal (np)
+
+- **RubyNepal** (web: [RubyNepal.org](http://rubynepal.org), github: [RubyNepal](https://github.com/RubyNepal), t: [@ruby_nepal](https://twitter.com/ruby_nepal))
+- **Nepal Ruby and Rails Users Group** (meetup: [Nepal-Ruby-Users-Group-NRUG](http://meetup.com/Nepal-Ruby-Users-Group))
+
 
 ### India (in)
 
