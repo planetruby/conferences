@@ -1,6 +1,6 @@
 Awesome Series @ Planet Ruby
 
-[Rubies (Virtual Machines, Compilers, ...)](https://github.com/planetruby/awesome-rubies) • 
+[Rubies (Virtual Machines, Compilers, ...)](https://github.com/planetruby/awesome-rubies) •
 [ActiveRecord](https://github.com/planetruby/awesome-activerecord)  •
 [Webframeworks (Micro, Macro, APIs, ...)](https://github.com/planetruby/awesome-webframeworks) •
 [Webservers (Single-Threaded, Multi-Threaded, Evented, ...)](https://github.com/planetruby/awesome-webservers) •
@@ -22,13 +22,13 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 [World](#world) • [Online](#online) • [Europe](#europe) • [North America](#north-america) •
-[South America](#south-america) • [Asia](#asia) • [Africa](#africa) • [Pacific / Oceania](#pacific--oceania) • 
+[South America](#south-america) • [Asia](#asia) • [Africa](#africa) • [Pacific / Oceania](#pacific--oceania) •
 [Calendar / What's On?](#calendar--whats-on) • [Meta](#meta)
 
 
 NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for news about upcoming Ruby conferences, camps, meetups, etc. around the world
 
-  
+
 ## World
 
 - **Rails Girls** (web: [railsgirls.com](http://railsgirls.com), t: [railsgirls](https://twitter.com/railsgirls))
@@ -118,7 +118,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
     - 2013 @ Berlin; Aug/16-18  - #3
     - 2012 @ Berlin; Aug/17–19  - #2
     - 2011 @ Berlin; May/28+29  - #1
-- **JRuby Conference Europe - JRubyConf EU** (web: [jrubyconf.eu](http://jrubyconf.eu), t:  [JRubyConfEU](https://twitter.com/JRubyConfEU)) _since 2012_ 
+- **JRuby Conference Europe - JRubyConf EU** (web: [jrubyconf.eu](http://jrubyconf.eu), t:  [JRubyConfEU](https://twitter.com/JRubyConfEU)) _since 2012_
     - 2015 @ Potsdam, Brandenburg (Berlin); July/31  (€130, Student €120)  - #4
     - 2014 @ Berlin; Aug/1     - #3
     - 2013 @ Berlin; Aug/14+15 - #2
@@ -232,7 +232,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 #### Ireland / Éire (ie)
 
 - **Ruby Ireland** (web: [rubyireland.com](http://www.rubyireland.com), github: [rubyireland](https://github.com/rubyireland), t: [rubyireland](https://twitter.com/rubyireland))
-    - @ Dublin • Cork 
+    - @ Dublin • Cork
 
 
 #### France (fr)
@@ -266,7 +266,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 - @ Amsterdam, Noord-Holland
    - **Amsterdam.rb** (web: [amsrb.org](http://amsrb.org), github: [amsrb](https://github.com/amsrb))
-- @ Rotterdam, Zuid-Holland 
+- @ Rotterdam, Zuid-Holland
    - **Rotterdam.rb** (web: [rtmrb.org](http://rtmrb.org))
 
 
@@ -441,7 +441,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 [Southwest](#southwest) •
 [Texas](#texas) •
 [Pacific Northwest](#pacific-northwest) •
-[California](#california) 
+[California](#california)
 
 
 - **RubyConf** (web: [rubyconf.org](http://rubyconf.org), t: [rubyconf](https://twitter.com/rubyconf)) _since 2001_  by Ruby Central
@@ -494,7 +494,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 - **RubyNation** (web: [rubynation.org](http://rubynation.org), t: [rubynation](https://twitter.com/rubynation))
  - @ Washington, D.C.
- 
+
 <!-- new list; user groups -->
 
 - @ Washington, D.C.
@@ -504,7 +504,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 - **Ancient City Ruby Conference** (web: [ancientcityruby.com](http://ancientcityruby.com), t: [ancientcityruby](https://twitter.com/ancientcityruby))
    - @ St Augustine, Florida
- 
+
 <!-- new list; user groups -->
 
 - @ Orlando, Florida
@@ -517,7 +517,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 <!-- new list; user groups -->
 
-- @ Chicago, Illinois  
+- @ Chicago, Illinois
    - **Chicago Ruby** (web: [chicagoruby.org](http://chicagoruby.org), github: [chicagoruby](https://github.com/chicagoruby))
 - @ Madison, Wisconsin
     - **Mad Railers Meetup** (meetup: [Mad-Railers](http://meetup.com/Mad-Railers))
@@ -593,6 +593,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 <!-- new list; user groups -->
 
+- @ Orange County, California
+    - **OCRuby Meetup** (meetup: [ocruby](http://meetup.com/ocruby))
 - @ San Diego, California
     - **SD Ruby Meetup** (meetup: [sdruby](http://meetup.com/sdruby))
 - @ San Francisco, California
@@ -731,7 +733,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 - @ Singapore
    - **Ruby Singapore** (web: [ruby.sg](http://ruby.sg), github: [rubysg](https://github.com/rubysg))
 
-### Philippines / Pilipinas (ph) 
+### Philippines / Pilipinas (ph)
 
 - **RubyConf Philippines** (web: [rubyconf.ph](http://rubyconf.ph), t: [RubyConfPH](https://twitter.com/RubyConfPH))
     - 2015 @ Boracy Island; March/27-28
