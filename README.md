@@ -44,6 +44,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ## Online
 
 - **Rails Rumble** (web: [railsrumble.com](https://railsrumble.com), t: [railsrumble](https://twitter.com/railsrumble))
+    - 2015 @ Intertubes; Nov/7+8  (FREE)
     - 2014 @ Intertubes; Oct/18+19  (FREE)
 - **JekyllConf** (web: [jekyllconf.com](http://jekyllconf.com), t: [JekyllConf](https://twitter.com/JekyllConf))
     - 2015 @ Intertubes; May/2   (FREE)
@@ -58,6 +59,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 
 - **European Ruby Konference - EuRuKo** (web: [euruko.org](http://euruko.org), t: [euruko](https://twitter.com/euruko)) - _since 2003_
+    - @ Sofia, Bulgaria   - #14
     - 2015 @ Salzburg, Austria; Oct/17+18  (€65)    - #13
     - ~~2014 @ Kyiv, Ukraine; June/20+21~~ (CANCELED) - #12
     - 2013 @ Athens, Greece; June/28+29             - #11
@@ -163,6 +165,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 #### Poland (pl)
 
 - **wroc_love.rb** (web: [wrocloverb.com](http://www.wrocloverb.com), t: [wrocloverb](https://twitter.com/wrocloverb))
+   - 2016 @ Wrocław; March/11-13
    - 2015 @ Wrocław; March/13-15
 
 <!-- new list; user groups -->
@@ -207,8 +210,10 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 #### England (en)
 
 - **Brighton Ruby Conference** (web: [brightonruby.com](http://brightonruby.com), t: [brightonruby](https://twitter.com/brightonruby))
+    - 2016 @ Brighton, East Sussex; July/8
     - 2015 @ Brighton, East Sussex; July/20  (£100)
 - **Bath Ruby Conference** (web: [bathruby.org](http://bathruby.org), t: [BathRuby](https://twitter.com/BathRuby))
+    - 2016 @ Bath, Somerset; March/11  (£99/£79/£59, Student £19)
     - 2015 @ Bath, Somerset; March/13  (£99/£79/£59, Student £39)
 
 <!-- new list; user groups -->
@@ -248,6 +253,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 #### Belgium / België / Belgique (be)
 
+- **Ruby Devroom @ FOSDEM** (web: [fosdem.rubybelgium.be](http://fosdem.rubybelgium.be), t: [ruby_fosdem](https://twitter.com/ruby_fosdem))
+    - 2016 @ Brussels; Jan/31  (FREE)
 - **ArrrCamp** (web: [arrrrcamp.be](http://arrrrcamp.be), t: [arrrrcamp](https://twitter.com/arrrrcamp))
     - 2015 @ Ghent, Oost-Vlaanderen; Oct/1+2  (€250/210/160)
     - 2014 @ Ghent, Oost-Vlaanderen; Oct/2+3
@@ -445,6 +452,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 
 - **RubyConf** (web: [rubyconf.org](http://rubyconf.org), t: [rubyconf](https://twitter.com/rubyconf)) _since 2001_  by Ruby Central
+   - 2016 @ Cincinnati, Ohio; Nov/10-12
    - 2015 @ San Antonio, Texas; Nov/15-17
    - 2014 @ San Diego, California; Nov/17-19
    - ...
@@ -503,7 +511,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ##### Florida
 
 - **Ancient City Ruby Conference** (web: [ancientcityruby.com](http://ancientcityruby.com), t: [ancientcityruby](https://twitter.com/ancientcityruby))
-   - @ St Augustine, Florida
+   - 2016 @ St Augustine, Florida; April/6-8  ($299)
 
 <!-- new list; user groups -->
 
@@ -574,7 +582,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ##### Pacific Northwest
 
 - **Ruby on Ales** (web: [ruby.onales.com](https://ruby.onales.com), t: [rbonales](https://twitter.com/rbonales))
-   - 2015 @ Bend, Oregon; March/5+6 ($350)
+   - 2016 @ Bend, Oregon; March/31+April/1 (?/$250)
+   - 2015 @ Bend, Oregon; March/5+6  ($350)
 - **Cascadia Ruby** (web: [cascadiaruby.com](http://cascadiaruby.com), t: [cascadiaruby](https://twitter.com/cascadiaruby))
    - 2014 @ Portland, Oregon; Aug/11+12
 
@@ -736,6 +745,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### Philippines / Pilipinas (ph)
 
 - **RubyConf Philippines** (web: [rubyconf.ph](http://rubyconf.ph), t: [RubyConfPH](https://twitter.com/RubyConfPH))
+    - 2016 @ Manila; April/7-9
     - 2015 @ Boracy Island; March/27-28
     - 2014 @ Manila; March/28-29
 
@@ -753,6 +763,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### India (in)
 
 - **RubyConf India** (web: [rubyconfindia.org](http://rubyconfindia.org), t: [rubyconfindia](https://twitter.com/rubyconfindia))
+    - 2016 @ Kochi, Kerala; March/19+20
     - 2015 @ Dona Paula (Vainguinim Beach), Goa; April/3-5  (Rs22000/11000/6500, $400/200/125)
     - 2014 @ Canacona (Goan Coastline), Goa; March/22+23
 - **Garden City Ruby Conference** (web: [gardencityruby.org](http://www.gardencityruby.org), t: [GardenCityRb](https://twitter.com/GardenCityRb))
@@ -779,6 +790,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### South Africa (za)
 
 - **RubyFuza** (web: [rubyfuza.org](http://www.rubyfuza.org), t: [rubyfuza](https://twitter.com/rubyfuza))
+    - 2016 @ Cape Town; Feb/4+5  (R1200/R900)
     - 2015 @ Cape Town; Feb/5+6
 
 
@@ -790,7 +802,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### Australia (au)
 
 - **RubyConf Australia** (web: [rubyconf.org.au](http://www.rubyconf.org.au), t: [rubyconf_au](https://twitter.com/rubyconf_au))
-    - 2016 @ Gold Coast; Feb/10-13
+    - 2016 @ Gold Coast; Feb/10-13  (A$550)
     - 2015 @ Melbourne; Feb/4-7
 
 <!-- new list; user groups -->
@@ -819,6 +831,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ##### Austria / Österreich (at)
 
 - **Linuxwochen** (web: [linuxwochen.at](http://www.linuxwochen.at))
+    - 2016 @ Vienna / Wien; April/28-30  (FREE)
     - 2015 @ Vienna / Wien; May/7-9  (FREE)
 
 
