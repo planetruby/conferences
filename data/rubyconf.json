@@ -1,5 +1,23 @@
 [
   {
+    "title": "RubyConf",
+    "start_date": "2016-11-10",
+    "end_date": "2016-11-12",
+    "days": 3,
+    "place": "Cincinnati, Ohio › United States (us) › North America › America",
+    "link": "http://rubyconf.org",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "Brighton Ruby Conference",
+    "start_date": "2016-07-08",
+    "end_date": "2016-07-08",
+    "days": 1,
+    "place": "Brighton, East Sussex › England (en) › Western Europe › Europe",
+    "link": "http://brightonruby.com",
+    "twitter": "-to be done-"
+  },
+  {
     "title": "RailsConf",
     "start_date": "2016-05-04",
     "end_date": "2016-05-06",
@@ -9,12 +27,84 @@
     "twitter": "-to be done-"
   },
   {
+    "title": "RubyConf Philippines",
+    "start_date": "2016-04-07",
+    "end_date": "2016-04-09",
+    "days": 3,
+    "place": "Manila › Philippines / Pilipinas (ph) › Asia",
+    "link": "http://rubyconf.ph",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "Ancient City Ruby Conference",
+    "start_date": "2016-04-06",
+    "end_date": "2016-04-08",
+    "days": 3,
+    "place": "St Augustine, Florida › Florida › United States (us) › North America › America",
+    "link": "http://ancientcityruby.com",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "Ruby on Ales",
+    "start_date": "2016-03-31",
+    "end_date": "2016-04-01",
+    "days": 2,
+    "place": "Bend, Oregon › Pacific Northwest › United States (us) › North America › America",
+    "link": "https://ruby.onales.com",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "RubyConf India",
+    "start_date": "2016-03-19",
+    "end_date": "2016-03-20",
+    "days": 2,
+    "place": "Kochi, Kerala › India (in) › Asia",
+    "link": "http://rubyconfindia.org",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "wroc_love.rb",
+    "start_date": "2016-03-11",
+    "end_date": "2016-03-13",
+    "days": 3,
+    "place": "Wrocław › Poland (pl) › Central Europe › Europe",
+    "link": "http://www.wrocloverb.com",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "Bath Ruby Conference",
+    "start_date": "2016-03-11",
+    "end_date": "2016-03-11",
+    "days": 1,
+    "place": "Bath, Somerset › England (en) › Western Europe › Europe",
+    "link": "http://bathruby.org",
+    "twitter": "-to be done-"
+  },
+  {
     "title": "RubyConf Australia",
     "start_date": "2016-02-10",
     "end_date": "2016-02-13",
     "days": 4,
     "place": "Gold Coast › Australia (au) › Pacific / Oceania",
     "link": "http://www.rubyconf.org.au",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "RubyFuza",
+    "start_date": "2016-02-04",
+    "end_date": "2016-02-05",
+    "days": 2,
+    "place": "Cape Town › South Africa (za) › Africa",
+    "link": "http://www.rubyfuza.org",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "Ruby Devroom @ FOSDEM",
+    "start_date": "2016-01-31",
+    "end_date": "2016-01-31",
+    "days": 1,
+    "place": "Brussels › Belgium / België / Belgique (be) › Western Europe › Europe",
+    "link": "http://fosdem.rubybelgium.be",
     "twitter": "-to be done-"
   },
   {
@@ -54,11 +144,20 @@
     "twitter": "-to be done-"
   },
   {
+    "title": "Rails Rumble",
+    "start_date": "2015-11-07",
+    "end_date": "2015-11-08",
+    "days": 2,
+    "place": "Intertubes › Online",
+    "link": "https://railsrumble.com",
+    "twitter": "-to be done-"
+  },
+  {
     "title": "Keep Ruby Weird",
     "start_date": "2015-10-23",
     "end_date": "2015-10-23",
     "days": 1,
-    "place": "Austin, Texas › Southwest › United States (us) › North America › America",
+    "place": "Austin, Texas › Texas › United States (us) › North America › America",
     "link": "http://keeprubyweird.com",
     "twitter": "-to be done-"
   },
@@ -78,6 +177,15 @@
     "days": 2,
     "place": "Medellin › Colombia (co) › South America › America",
     "link": "http://www.rubyconf.co",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "Los Angeles Ruby Conference - LA RubyConf",
+    "start_date": "2015-10-10",
+    "end_date": "2015-10-10",
+    "days": 1,
+    "place": "Burbank, California › California › United States (us) › North America › America",
+    "link": "https://larubyconf.com",
     "twitter": "-to be done-"
   },
   {
@@ -166,8 +274,17 @@
     "start_date": "2015-08-15",
     "end_date": "2015-08-15",
     "days": 1,
-    "place": "Austin, Texas › Southwest › United States (us) › North America › America",
+    "place": "Austin, Texas › Texas › United States (us) › North America › America",
     "link": "http://lonestarruby.org",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "Deccan Ruby Conf",
+    "start_date": "2015-08-08",
+    "end_date": "2015-08-08",
+    "days": 1,
+    "place": "Pune, Maharashtra › India (in) › Asia",
+    "link": "http://www.deccanrubyconf.org",
     "twitter": "-to be done-"
   },
   {
@@ -184,7 +301,7 @@
     "start_date": "2015-07-31",
     "end_date": "2015-08-02",
     "days": 3,
-    "place": "Berlin (Potsdam), Germany › Europe",
+    "place": "Potsdam, Brandenburg (Berlin) › Germany / Deutschland (de) › Central Europe › Europe",
     "link": "http://eurucamp.org",
     "twitter": "-to be done-"
   },
@@ -193,7 +310,7 @@
     "start_date": "2015-07-31",
     "end_date": "2015-07-31",
     "days": 1,
-    "place": "Berlin (Potsdam), Germany › Europe",
+    "place": "Potsdam, Brandenburg (Berlin) › Germany / Deutschland (de) › Central Europe › Europe",
     "link": "http://jrubyconf.eu",
     "twitter": "-to be done-"
   },
@@ -211,7 +328,7 @@
     "start_date": "2015-07-01",
     "end_date": "2015-07-02",
     "days": 2,
-    "place": "Paris, France › Europe",
+    "place": "Paris, France › World",
     "link": "http://conference.rubymotion.com",
     "twitter": "-to be done-"
   },
@@ -225,12 +342,12 @@
     "twitter": "-to be done-"
   },
   {
-    "title": "RuPy, RuPy Campinas",
+    "title": "RuPy Campinas, RuPy",
     "start_date": "2015-06-20",
     "end_date": "2015-06-20",
     "days": 1,
     "place": "Campinas, São Paulo › Brazil / Brasil (br) › South America › America",
-    "link": "http://rupy.com.br",
+    "link": "http://campinas.rupy.com.br",
     "twitter": "-to be done-"
   },
   {
@@ -310,7 +427,7 @@
     "start_date": "2015-04-03",
     "end_date": "2015-04-05",
     "days": 3,
-    "place": "Goa › India (in) › Asia",
+    "place": "Dona Paula (Vainguinim Beach), Goa › India (in) › Asia",
     "link": "http://rubyconfindia.org",
     "twitter": "-to be done-"
   },
@@ -351,6 +468,15 @@
     "twitter": "-to be done-"
   },
   {
+    "title": "Ruby on Ales",
+    "start_date": "2015-03-05",
+    "end_date": "2015-03-06",
+    "days": 2,
+    "place": "Bend, Oregon › Pacific Northwest › United States (us) › North America › America",
+    "link": "https://ruby.onales.com",
+    "twitter": "-to be done-"
+  },
+  {
     "title": "Tropical Ruby",
     "start_date": "2015-03-05",
     "end_date": "2015-03-08",
@@ -382,17 +508,17 @@
     "start_date": "2015-01-10",
     "end_date": "2015-01-10",
     "days": 1,
-    "place": "Bangalore › India (in) › Asia",
+    "place": "Bangalore, Karnataka › India (in) › Asia",
     "link": "http://www.gardencityruby.org",
     "twitter": "-to be done-"
   },
   {
-    "title": "RuPy, RuPy Campinas",
+    "title": "RuPy Campinas, RuPy",
     "start_date": "2014-11-29",
     "end_date": "2014-11-29",
     "days": 1,
     "place": "São José dos Campos, São Paulo › Brazil / Brasil (br) › South America › America",
-    "link": "http://rupy.com.br",
+    "link": "http://campinas.rupy.com.br",
     "twitter": "-to be done-"
   },
   {
@@ -411,6 +537,15 @@
     "days": 2,
     "place": "Matsue › Japan (jp) › Asia",
     "link": "http://www.rubyworld-conf.org/en",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "RubyConf Argentina",
+    "start_date": "2014-10-24",
+    "end_date": "2014-10-25",
+    "days": 2,
+    "place": "Buenos Aires › Argentina (ar) › South America › America",
+    "link": "http://rubyconfargentina.org",
     "twitter": "-to be done-"
   },
   {
@@ -441,6 +576,15 @@
     "twitter": "-to be done-"
   },
   {
+    "title": "Nickel City Ruby",
+    "start_date": "2014-10-02",
+    "end_date": "2014-10-04",
+    "days": 3,
+    "place": "Buffalo, New York › Mid Atlantic › United States (us) › North America › America",
+    "link": "http://nickelcityruby.com",
+    "twitter": "-to be done-"
+  },
+  {
     "title": "RubyDay",
     "start_date": "2014-09-26",
     "end_date": "2014-09-26",
@@ -468,6 +612,42 @@
     "twitter": "-to be done-"
   },
   {
+    "title": "Steel City Ruby Conf",
+    "start_date": "2014-08-15",
+    "end_date": "2014-08-16",
+    "days": 2,
+    "place": "Pittsburgh, Pennsylvania › Mid Atlantic › United States (us) › North America › America",
+    "link": "http://steelcityruby.org",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "Cascadia Ruby",
+    "start_date": "2014-08-11",
+    "end_date": "2014-08-12",
+    "days": 2,
+    "place": "Portland, Oregon › Pacific Northwest › United States (us) › North America › America",
+    "link": "http://cascadiaruby.com",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "European Ruby Camp - eurucamp",
+    "start_date": "2014-08-01",
+    "end_date": "2014-08-03",
+    "days": 3,
+    "place": "Berlin › Germany / Deutschland (de) › Central Europe › Europe",
+    "link": "http://eurucamp.org",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "JRuby Conference Europe - JRubyConf EU",
+    "start_date": "2014-08-01",
+    "end_date": "2014-08-01",
+    "days": 1,
+    "place": "Berlin › Germany / Deutschland (de) › Central Europe › Europe",
+    "link": "http://jrubyconf.eu",
+    "twitter": "-to be done-"
+  },
+  {
     "title": "RedDotRubyConf",
     "start_date": "2014-06-26",
     "end_date": "2014-06-27",
@@ -483,6 +663,15 @@
     "days": 3,
     "place": "Manzanillo, Colima › Mexico / México (mx) › North America › America",
     "link": "http://magmaconf.com",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "RubyConf Uruguay",
+    "start_date": "2014-05-23",
+    "end_date": "2014-05-24",
+    "days": 2,
+    "place": "Montevideo › Uruguay (uy) › South America › America",
+    "link": "http://rubyconfuruguay.org",
     "twitter": "-to be done-"
   },
   {
@@ -522,12 +711,66 @@
     "twitter": "-to be done-"
   },
   {
+    "title": "RubyConf India",
+    "start_date": "2014-03-22",
+    "end_date": "2014-03-23",
+    "days": 2,
+    "place": "Canacona (Goan Coastline), Goa › India (in) › Asia",
+    "link": "http://rubyconfindia.org",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "European Ruby Camp - eurucamp",
+    "start_date": "2013-08-16",
+    "end_date": "2013-08-18",
+    "days": 3,
+    "place": "Berlin › Germany / Deutschland (de) › Central Europe › Europe",
+    "link": "http://eurucamp.org",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "JRuby Conference Europe - JRubyConf EU",
+    "start_date": "2013-08-14",
+    "end_date": "2013-08-15",
+    "days": 2,
+    "place": "Berlin › Germany / Deutschland (de) › Central Europe › Europe",
+    "link": "http://jrubyconf.eu",
+    "twitter": "-to be done-"
+  },
+  {
     "title": "European Ruby Konference - EuRuKo",
     "start_date": "2013-06-28",
     "end_date": "2013-06-29",
     "days": 2,
     "place": "Athens, Greece › Europe",
     "link": "http://euruko.org",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "RubyMotion Conference - #inspect",
+    "start_date": "2013-03-28",
+    "end_date": "2013-03-29",
+    "days": 2,
+    "place": "Brussels, Belgium › World",
+    "link": "http://conference.rubymotion.com",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "European Ruby Camp - eurucamp",
+    "start_date": "2012-08-17",
+    "end_date": "2012-08-19",
+    "days": 3,
+    "place": "Berlin › Germany / Deutschland (de) › Central Europe › Europe",
+    "link": "http://eurucamp.org",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "JRuby Conference Europe - JRubyConf EU",
+    "start_date": "2012-08-17",
+    "end_date": "2012-08-17",
+    "days": 1,
+    "place": "Berlin › Germany / Deutschland (de) › Central Europe › Europe",
+    "link": "http://jrubyconf.eu",
     "twitter": "-to be done-"
   },
   {
@@ -546,6 +789,15 @@
     "days": 2,
     "place": "Berlin, Germany › Europe",
     "link": "http://euruko.org",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "European Ruby Camp - eurucamp",
+    "start_date": "2011-05-28",
+    "end_date": "2011-05-29",
+    "days": 2,
+    "place": "Berlin › Germany / Deutschland (de) › Central Europe › Europe",
+    "link": "http://eurucamp.org",
     "twitter": "-to be done-"
   },
   {
@@ -654,6 +906,15 @@
     "days": 3,
     "place": "Denver, Colorado › United States (us) › North America › America",
     "link": "http://rubyconf.org",
+    "twitter": "-to be done-"
+  },
+  {
+    "title": "RailsConf",
+    "start_date": "2006-06-22",
+    "end_date": "2006-06-25",
+    "days": 4,
+    "place": "Chicago, Illinois › United States (us) › North America › America",
+    "link": "http://railsconf.com",
     "twitter": "-to be done-"
   },
   {
