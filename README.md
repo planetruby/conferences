@@ -703,7 +703,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 [Philippines](#philippines--pilipinas-ph) •
 [Vietnam](#vietnam-vn) •
 [Nepal](#nepal-np) •
-[India](#india-in)
+[India](#india-in) •
+[China](#china-zh)
 
 
 ### Japan (jp)
@@ -770,6 +771,15 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
     - 2015 @ Bangalore, Karnataka; Jan/10
 - **Deccan Ruby Conf** (web: [deccanrubyconf.org](http://www.deccanrubyconf.org), t: [deccanrubyconf](https://twitter.com/deccanrubyconf))
     - 2015 @ Pune, Maharashtra; Aug/8  (Rs1800/1100)
+
+
+### China (zh)
+
+- **RubyConf China** (web: [rubyconfchina.org](http://rubyconfchina.org))
+    - 2015 @ Shenzhen; October/10+11
+    - 2014 @ Beijing; November/1+2
+    - 2013 @ Beijing; October/26+27
+    - 2012 @ Shanghai; November/17+18
 
 ## Africa
 
