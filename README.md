@@ -776,10 +776,10 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### China (zh)
 
 - **RubyConf China** (web: [rubyconfchina.org](http://rubyconfchina.org))
-    - 2015 @ Shenzhen; October/10+11
-    - 2014 @ Beijing; November/1+2
-    - 2013 @ Beijing; October/26+27
-    - 2012 @ Shanghai; November/17+18
+    - 2015 @ Shenzhen; Oct/10+11
+    - 2014 @ Beijing; Nov/1+2
+    - 2013 @ Beijing; Oct/26+27
+    - 2012 @ Shanghai; Nov/17+18
 
 ## Africa
 
