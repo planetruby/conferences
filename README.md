@@ -602,6 +602,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 <!-- new list; user groups -->
 
+- @ Los Angeles, California
+    - **LA Ruby Meetup** (meetup: [laruby](http://meetup.com/laruby))
 - @ Orange County, California
     - **OCRuby Meetup** (meetup: [ocruby](http://meetup.com/ocruby))
 - @ San Diego, California
