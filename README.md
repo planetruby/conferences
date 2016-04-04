@@ -656,6 +656,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 - @ São Paulo
    - **Grupo de Usuários Ruby de São Paulo - GURU SP** (web: [gurusp.org](http://gurusp.org))
+- @ Ceará
+   - **Grupo de Usuários Ruby de Ceará - GURU CE** (web: [guru-ce.github.io](http://guru-ce.github.io))
 
 
 #### Colombia (co)
