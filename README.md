@@ -669,6 +669,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 - @ Bogotá
    - **Bogotá Ruby** (meetup: [bogota-ruby-meetup](http://meetup.com/bogota-ruby-meetup))
+- @ Medellín
+   - **Medellin.rb** (meetup: [medellin-rb](http://meetup.com/medellin-rb))
 
 #### Peru / Perú (pe)
 
