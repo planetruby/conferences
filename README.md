@@ -9,7 +9,7 @@ Awesome Series @ Planet Ruby
 [Blogs (News, Opinions, Podcasts, ...)](https://github.com/planetruby/awesome-blogs)
 
 
-# Events [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Ruby Events
 
 A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world
 
