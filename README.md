@@ -628,7 +628,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 - @ Guadalajara, Jalisco
     - **Ruby GDL** (web: [rubygdl.org](http://rubygdl.org))
 - @ Monterrey, Nuevo León
-    - **Ruby Meetup Mty** (web: [Monterrey Ruby Meetup](http://www.meetup.com/Monterrey-Ruby-Meetup/))
+    - **Ruby Meetup Mty** (meetup: [Monterrey Ruby Meetup](http://meetup.com/Monterrey-Ruby-Meetup))
 
 
 ### South America
