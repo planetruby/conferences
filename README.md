@@ -624,11 +624,14 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 - @ Mexico City / México, D.F.
     - **Chilango Rails** (web: [chilangorails.com](http://chilangorails.com))
-    - **UNAM / National University** (meetup: [UNAM-Ruby-Group](http://meetup.com/UNAM-Ruby-Group))
 - @ Guadalajara, Jalisco
     - **Ruby GDL** (web: [rubygdl.org](http://rubygdl.org))
 - @ Monterrey, Nuevo León
     - **Ruby Meetup Mty** (meetup: [Monterrey Ruby Meetup](http://meetup.com/Monterrey-Ruby-Meetup))
+
+<!-- old groups; no longer exit 
+      **UNAM / National University** (meetup: [UNAM-Ruby-Group](http://meetup.com/UNAM-Ruby-Group))
+  -->
 
 
 ### South America
