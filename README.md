@@ -47,6 +47,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
     - 2015 @ Intertubes; Nov/7+8  (FREE)
     - 2014 @ Intertubes; Oct/18+19  (FREE)
 - **JekyllConf** (web: [jekyllconf.com](http://jekyllconf.com), t: [JekyllConf](https://twitter.com/JekyllConf))
+    - 2016 @ Intertubes, May/7   (FREE)
     - 2015 @ Intertubes; May/2   (FREE)
 
 ## Europe
@@ -59,7 +60,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 
 - **European Ruby Konference - EuRuKo** (web: [euruko.org](http://euruko.org), t: [euruko](https://twitter.com/euruko)) - _since 2003_
-    - @ Sofia, Bulgaria   - #14
+    - 2016 @ Sofia, Bulgaria; Sept/23+24  (€65)  - #14
     - 2015 @ Salzburg, Austria; Oct/17+18  (€65)    - #13
     - ~~2014 @ Kyiv, Ukraine; June/20+21~~ (CANCELED) - #12
     - 2013 @ Athens, Greece; June/28+29             - #11
@@ -467,6 +468,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
    - 2001 @ Tampa, Florida;  Oct/12+13           - #1
 
 - **RailsConf** (web: [railsconf.com](http://railsconf.com), t: [railsconf](https://twitter.com/railsconf)) _since 2006_ by Ruby Central
+   - 2017 @ Phoenix, Arizona; April/25-27
    - 2016 @ Kansas City, Missouri; May/4-6
    - 2015 @ Atlanta, Georgia; April/21-23
    - 2014 @ Chicago, Illinois; April/22-25
