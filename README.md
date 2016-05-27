@@ -487,6 +487,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 ##### Mid Atlantic
 
+- **OpenCommerce Conference** (web: [opencommerceconf.org](http://opencommerceconf.org/), t: [opencommerce_](https://twitter.com/opencommerce_))
+   - 2016 @ New York, New York; June/28+29
 - **Gotham Ruby Conference - GORUCO** (web: [goruco.com](http://goruco.com), t: [goruco](https://twitter.com/goruco))
    - 2015 @ New York, New York; June/20
 - **Nickel City Ruby** (web: [nickelcityruby.com](http://nickelcityruby.com), t: [nickelcityruby](https://twitter.com/nickelcityruby))
