@@ -298,6 +298,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 #### Portugal (pt)
 
 - **RubyConf Portugal** (web: [rubyconf.pt](http://rubyconf.pt), t: [rubyconfpt](https://twitter.com/rubyconfpt))
+  - 2016 @ Braga; Oct/28+29  (€200)
   - 2015 @ Braga; Sept/14+15  (€250/200/150, Student €80)
   - 2014 @ Braga; Oct/13+14
 
