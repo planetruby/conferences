@@ -792,6 +792,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### China (zh)
 
 - **RubyConf China** (web: [rubyconfchina.org](http://rubyconfchina.org))
+    - 2016 @ Chengdu; Sept/23+24
     - 2015 @ Shenzhen; Oct/10+11
     - 2014 @ Beijing; Nov/1+2
     - 2013 @ Beijing; Oct/26+27
