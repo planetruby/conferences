@@ -305,6 +305,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 #### Italy (it)
 
 - **RubyDay** (web: [rubyday.it](http://www.rubyday.it), t: [rubydayit](https://twitter.com/rubydayit))
+  - 2016 @ Florence; Nov/25+26 
   - 2015 @ Turin; Nov/13  (€52)
   - 2014 @ Roncade, Treviso; Sept/26
 
