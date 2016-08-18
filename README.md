@@ -503,6 +503,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 - @ New York, New York
     - **NYC.rb** (meetup: [NYC-rb](http://meetup.com/NYC-rb))
     - **NYC Ruby** (meetup: [nycruby](http://meetup.com/nycruby))
+- @ Philadelphia, Pennsylvania
+    - **Philly.rb** (meetup: [Philly.rb](http://www.phillyrb.org))
 
 ##### Capital Region
 
