@@ -294,6 +294,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 - @ Madrid
    - **Madrid.rb** (web: [madridrb.com](http://madridrb.com), github: [madridrb](https://github.com/madridrb))
+- @ Valencia
+   - **Valencia.rb** (web: [valenciarb.org](http://valenciarb.org), github: [valenciarb](https://github.com/valenciarb))
 
 #### Portugal (pt)
 
