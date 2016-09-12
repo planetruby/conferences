@@ -43,6 +43,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 ## Online
 
+- **Ruby Rampage** (web: [rubyrampage.com](https://rubyrampage.com), t: [rbrampage](https://twitter.com/rbrampage)) -- 48-hour hackathon since 2016 (formerly Rails Rumble)
+    - 2016 @ Intertubes; Oct/22+23  (FREE)
 - **Rails Rumble** (web: [railsrumble.com](https://railsrumble.com), t: [railsrumble](https://twitter.com/railsrumble))
     - 2015 @ Intertubes; Nov/7+8  (FREE)
     - 2014 @ Intertubes; Oct/18+19  (FREE)
