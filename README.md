@@ -578,6 +578,10 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 - **Mountain West Ruby Conference - MtnWestRubyConf - MWRC** (web: [mtnwestrubyconf.org](http://mtnwestrubyconf.org), t: [mwrc](https://twitter.com/mwrc))
    - @ Salt Lake City, Utah
 
+- **RubyHACK: High Altitude Coding Konference** (web: [rubyhack.com](http://rubyhack.com), t: [utrubyhack](https://twitter.com/utrubyhack))
+   - 2017 @ Salt Lake City, Utah; April/20-21 ($199.00)
+   - 2018 @ Salt Lake City, Utah; May/3-4 (CFP Open)
+      
 ##### Texas
 
 - **Keep Ruby Weird** (web: [keeprubyweird.com](http://keeprubyweird.com), t: [keeprubyweird](https://twitter.com/keeprubyweird))
