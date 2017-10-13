@@ -129,6 +129,9 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
     - 2013 @ Berlin; Aug/14+15 - #2
     - 2012 @ Berlin; Aug/17    - #1
 
+- **Ruby on Ice Conference - Ruby on Ice** (web: [rubyonice.com](http://rubyonice.com), t:  [rubyoniceconf](https://twitter.com/rubyoniceconf)) _since 2017_
+    - 2018 @ Tegernsee, Bavaria (near Munich); Jan/26-Jan/28
+
 <!-- new list; user groups -->
 
 - @ Berlin
