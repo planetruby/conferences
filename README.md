@@ -32,12 +32,6 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 <!-- new list for not by non-profits -->
 
-## Online
-
-- **JekyllConf** (web: [jekyllconf.com](http://jekyllconf.com), t: [JekyllConf](https://twitter.com/JekyllConf))
-    - 2016 @ Intertubes, May/7   (FREE)
-    - 2015 @ Intertubes; May/2   (FREE)
-
 
 ## Europe
 
@@ -768,6 +762,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### India (in)
 
 - **RubyConf India** (web: [rubyconfindia.org](http://rubyconfindia.org), t: [rubyconfindia](https://twitter.com/rubyconfindia))
+    - 2018 @ Bengaluru; Feb/9+10
+    - 2017 @ Kochi, Kerala; Jan/27-29
     - 2016 @ Kochi, Kerala; March/19+20
     - 2015 @ Dona Paula (Vainguinim Beach), Goa; April/3-5  (Rs22000/11000/6500, $400/200/125)
     - 2014 @ Canacona (Goan Coastline), Goa; March/22+23
@@ -806,6 +802,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### South Africa (za)
 
 - **RubyFuza** (web: [rubyfuza.org](http://www.rubyfuza.org), t: [rubyfuza](https://twitter.com/rubyfuza))
+    - 2018 @ Cape Town; Feb/1-3
+    - 2017 @ Cape Town; Feb/2-4
     - 2016 @ Cape Town; Feb/4+5  (R1200/R900)
     - 2015 @ Cape Town; Feb/5+6
 
