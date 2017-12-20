@@ -330,15 +330,27 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### Eastern Europe
 
 [Belarus](#belarus--Беларусь-by) •
+[Bulgaria](#bulgaria-bg) •
 [Romania](#romania--românia-ro) •
 [Russia](#russia--Россия-ru) •
 [Ukraine](#ukraine--Україна--Украина-ua)
+
+
+
+
 
 
 #### Belarus / Беларусь (by)
 
 - @ Minsk
    - **Belarus Ruby User Group - BRUG** (web: [brug.by](http://brug.by))
+
+
+##### Bulgaria (bg)
+
+- **Balkan Ruby Conference** (web: [balkanruby.com](http://balkanruby.com), t: [BalkanRuby](https://twitter.com/balkanruby))
+    - 2018 @ Sofia; May/25+26
+
 
 #### Romania / România (ro)
 
