@@ -46,6 +46,12 @@ _last rampage in 2016  - no rampage in 2017 - no more expected_
 - **Vienna.html** (github: [viennahtml](https://github.com/viennahtml), t: [viennahtml](https://twitter.com/viennahtml)) - Jekyll 'n' friends; Static is the New Dynamic
 
 
+<!--
+- @ Innsbruck, Tirol
+    - [Innsbruck.rb](http://innsbruck.onruby.at)
+ -->
+
+
 #### Germany / Deutschland (de)
 
 - **European Ruby Camp - eurucamp** (web: [eurucamp.org](http://eurucamp.org), t: [eurucamp](https://twitter.com/eurucamp)) - _since 2011_  by Ruby Berlin e.V.
