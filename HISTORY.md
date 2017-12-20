@@ -70,6 +70,11 @@ _last rampage in 2016  - no rampage in 2017 - no more expected_
 
 
 
+#### Finland / Suomi (fi)
+
+- **Ruby Sauna** (web: [rubysauna.org](http://rubysauna.org), t: [rubysauna](https://twitter.com/rubysauna))
+   - @ Oulu
+
 
 
 
