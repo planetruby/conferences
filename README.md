@@ -14,8 +14,7 @@ Awesome Series @ Planet Ruby
 
 A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world
 
-
-Note: See the [MEETUPS](MEETUPS.md) page for meetups.
+> Note: See the [MEETUPS](MEETUPS.md) page for meetups.
 
 
 
@@ -538,10 +537,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 ## Calendar / What's On?
 
-NOTE: A [calendar page](http://planetruby.github.io/calendar)
-gets auto-generated from this page listing conferences sorted by
-date (that is, year and month)
-or better try the "live" version using the [whatson command line tool](https://github.com/textkit/whatson).
+Note: Use the "live" [whatson command line tool](https://github.com/textkit/whatson).
 Type:
 
 ```

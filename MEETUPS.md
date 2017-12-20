@@ -21,13 +21,9 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 [World](#world) • [Online](#online) • [Europe](#europe) • [North America](#north-america) •
-[South America](#south-america) • [Asia](#asia) • [Africa](#africa) • [Pacific / Oceania](#pacific--oceania) •
-[Calendar / What's On?](#calendar--whats-on) • [Meta](#meta)
+[South America](#south-america) • [Asia](#asia) • [Africa](#africa) • [Pacific / Oceania](#pacific--oceania)
 
 
-<!--
-NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for news about upcoming Ruby conferences, camps, meetups, etc. around the world
--->
 
 
 ## World
