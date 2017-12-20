@@ -578,6 +578,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ##### Texas
 
 - **Keep Ruby Weird** (web: [keeprubyweird.com](http://keeprubyweird.com), t: [keeprubyweird](https://twitter.com/keeprubyweird))
+   - 2017 @ Austin, Texas; Oct/27
    - 2015 @ Austin, Texas; Oct/23
 - **LoneStarRuby Conference** (web: [lonestarruby.org](http://lonestarruby.org), t: [LoneStarRuby](https://twitter.com/LoneStarRuby))
     - 2015 @ Austin, Texas; Aug/15  ($249/199/150)
@@ -659,6 +660,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 #### Brazil / Brasil (br)
 
 - **RubyConf Brasil** (web: [rubyconf.com.br](http://www.rubyconf.com.br), t: [rubyconfbr](https://twitter.com/rubyconfbr))
+    - 2017 @ São Paulo; Nov/17+18
     - 2015 @ São Paulo; Sept/18+19
     - 2014 @ São Paulo; Aug/28+29
 - **RuPy Campinas, RuPy** (web: [campinas.rupy.com.br](http://campinas.rupy.com.br), [rupy.com.br](http://rupy.com.br), t: [rupycampinas](https://twitter.com/rupycampinas))
@@ -724,6 +726,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 [Singapore](#singapore-sg) •
 [Philippines](#philippines--pilipinas-ph) •
 [Vietnam](#vietnam-vn) •
+[Malaysia](#malaysia-my) •
+[Indonesia](#indonesia-id) •
 [Nepal](#nepal-np) •
 [India](#india-in) •
 [China](#china-zh)
@@ -784,6 +788,16 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### Vietnam (vn)
 
 - **Ruby Vietnam** (web: [ruby.org.vn](http://ruby.org.vn), github: [ruby-vietnam](https://github.com/ruby-vietnam))
+
+### Malaysia (my)
+
+- **RubyConf Malaysia** (web: [rubyconf.my](http://rubyconf.my), t: [rubyconfmy](https://twitter.com/rubyconfmy))
+    - 2017 @ Jakarta; Oct/6+7  - #1
+
+### Indonesia (id)
+
+- **RubyConf Indonesia** (web: [ruby.id/conf](http://ruby.id/conf), t: [id_ruby](https://twitter.com/id_ruby))
+    - 2017 @ Cyberjaya;  Oct/12+13  - #1
 
 ### Nepal (np)
 
@@ -863,6 +877,11 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 
 ### New Zealand / Aotearoa (nz)
+
+- **Kiwi Ruby Conf** (web: [kiwi.ruby.nz](https://kiwi.ruby.nz), t: [kiwirubyconf](https://twitter.com/kiwirubyconf))
+    - 2017 @ Wellington; Nov/2+3   - #1
+
+<!-- new list; user groups -->
 
 - **Ruby New Zealand** (web: [ruby.nz](http://ruby.nz), github: [nzruby](https://github.com/nzruby), t: [NewZealandRuby](https://twitter.com/NewZealandRuby))
     - @ Auckland • Wellington • Christchurch
