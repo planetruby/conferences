@@ -325,9 +325,6 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 #### Finland / Suomi (fi)
 
-- **Ruby Sauna** (web: [rubysauna.org](http://rubysauna.org), t: [rubysauna](https://twitter.com/rubysauna))
-   - @ Oulu
-
 <!-- new list; user groups -->
 
 - @ Helsinki
@@ -435,7 +432,6 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 - @ Toronto, Ontario
    - **Toronto Ruby Brigade** (meetup: [torontoruby](http://www.meetup.com/torontoruby))
    - **Rails Girls TO** (meetup: [railsgirlsTO](http://www.meetup.com/railsgirlsTO))
-   - **Ruby Pub Night** (unspace: [rpn](https://unspace.ca/events/#rpn))
 - @ Montreal, Quebec /  Montréal, Québec
    - **Montreal.rb** (web: [montrealrb.com](http://www.montrealrb.com))
 
