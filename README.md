@@ -19,7 +19,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 
 
-## What's On? What's Upcoming?
+## What's Upcoming? What's On?
 
 Note: Use the "live" [whatson command line tool](https://github.com/textkit/whatson).
 Type:
@@ -28,7 +28,7 @@ Type:
 $ rubyconf
 ```
 
-resulting in:
+resulting in (†):
 
 ```
 Upcoming Ruby Conferences:
@@ -50,6 +50,8 @@ tates > North America > America
   in 190d  Paris.rb XXL Conf, Thu+Fri Jun/28+29 (2d) @ Paris > France > Western Europe > Europe
   ...
 ```
+
+(†): on December, 20th in 2017 :-).
 
 
 
