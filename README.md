@@ -430,6 +430,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 
 - **RubyConf** (web: [rubyconf.org](http://rubyconf.org), t: [rubyconf](https://twitter.com/rubyconf)) _since 2001_  by Ruby Central
+   - 2018 @ Los Angeles, California; Nov/13-15
+   - 2017 @ New Orleans, Louisiana; Nov/15-17
    - 2016 @ Cincinnati, Ohio; Nov/10-12
    - 2015 @ San Antonio, Texas; Nov/15-17
    - 2014 @ San Diego, California; Nov/17-19
@@ -445,6 +447,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
    - 2001 @ Tampa, Florida;  Oct/12+13           - #1
 
 - **RailsConf** (web: [railsconf.com](http://railsconf.com), t: [railsconf](https://twitter.com/railsconf)) _since 2006_ by Ruby Central
+   - 2018 @ Pittsburgh, Pennsylvania; April/17-19
    - 2017 @ Phoenix, Arizona; April/25-27
    - 2016 @ Kansas City, Missouri; May/4-6
    - 2015 @ Atlanta, Georgia; April/21-23
@@ -708,11 +711,16 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### Japan (jp)
 
 - **RubyWorld Conference** (web: [rubyworld-conf.org](http://www.rubyworld-conf.org/en), t: [RubyWorldConf](https://twitter.com/RubyWorldConf)) by Ruby Association
+   - 2017 @ Matsue; Nov/1+2
+   - 2016 @ Matsue; Nov/3+4  (¥5000)
    - 2015 @ Matsue; Nov/11+12  (¥5000)
    - 2014 @ Matsue; Nov/13+14
 - **RubyKaigi** (web: [rubykaigi.org](http://rubykaigi.org), t: [rubykaigi](https://twitter.com/rubykaigi))
-   - 2015 @ Tokyo; Dec/11-13
-   - 2014 @ Tokyo; Sep/18-20
+   - 2018 @ Sendai; May/31-June/2
+   - 2017 @ Hiroshima; Sep/18-20
+   - 2016 @ Kyoto;  Sep/8-10
+   - 2015 @ Chuo, Tokyo; Dec/11-13
+   - 2014 @ Edogawa, Tokyo; Sep/18-20
    - ...
    - 2009 @ Chiyoda, Tokyo; July/17-19  - #4
    - 2008 @ Tsukuba, Ibaraki; June/20-22 - #3
