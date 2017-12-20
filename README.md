@@ -217,6 +217,11 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 #### France (fr)
 
+- **Paris.rb XXL Conf** (web: [2018.rubyparis.org](https://2018.rubyparis.org), t: [parisrb](https://twitter.com/parisrb))
+    - 2018 @ Paris; June/28+29
+
+<!-- new list; user groups -->
+
 - @ Paris
    - **Paris.rb** (web: [rubyparis.org](https://rubyparis.org), github: [parisrb](https://github.com/parisrb))
 - @ Lyon
@@ -225,6 +230,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
    - **Ruby Nord** (web: [ruby-nord.org](http://ruby-nord.org), github: [ruby-nord](https://github.com/ruby-nord))
 - @ Marseille
    - **Pastis.rb de Marseille** (web: [pastisrb.org](http://pastisrb.org))
+
 
 #### Belgium / België / Belgique (be)
 
@@ -565,9 +571,9 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 - **Mountain West Ruby Conference - MtnWestRubyConf - MWRC** (web: [mtnwestrubyconf.org](http://mtnwestrubyconf.org), t: [mwrc](https://twitter.com/mwrc))
    - @ Salt Lake City, Utah
 
-- **RubyHACK: High Altitude Coding Konference** (web: [rubyhack.com](http://rubyhack.com), t: [utrubyhack](https://twitter.com/utrubyhack))
-   - 2017 @ Salt Lake City, Utah; April/20-21 ($199.00)
-   - 2018 @ Salt Lake City, Utah; May/3-4 (CFP Open)
+- **Rubyhack: High Altitude Coding Konference** (web: [rubyhack.com](http://rubyhack.com), t: [utrubyhack](https://twitter.com/utrubyhack))
+   - 2018 @ Salt Lake City, Utah; May/3+4 
+   - 2017 @ Salt Lake City, Utah; April/20+21 ($199)
       
 ##### Texas
 
@@ -750,6 +756,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### Taiwan (tw)
 
 - **RubyConf Taiwan** (web: [rubyconf.tw](http://rubyconf.tw), t: [rubytaiwan](https://twitter.com/rubytaiwan))
+   - 2018 @ Taipei; April/27+28     <!-- now called Ruby X Elixir -->
+   - 2106 @ Taipei; Dec/2+3
    - 2015 @ Taipei; Sept/11+12
    - 2014 @ Taipei; April/25+26
 
@@ -817,6 +825,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### Kenya (ke)
 
 - **RubyConf Kenya** (web: [ruby-conf-ke.nairuby.org](http://ruby-conf-ke.nairuby.org), t: [NairubyKE](https://twitter.com/NairubyKE))
+   - 2018 @ Nairobi; June/22
+   - ...
    - 2015 @ Nairobi; May/8+9
 
 <!-- new list; user groups -->
