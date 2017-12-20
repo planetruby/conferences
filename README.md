@@ -368,7 +368,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
    - **Belarus Ruby User Group - BRUG** (web: [brug.by](http://brug.by))
 
 
-##### Bulgaria (bg)
+#### Bulgaria (bg)
 
 - **Balkan Ruby Conference** (web: [balkanruby.com](http://balkanruby.com), t: [BalkanRuby](https://twitter.com/balkanruby))
     - 2018 @ Sofia; May/25+26
