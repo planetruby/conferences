@@ -66,8 +66,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 
 [World](#world) • [Online](#online) • [Europe](#europe) • [North America](#north-america) •
-[South America](#south-america) • [Asia](#asia) • [Africa](#africa) • [Pacific / Oceania](#pacific--oceania) •
-[Calendar / What's On?](#calendar--whats-on) • [Meta](#meta)
+[South America](#south-america) • [Asia](#asia) • [Africa](#africa) • [Pacific / Oceania](#pacific--oceania)
 
 
 ## Europe
