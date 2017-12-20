@@ -10,25 +10,62 @@ Awesome Series @ Planet Ruby
 
 
 
-# Awesome Ruby Events - Conferences & Camps
+# Awesome Ruby Events
 
 A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world
 
-> Note: See the [MEETUPS](MEETUPS.md) page for meetups.
-
-
-
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
-[World](#world) • [Online](#online) • [Europe](#europe) • [North America](#north-america) •
-[South America](#south-america) • [Asia](#asia) • [Africa](#africa) • [Pacific / Oceania](#pacific--oceania) •
-[Calendar / What's On?](#calendar--whats-on) • [Meta](#meta)
+
+
+
+## What's On? What's Upcoming?
+
+Note: Use the "live" [whatson command line tool](https://github.com/textkit/whatson).
+Type:
+
+```
+$ rubyconf
+```
+
+resulting in:
+
+```
+Upcoming Ruby Conferences:
+
+  in 37d  Ruby on Ice Conference, Fri-Sun Jan/26-28 (3d) @ Tegernsee, Bavaria (near Munich / München) > Germany / Deutschland > Central Europe > Europe
+  in 43d  RubyFuza, Thu-Sat Feb/1-3 (3d) @ Cape Town > South Africa > Africa
+  in 51d  RubyConf India, Fri+Sat Feb/9+10 (2d) @ Bengaluru > India > Asia
+  in 78d  RubyConf Australia, Thu+Fri Mar/8+9 (2d) @ Sydney > Australia > Pacific / Oceania
+  in 85d  RubyConf Philippines, Thu-Sat Mar/15-17 (3d) @ Manila > Philippines / Pilipinas > Asia
+  in 86d  wroc_love.rb, Fri-Sun Mar/16-18 (3d) @ Wroclaw > Poland > Central Europe > Europe
+  in 92d  Bath Ruby Conference, Thu+Fri Mar/22+23 (2d) @ Bath, Somerset > England > Western Europe > Europe
+  in 118d  RailsConf, Tue-Thu Apr/17-19 (3d) @ Pittsburgh, Pennsylvania > United States > North America > America
+  in 128d  RubyConf Taiwan, Fri+Sat Apr/27+28 (2d) @ Taipei > Taiwan > Asia
+  in 134d  Rubyhack: High Altitude Coding Konference, Thu+Fri May/3+4 (2d) @ Salt Lake City, Utah > Southwest > United
+tates > North America > America
+  in 156d  Balkan Ruby Conference, Fri+Sat May/25+26 (2d) @ Sofia > Bulgaria > Eastern Europe > Europe
+  in 162d  RubyKaigi, Thu-Sat May/31-Jun/2 (3d) @ Sendai > Japan > Asia
+  in 184d  RubyConf Kenya, Fri Jun/22 (1d) @ Nairobi > Kenya > Africa
+  in 190d  Paris.rb XXL Conf, Thu+Fri Jun/28+29 (2d) @ Paris > France > Western Europe > Europe
+  ...
+```
+
 
 
 <!--
 NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for news about upcoming Ruby conferences, camps, meetups, etc. around the world
 -->
 
+
+## Conferences & Camps
+
+> Note: See the [MEETUPS](MEETUPS.md) page for meetups.
+
+
+[World](#world) • [Online](#online) • [Europe](#europe) • [North America](#north-america) •
+[South America](#south-america) • [Asia](#asia) • [Africa](#africa) • [Pacific / Oceania](#pacific--oceania) •
+[Calendar / What's On?](#calendar--whats-on) • [Meta](#meta)
 
 
 ## Europe
@@ -533,41 +570,6 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
     - 2017 @ Wellington; Nov/2+3   - #1
 
 
-
-
-## Calendar / What's On?
-
-Note: Use the "live" [whatson command line tool](https://github.com/textkit/whatson).
-Type:
-
-```
-$ rubyconf
-```
-
-resulting in:
-
-```
-Upcoming Ruby Conferences:
-
-  NOW ON 2d   RubyMotion Conference - #inspect, Wed+Thu Jul/1+2 (2d) @ Paris, France › Europe
-
-  in 18d   Brighton Ruby Conference, Mon Jul/20 (1d) @ Brighton, East Sussex › England (en) › Western Europe › Europe
-  in 27d   European Ruby Camp - eurucamp, Fri-Sun Jul/31-Aug/2 (3d) @ Berlin (Potsdam), Germany › Europe
-  in 27d   JRuby Conference Europe - JRubyConf EU, Fri Jul/31 (1d) @ Berlin (Potsdam), Germany › Europe
-  in 28d   Burlington Ruby Conference, Sat+Sun Aug/1+2 (2d) @ Burlington, Vermont › New England › United States (us) › North America › America
-  in 50d   Madison+ Ruby, Fri+Sat Aug/21+22 (2d) @ Madison, Wisconsin › Great Lakes › United States (us) › North America › America
-  in 61d   Full Stack Fest - Barcelona Ruby Conference (BaRuCo) + Barcelona Future JS, Tue-Sat Sep/1-5 (5d) @ Barcelona, Catalonia › Spain / España (es) › Southern Europe › Europe
-  in 71d   RubyConf Taiwan, Fri+Sat Sep/11+12 (2d) @ Taipei › Taiwan (tw) › Asia
-  in 72d   RubyConf Portugal, Mon+Tue Sep/14+15 (2d) @ Braga › Portugal (pt) › Southern Europe › Europe
-  in 78d   RubyConf Brasil, Fri+Sat Sep/18+19 (2d) @ São Paulo › Brazil / Brasil (br) › South America › America
-  in 83d   Rocky Mountain Ruby Conference, Wed-Fri Sep/23-25 (3d) @ Boulder, Colorado › Rocky Mountains › United States (us) › North America › America
-  in 85d   Ruby Open Source Software (ROSS) Conference - ROSSConf, Sat Sep/26 (1d) @ Berlin, Germany › Europe
-  in 93d   ArrrCamp, Thu+Fri Oct/1+2 (2d) @ Ghent, Oost-Vlaanderen › Belgium / België / Belgique (be) › Western Europe › Europe
-  in 105d  RubyConf Colombia, Thu+Fri Oct/15+16 (2d) @ Medellin › Colombia (co) › South America › America
-  in 107d  European Ruby Konference - EuRuKo, Sat+Sun Oct/17+18 (2d) @ Salzburg, Austria › Europe
-  in 132d  RubyWorld Conference, Wed+Thu Nov/11+12 (2d) @ Matsue › Japan (jp) › Asia
-  ...
-```
 
 ## Thanks
 
