@@ -76,14 +76,10 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 - @ Vienna / Wien
     - **Vienna.rb** (web: [vienna-rb.at](http://vienna-rb.at), github: [vienna-rb](https://github.com/vienna-rb), t: [viennarb](https://twitter.com/viennarb))
-    - **Ruby Habits** (meetup: [RubyHabits](http://meetup.com/RubyHabits)) - Ruby Study Group
+    - **Ruby Habits** (github: [RubyHabits](https://github.com/RubyHabits), t: [rubyhabits](https://twitter.com/rubyhabits)) - Ruby Study Group
 - @ Linz, Oberösterreich
     - **Ruby User Group Linz - RUGL** (meetup: [Ruby-User-Group-Linz-RUGL](http://meetup.com/Ruby-User-Group-Linz-RUGL))
 
-<!--
-- @ Innsbruck, Tirol
-    - [Innsbruck.rb](http://innsbruck.onruby.at)
- -->
 
 #### Switzerland / Schweiz / Suisse / Confoederatio Helvetica (ch)
 
