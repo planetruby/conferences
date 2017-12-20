@@ -133,8 +133,12 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 #### Poland (pl)
 
 - **wroc_love.rb** (web: [wrocloverb.com](http://www.wrocloverb.com), t: [wrocloverb](https://twitter.com/wrocloverb))
+   - 2017 @ Wrocław; March/17-19 
    - 2016 @ Wrocław; March/11-13
    - 2015 @ Wrocław; March/13-15
+- **Grill.rb** (web: [grillrb.com](http://grillrb.com), t: [grill_rb](https://twitter.com/grill_rb))
+   - 2017 @ Wrocław; July/1+2
+   - 2016 @ Wrocław; June/25+26
 
 <!-- new list; user groups -->
 
@@ -337,6 +341,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 #### Lithuania / Lietuva (lt)
 
 - **Lithuanian Ruby Conference - RubyConfLT** (web: [rubyconf.lt](http://rubyconf.lt), t: [RubyConfLT](https://twitter.com/RubyConfLT))
+    - 2017 @ Vilnius; April/1
+    - 2016 @ Vilnius; April/23 
     - 2015 @ Vilnius; March/21
 
 
@@ -354,6 +360,12 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 
 #### Belarus / Беларусь (by)
+
+- **RubyConf Belarus- RubyConf BY** (web: [rubyconference.by/en](https://rubyconference.by/en), t: [rubyconfby](https://twitter.com/rubyconfby))
+  -  2017 @ Minsk; April/2
+  -  2016 @ Minsk; April/24
+
+<!-- new list; user groups -->
 
 - @ Minsk
    - **Belarus Ruby User Group - BRUG** (web: [brug.by](http://brug.by))
@@ -378,7 +390,9 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 #### Ukraine / Україна / Украина (ua)
 
 - **RubyC** (web: [rubyc.eu](http://rubyc.eu), t: [rubyc_eu](https://twitter.com/rubyc_eu)) by Svitla Systems
-   - 2015 @ Kyiv; May/30+31
+  - 2017 @ Kyiv; June/3+4
+  - 2016 @ Kyiv; June/4+5
+  - 2015 @ Kyiv; May/30+31
 
 <!-- new list; user groups -->
 
@@ -491,6 +505,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 - **OpenCommerce Conference** (web: [opencommerceconf.org](http://opencommerceconf.org/), t: [opencommerce_](https://twitter.com/opencommerce_))
    - 2016 @ New York, New York; June/28+29
 - **Gotham Ruby Conference - GORUCO** (web: [goruco.com](http://goruco.com), t: [goruco](https://twitter.com/goruco))
+   - 2017 @ New York, New York; June/24
+   - 2016 @ New York, New York; June/25
    - 2015 @ New York, New York; June/20
 - **Nickel City Ruby** (web: [nickelcityruby.com](http://nickelcityruby.com), t: [nickelcityruby](https://twitter.com/nickelcityruby))
    - 2014 @ Buffalo, New York; Oct/2-4
@@ -505,10 +521,12 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 - @ Philadelphia, Pennsylvania
     - **Philly.rb** (meetup: [Philly.rb](http://www.phillyrb.org))
 
+
 ##### Capital Region
 
 - **RubyNation** (web: [rubynation.org](http://rubynation.org), t: [rubynation](https://twitter.com/rubynation))
- - @ Washington, D.C.
+   - 2017 @ Arlington, Virginia; June/16
+   - 2016 @ Washington, DC; June/3+4
 
 <!-- new list; user groups -->
 
@@ -579,6 +597,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 - **Keep Ruby Weird** (web: [keeprubyweird.com](http://keeprubyweird.com), t: [keeprubyweird](https://twitter.com/keeprubyweird))
    - 2017 @ Austin, Texas; Oct/27
+   - 2016 @ Austin, Texas; Oct/28
    - 2015 @ Austin, Texas; Oct/23
 - **LoneStarRuby Conference** (web: [lonestarruby.org](http://lonestarruby.org), t: [LoneStarRuby](https://twitter.com/LoneStarRuby))
     - 2015 @ Austin, Texas; Aug/15  ($249/199/150)
@@ -661,6 +680,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 - **RubyConf Brasil** (web: [rubyconf.com.br](http://www.rubyconf.com.br), t: [rubyconfbr](https://twitter.com/rubyconfbr))
     - 2017 @ São Paulo; Nov/17+18
+    - 2016 @ São Paulo; Sept/23+24  
     - 2015 @ São Paulo; Sept/18+19
     - 2014 @ São Paulo; Aug/28+29
 - **RuPy Campinas, RuPy** (web: [campinas.rupy.com.br](http://campinas.rupy.com.br), [rupy.com.br](http://rupy.com.br), t: [rupycampinas](https://twitter.com/rupycampinas))
@@ -681,6 +701,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 #### Colombia (co)
 
 - **RubyConf Colombia** (web: [rubyconf.co](http://www.rubyconf.co), t: [RubyConfCo](https://twitter.com/RubyConfCo))
+    - 2017 @ Medellin; Sept/8+9
+    - 2016 @ Medellin; Sept/2+3 
     - 2015 @ Medellin; Oct/15+16
 
 <!-- new list; user groups -->
@@ -768,6 +790,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### Singapore (sg)
 
 - **RedDotRubyConf** (web: [reddotrubyconf.com](http://www.reddotrubyconf.com), t: [reddotrubyconf](https://twitter.com/reddotrubyconf))
+   - 2017 @ Singapore; June/22+23
+   - 2016 @ Singapore; June/23+24
    - 2015 @ Singapore; June/4+5  ($350/$285)
    - 2014 @ Singapore; June/26+27
 
@@ -792,7 +816,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### Malaysia (my)
 
 - **RubyConf Malaysia** (web: [rubyconf.my](http://rubyconf.my), t: [rubyconfmy](https://twitter.com/rubyconfmy))
-    - 2017 @ Jakarta; Oct/6+7  - #1
+    - 2017 @ Jakarta; Oct/6+7 
+    - 2016 @ Kuala Lumpur; Aug/13
 
 ### Indonesia (id)
 
