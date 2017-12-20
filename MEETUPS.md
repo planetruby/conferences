@@ -9,16 +9,20 @@ Awesome Series @ Planet Ruby
 [Blogs (News, Opinions, Podcasts, ...)](https://github.com/planetruby/awesome-blogs)
 
 
-# Awesome Ruby Events - Meetups
+# Awesome Ruby Events (Cont.)
 
 A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world
+
+
+#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+
+
+
+## Meetups & Organizations
 
 > Note: See the [README](README.md) page for conferences and camps.
 
 
-
-
-#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 [World](#world) • [Online](#online) • [Europe](#europe) • [North America](#north-america) •
 [South America](#south-america) • [Asia](#asia) • [Africa](#africa) • [Pacific / Oceania](#pacific--oceania)

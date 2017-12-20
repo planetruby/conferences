@@ -62,7 +62,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 ## Conferences & Camps
 
-> Note: See the [MEETUPS](MEETUPS.md) page for meetups.
+> Note: See the [MEETUPS](MEETUPS.md) page for meetups and organizations.
 
 
 [World](#world) • [Online](#online) • [Europe](#europe) • [North America](#north-america) •
