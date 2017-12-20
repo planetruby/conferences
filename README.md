@@ -92,7 +92,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 #### Germany / Deutschland (de)
 
 - **Ruby on Ice Conference** (web: [rubyonice.com](http://rubyonice.com), t:  [rubyoniceconf](https://twitter.com/rubyoniceconf)) 
-    - 2018 @ Tegernsee, Bavaria (near Munich / München); Jan/26-28
+    - 2018 @ Tegernsee, Bavaria (near Munich / München); Jan/26-28  (€330)  - #1
 
 <!-- new list; user groups -->
 
@@ -178,11 +178,16 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 #### England (en)
 
 - **Brighton Ruby Conference** (web: [brightonruby.com](http://brightonruby.com), t: [brightonruby](https://twitter.com/brightonruby))
+    - 2018 @ Brighton, East Sussex; July/6  (£139/£119)
+    - 2017 @ Brighton, East Sussex; July/7
     - 2016 @ Brighton, East Sussex; July/8
     - 2015 @ Brighton, East Sussex; July/20  (£100)
 - **Bath Ruby Conference** (web: [bathruby.org](http://bathruby.org), t: [BathRuby](https://twitter.com/BathRuby))
+    - 2018 @ Bath, Somerset; March/22+23  (£199, Student £59)
     - 2016 @ Bath, Somerset; March/11  (£99/£79/£59, Student £19)
     - 2015 @ Bath, Somerset; March/13  (£99/£79/£59, Student £39)
+
+
 
 <!-- new list; user groups -->
 
@@ -191,6 +196,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
    - **Rails Girls London** (web: [railsgirls.london](http://railsgirls.london), github: [railsgirlslondon](https://github.com/railsgirlslondon))
 - @ Sheffield, South Yorkshire
    - **Sheffield Ruby User Group - ShRUG** (web: [shrug.org](http://shrug.org), github: [shruggers](https://github.com/shruggers))
+- @ Bath, Somerset
+   - **Bath Ruby User Group** (meetup: [bathruby](https://www.meetup.com/bathruby))
 
 #### Scotland
 
@@ -760,9 +767,11 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### Philippines / Pilipinas (ph)
 
 - **RubyConf Philippines** (web: [rubyconf.ph](http://rubyconf.ph), t: [RubyConfPH](https://twitter.com/RubyConfPH))
-    - 2016 @ Manila; April/7-9
-    - 2015 @ Boracy Island; March/27-28
-    - 2014 @ Manila; March/28-29
+    - 2018 @ Manila; March/15-17   - #5
+    - 2017 @ South Palms Beach Resort, Bohol; March/16-18   - #4
+    - 2016 @ Manila; April/7-9   - #3
+    - 2015 @ Boracy Island; March/27-28  - #2
+    - 2014 @ Manila; March/28-29  - #1
 
 ### Vietnam (vn)
 
@@ -832,6 +841,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### Australia (au)
 
 - **RubyConf Australia** (web: [rubyconf.org.au](http://www.rubyconf.org.au), t: [rubyconf_au](https://twitter.com/rubyconf_au))
+    - 2018 @ Sydney; March/8+9      (A$670)
+    - 2017 @ Melbourne; Feb/9+10   
     - 2016 @ Gold Coast; Feb/10-13  (A$550)
     - 2015 @ Melbourne; Feb/4-7
 
