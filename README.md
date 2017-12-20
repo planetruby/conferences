@@ -133,6 +133,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 #### Poland (pl)
 
 - **wroc_love.rb** (web: [wrocloverb.com](http://www.wrocloverb.com), t: [wrocloverb](https://twitter.com/wrocloverb))
+   - 2018 @ Wrocław; March/16-18
    - 2017 @ Wrocław; March/17-19 
    - 2016 @ Wrocław; March/11-13
    - 2015 @ Wrocław; March/13-15
