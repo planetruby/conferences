@@ -251,7 +251,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 [New England](#new-england) •
 [Mid Atlantic](#mid-atlantic) •
 [Capital Region](#capital-region) •
-[Florida](#florida) •
+[Southeast](#southeast) •
 [Great Lakes](#great-lakes) •
 [Great Plains](#great-plains) •
 [Rocky Mountains](#rocky-mountains) •
@@ -315,7 +315,10 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
    - 2016 @ Washington, DC; June/3+4
 
 
-##### Florida
+##### Southeast
+
+- **Southeast Ruby Conference** (web: [southeastruby.com](https://southeastruby.com), t: [southeastruby](https://twitter.com/southeastruby))
+   - 2017 @ Nashville, Tennessee; October/5-6   - #1
 
 - **Ancient City Ruby Conference** (web: [ancientcityruby.com](http://ancientcityruby.com), t: [ancientcityruby](https://twitter.com/ancientcityruby))
    - 2016 @ St Augustine, Florida; April/6-8  ($299)
