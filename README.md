@@ -492,15 +492,14 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### Malaysia (my)
 
 - **RubyConf Malaysia** (web: [rubyconf.my](http://rubyconf.my), t: [rubyconfmy](https://twitter.com/rubyconfmy))
-    - 2017 @ Jakarta; Oct/6+7
+    - 2017 @ Cyberjaya;  Oct/12+13
     - 2016 @ Kuala Lumpur; Aug/13
 
 
 ### Indonesia (id)
 
 - **RubyConf Indonesia** (web: [ruby.id/conf](http://ruby.id/conf), t: [id_ruby](https://twitter.com/id_ruby))
-    - 2017 @ Cyberjaya;  Oct/12+13  - #1
-
+    - 2017 @ Jakarta; Oct/6+7  - #1
 
 ### India (in)
 
