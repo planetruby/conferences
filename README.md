@@ -221,8 +221,9 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 #### Russia / Россия (ru)
 
 - **Rails Club** (web: [railsclub.ru](http://railsclub.ru), t: [railsclub_ru](https://twitter.com/railsclub_ru))
-  - 2015 @ Moscow; May/21+22
-
+  - 2017 @ Moscow; September/23
+  - 2016 @ Moscow; October/22
+  - 2015 @ Moscow; September/26
 
 #### Ukraine / Україна / Украина (ua)
 
