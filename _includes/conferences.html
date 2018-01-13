@@ -13,7 +13,7 @@
      {% if item.cfp %}
           <span style="font-size: 70%">•</span>
         {% if item.cfp.end %}
-          <span style="font-size: 70%" title="Call for Proposals (CFP)">CFP closes {{ item.cfp.end | date: "%a %b/%e %Y" }}</span>
+          <span style="font-size: 70%" title="Call for Proposals (CFP)">CFP closes {{ item.cfp.end | date: "%b/%e %Y" }}</span>
         {% else %}
           <span style="font-size: 70%" title="Call for Proposals (CFP)">{{ item.cfp.phrase }}</span>
         {% endif %}
