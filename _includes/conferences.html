@@ -25,16 +25,21 @@
          {{ item.note }}
      {% else %}
        {% if item.days == 1 %}
-          {{ item.start | date: "%a %b/%e" }}
+          {{ item.start | date: "%b/%e" }}
        {% elsif item.days == 2 %}
-          {{ item.start | date: "%a"    }}+{{ item.end | date: "%a" }}
           {{ item.start | date: "%b/%e" }}+{{ item.end | date: "%b/%e" }}
        {% else %}
-          {{ item.start | date: "%a"    }}-{{ item.end | date: "%a" }}
           {{ item.start | date: "%b/%e" }}-{{ item.end | date: "%b/%e" }}
        {% endif %}
        {% if item.days %}
           ({{ item.days }}d)
+       {% endif %}
+       {% if item.days == 1 %}
+          {{ item.start | date: "%a" }}
+       {% elsif item.days == 2 %}
+          {{ item.start | date: "%a"    }}+{{ item.end | date: "%a" }}
+       {% else %}
+          {{ item.start | date: "%a"    }}-{{ item.end | date: "%a" }}
        {% endif %}
      {% endif %}
 
