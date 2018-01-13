@@ -5,14 +5,13 @@ _Ruby Conferences from Around the World - Europe • North America • South Ame
 
 github: [textkit/event.db](https://github.com/textkit/event.db),
 rubygems: [eventdb](https://rubygems.org/gems/eventdb),
-rdoc: [eventdb](http://rubydoc.info/gems/eventdb) ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7l43g2/day_20_ruby_advent_calendar_2017_build_your_own/)
+rdoc: [eventdb](http://rubydoc.info/gems/eventdb)
 
 
 
 ## What's the eventdb library?
 
-The eventdb library ships with an ready-to-use event.db SQL schema 
+The eventdb library ships with an ready-to-use event.db SQL schema
 and ActiveRecord models and an READMEs (structured)-text-to-event reader (parser).
 
 ## Format
@@ -93,7 +92,7 @@ puts ''
 
 on = EventDb::Model::Event.live( today )
 on.each do |e|
-  current_day = today.mjd - e.start_date.mjd + 1   # calculate current event day (1,2,3,etc.) 
+  current_day = today.mjd - e.start_date.mjd + 1   # calculate current event day (1,2,3,etc.)
   puts "  NOW ON #{current_day}d    #{e.title} #{e.start_date.year}, #{e.date_str} (#{e.days}d) @ #{e.place}"
 end
 
@@ -131,7 +130,7 @@ tates > North America > America
 
 (†): on December, 20th in 2017 :-).
 
-Note: A ready-to-use command-line tool e.g. rubyconf 
+Note: A ready-to-use command-line tool e.g. rubyconf
 for listing upcoming ruby conferences & camps
 is bundled up in the [whatson library & command line tool suite](https://github.com/textkit/whatson)
 e.g. try:
@@ -172,4 +171,3 @@ tates > North America > America
 - [Awesome Events @ Planet Ruby](https://github.com/planetruby/awesome-events) - a collection of awesome ruby events (meetups, conferences, camps, etc.) from around the world
 - [Calendar @ football.db](https://github.com/openfootball/calendar) - a collection of awesome football tournaments, cups, etc. from around the world
 - [Calendar @ beer.db](https://github.com/openbeer/calendar) - a collection of awesome beer events (oktoberfest, starkbierfest, etc.) from around the world
-

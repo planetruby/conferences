@@ -2,8 +2,7 @@
 
 github: [quikstart/quik](https://github.com/quikstart/quik),
 rubygems: [quik](https://rubygems.org/gems/quik),
-rdoc: [quik](http://rubydoc.info/gems/quik) ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7h8qw8/day_3_ruby_advent_calendar_2017_quik_quick/)
+rdoc: [quik](http://rubydoc.info/gems/quik)
 
 
 

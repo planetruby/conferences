@@ -3,8 +3,7 @@
 
 github: [factbook/factbook](https://github.com/factbook/factbook),
 rubygems: [factbook](https://rubygems.org/gems/factbook),
-rdoc: [factbook](http://rubydoc.info/gems/factbook) ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7h3lsf/day_2_ruby_advent_calendar_2017_factbook_turn_the/)
+rdoc: [factbook](http://rubydoc.info/gems/factbook)
 
 
 

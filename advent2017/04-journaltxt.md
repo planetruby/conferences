@@ -5,9 +5,7 @@ _Single-Text File Journals - The Human Multi-Document Format for Writers - Blogg
 
 github: [journaltxt/journaltxt](https://github.com/journaltxt/journaltxt),
 rubygems: [journaltxt](https://rubygems.org/gems/journaltxt),
-rdoc: [journaltxt](http://rubydoc.info/gems/journaltxt) ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7hh23z/day_4_ruby_advent_calendar_2017_journaltxt/)
-
+rdoc: [journaltxt](http://rubydoc.info/gems/journaltxt)
 
 
 ## What's Journal.TXT?

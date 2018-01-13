@@ -5,8 +5,8 @@ _Revolutionize the world with blockchains, blockchains, blockchains one block at
 
 github: [openblockchains/blockchain.lite.rb](https://github.com/openblockchains/blockchain.lite.rb),
 rubygems: [blockchain-lite](https://rubygems.org/gems/blockchain-lite),
-rdoc: [blockchain-lite](http://rubydoc.info/gems/blockchain-lite)  ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7gv042/day_1_ruby_advent_calendar_2017_blockchainlite/)
+rdoc: [blockchain-lite](http://rubydoc.info/gems/blockchain-lite)
+
 
 
 ## What's a Blockchain?

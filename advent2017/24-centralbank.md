@@ -1,12 +1,11 @@
-Cryptos, Cryptos, Cryptos - 
+Cryptos, Cryptos, Cryptos -
 Revolutionize the world with blockchains, blockchains, blockchains one block at a time!
 
 # centralbank library and command line tool - Print Your Own Money / Cryptocurrency; Run Your Own Federated Central Bank Nodes on the Blockchain Peer-to-Peer over HTTP
 
 github: [openblockchains/centralbank](https://github.com/openblockchains/centralbank),
 rubygems: [centralbank](https://rubygems.org/gems/centralbank),
-rdoc: [centralbank](http://rubydoc.info/gems/centralbank)  ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7ly337/day_24_ruby_advent_calendar_2017_centralbank/)
+rdoc: [centralbank](http://rubydoc.info/gems/centralbank)
 
 
 Use the `centralbank` command line tool. Try:

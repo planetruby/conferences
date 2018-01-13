@@ -5,8 +5,7 @@ Commands, Commands, Commands - Talk to Your Computer (Bots) in the Shell in Text
 
 github: [davetron5000/gli](https://github.com/davetron5000/gli),
 rubygems: [gli](https://rubygems.org/gems/gli),
-rdoc: [gli](http://rubydoc.info/gems/gli)  ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7k6e1h/day_16_ruby_advent_calendar_2017_gli_add_gitlike/)
+rdoc: [gli](http://rubydoc.info/gems/gli)  
 
 
 

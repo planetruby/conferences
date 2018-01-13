@@ -1,11 +1,11 @@
 
-merkletree library - Build Your Own Crypto Hash Trees; Grow Your Own Money on Trees
+# merkletree library - Build Your Own Crypto Hash Trees; Grow Your Own Money on Trees
 
 
 github: [openblockchains/merkletree.rb](https://github.com/openblockchains/merkletree.rb),
 rubygems: [merkletree](https://rubygems.org/gems/merkletree),
-rdoc: [merkletree](http://rubydoc.info/gems/merkletree) ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7ktud7/day_19_ruby_advent_calendar_2017_merkletree_build/)
+rdoc: [merkletree](http://rubydoc.info/gems/merkletree)
+
 
 
 ## What's a Merkle Tree?

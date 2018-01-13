@@ -5,8 +5,8 @@ _HANSON.parse, SON.parse, JSONX.parse_
 
 github: [json-next/json-next](https://github.com/json-next/json-next),
 rubygems: [json-next](https://rubygems.org/gems/json-next),
-rdoc: [json-next](http://rubydoc.info/gems/json-next) ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7hoid9/day_5_ruby_advent_calendar_2017_jsonnext_read/)
+rdoc: [json-next](http://rubydoc.info/gems/json-next)
+
 
 
 ## What's missing in JSON?

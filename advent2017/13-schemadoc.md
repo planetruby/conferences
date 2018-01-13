@@ -5,8 +5,8 @@ _Connects with ActiveRecord works with SQLite, PostgreSQL, MySQL, MariaDB, ..._
 
 github: [schemadoc/schemadoc](https://github.com/schemadoc/schemadoc),
 rubygems: [schemadoc](https://rubygems.org/gems/schemadoc),
-rdoc: [schemadoc](http://rubydoc.info/gems/schemadoc) ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7jnkdc/day_13_ruby_advent_calendar_2017_schemadoc/)
+rdoc: [schemadoc](http://rubydoc.info/gems/schemadoc)
+
 
 
 

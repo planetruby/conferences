@@ -6,21 +6,20 @@ _Cheers, Prost, Kampai, Na zdravi, Salute, 乾杯, Skål, Egészségedre!_
 
 github: [beerkit/beer.db](https://github.com/beerkit/beer.db),
 rubygems: [beerdb](https://rubygems.org/gems/beerdb),
-rdoc: [beerdb](http://rubydoc.info/gems/beerdb)  ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7lrrdk/day_23_ruby_advent_calendar_2017_beerdb_serve/)
+rdoc: [beerdb](http://rubydoc.info/gems/beerdb)
 
 
 ## What's the beerdb library?
 
-The beerdb library offers a ready-to-use database schema (in SQL) 
+The beerdb library offers a ready-to-use database schema (in SQL)
 and models such as - surprise, surprise -
-`Beer`, `Brewery`, `Brand` 
+`Beer`, `Brewery`, `Brand`
 and friends (using the `ActiveRecord` object-relational mapper machinery). Example:
 
 ![](i/beerdb-models.png)
 
 
-Let's try the brewery model: 
+Let's try the brewery model:
 
 ``` ruby
 by = Brewery.find_by( key: 'guinness' )
@@ -65,7 +64,7 @@ b.brewery.title
 
 What's it good for? Good question. Let's build an HTTP JSON service
 that serves up a Guinness Irish Stout
-or a Bamberg Aecht Schlenkerla Rauchbier Märzen as JSON? 
+or a Bamberg Aecht Schlenkerla Rauchbier Märzen as JSON?
 Example - `GET /beer/guinness`:
 
 ``` json
@@ -90,12 +89,12 @@ Example - `GET /beer/guinness`:
 }
 ```
 
-Let's use the Sinatra-like webservice library that offers a mini language, 
+Let's use the Sinatra-like webservice library that offers a mini language,
 that is, domain-specific language (DSL)
 that lets you define routes, that is, HTTP methods paired with an URL-matching pattern
 and much more.
 For example, you can code the `GET /beer/guinness` route in
-the webservice library as `get '/beer/guinness'`. 
+the webservice library as `get '/beer/guinness'`.
 To make it into a route for any beer lets replace the `guinness` beer key
 with a placeholder, thus, resulting in `get '/beer/:key'`. Let's run it:
 
@@ -107,7 +106,7 @@ class BeerService < Webservice::Base
 
   include BeerDb::Models     # lets (re)use the Beer, Brewery, etc. models
 
-  get '/beer/:key' do 
+  get '/beer/:key' do
     Beer.find_by!( key: params[:key] )
   end
 
@@ -148,7 +147,7 @@ Voila. Enjoy your Guinness irish stout responsibly.
 Let's add brewery details to the beer service and lets add a new `GET /brewery` route. Example:
 
 ``` ruby
-get '/beer/:key' do 
+get '/beer/:key' do
   beer = Beer.find_by!( key: params[ :key ] )
 
   brewery = {}
@@ -176,7 +175,7 @@ get '/beer/:key' do
 end
 
 
-get '/brewery/:key' do 
+get '/brewery/:key' do
 
   brewery = Brewery.find_by!( key: params[:key] )
 

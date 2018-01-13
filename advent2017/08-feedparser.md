@@ -5,8 +5,8 @@ _The Future of Online News - The Future of Facebook & Co - Web Feeds, Web Feeds,
 
 github: [feedparser/feedparser](https://github.com/feedparser/feedparser),
 rubygems: [feedparser](https://rubygems.org/gems/feedparser),
-rdoc: [feedparser](http://rubydoc.info/gems/feedparser) ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7ih89q/day_8_ruby_advent_calendar_2017_feedparser_read/)
+rdoc: [feedparser](http://rubydoc.info/gems/feedparser)
+
 
 
 

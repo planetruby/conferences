@@ -4,8 +4,8 @@
 
 github: [ctran/annotate_models](https://github.com/ctran/annotate_models),
 rubygems: [annotate](https://rubygems.org/gems/annotate),
-rdoc: [annotate](http://rubydoc.info/gems/annotate)  ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7kehho/day_17_ruby_advent_calendar_2017_annotate/)
+rdoc: [annotate](http://rubydoc.info/gems/annotate)  
+
 
 
 
@@ -24,7 +24,7 @@ class Brewery < ActiveRecord::Base
 end
 ```
 
-Some may find that's a little too much magic. 
+Some may find that's a little too much magic.
 Where's the code? What attribute can you use?
 
 By default ActiveRecord models require no information on the database tables wrapped
@@ -35,7 +35,7 @@ and `Brewery` to `breweries` and so on.
 **Best of both worlds.**
 Less code is great and it's easy to update the model - just update the table -
 there are no out-of-date setter and getters duplicated in the model, for example.
-If you want the best of both worlds - you can always add the table columns to your models as comments. 
+If you want the best of both worlds - you can always add the table columns to your models as comments.
 Example:
 
 ``` ruby
@@ -101,7 +101,7 @@ end
 ```
 
 That looks like a lot of work if you type it in by hand.
-If all the schema information is already stored in the database - why not automate the annotation procedure with a script in Ruby? 
+If all the schema information is already stored in the database - why not automate the annotation procedure with a script in Ruby?
 
 
 ## What's the annotate library?
@@ -213,12 +213,12 @@ And to wrap-up add the required setup code for an in-memory SQLite datebase to t
 
 def setup_in_memory_db
   require 'beerdb'
-  
+
   ActiveRecord::Base.establish_connection(
       adapter:  'sqlite3',
       database: ':memory:'
   )
-  
+
   BeerDb.create_all
 end
 
@@ -239,5 +239,5 @@ Annotated (3): Beer, Brand, Brewery
 ```
 
 Open up the `beer.rb`, `brand.rb` or `brewery.rb` scripts and Voila!
-All the table schema information is now included. 
+All the table schema information is now included.
 To update the table schema information simply rerun annotate.

@@ -6,8 +6,8 @@ _Feed.TXT a.k.a. RSS (Really Simple Sharing) 5.0 ;-)_
 
 github: [feedtxt/feedtxt](https://github.com/feedtxt/feedtxt),
 rubygems: [feedtxt](https://rubygems.org/gems/feedtxt),
-rdoc: [feedtxt](http://rubydoc.info/gems/feedtxt) ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7itanb/day_10_ruby_advent_calendar_2017_feedtxt_read/)
+rdoc: [feedtxt](http://rubydoc.info/gems/feedtxt)
+
 
 
 ## What's the feedtxt library?

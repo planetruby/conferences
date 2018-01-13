@@ -6,8 +6,7 @@ _Free Web Alternative to PowerPoint and KeyNote - Write Your Talks in (Structure
 
 github: [slideshow-s9/slideshow](https://github.com/slideshow-s9/slideshow),
 rubygems: [slideshow](https://rubygems.org/gems/slideshow),
-rdoc: [slideshow](http://rubydoc.info/gems/slideshow) ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7kmlho/day_18_ruby_advent_calendar_2017_slideshow_s9/)
+rdoc: [slideshow](http://rubydoc.info/gems/slideshow)
 
 
 
@@ -15,7 +14,7 @@ more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7kmlh
 
 A command line tool and library that lets you build slideshows
 from your notes written in plain text with formatting conventions in markdown - kramdown, really ;-) e.g. incl. tables, definition lists, footnotes, attribute lists, auto ids, and much more.
-The slideshow (S9) project also collects and welcomes (Jekyll-compatible) themes 
+The slideshow (S9) project also collects and welcomes (Jekyll-compatible) themes
 and ships "out-of-the-box" with built-in support for "loss-free" gradient vector graphics backgrounds.
 
 

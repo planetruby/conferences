@@ -6,8 +6,8 @@ _The Future of Writing Structured Documents in Plain Text with "Lite" Markup For
 
 github: [gettalong/kramdown](https://github.com/gettalong/kramdown),
 rubygems: [kramdown](https://rubygems.org/gems/kramdown),
-rdoc: [kramdown](http://rubydoc.info/gems/kramdown) ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7k1bq2/day_15_ruby_advent_calendar_2017_kramdown_turn/)
+rdoc: [kramdown](http://rubydoc.info/gems/kramdown)
+
 
 
 ## What's Markdown?

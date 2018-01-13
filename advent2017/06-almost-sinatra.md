@@ -5,8 +5,8 @@ _Six lines of almost sinatra "unobfuscated" and bundled up for easy (re)use_
 
 github: [rubylibs/almost-sinatra](https://github.com/rubylibs/almost-sinatra),
 rubygems: [almost-sinatra](https://rubygems.org/gems/almost-sinatra),
-rdoc: [almost-sinatra](http://rubydoc.info/gems/almost-sinatra) ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7hwxtf/day_6_ruby_advent_calendar_2017_almostsinatra/)
+rdoc: [almost-sinatra](http://rubydoc.info/gems/almost-sinatra)
+
 
 
 ## What's Sinatra?

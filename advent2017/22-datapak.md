@@ -5,8 +5,7 @@ _Open Data - Frictionless Data - Tabular Data Packages - Core (Open Tabular) Dat
 
 github: [textkit/datapak](https://github.com/textkit/datapak),
 rubygems: [datapak](https://rubygems.org/gems/datapak),
-rdoc: [datapak](http://rubydoc.info/gems/datapak) ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7liugu/day_22_ruby_advent_calendar_2017_datapak_work/)
+rdoc: [datapak](http://rubydoc.info/gems/datapak)
 
 
 Let's say you want to share your data with the world
@@ -28,7 +27,7 @@ A pragmatic way is to use tabular data packages.
 
 Here's a minimal example of a tabular data package
 holding two files, that is, `data.csv` and `datapackage.json`:
- 
+
 `data.csv`:
 
 ```
@@ -63,8 +62,8 @@ Staatliches Hofbräuhaus München,München,Hofbräu Oktoberfestbier,6.3%
 
 ### Where to find data packages?
 
-For some "real world" examples see the [Data Packages](https://github.com/datasets) 
-at the Open Knowledge Foundation (OKFN) Core Datasets site 
+For some "real world" examples see the [Data Packages](https://github.com/datasets)
+at the Open Knowledge Foundation (OKFN) Core Datasets site
 for a start. Tabular data packages include:
 
 Name                     | Comments
@@ -268,7 +267,7 @@ Will result in:
 ### How to add and import a data package ("by hand")?
 
 Use the `Datapak::Pak` class to read-in a data package
-and add and import into an SQL database. 
+and add and import into an SQL database.
 
 ``` ruby
 pak = Datapak::Pak.new( './pak/un-locode/datapackage.json' )
@@ -297,7 +296,7 @@ ActiveRecord::Base.establish_connection( adapter:  'sqlite3
                                          database: './datapak.db' )
 ```
 
-### PostgreSQL 
+### PostgreSQL
 
 For example, to connect to a PostgreSQL database use in your script
 (before the `Datapak.import` statement):

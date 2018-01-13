@@ -5,8 +5,8 @@ _Works w/ any text editor - future-proof text formats - the free writer's comman
 
 github: [officetxt/officetxt](https://github.com/officetxt/officetxt),
 rubygems: [officetxt](https://rubygems.org/gems/officetxt),
-rdoc: [officetxt](http://rubydoc.info/gems/officetxt)  ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7m4f3n/day_25_ruby_advent_calendar_2017_officetxt_write/)
+rdoc: [officetxt](http://rubydoc.info/gems/officetxt)  
+
 
 
 ## What's Office.TXT?
@@ -123,7 +123,7 @@ COMMANDS
 
 ### What's Dr Jekyll?
 
-Lets you manage static website theme packages; 
+Lets you manage static website theme packages;
 learn more [drjekyllthemes/drjekyll »](https://github.com/drjekyllthemes/drjekyll)
 
 Try on the command line:
@@ -159,7 +159,7 @@ COMMANDS
 
 ## What's Mr Hyde?
 
-Lets you run a static website quick starter wizard script 
+Lets you run a static website quick starter wizard script
 to download and install (unzip/unpack) a theme archive and configure a static website ready-to-use;
 learn more [mrhydescripts/mrhyde »](https://github.com/mrhydescripts/mrhyde)
 
@@ -301,7 +301,7 @@ See `rougify help <command>` for more info.
 
 ### What's Kramdown?
 
-Lets you convert text with markdown formatting conventions to 
+Lets you convert text with markdown formatting conventions to
 hypertext markup language (html) or latex; learn more [kramdown »](https://kramdown.gettalong.org)
 
 Brought to you by:
@@ -405,7 +405,7 @@ Usage: w2m path/to/document.docx
 
 ### What's Quik?
 
-Lets you run quick starter template scripts for scaffolding projects; 
+Lets you run quick starter template scripts for scaffolding projects;
 learn more [quikstart/quik »](https://github.com/quikstart/quik)
 
 Try on the command line:
@@ -435,4 +435,3 @@ COMMANDS
     list, ls, l - List quick starter scripts
     new, n      - Run quick starter script
 ```
- 

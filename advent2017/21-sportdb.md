@@ -4,8 +4,7 @@ _World Cup - English Premier League - Spanish La Liga - Austrian Bundesliga :-) 
 
 github: [sportdb/sport.db](https://github.com/sportdb/sport.db),
 rubygems: [sportdb](https://rubygems.org/gems/sportdb),
-rdoc: [sportdb](http://rubydoc.info/gems/sportdb) ++
-more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7l8kv7/day_21_ruby_advent_calendar_2017_sportdb_read_in/)
+rdoc: [sportdb](http://rubydoc.info/gems/sportdb)
 
 
 
