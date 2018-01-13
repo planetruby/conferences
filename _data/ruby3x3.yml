@@ -1,0 +1,45 @@
+#############################
+#  ruby 3x3 news bytes
+#
+#  published at the Planet Ruby
+#    see https://planetruby.github.io/calendar/ruby3x3
+
+- title:    "Ruby 3x3 @ Awesome Rubies"
+  subtitle: "What's Ruby 3x3? What's Optcarrot?"
+  url:       https://github.com/planetruby/awesome-rubies#3x3-news
+
+- title:    "Official Rubies 3x3 Benchmark with Optcarrot"
+  subtitle: "Nintendo Entertainment System (NES) emulator benchmark - running w/ 20 fps in Ruby 2 and w/ 60 fps in Ruby 3 (3x faster!)"
+  url:       https://github.com/mame/optcarrot/blob/master/doc/benchmark.md
+
+- title:    "MJIT Infrastructure Accepted into Ruby 2.6"
+  subtitle: "JIT worker thread, profiler, gcc/clang compiler support, loading function from shared object file, some hooks to ensure; Dec 2017"
+  url:       https://github.com/ruby/ruby/pull/1782
+
+- title:    "Ruby 3 and JIT: Where, When and How Fast?"
+  subtitle: "by Noah Gibbs, Appfolio, Dec 2017"
+  url:       http://engineering.appfolio.com/appfolio-engineering/2017/12/26/ruby-3-and-jit-where-when-and-how-fast
+
+- title:    "How's Progress on Ruby 3x3?"
+  subtitle: "by Noah Gibbs, Appfolio, Dec 2017"
+  url:       http://engineering.appfolio.com/appfolio-engineering/2017/12/4/hows-progress-on-ruby-3x3
+
+- title:    "Towards Ruby 3x3 Performance - Introducing RTL and MJIT"
+  subtitle: "by Vladimir Makarov, Red Hat, Sept 2017, Talk @ RubyKaigi 2017 on register transfer language (RTL) and method JIT (MJIT)"
+  url:       http://rubykaigi.org/2017/presentations/vnmakarov.html
+
+- title:    "OptCarrot: An Excellent CPU Benchmark for Ruby 3x3"
+  subtitle: "by Noah Gibbs, Appfolio, Sept 2017"
+  url:       http://engineering.appfolio.com/appfolio-engineering/2017/9/22/optcarrot-an-excellent-cpu-benchmark-for-ruby-3x3
+
+- title:    "Running Optcarrot, a Ruby NES emulator, at 150 fps with the GUI!"
+  subtitle: "by Benoit Daloze, Oracle Labs @ Johannes Kepler University, Nov 2016"
+  url:       https://eregon.me/blog/2016/11/28/optcarrot.html
+
+- title:    "Ruby 3x3: Q&A w/ Matz, Koichi, and Tenderlove"
+  subtitle: "On the guild proposal, just-in-time (JIT) compilation the future of ruby performance by Jonan Scheffler, Heroku, Nov 2016"
+  url:       https://blog.heroku.com/ruby-3-by-3
+
+- title:    "Latest #Ruby3x3 News Bytes"
+  subtitle: "Official Twitter Ruby 3x3 Hashtag"
+  url:       https://twitter.com/hashtag/Ruby3x3

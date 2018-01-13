@@ -1,0 +1,12 @@
+
+{% for item in site.data.ruby25 %}
+  <div style="padding: 4px;">
+    <a href="{{ item.url }}">{{ item.title }}</a><br>
+    {{ item.subtitle }}
+  </div>
+{% endfor %}
+
+
+<div style="padding: 4px; font-size: 80%;">
+  <a href="https://github.com/planetruby/advent2017/blob/master/_data/ruby25.yml">Add your ruby 2.5 news byte »</a>
+</div>

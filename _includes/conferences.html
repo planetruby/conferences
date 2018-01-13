@@ -1,0 +1,53 @@
+
+{% for item in site.data.conferences2018 %}
+  <div style="padding: 4px;">
+
+
+     <span style="font-size: 120%; font-weight: bold"><a href="{{ item.url }}">{{ item.name }}</a></span>
+
+     {% if item.reg %}
+       <span style="font-size: 70%">•</span>
+       <span style="font-size: 70%">{{ item.reg.phrase }}</span>
+     {% endif %}
+
+     {% if item.cfp %}
+          <span style="font-size: 70%">•</span>
+        {% if item.cfp.end %}
+          <span style="font-size: 70%" title="Call for Proposals (CFP)">CFP closes {{ item.cfp.end | date: "%a %b/%e %Y" }}</span>
+        {% else %}
+          <span style="font-size: 70%" title="Call for Proposals (CFP)">{{ item.cfp.phrase }}</span>
+        {% endif %}
+     {% endif %}
+
+     <br>
+
+     {% if item.note %}
+         {{ item.note }}
+     {% else %}
+       {% if item.days == 1 %}
+          {{ item.start | date: "%a %b/%e" }}
+       {% elsif item.days == 2 %}
+          {{ item.start | date: "%a"    }}+{{ item.end | date: "%a" }}
+          {{ item.start | date: "%b/%e" }}+{{ item.end | date: "%b/%e" }}
+       {% else %}
+          {{ item.start | date: "%a"    }}-{{ item.end | date: "%a" }}
+          {{ item.start | date: "%b/%e" }}-{{ item.end | date: "%b/%e" }}
+       {% endif %}
+       {% if item.days %}
+          ({{ item.days }}d)
+       {% endif %}
+     {% endif %}
+
+     @  {{ item.location }}
+
+     {% if item.twitter %}
+       • <a href="https://twitter.com/{{ item.twitter }}" title="@{{ item.twitter }}">(Updates)</a>
+     {% endif %}
+
+  </div>
+{% endfor %}
+
+
+<div style="padding-left: 4px; padding-top: 8px">
+  <a href="https://github.com/planetruby/calendar/blob/master/_data/conferences2018.yml">Add (or update) conference news bytes »</a>
+</div>

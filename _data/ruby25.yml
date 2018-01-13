@@ -1,0 +1,66 @@
+#############################
+#  ruby 2.5 news bytes
+#
+#  published at the Planet Ruby
+#    see https://planetruby.github.io/calendar/ruby25
+
+
+- title:     "It's Official - Ruby 2.5.0 Released"
+  subtitle:  "First stable release in the Ruby 2.5 series"
+  url:        https://www.ruby-lang.org/en/news/2017/12/25/ruby-2-5-0-released/
+
+- title:     "Ruby 2.5.0 Changes"
+  subtitle:  "Official changes since the 2.4.0 release"
+  url:        https://github.com/ruby/ruby/blob/v2_5_0/NEWS
+
+- title:     "Standard Gems 2.5.0 - Default Gems, Bundled Gems"
+  subtitle:  "by Jan Lelis, Idiosyncratic Ruby"
+  url:        https://stdgems.org/2.5.0/
+
+- title:     "10 New Features in Ruby 2.5"
+  subtitle:  "by Junichi Ito, Ruby programmer @ SonicGarden.jp"
+  url:        https://blog.jetbrains.com/ruby/2017/10/10-new-features-in-ruby-2-5/
+
+- title:     "10 More New Features in Ruby 2.5"
+  subtitle:  "by Tom Lord, Software Developer from London"
+  url:        https://tom-lord.github.io/10-More-New-Features-In-Ruby-2.5/
+
+- title:     "Performance Improvements in Ruby 2.5"
+  subtitle:  "by Jesus Castello, Ruby Guides"
+  url:        http://www.rubyguides.com/2017/11/ruby-2-5-performance/
+
+- title:     "How Much Faster is Ruby 2.5.0 Preview 1?"
+  subtitle:  "by Noah Gibbs, Appfolio"
+  url:        http://engineering.appfolio.com/appfolio-engineering/2017/11/29/how-much-faster-is-ruby-250-preview-1
+
+- title:    "yield_self in Ruby 2.5"
+  subtitle: "by Michał Łomnicki"
+  url:       https://mlomnicki.com/yield-self-in-ruby-25/
+
+- title:    "Improved stacktrace display in Ruby 2.5"
+  subtitle: "by Michał Łomnicki"
+  url:       https://mlomnicki.com/improved-stascktrace-display-in-ruby25/
+
+- title:    "Ruby 2.5 Series"
+  subtitle: "by Amit Choudhary, Mohit Natoo et al @ BigBinary"
+  url:       http://blog.bigbinary.com/categories/Ruby-2-5
+
+- title:    "What's new in Ruby 2.5"
+  subtitle: "by Nimmy Vipin, Red Panthers"
+  url:      https://blog.redpanthers.co/whats-new-ruby-2-5/
+
+- title:    "Ruby 2.5 is out - Let's benchmark"
+  subtitle: "by Thomas Leitner, HexaPDF"
+  url:      https://gettalong.org/blog/2017/benchmarking-ruby-2-5
+
+- title:    "Changes in Ruby 2.5"
+  subtitle: "by Kir Shatrov, Production Engineer @ Shopify"
+  url:      http://iempire.ru/2017/12/26/ruby-2-5
+
+- title:    "What's New in Ruby 2.5?"
+  subtitle: "by Nithin Bekal, Programmer from Ottawa @ Shopify"
+  url:      http://nithinbekal.com/posts/ruby-2-5-features
+
+- title:    "New Features in Ruby 2.5"
+  subtitle: "by Rodrigo Ponce de León, Ruby developer @ WyeWorks"
+  url:       https://wyeworks.com/blog/2017/12/28/new-features-in-ruby-2-dot-5-0/

@@ -1,0 +1,205 @@
+#############################
+#  ruby event news in 2018
+#
+#  published at the Calendar @ Planet Ruby
+#    see https://planetruby.github.io/calendar/2018
+
+
+- name:       Ruby on Ice
+  location:   Tegernsee, Bavaria, Germany
+  start:      2018-01-26        ## Jan 26-28th, 2018"
+  end:        2018-01-28
+  days:       3
+  url:        https://rubyonice.com/2018
+  twitter:    rubyoniceconf
+  cfp:
+    phrase: CFP is closed
+  reg:
+    phrase: Registration is open
+
+
+- name:       Rubyfuza
+  location:   Cape Town, South Africa
+  start:      2018-02-01    ## Feb 1st-3rd, 2018
+  end:        2018-02-03
+  days:       3
+  url:        http://www.rubyfuza.org
+  twitter:    rubyfuza
+  cfp:
+    phrase: CFP is open
+  reg:
+    phrase: Registration is open
+
+
+- name:       RubyConf India
+  location:   Bengaluru, India
+  start:      2018-02-09      ##  Feb 9th+10th, 2018
+  end:        2018-02-10
+  days:       2
+  url:        http://rubyconfindia.org
+  twitter:    Rubyconfindia
+  cfp:
+    end:    2017-12-15    ## December 15, 2017
+    phrase: CFP closes
+
+
+- name:       RubyConf Australia
+  location:   Sydney, Australia
+  start:      2018-03-08     ## March 8th+9th, 2018
+  end:        2018-03-09
+  days:       2
+  url:        https://www.rubyconf.org.au/2018
+  twitter:    rubyconf_au
+  cfp:
+    end:    2017-10-26    ## October 26, 2017
+    phrase: CFP closes
+
+
+- name:       RubyConf Philippines
+  location:   Manila, Philippines
+  start:      2018-03-15      ##  March 15th-17th, 2018
+  end:        2018-03-17
+  days:       3
+  url:        http://rubyconf.ph
+  twitter:    rubyconfph
+  cfp:
+    end:    2017-12-07    ## December 7, 2017
+    phrase: CFP closes
+
+
+
+
+- name:       wroc_love.rb
+  location:   Wrocław, Poland
+  start:      2018-03-16    ## March 16th-18th, 2018
+  end:        2018-03-18
+  days:       3
+  url:        http://wrocloverb.com
+  twitter:    wrocloverb
+
+- name:       Bath Ruby
+  location:   Bath, England, United Kingdom
+  start:      2018-03-22     ## March 22nd+23rd, 2018
+  end:        2018-03-23
+  days:       2
+  url:        https://2018.bathruby.uk
+  twitter:    bathruby
+
+- name:       Isle of Ruby
+  location:   Exeter, England, United Kingdom
+  start:      2018-04-13    ## April 13-15, 2018
+  end:        2018-04-15
+  days:       3
+  url:        http://isleofruby.org
+  twitter:    isleofruby
+  cfp:
+    end:    2018-02-04    ## Feb 4, 2018
+    phrase: CFP closes
+
+- name:       RailsConf
+  location:   Pittsburgh, Pennsylvania, United States
+  start:      2018-04-17     ## April 17-19, 2018
+  end:        2018-04-19
+  days:       3
+  url:        https://railsconf.com
+  twitter:    railsconf
+  cfp:
+    end:    2018-01-19   ## Jan 19, 2018
+    phrase: CFP closes
+
+- name:       Ruby X Elixir Conf Taiwan
+  location:   Taipei, Taiwan
+  start:      2018-04-27      ##  April 27th+28th, 2018
+  end:        2018-04-28
+  days:       2
+  url:        https://2018.rubyconf.tw
+  twitter:    rubyconftw
+  cfp:
+    end:    2017-12-31   ## Dec 31, 2017
+    phrase: CFP closes
+
+- name:       Rubyhack
+  location:   Salt Lake City, Utah, United States
+  start:      2018-05-03     ## May 3rd+4th, 2018
+  end:        2018-05-04
+  days:       2
+  url:        http://rubyhack.com
+  twitter:    utrubyhack
+  cfp:
+    phrase: CFP open
+
+
+- name:       Balkan Ruby
+  location:   Sofia, Bulgaria
+  start:      2018-05-25    ## May 25+26th, 2018
+  end:        2018-05-26
+  days:       2
+  url:        http://balkanruby.com
+  twitter:    balkanruby
+  cfp:
+    end:    2018-02-14    ## Feb 14, 2018
+    phrase: CFP closes
+
+
+- name:       RubyKaigi
+  location:   Sendai, Miyagi, Japan
+  start:      2018-05-31  ##  May 31st-Jun 2nd, 2018
+  end:        2018-06-02
+  days:       3
+  url:        http://rubykaigi.org/2018
+  twitter:    rubykaigi
+  cfp:
+    end:    2018-02-28    ## Feb 28, 2018
+    phrase: CFP closes
+
+
+- name:       Paris.rb XXL
+  location:   Paris, France
+  start:      2018-06-28   ## June 28+29th, 2018
+  end:        2018-06-29
+  days:       2
+  url:        http://2018.rubyparis.org
+  twitter:    parisrb
+  cfp:
+    phrase: CFP open
+
+
+- name:       RubyConf Kenya
+  location:   Nairobi, Kenya
+  note:       Upcoming this summer in June
+  url:        http://rubyconf.nairuby.org/2018
+  twitter:    nairubyke
+  cfp:
+    end:    2018-04-02    ## April 2, 2018
+    phrase: CFP closes
+
+
+- name:       Brighton Ruby
+  location:   Brighton, East Sussex, England, United Kingdom
+  start:      2018-07-06   ## July 6th, 2018
+  end:        2018-07-06
+  days:       1
+  url:        https://brightonruby.com
+  twitter:    brightonruby
+
+- name:       RailsCamp West
+  location:   Lake Tahoe, California, United States
+  start:      2018-08-18    ##  Aug 18-21, 2018
+  end:        2018-08-21
+  days:       4
+  url:        http://west.railscamp.us
+  twitter:    railscamp_usa
+
+- name:       European Ruby Conference (EuRuKo)
+  location:   Vienna, Austria
+  note:       Upcoming this summer
+  url:        http://euruko.org
+  twitter:    euruko
+
+- name:       RubyConf
+  location:   Los Angeles, California, United States
+  start:      2018-11-13    ## Nov 13-15, 2018
+  end:        2018-11-15
+  days:       3
+  url:        https://rubyconf.org
+  twitter:    rubyconf

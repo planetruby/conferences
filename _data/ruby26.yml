@@ -1,0 +1,13 @@
+#############################
+#  ruby 2.6 news bytes
+#
+#  published at the Planet Ruby
+#    see https://planetruby.github.io/calendar/ruby26
+
+- title:     "MJIT accepted into Ruby 2.6"
+  subtitle:  "MJIT infrastructure means: JIT worker thread, profiler, gcc/clang compiler support, loading function from shared object file, some hooks to ensure JIT does not cause SEGV, etc..."
+  url:        https://github.com/ruby/ruby/pull/1782
+
+## see https://bugs.ruby-lang.org/issues/14235
+## Based on this PR work and twitter informational from Hiroshi Shibata a Ruby core team member.
+## MJIT should be available with the next 2.6 preview release.

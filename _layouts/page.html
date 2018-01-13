@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} | Planet Ruby</title>
+
+  {% include head.html %}
+</head>
+<body>
+
+
+  <div class="container">
+      {% include header.html %}
+
+     {{ content }}
+
+      {% include footer.html %}
+
+  </div>
+
+  {% include github.html %}
+
+</body>
+</html>

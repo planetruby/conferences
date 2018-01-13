@@ -1,0 +1,19 @@
+
+## e.g. /2018/1   - used for monthly updates
+permalink: /:year/:i_month.html
+
+
+## site.title  used by feed plugin for now only
+title: Ruby Conferences 'n' Camps in 2018 - What's Upcoming?
+
+
+
+exclude:
+- LICENSE.md
+- NOTES.md
+- advent2018/NOTES.md
+
+
+plugins:
+- jekyll-avatar
+- jekyll-feed
