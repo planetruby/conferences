@@ -23,10 +23,6 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 -->
 
 
-{% include_relative COMMANDLINE.md %}
-
-
-
 ## Conferences & Camps
 
 [Europe](#europe) • [North America](#north-america) •
@@ -39,6 +35,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 {% include_relative AFRICA.md %}
 {% include_relative PACIFIC.md %}
 
+
+{% include_relative COMMANDLINE.md %}
 
 
 ## Thanks
