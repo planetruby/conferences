@@ -1,7 +1,8 @@
 # Calendar @ Planet Ruby
 
+_2018_
 
-- [**Ruby Conferences & Camps in 2018 - What's Upcoming?**](2018.md) • [(Web Feed)](feed.xml) -
+- [**Ruby Conferences & Camps in 2018 - What's Upcoming?**](2018.md) • [(Web Feed)](feed.xml)
 
 
 _Awesome Ruby Events_

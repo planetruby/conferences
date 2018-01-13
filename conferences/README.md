@@ -46,12 +46,6 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 Jon de Andrés • Bruno Azevedo • Lailson Bandeira • Anna Banaszek • Joshua Burke • Alan Da Costa • Glauco Custódio • Mathieu Gagné • Florian Gilcher • Joe Grossberg • Filipe Goncalves • Jingwen • Istvan Hoka • Ash Kamel • Kamil Lelonek • Alex Lemanski • Ivan Lučev • Akira Matsuda • Chris Mitchell • Edward Ocampo-Gooding • Alexey Poimtsev • Tomasz Radziejewski • Sunny Ripert • Peter Scholz • Victor Shepelev • Rebecca Skinner • Ben Turner • Jan Vlnas • Bartlomiej Weber • Tobias Pfeiffer • Cecile Veneziani • Daniel Zanzini • Mario Zigliotto
 
 
-## Meta
-
-**License**
+## License
 
 The awesome list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
-
-**Questions? Comments?**
-
-Send them along to the ruby-talk mailing list. Thanks!
