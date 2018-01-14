@@ -47,5 +47,24 @@
 
 ### India (in)
 
+- @Banglore
+   - **Banglore Ruby Users Group** (meetup: [Bangalore-Ruby-Users-Group](https://www.meetup.com/Bangalore-Ruby-Users-Group/))
+- @Chennai
+   - **Chennai.rb** (meetup: [chennai-ruby](https://www.meetup.com/chennai-ruby/))
+- @Delhi
+   - **Delhi NCR Ruby Meetup Group** (meetup: [Delhi-NCR-Ruby-Meetup-Group](https://www.meetup.com/Delhi-NCR-Ruby-Meetup-Group))
+- @Hyderabad
+   - **Hyderabad Ruby Users Group** (meetup: [RubyHyderabad](https://www.meetup.com/RubyHyderabad/))
+- @Jaipur
+   - **Jaipur.rb** (meetup: [Jaipur-rb-Ruby-Users-Group](https://www.meetup.com/Jaipur-rb-Ruby-Users-Group/))
+- @Kerala
+   - **Kerala Ruby Users Group – KRUG** (web: [krug.github.io](http://krug.github.io), github: [krug](https://github.com/krug))
+- @Mumbai
+   - **MumbaiRB** (meetup: [MumbaiRB](https://www.meetup.com/MumbaiRB/))
+- @Mysore
+   - **Mysore Ruby Meetup** (meetup: [mysore-ruby-meetup](https://www.meetup.com/mysore-ruby-meetup/))
+- @Pune
+   - **Pune Ruby Users Group** (meetup: [PuneRailsMeetup](https://www.meetup.com/PuneRailsMeetup/))
+
 
 ### China (zh)
