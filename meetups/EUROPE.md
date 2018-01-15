@@ -119,6 +119,9 @@
    - **Sheffield Ruby User Group - ShRUG** (web: [shrug.org](http://shrug.org), github: [shruggers](https://github.com/shruggers))
 - @ Bath, Somerset
    - **Bath Ruby User Group** (meetup: [bathruby](https://www.meetup.com/bathruby))
+- @ West Midlands
+   - **West Midlands Ruby User User Group (WMRUG)** (meetup: [West-Midlands-Ruby-User-Group-WMRUG](https://www.meetup.com/West-Midlands-Ruby-User-Group-WMRUG/))
+
 
 #### Scotland
 
