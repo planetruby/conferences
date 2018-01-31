@@ -1,6 +1,8 @@
 
-<div style="float: right; background-color: #eeeeee; margin: 24px; padding: 6px; border-radius: 4px; border: solid 1px silver; font-size: 80%;">
+<div style="float: right; max-width: 320px; background-color: #eeeeee; margin: 24px; padding: 6px; border-radius: 4px; border: solid 1px silver; font-size: 80%;">
 
+
+{% if include.ruby25 %}    
   <div style="text-align: center;">
     <b>Ruby 2.5 - Dec 25th, 2017 - What's News?</b>
   </div>
@@ -17,7 +19,10 @@
       <a href="https://github.com/planetruby/advent2017/blob/master/_data/ruby25.yml">Add your ruby 2.5 news byte »</a>
     </div>
   </div>
+{% endif %}
+  
 
+{% if include.conferences2018 %}  
   <div style="text-align: center; padding-top: 20px;">
     <b>Ruby Conferences in 2018 - What's Up?</b>
   </div>
@@ -35,5 +40,27 @@
       <a href="https://github.com/planetruby/advent2017/blob/master/_data/conferences/2018.yml">Add your conference news byte »</a>
     </div>
   </div>
+{% endif %}
 
+  
+{% if include.book %}    
+  <div style="text-align: center;">
+    <b>Yuki &amp; Moto Press Bookshelf - Free Books About Ruby 'n' Friends</b>
+  </div>
+  <div>
+
+    {% for item in site.data.books %}
+      <div style="padding: 4px;">
+        <a href="{{ item.url }}">{{ item.title }}</a><br>
+        {{ item.subtitle }}
+      </div>
+    {% endfor %}
+
+    <div style="padding: 4px; font-size: 80%;">
+      <a href="https://yukimotopress.github.io">More books »</a>
+    </div>
+  </div>
+{% endif %}
+  
+  
 </div>
