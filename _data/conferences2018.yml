@@ -168,6 +168,15 @@
     phrase: CFP closes
 
 
+- name:       Kyiv RubyC
+  location:   Kyiv, Ukraine
+  start:      2018-06-02
+  end:        2018-06-03
+  days:       2
+  url:        http://rubyc.eu
+  twitter:    rubyc_eu
+
+
 - name:       Paris.rb XXL
   location:   Paris, France
   start:      2018-06-28   ## June 28+29th, 2018
