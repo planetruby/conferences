@@ -1,0 +1,44 @@
+#############################
+#  yuki & moto press books
+#    see https://yukimotopress.github.io/
+
+- title:    "Gem Developer's Guide"
+  subtitle: "by Nick Quaranto, Eric Hodel, et al"
+  url:       https://yukimotopress.github.io/gem-dev
+
+- title:    "How I Start - Let's Build a Gem Together!"
+  subtitle: "by Steve Klabnik"
+  url:       https://yukimotopress.github.io/start
+
+- title:    "Hoe Developer's Guide - Build, Package and Publish Gems with Rake Tasks - Ready-to-Use Build Scripts"
+  subtitle: "by Ryan Davis, et al"
+  url:       https://yukimotopress.github.io/gem-tasks
+
+- title:    "Sinatra Intro"
+  subtitle: "by Chris Schneider, Zachary Scott, et al"
+  url:       https://yukimotopress.github.io/sinatra-intro
+
+- title:    "Best of Practicing Ruby"
+  subtitle: "by Gregory Brown, Luke Francl, Magnus Holm, Aaron Patterson, Solomon White, et al"
+  url:       https://yukimotopress.github.io/practicing
+
+- title:    "Programming Cryptocurrencies and Blockchains"
+  subtitle: "by Gerald Bauer, et al"
+  url:       https://yukimotopress.github.io/blockchains
+
+- title:    "Gem Series ++ Project Automation & Database Documentation Tools"
+  subtitle: "by Gerald Bauer, et al"
+  url:       https://yukimotopress.github.io/auto
+
+- title:    "Gem Series ++ Web Services (HTTP JSON APIs) the Modern Micro Way"
+  subtitle: "by Gerald Bauer, et al"
+  url:       https://yukimotopress.github.io/micro
+
+- title:    "Net::HTTP by Example / Net::HTTP Cheat Sheet"
+  subtitle: "by August Lilleaas, et al"
+  url:       https://yukimotopress.github.io/http
+
+- title:    "FizzBuzz (1, 2, Fizz, 4, Buzz,...) by Example - There's More Than One Way To Do It"
+  subtitle: "by Tom Dalling, Paweł Świątkowski, et al"
+  url:       https://yukimotopress.github.io/fizzbuzz
+
