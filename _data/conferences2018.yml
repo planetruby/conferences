@@ -76,7 +76,10 @@
   days:       3
   url:        http://wrocloverb.com
   twitter:    wrocloverb
-
+  cfp:
+    end:      2018-01-31 ## Jan 31, 2018
+    phrase:   CFP closes
+ 
 - name:       Bath Ruby
   location:   Bath, England, United Kingdom
   start:      2018-03-22     ## March 22nd+23rd, 2018
@@ -95,6 +98,10 @@
   cfp:
     end:    2018-02-04    ## Feb 4, 2018
     phrase: CFP closes
+  reg:   
+    start:  2018-01-25    ## Jan 25, 2018
+    phrase: Registration open
+
 
 - name:       RailsConf
   location:   Pittsburgh, Pennsylvania, United States
@@ -127,6 +134,14 @@
   twitter:    utrubyhack
   cfp:
     phrase: CFP open
+
+- name:       Ruby Unconf Hamburg
+  location:   Hamburg, Germany
+  start:      2018-05-05   ## May 5-6, 2018
+  end:        2018-05-06
+  days:       2
+  url:        http://rubyunconf.eu
+  twitter:    rubyunconfeu
 
 
 - name:       Balkan Ruby
