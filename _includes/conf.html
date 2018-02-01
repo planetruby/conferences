@@ -1,0 +1,68 @@
+
+{% assign conf = include.conf %}
+
+<div style="padding: 4px;">
+
+     <span style="font-size: 120%; font-weight: bold"><a href="{{ conf.url }}">{{ conf.name }}</a></span>
+
+     {% if conf.reg %}
+       <span style="font-size: 70%">•</span>
+       <span style="font-size: 70%">{{ conf.reg.phrase }}</span>
+     {% endif %}
+
+     {% if conf.cfp %}
+          <span style="font-size: 70%">•</span>
+        {% if conf.cfp.end %}
+          <span style="font-size: 70%" title="Call for Proposals (CFP)">CFP closes {{ conf.cfp.end | date: "%b/%-d %Y" }}</span>
+        {% else %}
+          <span style="font-size: 70%" title="Call for Proposals (CFP)">{{ conf.cfp.phrase }}</span>
+        {% endif %}
+     {% endif %}
+
+     <br>
+
+     {% if conf.note %}
+         {{ conf.note }}
+     {% else %}
+
+       {% assign start_month = conf.start | date: "%m" %}
+       {% assign end_month   = conf.end   | date: "%m" %}
+
+      {{ start_month }} == {{ end_month }}
+
+       {% if conf.days == 1 %}
+          {{ conf.start | date: "%b/%-d" }}
+       {% elsif conf.days == 2 %}
+          {% if start_month == end_month %}
+             {{ conf.start | date: "%b/%-d" }}+{{ conf.end | date: "%-d" }}
+          {% else %}
+             {{ conf.start | date: "%b/%-d" }}+{{ conf.end | date: "%b/%-d" }}
+          {% endif %}
+       {% else %}
+          {% if start_month == end_month %}
+             {{ conf.start | date: "%b/%-d" }}-{{ conf.end | date: "%-d" }}
+          {% else %}
+             {{ conf.start | date: "%b/%-d" }}-{{ conf.end | date: "%b/%-d" }}
+          {% endif %}
+       {% endif %}
+
+       {% if conf.days %}
+          ({{ conf.days }}d)
+       {% endif %}
+
+       {% if conf.days == 1 %}
+          {{ conf.start | date: "%a" }}
+       {% elsif conf.days == 2 %}
+          {{ conf.start | date: "%a"    }}+{{ conf.end | date: "%a" }}
+       {% else %}
+          {{ conf.start | date: "%a"    }}-{{ conf.end | date: "%a" }}
+       {% endif %}
+     {% endif %}
+
+     @  {{ conf.location }}
+
+     {% if conf.twitter %}
+       • <a href="https://twitter.com/{{ conf.twitter }}" title="@{{ conf.twitter }}">(Updates)</a>
+     {% endif %}
+
+  </div>
