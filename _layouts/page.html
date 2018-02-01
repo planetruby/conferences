@@ -12,6 +12,10 @@
   <div class="container">
       {% include header.html %}
 
+    {% if page.path contains "/2018" %}
+        {% include broadcasts.html books=true %} 
+    {% endif %}
+    
      {{ content }}
 
       {% include footer.html %}
