@@ -123,14 +123,15 @@
     end:    2018-01-19   ## Jan 19, 2018
     phrase: CFP closes
 
-- name:       RubyConfBY
+- name:       RubyConf Belarus
   location:   Minsk, Belarus
   start:      2018-04-21     ## April 21st, 2018
   end:        2018-04-21
   days:       1
   month:      4
   url:        https://rubyconference.by
-  twitter:    RubyConfBY
+  twitter:    rubyconfby
+
 
 - name:       Ruby X Elixir Conf Taiwan
   location:   Taipei, Taiwan
@@ -183,7 +184,7 @@
   start:      2018-05-31  ##  May 31st-Jun 2nd, 2018
   end:        2018-06-02
   days:       3
-  month:      6
+  month:      5
   url:        http://rubykaigi.org/2018
   twitter:    rubykaigi
   cfp:
