@@ -12,7 +12,7 @@
   <div class="container">
       {% include header.html %}
 
-    {% if page.path contains "/2018" %}
+    {% if page.path == "2018.md" %}
         {% include broadcasts.html books=true %} 
     {% endif %}
     
