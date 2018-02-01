@@ -28,8 +28,6 @@
        {% assign start_month = conf.start | date: "%m" %}
        {% assign end_month   = conf.end   | date: "%m" %}
 
-      {{ start_month }} == {{ end_month }}
-
        {% if conf.days == 1 %}
           {{ conf.start | date: "%b/%-d" }}
        {% elsif conf.days == 2 %}
