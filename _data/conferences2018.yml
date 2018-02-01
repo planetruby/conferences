@@ -216,13 +216,17 @@
 
 - name:       RubyConf Kenya
   location:   Nairobi, Kenya
-  note:       Upcoming this summer in June
+  ## note:       Upcoming this summer in June
+  start:      2018-06-28    ## 28th-30th June 2018
+  end:        2018-06-30
+  days:       3
   month:      6
   url:        http://rubyconf.nairuby.org/2018
   twitter:    nairubyke
   cfp:
     end:    2018-04-02    ## April 2, 2018
     phrase: CFP closes
+
 
 
 - name:       Brighton Ruby
