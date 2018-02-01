@@ -2,7 +2,7 @@
 
 _2018_
 
-- [**Ruby Conferences & Camps in 2018 - What's Upcoming?**](2018.md) • [(Web Feed)](feed.xml)
+- [**Ruby Conferences & Camps in 2018 - What's Upcoming?**](2018.md) • (Web Feed in [XML](https://planetruby.github.io/calendar/feed.xml) • [JSON](https://planetruby.github.io/calendar/feed.json))
 
 
 _Awesome Ruby Events_
