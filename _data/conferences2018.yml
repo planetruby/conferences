@@ -10,6 +10,7 @@
   start:      2018-01-26        ## Jan 26-28th, 2018"
   end:        2018-01-28
   days:       3
+  month:      1
   url:        https://rubyonice.com/2018
   twitter:    rubyoniceconf
   cfp:
@@ -23,6 +24,7 @@
   start:      2018-02-01    ## Feb 1st-3rd, 2018
   end:        2018-02-03
   days:       3
+  month:      2
   url:        http://www.rubyfuza.org
   twitter:    rubyfuza
   cfp:
@@ -36,6 +38,7 @@
   start:      2018-02-09      ##  Feb 9th+10th, 2018
   end:        2018-02-10
   days:       2
+  month:      2
   url:        http://rubyconfindia.org
   twitter:    Rubyconfindia
   cfp:
@@ -48,6 +51,7 @@
   start:      2018-03-08     ## March 8th+9th, 2018
   end:        2018-03-09
   days:       2
+  month:      3
   url:        https://www.rubyconf.org.au/2018
   twitter:    rubyconf_au
   cfp:
@@ -60,6 +64,7 @@
   start:      2018-03-15      ##  March 15th-17th, 2018
   end:        2018-03-17
   days:       3
+  month:      3
   url:        http://rubyconf.ph
   twitter:    rubyconfph
   cfp:
@@ -74,6 +79,7 @@
   start:      2018-03-16    ## March 16th-18th, 2018
   end:        2018-03-18
   days:       3
+  month:      3
   url:        http://wrocloverb.com
   twitter:    wrocloverb
   cfp:
@@ -85,6 +91,7 @@
   start:      2018-03-22     ## March 22nd+23rd, 2018
   end:        2018-03-23
   days:       2
+  month:      3
   url:        https://2018.bathruby.uk
   twitter:    bathruby
 
@@ -93,6 +100,7 @@
   start:      2018-04-13    ## April 13-15, 2018
   end:        2018-04-15
   days:       3
+  month:      4
   url:        http://isleofruby.org
   twitter:    isleofruby
   cfp:
@@ -108,6 +116,7 @@
   start:      2018-04-17     ## April 17-19, 2018
   end:        2018-04-19
   days:       3
+  month:      4
   url:        https://railsconf.com
   twitter:    railsconf
   cfp:
@@ -119,6 +128,7 @@
   start:      2018-04-21     ## April 21st, 2018
   end:        2018-04-21
   days:       1
+  month:      4
   url:        https://rubyconference.by
   twitter:    RubyConfBY
 
@@ -127,6 +137,7 @@
   start:      2018-04-27      ##  April 27th+28th, 2018
   end:        2018-04-28
   days:       2
+  month:      4
   url:        https://2018.rubyconf.tw
   twitter:    rubyconftw
   cfp:
@@ -138,6 +149,7 @@
   start:      2018-05-03     ## May 3rd+4th, 2018
   end:        2018-05-04
   days:       2
+  month:      5
   url:        http://rubyhack.com
   twitter:    utrubyhack
   cfp:
@@ -148,6 +160,7 @@
   start:      2018-05-05   ## May 5-6, 2018
   end:        2018-05-06
   days:       2
+  month:      5
   url:        http://rubyunconf.eu
   twitter:    rubyunconfeu
 
@@ -157,6 +170,7 @@
   start:      2018-05-25    ## May 25+26th, 2018
   end:        2018-05-26
   days:       2
+  month:      5
   url:        http://balkanruby.com
   twitter:    balkanruby
   cfp:
@@ -169,6 +183,7 @@
   start:      2018-05-31  ##  May 31st-Jun 2nd, 2018
   end:        2018-06-02
   days:       3
+  month:      6
   url:        http://rubykaigi.org/2018
   twitter:    rubykaigi
   cfp:
@@ -181,6 +196,7 @@
   start:      2018-06-02
   end:        2018-06-03
   days:       2
+  month:      6
   url:        http://rubyc.eu
   twitter:    rubyc_eu
 
@@ -190,6 +206,7 @@
   start:      2018-06-28   ## June 28+29th, 2018
   end:        2018-06-29
   days:       2
+  month:      6
   url:        http://2018.rubyparis.org
   twitter:    parisrb
   cfp:
@@ -199,6 +216,7 @@
 - name:       RubyConf Kenya
   location:   Nairobi, Kenya
   note:       Upcoming this summer in June
+  month:      6
   url:        http://rubyconf.nairuby.org/2018
   twitter:    nairubyke
   cfp:
@@ -211,6 +229,7 @@
   start:      2018-07-06   ## July 6th, 2018
   end:        2018-07-06
   days:       1
+  month:      7
   url:        https://brightonruby.com
   twitter:    brightonruby
 
@@ -219,12 +238,14 @@
   start:      2018-08-18    ##  Aug 18-21, 2018
   end:        2018-08-21
   days:       4
+  month:      8
   url:        http://west.railscamp.us
   twitter:    railscamp_usa
 
 - name:       European Ruby Conference (EuRuKo)
   location:   Vienna, Austria
   note:       Upcoming this summer
+  month:      8
   url:        http://euruko.org
   twitter:    euruko
 
@@ -233,5 +254,6 @@
   start:      2018-11-13    ## Nov 13-15, 2018
   end:        2018-11-15
   days:       3
+  month:      11
   url:        https://rubyconf.org
   twitter:    rubyconf
