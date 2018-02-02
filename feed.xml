@@ -23,7 +23,10 @@ layout: null
 {%- endcapture -%}
 
 {%- capture body -%}
+<h2>Conferences 'n' Camps</h2>
+<p>What's News? What's Upcoming in 2018?</p>
 {% include conf.html conf=conf %}
+<p></p>
 <p>
 See all <a href="{{ '/2018' | absolute_url }}">Conferences 'n' Camps in 2018 »</a>.
 </p>
