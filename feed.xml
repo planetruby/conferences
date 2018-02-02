@@ -3,7 +3,7 @@ layout: null
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>{{ site.title | xml_escape }}</title>
+  <title>{{ "Ruby Conferences 'n' Camps in 2018 - What's Upcoming?" | xml_escape }}</title>
   <link href="{{ page.url | absolute_url }}" rel="self" />
   <link href="{{ '/2018' | absolute_url }}" />
   <id>{{ '/' | absolute_url | xml_escape }}</id>
@@ -24,9 +24,12 @@ layout: null
 
 {%- capture body -%}
 <h2>Conferences 'n' Camps</h2>
-<p>What's News? What's Upcoming in 2018?</p>
+<p>
+What's News? What's Upcoming in 2018?
+</p>
+<p>
 {% include conf.html conf=conf %}
-<p></p>
+</p>
 <p>
 See all <a href="{{ '/2018' | absolute_url }}">Conferences 'n' Camps in 2018 »</a>.
 </p>

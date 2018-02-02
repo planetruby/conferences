@@ -1,11 +1,16 @@
 
-{% if include.month %}
-   {% assign confs = site.data.conferences2018 | where: "month", include.month %}
-   {% for conf in confs %}
-      {% include conf.html conf=conf %}
-   {% endfor %}
-{% else %}
-   {% for conf in site.data.conferences2018 %}
-      {% include conf.html conf=conf %}
-   {% endfor %}
-{% endif %}
+{% assign confs = site.data.conferences2018 | where: "month", include.month %}
+{% for conf in confs %}
+
+<div style="padding: 4px; display: flex;">
+   <div style="width: 80px">
+   {% if conf.start %}
+      <span style="font-size: 140%;">{{ conf.start | date: "%a %-d" }}</span>
+   {% endif %}
+  </div>
+   <div>
+    {% include conf.html conf=conf %}
+  </div>
+</div>
+
+{% endfor %}

@@ -3,17 +3,42 @@ layout: null
 ---
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "{{ site.title | xml_escape }}",
-    "home_page_url": "{{ "/" | absolute_url }}",
+    "title": "Ruby Conferences 'n' Camps in 2018 - What's Upcoming?",
+    "home_page_url": "{{ "/2018" | absolute_url }}",
     "feed_url": "{{ "/feed.json" | absolute_url }}",
     "items": [
-    {% for post in site.posts limit:10 %}
+
+{% assign sorted_confs = site.data.conferences2018 | where_exp: "conf", "conf.updated != nil" | sort: "updated" | reverse %}
+
+{% for conf in sorted_confs limit: 10 %}
+
+{%- capture title -%}
+{{ conf.name }} @ {{ conf.location }} - Ruby Conferences 'n' Camps Update
+{%- endcapture -%}
+
+{%- capture url -%}
+{{ '/2018' | absolute_url }}#{{ conf.name | slugify }}
+{%- endcapture -%}
+
+{%- capture body -%}
+<h2>Conferences 'n' Camps</h2>
+<p>
+What's News? What's Upcoming in 2018?
+</p>
+<p>
+{% include conf.html conf=conf %}
+</p>
+<p>
+See all <a href="{{ '/2018' | absolute_url }}">Conferences 'n' Camps in 2018 »</a>.
+</p>
+{%- endcapture -%}
+
         {
-            "id": "{{ post.url | absolute_url | sha1 }}",
-            "title": {{ post.title | jsonify }},
-            "content_html": {{ post.content | jsonify }},
-            "url": "{{ post.url | absolute_url }}",
-            "date_published": "{{ post.date | date_to_xmlschema }}"
+            "id": "{{ url | sha1 }}",
+            "title": {{ title | jsonify }},
+            "content_html": {{ body | jsonify }},
+            "url": "{{ url | absolute_url }}",
+            "date_published": "{{ conf.updated | date_to_xmlschema }}"
         }{% if forloop.last == false %},{% endif %}
     {% endfor %}
     ]

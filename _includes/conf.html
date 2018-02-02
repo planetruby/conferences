@@ -1,16 +1,9 @@
 
 {% assign conf = include.conf %}
 
-<div style="padding: 4px; display: flex;">
-
-   <div style="width: 80px">
-   {% if conf.start %}
-      <span style="font-size: 140%;">{{ conf.start | date: "%a %-d" }}</span>
-   {% endif %}
-  </div>
-
-  <div>  
-     <span style="font-size: 120%; font-weight: bold"><a href="{{ conf.url }}">{{ conf.name }}</a></span>
+     <span style="font-size: 120%">
+       <b><a href="{{ conf.url }}" id="{{ conf.name | slugify }}">{{ conf.name }}</a></b>
+     </span>
 
      {% if conf.reg %}
        <span style="font-size: 70%">•</span>
@@ -69,5 +62,5 @@
      {% if conf.twitter %}
        • <a href="https://twitter.com/{{ conf.twitter }}" title="@{{ conf.twitter }}">(Updates)</a>
      {% endif %}
-    </div>
-  </div>
+
+  
