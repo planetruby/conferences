@@ -10,7 +10,7 @@ layout: null
   <updated>{{ site.time | date_to_xmlschema }}</updated>
 
 
-{% assign sorted_confs = site.data.conferences2018 | where_exp: "conf", "conf.updated != nil" | sorted | reverse %}
+{% assign sorted_confs = site.data.conferences2018 | where_exp: "conf", "conf.updated != nil" | sort: "updated" | reverse %}
 
 {% for conf in sorted_confs limit: 10 %}
 
@@ -30,11 +30,11 @@ See all <a href="{{ '/2018' | absolute_url }}">Conferences 'n' Camps in 2018 »<
 {%- endcapture -%}
 
 <entry>
-		<title>{{ title | xml_escape }}</title>
-    <link href="{{ url }}" />
-    <id>{{ url | xml_escape }}</id>
-    <updated>{{ conf.updated | date_to_xmlschema }}</updated>
-    <content type="html">{{ body | xml_escape }}</content>
+  <title>{{ title | xml_escape }}</title>
+  <link href="{{ url }}" />
+  <id>{{ url | xml_escape }}</id>
+  <updated>{{ conf.updated | date_to_xmlschema }}</updated>
+  <content type="html">{{ body | xml_escape }}</content>
 </entry>
 {% endfor %}
 </feed>
