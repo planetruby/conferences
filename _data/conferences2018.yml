@@ -85,6 +85,7 @@
   cfp:
     end:      2018-01-31 ## Jan 31, 2018
     phrase:   CFP closes
+  updated:    2018-01-27   ## note: used for feed.xml|json  
  
 - name:       Bath Ruby
   location:   Bath, England, United Kingdom
@@ -131,6 +132,7 @@
   month:      4
   url:        https://rubyconference.by
   twitter:    rubyconfby
+  updated:    2018-01-30   ## note: used for feed.xml|json  
 
 
 - name:       Ruby X Elixir Conf Taiwan
@@ -164,6 +166,7 @@
   month:      5
   url:        http://rubyunconf.eu
   twitter:    rubyunconfeu
+  updated:    2018-01-28   ## note: used for feed.xml|json  
 
 
 - name:       Balkan Ruby
