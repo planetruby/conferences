@@ -19,4 +19,6 @@ exclude:
 
 plugins:
 - jekyll-avatar
-- jekyll-feed
+
+
+## - jekyll-feed  - note: use our own feed.xml template for now
