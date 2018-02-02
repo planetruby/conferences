@@ -1,0 +1,40 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.title | xml_escape }}</title>
+  <link href="{{ page.url | absolute_url }}" rel="self" />
+  <link href="{{ '/2018' | absolute_url }}" />
+  <id>{{ '/' | absolute_url | xml_escape }}</id>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+
+
+{% assign sorted_confs = site.data.conferences2018 | where_exp: "conf", "conf.updated != nil" | sorted | reverse %}
+
+{% for conf in sorted_confs limit: 10 %}
+
+{%- capture title -%}
+{{ conf.name }} @ {{ conf.location }} - Ruby Conferences 'n' Camps Update
+{%- endcapture -%}
+
+{%- capture url -%}
+{{ '/2018' | absolute_url }}#{{ conf.name | slugify }}
+{%- endcapture -%}
+
+{%- capture body -%}
+{% include conf.html conf=conf %}
+<p>
+See all <a href="{{ '/2018' | absolute_url }}">Conferences 'n' Camps in 2018 »</a>.
+</p>
+{%- endcapture -%}
+
+<entry>
+		<title>{{ title | xml_escape }}</title>
+    <link href="{{ url }}" />
+    <id>{{ url | xml_escape }}</id>
+    <updated>{{ conf.updated | date_to_xmlschema }}</updated>
+    <content type="html">{{ body | xml_escape }}</content>
+</entry>
+{% endfor %}
+</feed>
