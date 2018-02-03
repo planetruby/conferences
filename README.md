@@ -1,3 +1,10 @@
+{% comment %}
+
+Note, this is the source code version, see the live web pages @ [`planetruby.github.io/calendar` »](https://planetruby.github.io/calendar).
+
+{% endcomment %}
+
+
 # Calendar @ Planet Ruby
 
 _2018_
