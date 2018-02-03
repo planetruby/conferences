@@ -1,9 +1,4 @@
 
-
-## publish posts or collection documents with a future date
-future: true
-
-
 exclude:
 - LICENSE.md
 - NOTES.md
