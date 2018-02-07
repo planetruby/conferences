@@ -251,12 +251,18 @@
   url:        http://west.railscamp.us
   twitter:    railscamp_usa
 
+
 - name:       European Ruby Conference (EuRuKo)
   location:   Vienna, Austria
-  note:       Upcoming this summer
+  ## note:       Upcoming this summer
+  start:      2018-08-24       ## 24th - 25th of August 2018
+  end:        2018-08-25
+  days:       2
   month:      8
   url:        http://euruko.org
   twitter:    euruko
+  updated:    2018-02-07
+
 
 - name:       RubyConf
   location:   Los Angeles, California, United States
