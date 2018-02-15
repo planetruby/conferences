@@ -206,6 +206,17 @@
   twitter:    rubyc_eu
 
 
+- name:      Ruby for Good
+  location:  Washington D.C. (District of Columbia), United States
+  start:     2018-06-07      ## June 7th - June 10th, 2018
+  end:       2018-06-10
+  days:      3
+  month:     6
+  url:       http://rubyforgood.org
+  twitter:   rubyforgood
+  updated:   2018-02-15
+
+
 - name:       Paris.rb XXL
   location:   Paris, France
   start:      2018-06-28   ## June 28+29th, 2018
