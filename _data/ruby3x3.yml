@@ -16,6 +16,10 @@
   subtitle: "by Shannon Skipper, Square, Feb 2018"
   url:       https://medium.com/square-corner-blog/rubys-new-jit-91a5c864dd10
 
+- title:    "Playing with Ruby's new JIT: MJIT"
+  subtitle: "by John Hawthorn, Feb 2018"
+  url:       https://www.johnhawthorn.com/2018/02/playing-with-ruby-jit-mjit
+
 - title:    "MJIT Infrastructure Accepted into Ruby 2.6"
   subtitle: "JIT worker thread, profiler, gcc/clang compiler support, loading function from shared object file, some hooks to ensure; Dec 2017"
   url:       https://github.com/ruby/ruby/pull/1782
