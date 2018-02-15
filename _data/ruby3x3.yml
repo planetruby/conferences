@@ -32,8 +32,12 @@
   subtitle: "by Noah Gibbs, Appfolio, Dec 2017"
   url:       http://engineering.appfolio.com/appfolio-engineering/2017/12/4/hows-progress-on-ruby-3x3
 
+- title:    "Slides - Just-In-Time (JIT) Compiler for MRI (Matz's Ruby Interpreter)"
+  subtitle: "by Takashi Kokubun, Talk @ RubyConf 2017, Nov 2017"
+  url:       https://speakerdeck.com/k0kubun/just-in-time-compiler-for-mri
+
 - title:    "Towards Ruby 3x3 Performance - Introducing RTL and MJIT"
-  subtitle: "by Vladimir Makarov, Red Hat, Sept 2017, Talk @ RubyKaigi 2017 on register transfer language (RTL) and method JIT (MJIT)"
+  subtitle: "by Vladimir Makarov, Red Hat, Sept 2017, Talk @ RubyKaigi 2017 on Register Transfer Language (RTL) and Method JIT (MJIT)"
   url:       http://rubykaigi.org/2017/presentations/vnmakarov.html
 
 - title:    "OptCarrot: An Excellent CPU Benchmark for Ruby 3x3"
