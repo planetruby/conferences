@@ -21,7 +21,7 @@
   url:       https://medium.com/square-corner-blog/rubys-new-jit-91a5c864dd10
 
 - title:    "Slides - VM-Generated JIT (Just-In-Time) Compiler for Ruby 2.6"
-  subtitle: "by Takashi Kokubun, Tech Talk @ OSS Day, Feb 2018"
+  subtitle: "by Takashi Kokubun, Treasure Data, Feb 2018, Tech Talk @ Treasure Data Open Source Software (OSS) Day"
   url:       https://speakerdeck.com/k0kubun/vm-generated-jit-compiler-for-ruby-2-dot-6
 
 - title:    "Playing with Ruby's new JIT: MJIT"
@@ -41,7 +41,7 @@
   url:       http://engineering.appfolio.com/appfolio-engineering/2017/12/4/hows-progress-on-ruby-3x3
 
 - title:    "Slides - Just-In-Time (JIT) Compiler for MRI (Matz's Ruby Interpreter)"
-  subtitle: "by Takashi Kokubun, Talk @ RubyConf 2017, Nov 2017"
+  subtitle: "by Takashi Kokubun, Treasure Data, Nov 2017, Talk @ RubyConf 2017"
   url:       https://speakerdeck.com/k0kubun/just-in-time-compiler-for-mri
 
 - title:    "Towards Ruby 3x3 Performance - Introducing RTL and MJIT"
