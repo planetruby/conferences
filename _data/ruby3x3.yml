@@ -12,6 +12,10 @@
   subtitle: "Nintendo Entertainment System (NES) emulator benchmark - running w/ 20 fps in Ruby 2 and w/ 60 fps in Ruby 3 (3x faster!)"
   url:       https://github.com/mame/optcarrot/blob/master/doc/benchmark.md
 
+- title:    "The Method JIT (MJIT) Compiler for Ruby 2.6" 
+  subtitle: "by Takashi Kokubun, Treasure Data, Feb 2018"
+  url:       https://medium.com/@k0kubun/the-method-jit-compiler-for-ruby-2-6-388ee0989c13
+
 - title:    "Ruby's New JIT (Just-In-Time) Compiler"
   subtitle: "by Shannon Skipper, Square, Feb 2018"
   url:       https://medium.com/square-corner-blog/rubys-new-jit-91a5c864dd10
