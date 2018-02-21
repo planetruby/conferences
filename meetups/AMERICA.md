@@ -87,6 +87,8 @@
    - **KC Ruby** (web: [kcruby.org](http://kcruby.org), github: [kcruby](https://github.com/kcruby))
 - @ St. Louis, Missouri
    - **St. Louis Ruby User Group - STLRuby** (meetup: [stlruby](http://meetup.com/stlruby), github: [stlruby](https://github.com/stlruby))
+- @ Omaha, Nebraska
+   - **Omaha Ruby and Open Source Meetup** (meetup: [Omaha Ruby](https://www.meetup.com/Omaha-Ruby-Meetup/), twitter: [@OmahaRuby](https://twitter.com/omaharuby))
 
 ##### Rocky Mountains
 
