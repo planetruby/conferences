@@ -1,6 +1,6 @@
 {% comment %}
 
-Note, this is the source code version, see the live web pages @ [`planetruby.github.io/calendar/ruby3x3` »](https://planetruby.github.io/calendar/ruby3x3).
+Note, this is the source code version, see the live web page @ [`planetruby.github.io/calendar/ruby3x3` »](https://planetruby.github.io/calendar/ruby3x3).
 
 {% endcomment %}
 
