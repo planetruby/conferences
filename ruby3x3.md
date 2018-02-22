@@ -30,6 +30,14 @@ We recommend using another emulator if you want to play a game.
 See [Rubies Benchmark with Optcarrot](https://github.com/mame/optcarrot/blob/master/doc/benchmark.md) for the measurement condition and some more charts.
 
 
+### Major News
+
+- 2017/Dec - [MJIT infrastructure accepted into Ruby 2.6](https://github.com/ruby/ruby/pull/1782) - MJIT infrastructure means: JIT worker thread, profiler, gcc/clang compiler support, loading function from shared object file, some hooks to ensure JIT does not cause SEGV, etc...
+
+See the [#Ruby3x3](https://twitter.com/hashtag/Ruby3x3) hashtag on twitter for the latest Ruby 3x3 news bytes.
+
+
+
 ## Articles
 
 An awesome collection about ruby 3x3 news, benchmarks and more:
