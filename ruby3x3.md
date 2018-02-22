@@ -1,5 +1,12 @@
-# Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News?
+{% comment %}
 
+Note, this is the source code version, see the live web pages @ [`planetruby.github.io/calendar/ruby3x3` »](https://planetruby.github.io/calendar/ruby3x3).
+
+{% endcomment %}
+
+
+
+# Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News?
 
 
 ### Q: What's 3x3?
