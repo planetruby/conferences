@@ -12,6 +12,14 @@
   subtitle: "Nintendo Entertainment System (NES) emulator benchmark - running w/ 20 fps in Ruby 2 and w/ 60 fps in Ruby 3 (3x faster!)"
   url:       https://github.com/mame/optcarrot/blob/master/doc/benchmark.md
 
+## note:
+##  add new articles (reverese chronological order - latest first) starting here
+##
+
+- title:    "TruffleRuby Native: Fast Even for Short Scripts"
+  subtitle: "by Benoit Daloze, Oracle Labs @ Johannes Kepler University, Feb 2018"
+  url:       https://eregon.me/blog/2018/02/19/truffleruby-native-fast-short-scripts
+
 - title:    "The Method JIT (MJIT) Compiler for Ruby 2.6" 
   subtitle: "by Takashi Kokubun, Treasure Data, Feb 2018"
   url:       https://medium.com/@k0kubun/the-method-jit-compiler-for-ruby-2-6-388ee0989c13
