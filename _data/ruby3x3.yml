@@ -4,17 +4,12 @@
 #  published at the Planet Ruby
 #    see https://planetruby.github.io/calendar/ruby3x3
 
-- title:    "Ruby 3x3 @ Awesome Rubies"
+- title:    "Ruby 3x3 @ Planet Ruby"
   subtitle: "What's Ruby 3x3? What's Optcarrot?"
-  url:       https://github.com/planetruby/awesome-rubies#3x3-news
-
-- title:    "Official Rubies 3x3 Benchmark with Optcarrot"
-  subtitle: "Nintendo Entertainment System (NES) emulator benchmark - running w/ 20 fps in Ruby 2 and w/ 60 fps in Ruby 3 (3x faster!)"
-  url:       https://github.com/mame/optcarrot/blob/master/doc/benchmark.md
+  url:       https://planetruby.github.io/calendar/ruby3x3
 
 ## note:
 ##  add new articles (reverese chronological order - latest first) starting here
-##
 
 - title:    "TruffleRuby Native: Fast Even for Short Scripts"
   subtitle: "by Benoit Daloze, Oracle Labs @ Johannes Kepler University, Feb 2018"
