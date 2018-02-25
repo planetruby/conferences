@@ -6,5 +6,8 @@ exclude:
 
 
 plugins:
+- jekyll-remote-theme
 - jekyll-avatar
 - jemoji
+
+remote_theme: planetruby/calendar-theme
