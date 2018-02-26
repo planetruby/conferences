@@ -1,0 +1,11 @@
+{% for item in site.data.ruby26 %}
+  <div style="padding: 4px;">
+    <a href="{{ item.url }}">{{ item.title }}</a><br>
+    {{ item.subtitle }}
+  </div>
+{% endfor %}
+
+
+<div style="padding: 4px; font-size: 80%;">
+  <a href="https://github.com/planetruby/calendar/blob/master/_data/ruby26.yml">Add your ruby 2.6 news byte »</a>
+</div>
