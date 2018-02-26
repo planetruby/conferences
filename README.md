@@ -21,6 +21,7 @@ _Awesome Ruby Events_
 _Rubies Updates - 2.5 / 3x3 - What's News?_
 
 - [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News?](ruby3x3.md) - A collection about ruby 3x3 news, benchmarks and more
+- [Ruby 2.6 - Dec 25th, 2018 - What's News?](ruby26.md) - A collection about ruby 2.6 news
 - [Ruby 2.5 - Dec 25th, 2017 - What's News?](ruby25.md) - A collection about ruby 2.5 news
 
 
