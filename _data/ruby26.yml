@@ -9,7 +9,7 @@
   url:        https://github.com/ruby/ruby/blob/v2_6_0_preview1/NEWS
 
 - title:     "Ruby 2.6.0 Preview Released"
-  subtitle:  "Early 2.6.0  preview release incl. Just-In-Time (JIT) compiler, Feb 2018"
+  subtitle:  "Early 2.6.0  preview release incl. just-in-time (JIT) compiler; to use add `--jit` to the command line - Feb 2018"
   url:        https://www.ruby-lang.org/en/news/2018/02/24/ruby-2-6-0-preview1-released
 
 - title:     "MJIT accepted into Ruby 2.6"
