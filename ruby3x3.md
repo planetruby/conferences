@@ -40,6 +40,7 @@ See [Rubies Benchmark with Optcarrot](https://github.com/mame/optcarrot/blob/mas
 
 ### Major News
 
+- 2018/Feb - [Ruby 2.6.0 Preview Released](https://www.ruby-lang.org/en/news/2018/02/24/ruby-2-6-0-preview1-released) - Early 2.6.0 preview release incl. Just-In-Time (JIT) compiler; to use add `--jit` to the command line
 - 2017/Dec - [MJIT infrastructure accepted into Ruby 2.6](https://github.com/ruby/ruby/pull/1782) - MJIT infrastructure means: JIT worker thread, profiler, gcc/clang compiler support, loading function from shared object file, some hooks to ensure JIT does not cause SEGV, etc...
 
 See the [#Ruby3x3](https://twitter.com/hashtag/Ruby3x3) hashtag on twitter for the latest Ruby 3x3 news bytes.
