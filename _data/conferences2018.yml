@@ -180,7 +180,15 @@
   cfp:
     end:    2018-02-14    ## Feb 14, 2018
     phrase: CFP closes
-
+    
+- name:       ROSS conf Amsterdam
+  location:   Amsterdam, the Netherlands
+  start:      2018-05-11    
+  end:        2018-05-12
+  days:       2
+  month:      5
+  url:        http://rossconfams.eventbrite.co.uk
+  twitter:    rossconf
 
 - name:       RubyKaigi
   location:   Sendai, Miyagi, Japan
