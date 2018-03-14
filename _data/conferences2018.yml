@@ -169,6 +169,18 @@
   updated:    2018-01-28   ## note: used for feed.xml|json  
 
 
+- name:       Ruby Open Source Software (ROSS) Conf Amsterdam
+  location:   Amsterdam, the Netherlands
+  start:      2018-05-11    
+  end:        2018-05-12
+  days:       2
+  month:      5
+  url:        http://www.rossconf.io/event/amsterdam    ## http://rossconfams.eventbrite.co.uk
+  twitter:    rossconf
+  tickets:    (FREE)
+  updated:    2018-03-14    ## note: used for feed.xml|json
+
+
 - name:       Balkan Ruby
   location:   Sofia, Bulgaria
   start:      2018-05-25    ## May 25+26th, 2018
@@ -181,17 +193,6 @@
     end:    2018-02-14    ## Feb 14, 2018
     phrase: CFP closes
     
-- name:       Ruby Open Source Software (ROSS) Conf Amsterdam
-  location:   Amsterdam, the Netherlands
-  start:      2018-05-11    
-  end:        2018-05-12
-  days:       2
-  month:      5
-  url:        http://www.rossconf.io/event/amsterdam    ## http://rossconfams.eventbrite.co.uk
-  twitter:    rossconf
-  tickets:    (FREE)
-  updated:    2018-03-14    ## note: used for feed.xml|json
-
 
 - name:       RubyKaigi
   location:   Sendai, Miyagi, Japan
