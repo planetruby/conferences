@@ -13,10 +13,10 @@
   month:      1
   url:        https://rubyonice.com/2018
   twitter:    rubyoniceconf
-  cfp:
-    phrase: CFP is closed
-  reg:
-    phrase: Registration is open
+#  cfp:
+#    phrase: CFP is closed
+#  reg:
+#    phrase: Registration is open
 
 
 - name:       Rubyfuza
@@ -27,10 +27,10 @@
   month:      2
   url:        http://www.rubyfuza.org
   twitter:    rubyfuza
-  cfp:
-    phrase: CFP is open
-  reg:
-    phrase: Registration is open
+#  cfp:
+#    phrase: CFP is open
+#  reg:
+#    phrase: Registration is open
 
 
 - name:       RubyConf India
@@ -41,9 +41,9 @@
   month:      2
   url:        http://rubyconfindia.org
   twitter:    Rubyconfindia
-  cfp:
-    end:    2017-12-15    ## December 15, 2017
-    phrase: CFP closes
+#  cfp:
+#    end:    2017-12-15    ## December 15, 2017
+#    phrase: CFP closes
 
 
 - name:       RubyConf Australia
@@ -54,9 +54,9 @@
   month:      3
   url:        https://www.rubyconf.org.au/2018
   twitter:    rubyconf_au
-  cfp:
-    end:    2017-10-26    ## October 26, 2017
-    phrase: CFP closes
+#  cfp:
+#    end:    2017-10-26    ## October 26, 2017
+#    phrase: CFP closes
 
 
 - name:       RubyConf Philippines
@@ -67,9 +67,9 @@
   month:      3
   url:        http://rubyconf.ph
   twitter:    rubyconfph
-  cfp:
-    end:    2017-12-07    ## December 7, 2017
-    phrase: CFP closes
+#  cfp:
+#    end:    2017-12-07    ## December 7, 2017
+#    phrase: CFP closes
 
 
 
@@ -82,9 +82,10 @@
   month:      3
   url:        http://wrocloverb.com
   twitter:    wrocloverb
-  cfp:
-    end:      2018-01-31 ## Jan 31, 2018
-    phrase:   CFP closes
+  tickets:    (€60)
+#  cfp:
+#    end:      2018-01-31 ## Jan 31, 2018
+#    phrase:   CFP closes
   updated:    2018-01-27   ## note: used for feed.xml|json  
  
 - name:       Bath Ruby
@@ -95,6 +96,8 @@
   month:      3
   url:        https://2018.bathruby.uk
   twitter:    bathruby
+  tickets:    (£199/£59 - Regular/Student)
+
 
 - name:       Isle of Ruby
   location:   Exeter, England, United Kingdom
@@ -104,9 +107,10 @@
   month:      4
   url:        http://isleofruby.org
   twitter:    isleofruby
-  cfp:
-    end:    2018-02-04    ## Feb 4, 2018
-    phrase: CFP closes
+  tickets:    (£199)
+#  cfp:
+#    end:    2018-02-04    ## Feb 4, 2018
+#    phrase: CFP closes
   reg:   
     start:  2018-01-25    ## Jan 25, 2018
     phrase: Registration open
@@ -120,9 +124,10 @@
   month:      4
   url:        https://railsconf.com
   twitter:    railsconf
-  cfp:
-    end:    2018-01-19   ## Jan 19, 2018
-    phrase: CFP closes
+  tickets:    ($600)
+#  cfp:
+#    end:    2018-01-19   ## Jan 19, 2018
+#    phrase: CFP closes
 
 - name:       RubyConf Belarus
   location:   Minsk, Belarus
@@ -132,6 +137,7 @@
   month:      4
   url:        https://rubyconference.by
   twitter:    rubyconfby
+  tickets:    (BYN 240/170 - Regular/Early)
   updated:    2018-01-30   ## note: used for feed.xml|json  
 
 
@@ -143,9 +149,9 @@
   month:      4
   url:        https://2018.rubyconf.tw
   twitter:    rubyconftw
-  cfp:
-    end:    2017-12-31   ## Dec 31, 2017
-    phrase: CFP closes
+#  cfp:
+#    end:    2017-12-31   ## Dec 31, 2017
+#    phrase: CFP closes
 
 - name:       Rubyhack
   location:   Salt Lake City, Utah, United States
@@ -155,6 +161,7 @@
   month:      5
   url:        http://rubyhack.com
   twitter:    utrubyhack
+  tickets:    ($199/149 - Regular/Early)
   cfp:
     phrase: CFP open
 
@@ -166,7 +173,7 @@
   month:      5
   url:        http://rubyunconf.eu
   twitter:    rubyunconfeu
-  tickets:    (€65/45- Regular/Early)
+  tickets:    (€65/45 - Regular/Early)
   updated:    2018-01-28   ## note: used for feed.xml|json  
 
 
@@ -192,9 +199,10 @@
   month:      5
   url:        http://balkanruby.com
   twitter:    balkanruby
-  cfp:
-    end:    2018-02-14    ## Feb 14, 2018
-    phrase: CFP closes
+  tickets:    (€99/89 - Regular/Early) 
+#  cfp:
+#    end:    2018-02-14    ## Feb 14, 2018
+#    phrase: CFP closes
     
 
 - name:       RubyKaigi
@@ -205,9 +213,9 @@
   month:      5
   url:        http://rubykaigi.org/2018
   twitter:    rubykaigi
-  cfp:
-    end:    2018-02-28    ## Feb 28, 2018
-    phrase: CFP closes
+#  cfp:
+#    end:    2018-02-28    ## Feb 28, 2018
+#    phrase: CFP closes
   updated:    2018-01-31   ## note: used for feed.xml|json  
 
 
@@ -267,6 +275,7 @@
   month:      7
   url:        https://brightonruby.com
   twitter:    brightonruby
+  tickets:    (£139)
 
 - name:       RailsCamp West
   location:   Lake Tahoe, California, United States
@@ -276,6 +285,7 @@
   month:      8
   url:        http://west.railscamp.us
   twitter:    railscamp_usa
+  tickets:    ($450 - Early)
 
 
 - name:       European Ruby Conference (EuRuKo)
