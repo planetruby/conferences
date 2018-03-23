@@ -1,15 +1,19 @@
 #############################
-#  ruby 3x3 news bytes
+#  ruby 3×3 news bytes
 #
 #  published at the Planet Ruby
 #    see https://planetruby.github.io/calendar/ruby3x3
 
-- title:    "Ruby 3x3 @ Planet Ruby"
-  subtitle: "What's Ruby 3x3? What's Optcarrot?"
+- title:    "Ruby 3×3 @ Planet Ruby"
+  subtitle: "What's Ruby 3×3? What's Optcarrot?"
   url:       https://planetruby.github.io/calendar/ruby3x3
 
 ## note:
 ##  add new articles (reverese chronological order - latest first) starting here
+
+- title:    "Towards The Ruby 3×3 Performance Goal"
+  subtitle: "by Vladimir Makarov, Red Hat, March 2018
+  url:       https://developers.redhat.com/blog/2018/03/22/ruby-3x3-performance-goal/
 
 - title:   "Ruby 2.6 Preview 1: Timing JIT"
   subtitle: "by Noah Gibbs, Appfolio, March 2018"
@@ -43,7 +47,7 @@
   subtitle: "by Noah Gibbs, Appfolio, Dec 2017"
   url:       http://engineering.appfolio.com/appfolio-engineering/2017/12/26/ruby-3-and-jit-where-when-and-how-fast
 
-- title:    "How's Progress on Ruby 3x3?"
+- title:    "How's Progress on Ruby 3×3?"
   subtitle: "by Noah Gibbs, Appfolio, Dec 2017"
   url:       http://engineering.appfolio.com/appfolio-engineering/2017/12/4/hows-progress-on-ruby-3x3
 
@@ -51,11 +55,11 @@
   subtitle: "by Takashi Kokubun, Treasure Data, Nov 2017, Talk @ RubyConf 2017"
   url:       https://speakerdeck.com/k0kubun/just-in-time-compiler-for-mri
 
-- title:    "Towards Ruby 3x3 Performance - Introducing RTL and MJIT"
+- title:    "Towards Ruby 3×3 Performance - Introducing RTL and MJIT"
   subtitle: "by Vladimir Makarov, Red Hat, Sept 2017, Talk @ RubyKaigi 2017 on Register Transfer Language (RTL) and Method JIT (MJIT)"
   url:       http://rubykaigi.org/2017/presentations/vnmakarov.html
 
-- title:    "OptCarrot: An Excellent CPU Benchmark for Ruby 3x3"
+- title:    "OptCarrot: An Excellent CPU Benchmark for Ruby 3×3"
   subtitle: "by Noah Gibbs, Appfolio, Sept 2017"
   url:       http://engineering.appfolio.com/appfolio-engineering/2017/9/22/optcarrot-an-excellent-cpu-benchmark-for-ruby-3x3
 
@@ -63,10 +67,10 @@
   subtitle: "by Benoit Daloze, Oracle Labs @ Johannes Kepler University, Nov 2016"
   url:       https://eregon.me/blog/2016/11/28/optcarrot.html
 
-- title:    "Ruby 3x3: Q&A w/ Matz, Koichi, and Tenderlove"
+- title:    "Ruby 3×3: Q&A w/ Matz, Koichi, and Tenderlove"
   subtitle: "On the guild proposal, just-in-time (JIT) compilation the future of ruby performance by Jonan Scheffler, Heroku, Nov 2016"
   url:       https://blog.heroku.com/ruby-3-by-3
 
-- title:    "Latest #Ruby3x3 News Bytes"
-  subtitle: "Official Twitter Ruby 3x3 Hashtag"
+- title:    "Latest #Ruby3×3 News Bytes"
+  subtitle: "Official Twitter Ruby 3×3 Hashtag"
   url:       https://twitter.com/hashtag/Ruby3x3
