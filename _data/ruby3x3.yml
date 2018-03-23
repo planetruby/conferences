@@ -12,10 +12,10 @@
 ##  add new articles (reverese chronological order - latest first) starting here
 
 - title:    "Towards The Ruby 3×3 Performance Goal"
-  subtitle: "by Vladimir Makarov, Red Hat, March 2018
+  subtitle: "by Vladimir Makarov, Red Hat, March 2018"
   url:       https://developers.redhat.com/blog/2018/03/22/ruby-3x3-performance-goal/
 
-- title:   "Ruby 2.6 Preview 1: Timing JIT"
+- title:    "Ruby 2.6 Preview 1: Timing JIT"
   subtitle: "by Noah Gibbs, Appfolio, March 2018"
   url:      http://engineering.appfolio.com/appfolio-engineering/2018/3/6/ruby-26-preview-1-timing-jit
 
