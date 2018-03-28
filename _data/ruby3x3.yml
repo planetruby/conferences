@@ -10,8 +10,8 @@
   
 ### add benchmark driver to "main" page in text - why? why not?  
   
-- title:    "Experimental Ruby 3×3 Benchmark Result Viewer for Benchmark Driver"  
-  subtitle: "incl. Ruby Core, Ruby Method, MJIT, and Optcarrot Benchmarks"
+- title:    "Ruby 3×3 Benchmark Results for Benchmark Driver (Experimental)"  
+  subtitle: "incl. Ruby Core, Ruby Method, Method JIT (MJIT), and Optcarrot Benchmarks"
   url:       https://benchmark-driver.github.io
 
 ## note:
