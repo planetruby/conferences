@@ -7,6 +7,12 @@
 - title:    "Ruby 3×3 @ Planet Ruby"
   subtitle: "What's Ruby 3×3? What's Optcarrot?"
   url:       https://planetruby.github.io/calendar/ruby3x3
+  
+### add benchmark driver to "main" page in text - why? why not?  
+  
+- title:    "Experimental Ruby 3×3 Benchmark Result Viewer for Benchmark Driver"  
+  subtitle: "incl. Ruby Core, Ruby Method, MJIT, and Optcarrot Benchmarks"
+  url:       https://benchmark-driver.github.io
 
 ## note:
 ##  add new articles (reverese chronological order - latest first) starting here
