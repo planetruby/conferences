@@ -11,6 +11,10 @@
 ## note:
 ##  add new articles (reverese chronological order - latest first) starting here
 
+- title:    "Benchmark Driver Designed for Ruby 3×3"
+  subtitle: "by Takashi Kokubun, Treasure Data, March 2018" 
+  url:       https://medium.com/@k0kubun/benchmark-driver-designed-for-ruby-3x3-6a5eeb1d1494
+
 - title:    "Towards The Ruby 3×3 Performance Goal"
   subtitle: "by Vladimir Makarov, Red Hat, March 2018"
   url:       https://developers.redhat.com/blog/2018/03/22/ruby-3x3-performance-goal/
