@@ -240,6 +240,18 @@
   updated:   2018-02-15
 
 
+- name:      Gotham Ruby Conference (GoRuCo)
+  location:  Manhattan, New York City, New York, United States
+  start:     2018-06-16   ## June 16th, 2018
+  end:       2018-06-16
+  days:      1
+  month:     6
+  url:       http://goruco.com 
+  twitter:   goruco
+  tickets:   ($399/$299 - Regular/Early)
+  updated:   2018-03-29
+
+
 - name:       Paris.rb XXL
   location:   Paris, France
   start:      2018-06-28   ## June 28+29th, 2018
@@ -299,9 +311,8 @@
   tickets:    ($450 - Early)
 
 
-- name:       European Ruby Conference (EuRuKo)
+- name:       European Ruby Konference (EuRuKo)
   location:   Vienna, Austria
-  ## note:       Upcoming this summer
   start:      2018-08-24       ## 24th - 25th of August 2018
   end:        2018-08-25
   days:       2
