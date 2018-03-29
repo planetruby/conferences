@@ -277,6 +277,17 @@
   twitter:    brightonruby
   tickets:    (£139)
 
+- name:       Southeast Ruby
+  location:   Nashville, Tennessee, United States
+  start:      2018-08-02   # August 2-3, 2018
+  end:        2018-08-03
+  days:       2
+  month:      8
+  url:        https://southeastruby.com
+  twitter:    southeastruby
+  updated:    2018-03-29
+
+
 - name:       RailsCamp West
   location:   Lake Tahoe, California, United States
   start:      2018-08-18    ##  Aug 18-21, 2018
