@@ -299,6 +299,16 @@
   twitter:    southeastruby
   updated:    2018-03-29
 
+- name:      Deccan RubyConf
+  location:  Pune, Maharashtra, India
+  start:     2018-08-04    ## 4th Aug. 2018
+  end:       2018-08-04
+  days:      1
+  month:     8
+  url:       https://deccanrubyconf.org
+  twitter:   deccanrubyconf
+  updated:   2018-03-29
+
 
 - name:       RailsCamp West
   location:   Lake Tahoe, California, United States
