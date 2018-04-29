@@ -18,7 +18,7 @@
 ##  add new articles (reverese chronological order - latest first) starting here
 
 - title:    "Slides - Method JIT (Just-In-Time) Compiler for MRI (Matz's Ruby Interpreter) - Optimizations in Ruby 2.6 Preview 1, 2"
-  subtitle: "by Takashi Kokubun, Treasure Data, April 2018, Talk @ RubyElixirConf Taiwany"
+  subtitle: "by Takashi Kokubun, Treasure Data, April 2018, Talk @ RubyElixirConf Taiwan"
   url:       https://speakerdeck.com/k0kubun/method-jit-compiler-for-mri
 
 - title:    "Benchmark Driver Designed for Ruby 3×3"
