@@ -17,6 +17,10 @@
 ## note:
 ##  add new articles (reverese chronological order - latest first) starting here
 
+- title:    "Slides (PDF) - The State of / All About Guilds - A Proposal of New Concurrency Model for Ruby 3"
+  subtitle: "by Koichi Sasada, Cookpad, April 2018, Talk @ RubyElixirConf Taiwan"
+  url:      http://www.atdot.net/~ko1/activities/2018_RubyElixirConfTaiwan.pdf 
+
 - title:    "Slides - Method JIT (Just-In-Time) Compiler for MRI (Matz's Ruby Interpreter) - Optimizations in Ruby 2.6 Preview 1, 2"
   subtitle: "by Takashi Kokubun, Treasure Data, April 2018, Talk @ RubyElixirConf Taiwan"
   url:       https://speakerdeck.com/k0kubun/method-jit-compiler-for-mri
