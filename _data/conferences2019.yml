@@ -1,0 +1,85 @@
+#############################
+#  ruby event news in 2019
+#
+#  published at the Calendar @ Planet Ruby
+#    see https://planetruby.github.io/calendar/2019
+
+
+- name:      RubyConf India
+  location:  Goa, India
+  start:     2019-01-20    # January 20-21, 2019
+  end:       2019-01-21
+  days:      2
+  month:     1
+  url:       http://rubyconfindia.org
+  twitter:   rubyconfindia
+  
+
+- name:      RubyConf Australia
+  location:  Melbourne, Australia
+  start:     2019-02-07   # February 7-9, 2019
+  end:       2019-02-09
+  days:      3
+  month:     2
+  url:       https://rubyconf.org.au/2019
+  twitter:   rubyconf_au
+
+
+- name:      Ruby on Ice
+  location:  Tegernsee, Germany
+  start:     2019-02-22    # February 22-24, 2019
+  end:       2019-02-24
+  days:      3
+  month:     2
+  url:       https://rubyonice.com
+  twitter:   rubyoniceconf
+
+
+- name:      RubyKaigi
+  location:  Fukuoka, Japan
+  start:     2019-04-18   # April 18-20, 2019
+  end:       2019-04-20
+  days:      3
+  month:     4
+  url:       https://rubykaigi.org/2019
+  twitter:   rubykaigi
+
+
+- name:      RailsConf
+  location:  Minneapolis, Minnesota, United States
+  start:     2019-04-30  # April 30-May 2nd, 2019"
+  end:       2019-05-02
+  days:      3
+  month:     4
+  url:       https://railsconf.com
+  twitter:   railsconf
+
+
+- name:     European Ruby Konference (EuRuKo)
+  location: Rotterdam, the Netherlands
+  start:    2019-06-21      # June 21-22, 2019
+  end:      2019-06-22
+  days:     2
+  month:    6
+  url:      http://euruko.org
+  twitter:  euruko
+
+
+- name:      Brighton Ruby
+  location:  Brighton, England, United Kingdom
+  start:     2019-07-05   # July 5th, 2019
+  end:       2019-07-05
+  days:      1
+  month:     7
+  url:       https://brightonruby.com
+  twitter:   brightonruby
+
+
+- name:      Southeast Ruby
+  location:  Nashville, Tennessee, United States
+  start:     2019-08-01  # August 1-2, 2019
+  end:       2019-08-02
+  days:      2
+  montH.     8
+  url:       https://southeastruby.com
+  twitter:   southeastruby
