@@ -240,6 +240,8 @@
   updated:   2018-02-15
 
 
+
+
 - name:      Gotham Ruby Conference (GoRuCo)
   location:  Manhattan, New York City, New York, United States
   start:     2018-06-16   ## June 16th, 2018
@@ -252,6 +254,16 @@
   updated:   2018-03-29
 
 
+- name:      RubyNation 2018
+  location:  Arlington, Virginia, United States
+  start:     2018-06-22   # June 22, 2018
+  end:       2018-06-22
+  days:      1
+  month:     6
+  url:       http://rubynation.org
+  twitter:   rubynation
+
+
 - name:       Paris.rb XXL
   location:   Paris, France
   start:      2018-06-28   ## June 28+29th, 2018
@@ -260,8 +272,8 @@
   month:      6
   url:        http://2018.rubyparis.org
   twitter:    parisrb
-  cfp:
-    phrase: CFP open
+#  cfp:
+#    phrase: CFP open
 
 
 - name:       RubyConf Kenya
@@ -273,9 +285,9 @@
   month:      6
   url:        http://rubyconf.nairuby.org/2018
   twitter:    nairubyke
-  cfp:
-    end:    2018-04-02    ## April 2, 2018
-    phrase: CFP closes
+  # cfp:
+  #  end:    2018-04-02    ## April 2, 2018
+  #  phrase: CFP closes
 
 
 
@@ -310,6 +322,16 @@
   updated:   2018-03-29
 
 
+- name:       GrillRB
+  location:   Wrocław, Poland
+  start:      2018-08-11  # August 11-12, 2018
+  end:        2018-08-12
+  days:       2
+  month:      8
+  url:        http://grillrb.com
+  twitter:    grill_rb
+
+
 - name:       RailsCamp West
   location:   Lake Tahoe, California, United States
   start:      2018-08-18    ##  Aug 18-21, 2018
@@ -330,6 +352,38 @@
   url:        http://euruko.org
   twitter:    euruko
   updated:    2018-02-07
+
+
+- name:       Ruby Russia
+  location:   Moscow, Russia
+  start:      2018-10-06    # October 6, 2018
+  end:        2018-10-06
+  days:       1
+  month:      10
+  url:        https://rubyrussia.club/en
+  twitter:    railsclub_ru
+  updated:    2018-09-26
+
+
+- name:        RubyConf Malaysia
+  location:    Kuala Lumpur, Malaysia
+  start:       2018-10-25    # October 25-26th, 2018
+  end:         2018-10-26
+  days:        2
+  month:       10
+  url:         http://rubyconf.my
+  twitter:     rubyconfmy
+  updated:     2018-09-26
+
+- name:        Keep Ruby Weird
+  location:    Austin, Texas, United States
+  start:       2018-11-09   # November 9, 2018
+  end:         2018-11-09
+  days:        1
+  month:       11
+  url:         https://2018.keeprubyweird.com
+  twitter:     keeprubyweird
+  updated:     2018-09-26
 
 
 - name:       RubyConf
