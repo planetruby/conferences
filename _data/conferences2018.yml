@@ -111,9 +111,9 @@
 #  cfp:
 #    end:    2018-02-04    ## Feb 4, 2018
 #    phrase: CFP closes
-  reg:   
-    start:  2018-01-25    ## Jan 25, 2018
-    phrase: Registration open
+#  reg:   
+#    start:  2018-01-25    ## Jan 25, 2018
+#    phrase: Registration open
 
 
 - name:       RailsConf
@@ -162,8 +162,8 @@
   url:        http://rubyhack.com
   twitter:    utrubyhack
   tickets:    ($199/149 - Regular/Early)
-  cfp:
-    phrase: CFP open
+#  cfp:
+#    phrase: CFP open
 
 - name:       Ruby Unconf Hamburg
   location:   Hamburg, Germany
@@ -186,8 +186,8 @@
   url:        http://www.rossconf.io/event/amsterdam    ## http://rossconfams.eventbrite.co.uk
   twitter:    rossconf
   tickets:    (FREE)
-  reg:
-    phrase: Registration is open
+#  reg:
+#    phrase: Registration is open
   updated:    2018-03-14    ## note: used for feed.xml|json
 
 
@@ -322,7 +322,7 @@
   updated:   2018-03-29
 
 
-- name:       GrillRB
+- name:       Grill.rb
   location:   Wrocław, Poland
   start:      2018-08-11  # August 11-12, 2018
   end:        2018-08-12
