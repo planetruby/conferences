@@ -354,6 +354,18 @@
   updated:    2018-02-07
 
 
+- name:       London Ruby Unconference
+  location:   London, England, United Kingdom
+  start:      2018-10-06
+  end:        2018-10-06
+  days:       1
+  month:      10
+  url:        https://www.eventbrite.com/e/london-ruby-community-unconference-2018-tickets-47275277628
+  twitter:    RubyUnConf
+  tickets:    (FREE)
+  updated:    2018-10-01
+
+
 - name:       Ruby Russia
   location:   Moscow, Russia
   start:      2018-10-06    # October 6, 2018
