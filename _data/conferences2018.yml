@@ -290,7 +290,6 @@
   #  phrase: CFP closes
 
 
-
 - name:       Brighton Ruby
   location:   Brighton, East Sussex, England, United Kingdom
   start:      2018-07-06   ## July 6th, 2018
@@ -300,6 +299,17 @@
   url:        https://brightonruby.com
   twitter:    brightonruby
   tickets:    (£139)
+
+
+- name:       Osaka RubyKaigi
+  location:   Osaka, Japan
+  start:      2018-07-21     # July 21, 2018 (Sat)
+  end:        2018-07-21
+  days:       1
+  month:      7
+  url:        http://regional.rubykaigi.org/osaka01/
+  twitter:    rubykansai
+
 
 - name:       Southeast Ruby
   location:   Nashville, Tennessee, United States
