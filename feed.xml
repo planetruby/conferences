@@ -1,6 +1,7 @@
 ---
-layout: feed.xml
-title:  Ruby Conferences 'n' Camps
-year:   2018
-link:   /2018
+layout:      feed.xml
+title:       Ruby Conferences 'n' Camps
+year:        2019
+link:        /2019
+conferences: conferences2019
 ---
