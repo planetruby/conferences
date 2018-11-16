@@ -117,6 +117,16 @@
   twitter:   southeastruby
 
 
+- name:       Kyiv RubyC
+  location:   Kyiv, Ukraine
+  start:      2019-09-14
+  end:        2019-09-15
+  days:       2
+  month:      9
+  url:        http://rubyc.eu
+  twitter:    rubyc_eu
+
+
 - name:       RubyConf
   location:   Nashville, Tennessee, United States
   start:      2019-11-18
