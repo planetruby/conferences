@@ -43,6 +43,7 @@
   month:     2
   url:       https://rubyonice.com
   twitter:   rubyoniceconf
+  updated:   2018-11-16    ## note: used for feed.xml|json
 
 - name:       Rubyhack
   location:   Salt Lake City, Utah, United States
@@ -93,6 +94,7 @@
   month:    6
   url:      http://euruko.org
   twitter:  euruko
+  updated:  2018-11-16    ## note: used for feed.xml|json
 
 
 - name:      Brighton Ruby
@@ -123,3 +125,5 @@
   month:      11
   url:        https://rubyconf.org
   twitter:    rubyconf
+  updated:    2018-11-16    ## note: used for feed.xml|json
+
