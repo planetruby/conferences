@@ -56,6 +56,16 @@
 ## tickets:    ($199/149 - Regular/Early)
 
 
+- name:       Ruby Wine
+  location:   Chișinău, Moldova
+  start:      2019-04-13
+  end:        2019-04-13
+  days:       1
+  month:      4
+  url:        https://www.facebook.com/events/551051368675115/
+  ## twitter:    RubyMeditation
+
+
 - name:      RubyKaigi
   location:  Fukuoka, Japan
   start:     2019-04-18   # April 18-20, 2019
