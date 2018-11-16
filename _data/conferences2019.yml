@@ -25,6 +25,16 @@
   twitter:   rubyconf_au
 
 
+- name:       Rubyfuza
+  location:   Cape Town, South Africa
+  start:      2019-02-07   
+  end:        2019-02-08
+  days:       2
+  month:      2
+  url:        http://www.rubyfuza.org
+  twitter:    rubyfuza
+
+
 - name:      Ruby on Ice
   location:  Tegernsee, Germany
   start:     2019-02-22    # February 22-24, 2019
