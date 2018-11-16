@@ -113,3 +113,13 @@
   month:     8
   url:       https://southeastruby.com
   twitter:   southeastruby
+
+
+- name:       RubyConf
+  location:   Nashville, Tennessee, United States
+  start:      2019-11-18
+  end:        2019-11-20
+  days:       3
+  month:      11
+  url:        https://rubyconf.org
+  twitter:    rubyconf
