@@ -13,6 +13,7 @@
   month:     1
   url:       http://rubyconfindia.org
   twitter:   rubyconfindia
+  updated:   2018-11-17    ## note: used for feed.xml|json
   
 
 - name:      RubyConf Australia
@@ -75,6 +76,16 @@
   url:       https://rubykaigi.org/2019
   twitter:   rubykaigi
 
+
+- name:     Rails Camp South
+  location: Bandera, Texas, United States
+  start:    2019-04-05    # April 5-8, 2019
+  end:      2019-04-08
+  days:     4
+  month:    4
+  url:      https://us-south.rails.camp
+  twitter:  railscampsouth
+  
 
 - name:      RailsConf
   location:  Minneapolis, Minnesota, United States
