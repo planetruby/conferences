@@ -77,7 +77,7 @@
   twitter:   rubykaigi
 
 
-- name:     Rails Camp South
+- name:     Rails Camp United States South
   location: Bandera, Texas, United States
   start:    2019-04-05    # April 5-8, 2019
   end:      2019-04-08
@@ -87,7 +87,7 @@
   twitter:  railscampsouth
   
 
-- name:      RailsConf
+- name:      RailsConf United States
   location:  Minneapolis, Minnesota, United States
   start:     2019-04-30  # April 30-May 2nd, 2019"
   end:       2019-05-02
@@ -128,7 +128,7 @@
   twitter:   brightonruby
 
 
-- name:      Southeast Ruby
+- name:      United States Southeast Ruby
   location:  Nashville, Tennessee, United States
   start:     2019-08-01  # August 1-2, 2019
   end:       2019-08-02
@@ -136,6 +136,15 @@
   month:     8
   url:       https://southeastruby.com
   twitter:   southeastruby
+
+
+- name:      RubyConf Thailand
+  location:  Bangkok, Thailand
+  start:     2019-09-06     # September 6-7, 2019
+  end:       2019-09-07
+  days:      2
+  month:     9
+  url:       https://www.meetup.com/bangkok-rb
 
 
 - name:       Kyiv RubyC
@@ -148,7 +157,7 @@
   twitter:    rubyc_eu
 
 
-- name:       RubyConf
+- name:       RubyConf United States
   location:   Nashville, Tennessee, United States
   start:      2019-11-18
   end:        2019-11-20
