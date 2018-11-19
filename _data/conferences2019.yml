@@ -24,6 +24,7 @@
   month:     2
   url:       https://rubyconf.org.au/2019
   twitter:   rubyconf_au
+  updated:   2018-11-19    ## note: used for feed.xml|json
 
 
 - name:       Rubyfuza
