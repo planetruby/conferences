@@ -39,10 +39,6 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 {% include_relative COMMANDLINE.md %}
 
 
-## Thanks
-
-Jon de Andrés • Bruno Azevedo • Lailson Bandeira • Anna Banaszek • Joshua Burke • Alan Da Costa • Glauco Custódio • Mathieu Gagné • Florian Gilcher • Joe Grossberg • Filipe Goncalves • Jingwen • Istvan Hoka • Ash Kamel • Kamil Lelonek • Alex Lemanski • Ivan Lučev • Akira Matsuda • Chris Mitchell • Edward Ocampo-Gooding • Alexey Poimtsev • Tomasz Radziejewski • Sunny Ripert • Peter Scholz • Victor Shepelev • Rebecca Skinner • Ben Turner • Jan Vlnas • Bartlomiej Weber • Tobias Pfeiffer • Cecile Veneziani • Daniel Zanzini • Mario Zigliotto
-
 
 ## License
 
