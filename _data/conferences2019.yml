@@ -35,6 +35,7 @@
   month:      2
   url:        http://www.rubyfuza.org
   twitter:    rubyfuza
+  updated:   2018-11-21    ## note: used for feed.xml|json
 
 
 - name:      Ruby on Ice
@@ -46,6 +47,8 @@
   url:       https://rubyonice.com
   twitter:   rubyoniceconf
   updated:   2018-11-16    ## note: used for feed.xml|json
+
+
 
 - name:       Rubyhack
   location:   Salt Lake City, Utah, United States
@@ -96,6 +99,8 @@
   month:     4
   url:       https://railsconf.com
   twitter:   railsconf
+
+
 
 - name:       Ruby Unconf Hamburg
   location:   Hamburg, Germany
