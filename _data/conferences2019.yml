@@ -111,8 +111,18 @@
   url:        http://rubyunconf.eu
   twitter:    rubyunconfeu
   ## tickets:    (€65/45 - Regular/Early)
-  
 
+
+
+- name:      Saint P Rubyconf
+  location:  Saint Petersburg, Russia
+  start:     2019-06-01     # June 1-2, 2019
+  end:       2019-06-02
+  days:      2
+  month:     6 
+  url:       https://spbrubyconf.ru
+  twitter:   saintprug
+  
 - name:     European Ruby Konference (EuRuKo)
   location: Rotterdam, South Holland, Netherlands
   start:    2019-06-21      # June 21-22, 2019
