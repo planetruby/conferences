@@ -69,6 +69,7 @@
   month:      4
   url:        https://www.facebook.com/events/551051368675115/
   ## twitter:    RubyMeditation
+  updated:    2018-11-29    ## note: used for feed.xml|json
 
 
 - name:      RubyKaigi
