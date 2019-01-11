@@ -49,6 +49,16 @@
   updated:   2018-11-16    ## note: used for feed.xml|json
 
 
+- name:      wroclove.rb
+  location:  Wrocław, Poland
+  start:     2019-03-22   # March 22-24, 2019
+  end:       2019-03-24
+  days:      3
+  month:     3
+  url:       https://wrocloverb.com
+  twitter:   wrocloverb
+  updated:   2019-01-11     ## note: used for feed.xml|json
+ 
 
 - name:       Rubyhack
   location:   Salt Lake City, Utah, United States
@@ -101,6 +111,16 @@
   url:       https://railsconf.com
   twitter:   railsconf
 
+
+- name:      Balkan Ruby
+  location:  Sofia, Bulgaria
+  start:     2019-05-17   # May 17-18, 2019
+  end:       2019-05-18
+  days:      2
+  month:     5
+  url:       https://balkanruby.com
+  twitter:   balkanruby
+  updated:   2019-01-11     ## note: used for feed.xml|json
 
 
 - name:       Ruby Unconf Hamburg
@@ -161,7 +181,8 @@
   end:       2019-09-07
   days:      2
   month:     9
-  url:       https://www.meetup.com/bangkok-rb
+  url:       https://rubyconfth.com
+  twitter:   rubyconfth
 
 
 - name:       Kyiv RubyC
