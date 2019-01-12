@@ -82,6 +82,16 @@
 ## tickets:    ($199/149 - Regular/Early)
 
 
+- name:       RubyConf Belarus 
+  location:   Minsk, Belarus
+  start:      2019-04-06    # April 6, 2019
+  end:        2019-04-06
+  days:       1
+  month:      4
+  url:        https://rubyconference.by
+  twitter:    rubyconfby
+
+
 - name:       Ruby Wine
   location:   Chișinău, Moldova
   start:      2019-04-13
