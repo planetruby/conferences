@@ -58,7 +58,18 @@
   url:       https://wrocloverb.com
   twitter:   wrocloverb
   updated:   2019-01-11     ## note: used for feed.xml|json
- 
+
+
+- name:      Ruby by the Bay (Ruby for Good, West Coast Edition)
+  location:  Marin Headlands (near San Francisco), California, United States
+  start:     2019-03-29   # March 29 - April 1
+  end:       2019-04-01
+  days:      4
+  month:     3
+  url:       https://rubybythebay.org
+  twitter:   rubyforgood
+  updated:   2019-01-12     ## note: used for feed.xml|json
+
 
 - name:       Rubyhack
   location:   Salt Lake City, Utah, United States
@@ -100,7 +111,7 @@
   month:    4
   url:      https://us-south.rails.camp
   twitter:  railscampsouth
-  
+
 
 - name:      RailsConf (United States)
   location:  Minneapolis, Minnesota, United States
