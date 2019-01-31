@@ -71,6 +71,16 @@
   updated:   2019-01-12     ## note: used for feed.xml|json
 
 
+- name:     Rails Camp (United States) South
+  location: Bandera, Texas, United States
+  start:    2019-04-05    # April 5-8, 2019
+  end:      2019-04-08
+  days:     4
+  month:    4
+  url:      https://us-south.rails.camp
+  twitter:  railscampsouth
+
+
 - name:       Rubyhack
   location:   Salt Lake City, Utah, United States
   start:      2019-04-04
@@ -92,6 +102,17 @@
   twitter:    rubyconfby
 
 
+- name:       RubyDay Italy
+  location:   Verona, Veneto, Italy
+  start:      2019-04-10    # April 10-11, 2019 - note: first day is workshops, second day is conference
+  end:        2019-04-11
+  days:       2
+  month:      4
+  url:        https://2019.rubyday.it
+  twitter:    rubydayit
+  updated:    2019-01-31     ## note: used for feed.xml|json
+
+
 - name:       Ruby Wine
   location:   Chișinău, Moldova
   start:      2019-04-13
@@ -111,16 +132,6 @@
   month:     4
   url:       https://rubykaigi.org/2019
   twitter:   rubykaigi
-
-
-- name:     Rails Camp (United States) South
-  location: Bandera, Texas, United States
-  start:    2019-04-05    # April 5-8, 2019
-  end:      2019-04-08
-  days:     4
-  month:    4
-  url:      https://us-south.rails.camp
-  twitter:  railscampsouth
 
 
 - name:      RailsConf (United States)
