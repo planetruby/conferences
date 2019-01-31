@@ -71,16 +71,6 @@
   updated:   2019-01-12     ## note: used for feed.xml|json
 
 
-- name:     Rails Camp (United States) South
-  location: Bandera, Texas, United States
-  start:    2019-04-05    # April 5-8, 2019
-  end:      2019-04-08
-  days:     4
-  month:    4
-  url:      https://us-south.rails.camp
-  twitter:  railscampsouth
-
-
 - name:       Rubyhack
   location:   Salt Lake City, Utah, United States
   start:      2019-04-04
@@ -90,6 +80,17 @@
   url:        http://rubyhack.com
   twitter:    utrubyhack
 ## tickets:    ($199/149 - Regular/Early)
+  updated:    2019-01-31     ## note: used for feed.xml|json
+
+
+- name:       Rails Camp (United States) South
+  location:   Bandera, Texas, United States
+  start:      2019-04-05    # April 5-8, 2019
+  end:        2019-04-08
+  days:       4
+  month:      4
+  url:        https://us-south.rails.camp
+  twitter:    railscampsouth
 
 
 - name:       RubyConf Belarus 
