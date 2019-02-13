@@ -198,6 +198,16 @@
   twitter:   brightonruby
 
 
+- name:      RubyConf Kenya 2019
+  location:  iHub, Nairobi, Kenya
+  start:     2019-07-25
+  end:       2019-07-27
+  days:      3
+  month:     7
+  url:       http://rubyconf.nairuby.org/2019
+  twitter:   nairubyke
+  
+  
 - name:      (United States) Southeast Ruby
   location:  Nashville, Tennessee, United States
   start:     2019-08-01  # August 1-2, 2019
