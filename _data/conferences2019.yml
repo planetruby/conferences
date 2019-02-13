@@ -198,14 +198,15 @@
   twitter:   brightonruby
 
 
-- name:      RubyConf Kenya 2019
-  location:  iHub, Nairobi, Kenya
+- name:      RubyConf Kenya
+  location:  Nairobi, Kenya
   start:     2019-07-25
   end:       2019-07-27
   days:      3
   month:     7
   url:       http://rubyconf.nairuby.org/2019
   twitter:   nairubyke
+  updated:   2019-02-13    ## note: used for feed.xml|json
   
   
 - name:      (United States) Southeast Ruby
