@@ -198,6 +198,17 @@
   twitter:   brightonruby
 
 
+- name:      RubyConf Taiwan
+  location:  Taipei, Taiwan
+  start:     2019-07-26      # July 26-27, 2019
+  end:       2019-07-27
+  days:      2
+  month:     7
+  url:       https://2019.rubyconf.tw
+  twitter:   rubyconftw
+  updated:   2019-03-06      ## note: used for feed.xml|json
+  
+
 - name:      RubyConf Kenya
   location:  Nairobi, Kenya
   start:     2019-07-25
