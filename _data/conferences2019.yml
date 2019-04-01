@@ -230,6 +230,20 @@
   twitter:   southeastruby
 
 
+- name:     Deccan RubyConf
+  location: Pune, Maharashtra, India
+  start:    2019-08-03   # August 3, 2019
+  end:      2019-08-03
+  days:     1
+  month:    8
+  url:      https://www.deccanrubyconf.org
+  twitter:  deccanrubyconf
+  updated:  2019-04-01      ## note: used for feed.xml|json
+  # cfp_phrase: "CFP closes"
+  # cfp_date: "May 31, 2019"
+
+
+
 - name:      RubyConf Thailand
   location:  Bangkok, Thailand
   start:     2019-09-06     # September 6-7, 2019
@@ -248,6 +262,17 @@
   month:      9
   url:        http://rubyc.eu
   twitter:    rubyc_eu
+
+
+- name:     RubyConf Colombia
+  location: Medellín, Colombia
+  start:    2019-09-20   # September 20-21, 2019
+  end:      2019-09-21
+  days:     2
+  month:    9
+  url:      https://rubyconf.co
+  twitter:  rubyconfco
+  updated:  2019-04-01      ## note: used for feed.xml|json
 
 
 - name:       RubyConf (United States)
