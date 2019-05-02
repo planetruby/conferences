@@ -244,8 +244,8 @@
 
 - name:     Deccan RubyConf
   location: Pune, Maharashtra, India
-  start:    2019-08-03   # August 3, 2019
-  end:      2019-08-03
+  start:    2019-08-10   # August 10
+  end:      2019-08-10
   days:     1
   month:    8
   url:      https://www.deccanrubyconf.org
