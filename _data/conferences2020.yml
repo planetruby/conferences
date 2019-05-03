@@ -1,0 +1,15 @@
+#############################
+#  ruby event news in 2020
+
+ 
+# RailsConf 2020 will be in Portland, OR from May 5-7
+
+- name:      RailsConf (United States)
+  location:  Portland, Oregon, United States
+  start:     2020-05-05
+  end:       2020-05-07
+  days:      3
+  month:     5
+  url:       https://railsconf.com
+  twitter:   railsconf
+ 
