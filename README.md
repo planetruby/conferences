@@ -7,8 +7,9 @@ Note, this is the source code version, see the live web pages @ [`planetruby.git
 
 # Calendar @ Planet Ruby
 
-_2019, 2018_
+_2020, 2019, 2018_
 
+- [**Ruby Conferences & Camps in 2020 - What's Upcoming?**](2020.md)
 - [**Ruby Conferences & Camps in 2019 - What's Upcoming?**](2019.md)
 - [**Ruby Conferences & Camps in 2018 - What's Upcoming?**](2018.md)
 
