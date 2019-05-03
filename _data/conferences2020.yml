@@ -1,9 +1,19 @@
 #############################
 #  ruby event news in 2020
 
+
+# RubyKaigi 2020: April 9th - 11th, 2020 @ Matsumoto, Nagano, Japan https://rubykaigi.org/2020 
+- name:      RubyKaigi
+  location:  Matsumoto, Nagano, Japan
+  start:     2020-04-09
+  end:       2020-04-11
+  days:      3
+  month:     4
+  url:       https://rubykaigi.org/2020
+  twitter:   rubykaigi
+
  
 # RailsConf 2020 will be in Portland, OR from May 5-7
-
 - name:      RailsConf (United States)
   location:  Portland, Oregon, United States
   start:     2020-05-05
