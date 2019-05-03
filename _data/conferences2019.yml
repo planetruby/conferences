@@ -165,6 +165,16 @@
   twitter:   balkanruby
   updated:   2019-01-11     ## note: used for feed.xml|json
 
+- name:     Pivorak Conf 
+  location: Lviv, Ukraine 
+  start:    2019-05-24  # May 24th, 2019
+  end:      2019-05-24
+  days:     1
+  month:    5
+  url:      https://pivorak.com 
+  twitter:  pivorakmeetup 
+  updated:  2019-05-03      ## note: used for feed.xml|json
+
 
 - name:       Ruby Unconf Hamburg
   location:   Hamburg, Germany
