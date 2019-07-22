@@ -297,6 +297,28 @@
   updated:  2019-04-01      ## note: used for feed.xml|json
 
 
+- name:     RubyConf Indonesia
+  location: Jakarta, Indonesia
+  start:    2019-09-29   #  September 29, 2019
+  end:      2019-09-29
+  days:     1
+  month:    9
+  url:      https://ruby.id/conf/2019
+  twitter:  rubyconfid
+  updated:  2019-07-22      ## note: used for feed.xml|json
+
+
+- name:     Ancient City Ruby
+  location: Jacksonville Beach, Florida, United States 
+  start:    2019-10-03    # dates: "October 3-4, 2019"
+  end:      2019-10-04
+  days:     2
+  month:    10
+  url:      http://ancientcityruby.com
+  twitter:  ancientcityruby
+  updated:  2019-07-22      ## note: used for feed.xml|json
+
+
 - name:       RubyConf (United States)
   location:   Nashville, Tennessee, United States
   start:      2019-11-18
