@@ -318,6 +318,16 @@
   twitter:  ancientcityruby
   updated:  2019-07-22      ## note: used for feed.xml|json
 
+- name:     Kiwi Ruby
+  location: Wellington, New Zealand 
+  start:    2019-11-01    # dates: 1st of November 2019
+  end:      2019-11-01
+  days:     1
+  month:    11
+  url:      https://kiwi.ruby.nz
+  twitter:  kiwirubyconf
+  updated:  2019-07-24      ## note: used for feed.xml|json
+
 
 - name:       RubyConf (United States)
   location:   Nashville, Tennessee, United States
