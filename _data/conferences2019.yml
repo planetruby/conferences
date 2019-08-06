@@ -328,6 +328,15 @@
   twitter:  kiwirubyconf
   updated:  2019-07-24      ## note: used for feed.xml|json
 
+- name:     RubyWorld Conference
+  location: Matsue, Japan
+  start:    2019-11-07      # dates: "November 7-8, 2019"
+  end:      2019-11-08
+  days:     2
+  month:    11
+  url:      https://2019.rubyworld-conf.org/en/
+  twitter:  rubyworldconf
+  updated:  2019-08-06      ## note: used for feed.xml|json
 
 - name:       RubyConf (United States)
   location:   Nashville, Tennessee, United States
