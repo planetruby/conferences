@@ -1,6 +1,24 @@
 #############################
 #  ruby event news in 2020
 
+- name:     Rubyfuza
+  location: Cape Town, South Africa
+  start:    2020-02-06    # February 6-8, 2020
+  end:      2020-02-08
+  days:     3
+  month:    2
+  url:      http://www.rubyfuza.org
+  twitter:  rubyfuza
+
+- name:      ParisRB Conf
+  location:  Paris, France
+  start:     2020-02-18     # February 18-19, 2020
+  end:       2020-02-19
+  days:      2
+  month:     2
+  url:       https://2020.rubyparis.org
+  twitter:   parisrb
+
 
 # RubyKaigi 2020: April 9th - 11th, 2020 @ Matsumoto, Nagano, Japan https://rubykaigi.org/2020 
 - name:      RubyKaigi
@@ -11,7 +29,6 @@
   month:     4
   url:       https://rubykaigi.org/2020
   twitter:   rubykaigi
-
  
 # RailsConf 2020 will be in Portland, OR from May 5-7
 - name:      RailsConf (United States)
