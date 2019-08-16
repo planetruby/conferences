@@ -296,6 +296,15 @@
   twitter:  rubyconfco
   updated:  2019-04-01      ## note: used for feed.xml|json
 
+- name:      RubyRussia
+  location:  Moscow, Russia
+  start:     2019-09-28  
+  end:       2019-09-28
+  days:      1
+  month:     9
+  url:       https://rubyrussia.club/en
+  twitter:   railsclub_ru
+  updated:   2019-08-16   ## note: used for feed.xml|json
 
 - name:     RubyConf Indonesia
   location: Jakarta, Indonesia
