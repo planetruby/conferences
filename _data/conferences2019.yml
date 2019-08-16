@@ -348,3 +348,12 @@
   twitter:    rubyconf
   updated:    2018-11-16    ## note: used for feed.xml|json
 
+
+- name:       Ruby Open Source Software (ROSS) Conf Amsterdam
+  location:   Amsterdam, Netherlands
+  start:      2019-12-13   # December 13-14
+  end:        2019-12-14
+  days:       2
+  month:      12
+  twitter:    ROSSConf
+  updated:    2019-08-16    ## note: used for feed.xml|json
