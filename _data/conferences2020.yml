@@ -40,3 +40,11 @@
   url:       https://railsconf.com
   twitter:   railsconf
  
+- name:      European Ruby Konference (EuRuKo)
+  location:  Helsinki, Finnland
+  start:     2020-08-21      # 21–22.8.2020
+  end:       2020-08-22
+  days:      2
+  month:     8
+  url:       https://euruko2020.org
+  twitter:   euruko
