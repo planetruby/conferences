@@ -358,6 +358,17 @@
   updated:    2018-11-16    ## note: used for feed.xml|json
 
 
+- name:     RubyConf Brazil
+  location: São Paulo, Brazil
+  start:    2019-11-28
+  end:      2019-11-29
+  days:     2
+  month:    11
+  url:      https://callforpapers.locaweb.com.br/events/rubyconf-2019
+  twitter:  rubyconfbr
+  updated:  2019-09-09    ## note: used for feed.xml|json
+
+
 - name:       Ruby Open Source Software (ROSS) Conf Amsterdam
   location:   Amsterdam, Netherlands
   start:      2019-12-13   # December 13-14
