@@ -9,6 +9,7 @@
   month:    2
   url:      http://www.rubyfuza.org
   twitter:  rubyfuza
+  updated:  2019-12-03   ## note: used for feed.xml|json
 
 - name:      ParisRB Conf
   location:  Paris, France
@@ -18,6 +19,7 @@
   month:     2
   url:       https://2020.rubyparis.org
   twitter:   parisrb
+  updated:  2019-12-03   ## note: used for feed.xml|json
 
 - name: RubyConf Australia
   location: Melbourne, Victoria, Australia
@@ -27,6 +29,8 @@
   month: 2
   url:     https://www.rubyconf.org.au/2020
   twitter: rubyconf_au
+  updated:  2019-12-03   ## note: used for feed.xml|json
+
 
 - name: RubyDay Italy
   location: Verona, Veneto, Italy
