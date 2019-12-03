@@ -32,6 +32,16 @@
   updated:  2019-12-03   ## note: used for feed.xml|json
 
 
+- name:      Wrocław <3 Ruby (wroclove.rb)
+  location:  Wrocław, Poland
+  start:     2020-03-20   # 20-22th March, 2020
+  end:       2020-03-22
+  days:      3
+  month:     3
+  url:       https://wrocloverb.com
+  twitter:   wrocloverb
+
+
 - name: RubyDay Italy
   location: Verona, Veneto, Italy
   start: 2020-04-02
@@ -50,6 +60,15 @@
   month:     4
   url:       https://rubykaigi.org/2020
   twitter:   rubykaigi
+
+- name:      RubyConf India
+  location:  Goa, India
+  start:     2020-04-25    # April 25-26 2020
+  end:       2020-04-26
+  days:      2
+  month:     4
+  url:       http://rubyconfindia.org
+  twitter:   rubyconfindia
 
 
 # RailsConf 2020 will be in Portland, OR from May 5-7
@@ -71,6 +90,17 @@
   url:     https://balkanruby.com
   twitter: balkanruby
 
+
+- name:       Ruby Unconf Hamburg
+  location:   Hamburg, Germany
+  start:      2020-06-06   ## June 6th & 7th 2020
+  end:        2020-06-07
+  days:       2
+  month:      6
+  url:        http://2020.rubyunconf.eu
+  twitter:    rubyunconfeu
+
+
 - name: Brighton RubyConf
   location: Brighton, Sussex, England, United Kingdom
   start:   2020-07-03
@@ -79,6 +109,15 @@
   month:   7
   url:     https://brightonruby.com
   twitter: brightonruby
+
+- name:      RubyConf Kenya
+  location:  Nairobi, Kenya
+  start:     2020-07-23
+  end:       2020-07-25
+  days:      3
+  month:     7
+  url:       http://rubyconf.nairuby.org/2020
+  twitter:   nairubyke
 
 
 - name:      European Ruby Konference (EuRuKo)
@@ -89,6 +128,7 @@
   month:     8
   url:       https://euruko2020.org
   twitter:   euruko
+
 
 - name:     RubyConf (United States)
   location: Houston, Texas, United States
