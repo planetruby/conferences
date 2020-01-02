@@ -1,6 +1,16 @@
 #############################
 #  ruby event news in 2020
 
+- name:     Birmingham on Rails
+  location: Birmingham, Alabama, United States 
+  start:    2020-01-31
+  end:      2020-01-31
+  days:     1
+  month:    1
+  url:      http://birminghamonrails.com
+  twitter:  bhmonrails
+  updated:  2020-01-02
+
 - name:     Rubyfuza
   location: Cape Town, South Africa
   start:    2020-02-06    # February 6-8, 2020
@@ -128,6 +138,16 @@
   month:     8
   url:       https://euruko2020.org
   twitter:   euruko
+
+
+- name:     RubyConf Thailand (TH)
+  location: Bangkok, Thailand
+  start:    2020-10-16
+  end:      2020-10-17
+  days:     2
+  month:    10
+  url:      https://rubyconfth.com
+  twitter:  rubyconfth
 
 
 - name:     RubyConf (United States)
