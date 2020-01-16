@@ -61,6 +61,16 @@
   url:     https://2020.rubyday.it
   twitter: rubydayit
 
+- name:      Ruby Wine 2.0
+  location:  Chisinau, Moldova
+  start:     2020-04-04
+  end:       2020-04-04
+  days:      1
+  month:     4
+  url:       https://www.facebook.com/rubywineruby/
+  twitter:   rubymeditation
+  
+
 # RubyKaigi 2020: April 9th - 11th, 2020 @ Matsumoto, Nagano, Japan https://rubykaigi.org/2020 
 - name:      RubyKaigi
   location:  Nagano, Japan
@@ -70,6 +80,17 @@
   month:     4
   url:       https://rubykaigi.org/2020
   twitter:   rubykaigi
+
+- name:      RubyConf Belarus (BY)
+  location:  Minsk, Belarus
+  start:     2020-04-18
+  end:       2020-04-18
+  days:      1
+  month:     4
+  url:       https://rubyconference.by/
+  twitter:   RubyConfBY
+  updated:   2020-01-16   ## note: used for feed.xml|json
+
 
 - name:      RubyConf India
   location:  Goa, India
@@ -110,6 +131,15 @@
   url:        http://2020.rubyunconf.eu
   twitter:    rubyunconfeu
 
+- name:      Saint P Rubyconf
+  location:  Saint Petersburg, Russia
+  start:     2020-06-06
+  end:       2020-06-07
+  days:      2
+  month:     6
+  url:       https://spbrubyconf.ru/
+  twitter:   saintpruby
+
 
 - name: Brighton RubyConf
   location: Brighton, Sussex, England, United Kingdom
@@ -138,6 +168,16 @@
   month:     8
   url:       https://euruko2020.org
   twitter:   euruko
+
+
+- name:      RubyC
+  location:  Kyiv, Ukraine
+  start:     2020-09-12
+  end:       2020-09-13
+  days:      2
+  month:     9
+  url:       http://rubyc.eu/
+  twitter:   rubyc_eu
 
 
 - name:     RubyConf Thailand (TH)
