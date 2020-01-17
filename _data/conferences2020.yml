@@ -212,8 +212,8 @@
 
 - name:     RubyWorld Conference
   location: Shimane, Japan
-  start:    2019-12-17      # dates: December 17th(Thu) and 18th(Fri), 2020
-  end:      2019-12-18
+  start:    2020-12-17      # dates: December 17th(Thu) and 18th(Fri), 2020
+  end:      2020-12-18
   days:     2
   month:    12
   url:      https://2019.rubyworld-conf.org/en/news/2020/01/rwc2020/
