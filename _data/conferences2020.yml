@@ -170,6 +170,17 @@
   twitter:   euruko
 
 
+- name:     Rails Camp West
+  location: Diablo Lake, Washington, United States
+  start:    2020-09-01
+  end:      2020-09-04
+  days:     4
+  month:    9
+  url:      http://west.railscamp.us/2020
+  twitter:  railscamp_usa
+  updated:  2020-01-16
+
+
 - name:      RubyC
   location:  Kyiv, Ukraine
   start:     2020-09-12
