@@ -51,6 +51,16 @@
   url:       https://wrocloverb.com
   twitter:   wrocloverb
 
+- name:     Ruby Retreat New Zealand (NZ)
+  location: Mt Cheeseman (near Christchurch), New Zealand
+  start:    2020-03-27
+  end:      2020-03-30
+  days:     3
+  month:    3
+  url:      https://retreat.ruby.nz
+  twitter:  RubyNewZealand
+  updated:  2020-01-27   ## note: used for feed.xml|json
+
 
 - name: RubyDay Italy
   location: Verona, Veneto, Italy
