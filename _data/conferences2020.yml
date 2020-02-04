@@ -71,6 +71,16 @@
   url:     https://2020.rubyday.it
   twitter: rubydayit
 
+- name:      Ruby by the Bay (Ruby for Good, West Coast Edition)
+  location:  Naturebridge in Marin County (near San Francisco), California, United States
+  start:     2020-04-03   # April 3 - April 6
+  end:       2020-04-06
+  days:      4
+  month:     4
+  url:       https://rubybythebay.org
+  twitter:   rubyforgood
+  updated:   2020-02-04     ## note: used for feed.xml|json
+
 - name:      Ruby Wine 2.0
   location:  Chisinau, Moldova
   start:     2020-04-04
