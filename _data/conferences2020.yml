@@ -90,17 +90,6 @@
   url:       https://www.facebook.com/rubywineruby/
   twitter:   rubymeditation
   
-
-# RubyKaigi 2020: April 9th - 11th, 2020 @ Matsumoto, Nagano, Japan https://rubykaigi.org/2020 
-- name:      RubyKaigi
-  location:  Nagano, Japan
-  start:     2020-04-09
-  end:       2020-04-11
-  days:      3
-  month:     4
-  url:       https://rubykaigi.org/2020
-  twitter:   rubykaigi
-
 - name:      RubyConf Belarus (BY)
   location:  Minsk, Belarus
   start:     2020-04-18
@@ -209,6 +198,17 @@
   url:      http://west.railscamp.us/2020
   twitter:  railscamp_usa
   updated:  2020-01-16
+
+# RubyKaigi 2020: Sept 3rd -5th, 2020 @ Matsumoto, Nagano, Japan https://rubykaigi.org/2020 
+#  rescheduled / postponed due to covid-19/corona virus
+- name:      RubyKaigi
+  location:  Nagano, Japan
+  start:     2020-09-03
+  end:       2020-09-05
+  days:      3
+  month:     9
+  url:       https://rubykaigi.org/2020
+  twitter:   rubykaigi
 
 
 - name:      RubyC
