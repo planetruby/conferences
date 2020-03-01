@@ -209,6 +209,7 @@
   month:     9
   url:       https://rubykaigi.org/2020
   twitter:   rubykaigi
+  updated:   2020-03-01    ## note: used for feed.xml|json
 
 
 - name:      RubyC
