@@ -41,8 +41,8 @@
   twitter: rubyconf_au
   updated:  2019-12-03   ## note: used for feed.xml|json
 
-
-- name:      Wrocław <3 Ruby (wroclove.rb)
+#  canceled to covid-19/corona virus
+- name:      CANCELED! - Wrocław <3 Ruby (wroclove.rb)
   location:  Wrocław, Poland
   start:     2020-03-20   # 20-22th March, 2020
   end:       2020-03-22
@@ -50,6 +50,7 @@
   month:     3
   url:       https://wrocloverb.com
   twitter:   wrocloverb
+  updated:   2020-03-02   ## note: used for feed.xml|json
 
 - name:     Ruby Retreat New Zealand (NZ)
   location: Mt Cheeseman (near Christchurch), New Zealand
