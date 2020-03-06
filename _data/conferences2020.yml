@@ -63,15 +63,6 @@
   updated:  2020-01-27   ## note: used for feed.xml|json
 
 
-- name: RubyDay Italy
-  location: Verona, Veneto, Italy
-  start: 2020-04-02
-  end:   2020-04-02
-  days:  1
-  month: 4
-  url:     https://2020.rubyday.it
-  twitter: rubydayit
-
 - name:      Ruby by the Bay (Ruby for Good, West Coast Edition)
   location:  Marin Headlands (near San Francisco), California, United States
   start:     2020-04-03   # April 3 - April 6
@@ -221,6 +212,18 @@
   month:     9
   url:       http://rubyc.eu/
   twitter:   rubyc_eu
+
+# POSTPONED TO SEPTEMBER 2020 due to covid-19/corona virus
+#- name:     NEW DATE! RubyDay Italy
+#  location: Verona, Veneto, Italy
+#  start: 2020-04-02
+#  end:   2020-04-02
+#  days:  1
+#  month: 4
+#  url:     https://2020.rubyday.it
+#  twitter: rubydayit
+
+
 
 
 - name:     RubyConf Thailand (TH)
