@@ -216,15 +216,15 @@
   twitter:   rubyc_eu
 
 # POSTPONED TO SEPTEMBER 2020 due to covid-19/corona virus
-#- name:     NEW DATE! RubyDay Italy
-#  location: Verona, Veneto, Italy
-#  start: 2020-04-02
-#  end:   2020-04-02
-#  days:  1
-#  month: 4
-#  url:     https://2020.rubyday.it
-#  twitter: rubydayit
-
+- name:     NEW DATE! RubyDay Italy
+  location: Verona, Veneto, Italy
+  start: 2020-09-16
+  end:   2020-09-16
+  days:  1
+  month: 9
+  url:     https://2020.rubyday.it
+  twitter: rubydayit
+  updated:   2020-03-10    ## note: used for feed.xml|json
 
 
 
