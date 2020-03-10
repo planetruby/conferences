@@ -153,7 +153,7 @@
   url:      https://brightonruby.com
   twitter:  brightonruby
 
-- name:     RubyNess
+- name:     CANCELED! - RubyNess
   location: Inverness, Scotland, United Kingdom
   start:    2020-07-16
   end:      2020-07-17
@@ -161,7 +161,7 @@
   month:    7
   url:      https://rubyness.org/
   twitter:  rubynessconf
-  updated:   2020-02-04     ## note: used for feed.xml|json
+  updated:   2020-03-10     ## note: used for feed.xml|json
   
 - name:      RubyConf Kenya
   location:  Nairobi, Kenya
