@@ -124,6 +124,15 @@
   twitter: balkanruby
   updated:   2020-03-10     ## note: used for feed.xml|json
 
+- name: RailsCamp Australia
+  location: Adelaide Hills, South Australia , Australia
+  start: 2020-05-22
+  end:   2020-05-25
+  days:  4
+  month: 5
+  url:     https://railscamp.com.au
+  twitter: railscamp_au
+
 
 - name:       Ruby Unconf Hamburg
   location:   Hamburg, Germany
