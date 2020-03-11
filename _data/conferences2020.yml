@@ -93,7 +93,7 @@
   updated:   2020-01-16   ## note: used for feed.xml|json
 
 
-- name:      RubyConf India
+- name:      CANCELED! - RubyConf India
   location:  Goa, India
   start:     2020-04-25    # April 25-26 2020
   end:       2020-04-26
@@ -101,6 +101,7 @@
   month:     4
   url:       http://rubyconfindia.org
   twitter:   rubyconfindia
+  updated:   2020-03-11   ## note: used for feed.xml|json
 
 
 # RailsConf 2020 will be in Portland, OR from May 5-7
