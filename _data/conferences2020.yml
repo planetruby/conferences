@@ -216,6 +216,14 @@
   twitter:   rubykaigi
   updated:   2020-03-01    ## note: used for feed.xml|json
 
+- name:      CANCELED! RedDotRubyConf
+  location:  Singapore 
+  start:     2020-09-09  # originally scheduled on September 9 and 10
+  end:       2020-09-10
+  days:      2
+  month:     9
+  url:       http://www.reddotrubyconf.com
+  twitter:   reddotrubyconf
 
 - name:      RubyC
   location:  Kyiv, Ukraine
