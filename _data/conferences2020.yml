@@ -73,7 +73,7 @@
   twitter:   rubyforgood
   updated:   2020-02-04     ## note: used for feed.xml|json
 
-- name:      Ruby Wine 2.0
+- name:      ONSITE CANCELED / ONLINE ONLY! - Ruby Wine 2.0
   location:  Chisinau, Moldova
   start:     2020-04-04
   end:       2020-04-04
@@ -81,7 +81,8 @@
   month:     4
   url:       https://www.facebook.com/rubywineruby/
   twitter:   rubymeditation
-  
+  updated:   2020-03-12   ## note: used for feed.xml|json
+
 - name:      RubyConf Belarus (BY)
   location:  Minsk, Belarus
   start:     2020-04-18
