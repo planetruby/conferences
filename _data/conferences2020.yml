@@ -83,12 +83,13 @@
   twitter:   rubymeditation
   updated:   2020-03-12   ## note: used for feed.xml|json
 
-- name:      RubyConf Belarus (BY)
+#  rescheduled / postponed due to covid-19/corona virus  - was April, 18th
+- name:      NEW DATE! RubyConf Belarus (BY)
   location:  Minsk, Belarus
-  start:     2020-04-18
-  end:       2020-04-18
+  start:     2020-07-18
+  end:       2020-07-18
   days:      1
-  month:     4
+  month:     7
   url:       https://rubyconference.by/
   twitter:   RubyConfBY
   updated:   2020-01-16   ## note: used for feed.xml|json
@@ -155,7 +156,7 @@
   twitter:   saintpruby
 
 #  canceled to covid-19/corona virus
-- name:     CANCELED! ALT ONLINE ONLY VERSION TBC - Brighton RubyConf
+- name:     ONSITE CANCELED / ONLINE ONLY! - Brighton RubyConf
   location: Brighton, Sussex, England, United Kingdom
   start:    2020-07-03
   end:      2020-07-03
