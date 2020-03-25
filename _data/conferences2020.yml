@@ -52,7 +52,8 @@
   twitter:   wrocloverb
   updated:   2020-03-02   ## note: used for feed.xml|json
 
-- name:     Ruby Retreat New Zealand (NZ)
+#  canceled to covid-19/corona virus
+- name:     POSTPONED! - Ruby Retreat New Zealand (NZ)
   location: Mt Cheeseman (near Christchurch), New Zealand
   start:    2020-03-27
   end:      2020-03-30
@@ -79,7 +80,7 @@
   end:       2020-04-04
   days:      1
   month:     4
-  url:       https://www.facebook.com/rubywineruby/
+  url:       https://rubywine.org   ## https://www.facebook.com/rubywineruby/
   twitter:   rubymeditation
   updated:   2020-03-12   ## note: used for feed.xml|json
 
@@ -247,8 +248,8 @@
   updated:   2020-03-10    ## note: used for feed.xml|json
 
 
-
-- name:     RubyConf Thailand (TH)
+#  canceled to covid-19/corona virus
+- name:     CANCELED! - RubyConf Thailand (TH)
   location: Bangkok, Thailand
   start:    2020-10-16
   end:      2020-10-17
@@ -256,6 +257,7 @@
   month:    10
   url:      https://rubyconfth.com
   twitter:  rubyconfth
+  updated:  2020-03-25    ## note: used for feed.xml|json
 
 
 - name:     RubyConf (United States)
