@@ -166,15 +166,15 @@
   updated:   2020-03-10     ## note: used for feed.xml|json
 
 #  rescheduled / postponed due to covid-19/corona virus  - was April, 18th
-- name:      NEW DATE! RubyConf Belarus (BY)
+- name:      ONLINE ONLY! RubyConfBY
   location:  Minsk, Belarus
   start:     2020-07-18
-  end:       2020-07-18
-  days:      1
+  end:       2020-07-19
+  days:      2
   month:     7
   url:       https://rubyconference.by/
   twitter:   RubyConfBY
-  updated:   2020-01-16   ## note: used for feed.xml|json
+  updated:   2020-06-16   ## note: used for feed.xml|json
 
 - name:      RubyConf Kenya
   location:  Nairobi, Kenya
