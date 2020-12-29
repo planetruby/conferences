@@ -18,8 +18,22 @@
      {% endif %}
    </div>
 {% else %}
-   <hr>
+ <!--  <hr>  -->
    <div style="font-size: 80%;">
-     From the <a href="{{ '/' | relative_url }}">Conferences @ Planet Ruby</a>.
+     <a href="{{ '/' | relative_url }}">« Conferences @ Planet Ruby</a>
    </div>
 {% endif %}
+
+
+
+<!-- try / add footer - why? why not? -->
+<div style="font-size: 70%">
+  <p style="text-align: center; margin-top: 25px; color: #767676;">
+      Built with <a href="https://www.ruby-lang.org">Ruby</a>
+        (running <a href="https://jekyllrb.com">Jekyll</a>)
+        on {{ site.time }} in 0.371 seconds.<br>
+        Hosted on <a href="https://pages.github.com">GitHub Pages</a>.
+        &lt;/&gt; <a href="https://github.com/planetruby/conferences">Source</a> on GitHub.
+        (0) Dedicated to the public domain.
+   </p>
+  </div>
