@@ -12,6 +12,6 @@ A Look Back:
 
 _Awesome Ruby Events_
 
-- [Awesome Ruby Conferences & Camps](conferences) - A collection about conferences, camps and more from around the world (Europe • North America • South America • Asia • Africa • Pacific / Oceania)
-- [Awesome Ruby Meetups & Organizations](https://planetruby.github.io/meetups) - A collection about meetups, learn coding or diversity organizations and more from around the world (Europe • North America • South America • Asia • Africa • Pacific / Oceania)
+[Awesome Ruby Conferences & Camps](conferences) - A collection about conferences, camps and more from around the world (Europe • North America • South America • Asia • Africa • Pacific / Oceania)
 
+[Awesome Ruby Meetups & Organizations](https://planetruby.github.io/meetups) - A collection about meetups, learn coding or diversity organizations and more from around the world (Europe • North America • South America • Asia • Africa • Pacific / Oceania)
