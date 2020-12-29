@@ -10,12 +10,12 @@ A Look Back:
 
 
 
-Open Data Sources - Updates Welcome - Yes, You Can!:
+Open Data Sources:
 
 [`conferences2021.yml`](https://github.com/planetruby/conferences/blob/master/_data/conferences2021.yml),
 [`conferences2020.yml`](https://github.com/planetruby/conferences/blob/master/_data/conferences2020.yml),
 [`conferences2019.yml`](https://github.com/planetruby/conferences/blob/master/_data/conferences2019.yml),
-[`conferences2018.yml`](https://github.com/planetruby/conferences/blob/master/_data/conferences2018.yml)
+[`conferences2018.yml`](https://github.com/planetruby/conferences/blob/master/_data/conferences2018.yml)  - **Updates Welcome - Yes, You Can!**
 
 
 ## Awesome Ruby Events
