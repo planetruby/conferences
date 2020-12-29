@@ -4,7 +4,7 @@ exclude:
 - README.md
 - NOTES.md
 - advent2018/NOTES.md
-
+- _attic
 
 plugins:
 - jekyll-remote-theme
