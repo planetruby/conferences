@@ -1,7 +1,8 @@
 # Ruby Conferences - What's Upcoming in 2021?
 
+A Look Ahead:
 
-[**Ruby Conferences & Camps in 2021**](2021.md)
+- [**Ruby Conferences & Camps in 2021**](2021.md)
 
 A Look Back:
 
