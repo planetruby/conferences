@@ -2,16 +2,23 @@
 
 A Look Ahead:
 
-[**Ruby Conferences & Camps in 2021**](2021.md), Source: [`conferences2021.yml`](https://github.com/planetruby/conferences/blob/master/_data/conferences2021.yml)
-
+[**Ruby Conferences & Camps in 2021**](2021.md)
 
 A Look Back:
 
 [2020](2020.md), [2019](2019.md), [2018](2018.md)
 
 
+Open Data Sources:
 
-_Awesome Ruby Events_
+- [`conferences2021.yml`](https://github.com/planetruby/conferences/blob/master/_data/conferences2021.yml)
+- [`conferences2020.yml`](https://github.com/planetruby/conferences/blob/master/_data/conferences2020.yml)
+- [`conferences2019.yml`](https://github.com/planetruby/conferences/blob/master/_data/conferences2019.yml)
+- [`conferences2018.yml`](https://github.com/planetruby/conferences/blob/master/_data/conferences2018.yml)
+
+
+
+## Awesome Ruby Events
 
 [Awesome Ruby Conferences & Camps](conferences) - A collection about conferences, camps and more from around the world (Europe • North America • South America • Asia • Africa • Pacific / Oceania)
 
