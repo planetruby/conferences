@@ -2,7 +2,8 @@
 
 A Look Ahead:
 
-[**Ruby Conferences & Camps in 2021**](2021.md)   (Source: [`conferences2021.yml`](https://github.com/planetruby/conferences/blob/master/_data/conferences2021.yml))
+[**Ruby Conferences & Camps in 2021**](2021.md), Source: [`conferences2021.yml`](https://github.com/planetruby/conferences/blob/master/_data/conferences2021.yml)
+
 
 A Look Back:
 
