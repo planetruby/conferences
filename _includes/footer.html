@@ -3,7 +3,7 @@
   page.path: -I {{ page.path }} I-
   -->
 
-{% if page.path == "README.md" %}
+{% if page.path == "index.md" %}
 
 {% elsif page.path contains "advent2017" %}
    <hr>
@@ -20,6 +20,6 @@
 {% else %}
    <hr>
    <div style="font-size: 80%;">
-     From the <a href="{{ '/' | relative_url }}">Calendar @ Planet Ruby</a>.
+     From the <a href="{{ '/' | relative_url }}">Conferences @ Planet Ruby</a>.
    </div>
 {% endif %}
