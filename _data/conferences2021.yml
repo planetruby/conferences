@@ -1,0 +1,12 @@
+#############################
+#  ruby event news in 2021
+
+- name:      European Ruby Konference (EuRuKo)
+  location:  Helsinki, Finnland
+  start:     2021-05-28      # 28–29.5.2021
+  end:       2021-05-29
+  days:      2
+  month:     5
+  url:       https://euruko2021.org
+  twitter:   euruko
+
