@@ -1,23 +1,14 @@
-{% comment %}
-
-Note, this is the source code version, see the live web pages @ [`planetruby.github.io/calendar` »](https://planetruby.github.io/calendar).
-
-{% endcomment %}
 
 
-# Calendar @ Planet Ruby
+Note, this is the source code version, see the live web pages @ [`planetruby.github.io/conferences` »](https://planetruby.github.io/conferences).
 
-_2020, 2019, 2018_
 
-- [**Ruby Conferences & Camps in 2020 - What's Upcoming?**](2020.md)
-- [**Ruby Conferences & Camps in 2019 - What's Upcoming?**](2019.md)
-- [**Ruby Conferences & Camps in 2018 - What's Upcoming?**](2018.md)
 
-_Awesome Ruby Events_
 
-- [Awesome Ruby Conferences & Camps](conferences) - A collection about conferences, camps and more from around the world (Europe • North America • South America • Asia • Africa • Pacific / Oceania)
-- [Awesome Ruby Meetups & Organizations](https://planetruby.github.io/meetups) - A collection about meetups, learn coding or diversity organizations and more from around the world (Europe • North America • South America • Asia • Africa • Pacific / Oceania)
 
+---
+
+todo/fix: move to attic README.md
 
 _Rubies Updates - 2.5 / 3x3 - What's News?_
 
