@@ -2,13 +2,12 @@
 
 A Look Ahead:
 
-- [**Ruby Conferences & Camps in 2021**](2021.md)
+[**Ruby Conferences & Camps in 2021**](2021.md)
 
 A Look Back:
 
-- [Ruby Conferences & Camps in 2020](2020.md)
-- [Ruby Conferences & Camps in 2019](2019.md)
-- [Ruby Conferences & Camps in 2018](2018.md)
+[2020](2020.md), [2019](2019.md), [2018](2018.md)
+
 
 
 _Awesome Ruby Events_
