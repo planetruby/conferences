@@ -2,7 +2,7 @@
 
 A Look Ahead:
 
-# [**Ruby Conferences & Camps in 2021 - What's Upcoming?**](2021.md)
+[**Ruby Conferences & Camps in 2021 - What's Upcoming?**](2021.md)
 
 A Look Back:
 
