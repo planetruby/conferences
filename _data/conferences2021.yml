@@ -1,6 +1,23 @@
 #############################
 #  ruby event news in 2021
 
+- name:      ONLINE - Ruby Blockchain Week
+  location:  Planet Ruby
+  start:     2021-01-03      # January 3rd to January 9th
+  end:       2021-01-09
+  days:      7
+  month:     1
+  url:       https://planetruby.github.io/gems/
+
+- name:      ONLINE - Ruby Open Data Week
+  location:  Planet Ruby
+  start:     2021-03-06      # March 6th to March 12th 
+  end:       2021-03-12
+  days:      7
+  month:     3
+  url:       https://planetruby.github.io/gems/
+
+
 - name:      European Ruby Konference (EuRuKo)
   location:  Helsinki, Finnland
   start:     2021-05-28      # 28–29.5.2021
