@@ -269,6 +269,15 @@
   url:     https://rubyconf.org
   twitter: rubyconf
 
+- name:      ONLINE - Ruby Advent Calendar
+  location:  Planet Ruby
+  start:     2020-01-01
+  end:       2020-12-25
+  days:      25
+  month:     12
+  url:       https://planetruby.github.io/gems/
+
+
 - name:     RubyWorld Conference
   location: Shimane, Japan
   start:    2020-12-17      # dates: December 17th(Thu) and 18th(Fri), 2020
