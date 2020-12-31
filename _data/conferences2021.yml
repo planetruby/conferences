@@ -28,3 +28,12 @@
   twitter:   euruko
   updated:   2020-12-29       ## note: used for feed.xml|json
 
+
+
+- name:      ONLINE - Ruby Advent Calendar
+  location:  Planet Ruby
+  start:     2021-01-01
+  end:       2021-12-25
+  days:      25
+  month:     12
+  url:       https://planetruby.github.io/gems/
