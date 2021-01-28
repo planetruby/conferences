@@ -27,7 +27,8 @@
   days:      1
   month:     1
   tickets:   (FREE)
-  url:       https://rubygalaxy.io/
+  url:       https://rubygalaxy.io
+  twitter:   therubygalaxy
 
 
 - name:      ONLINE - Ruby Open Data Week
