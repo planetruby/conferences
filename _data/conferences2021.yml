@@ -20,6 +20,15 @@
   tickets:   (FREE)
   url:       https://planetruby.github.io/gems/#ruby-glimmer-days-2021-january-26th-to-january-29th---4-days-of-ruby-desktop-gems
 
+- name:      ONLINE - Ruby Galaxy
+  location:  Ruby Galaxy
+  start:     2021-01-28      # January 28th
+  end:       2021-01-28
+  days:      1
+  month:     1
+  tickets:   (FREE)
+  url:       https://rubygalaxy.io/
+
 
 - name:      ONLINE - Ruby Open Data Week
   location:  Planet Ruby
