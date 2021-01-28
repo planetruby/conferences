@@ -20,6 +20,24 @@
   url:       https://planetruby.github.io/gems/
 
 
+- name:      ONLINE - RailsConf (United States)
+  location:  Your Device
+  start:     2021-04-13
+  end:       2021-04-15
+  days:      3
+  month:     4
+  url:       https://railsconf.com
+  twitter:   railsconf
+
+- name:      ONLINE - Ruby Day Italy
+  location:  Your Device
+  start:     2021-04-15
+  end:       2021-04-15
+  url:       https://2021.rubyday.it
+  days:      1
+  month:     4
+
+
 - name:      European Ruby Konference (EuRuKo)
   location:  Helsinki, Finnland
   start:     2021-05-28      # 28–29.5.2021
