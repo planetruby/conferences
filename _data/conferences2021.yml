@@ -8,7 +8,18 @@
   days:      7
   month:     1
   tickets:   (FREE)
-  url:       https://planetruby.github.io/gems/
+  url:       https://planetruby.github.io/gems/#ruby-blockchain-week-2021-january-3rd-to-january-9th---7-days-of-ruby-crypto-gems
+
+
+- name:      ONLINE - Ruby Glimmer Days
+  location:  Planet Ruby
+  start:     2021-01-26      # January 26th to January 29th
+  end:       2021-01-29
+  days:      4
+  month:     1
+  tickets:   (FREE)
+  url:       https://planetruby.github.io/gems/#ruby-glimmer-days-2021-january-26th-to-january-29th---4-days-of-ruby-desktop-gems
+
 
 - name:      ONLINE - Ruby Open Data Week
   location:  Planet Ruby
@@ -17,7 +28,7 @@
   days:      7
   month:     3
   tickets:   (FREE)
-  url:       https://planetruby.github.io/gems/
+  url:       https://planetruby.github.io/gems/#ruby-open-data-week-2021-march-6th-to-march-12th---7-days-of-ruby-open-data-gems
 
 
 - name:      ONLINE - RailsConf (United States)
