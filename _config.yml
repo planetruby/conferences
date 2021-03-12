@@ -3,7 +3,6 @@ exclude:
 - LICENSE.md
 - README.md
 - NOTES.md
-- advent2018/NOTES.md
 - _attic
 
 plugins:

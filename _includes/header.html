@@ -5,20 +5,12 @@
 
   {% if page.path == "index.md" %}
 
-  {% elsif page.path contains "advent2017" %}
-     <p style="font-size: 80%;">
-       {% if page.path contains "README.md" %}
-          <a href="{{ '/' | relative_url }}">« Calendar @ Planet Ruby</a>
-       {% else %}
-          <a href="{{ '/advent2017' | relative_url }}">« Advent Calendar 2017 @ Planet Ruby</a>
-       {% endif %}
-     </p>
   {% else %}
      <p style="font-size: 80%;">
        <a href="{{ '/' | relative_url }}">Conferences @ Planet Ruby</a>  |
        <a href="{{ '/2021' | relative_url }}">2021</a> •
        <a href="{{ '/2020' | relative_url }}">2020</a> •
-       <a href="{{ '/2019' | relative_url }}">2019</a> •  
-       <a href="{{ '/2018' | relative_url }}">2018</a>  
+       <a href="{{ '/2019' | relative_url }}">2019</a> •
+       <a href="{{ '/2018' | relative_url }}">2018</a>
      </p>
   {% endif %}
