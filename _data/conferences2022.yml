@@ -12,6 +12,26 @@
   updated:   2022-01-22       ## note: used for feed.xml|json
 
 
+- name:      Rails Conf US
+  location:  Portland, Oregon, United States
+  start:     2022-05-17
+  end:       2022-05-19
+  days:      3
+  month:     5
+  url:       https://railsconf.org
+  twitter:   railsconf
+
+- name:      Rails Camp US West
+  location:  Diablo Lake, Washington, United States
+  start:     2022-08-30
+  end:       2022-09-02
+  days:      4
+  month:     8
+  url:       https://west.railscamp.us/2022
+  twitter:   railscamp_usa
+
+
+
 - name:      European Ruby Konference (EuRuKo)
   location:  Helsinki, Finnland
   start:     2022-10-13      # 13-14.10.2022
