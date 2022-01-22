@@ -1,0 +1,23 @@
+#############################
+#  ruby event news in 2022
+
+- name:      Sin City Ruby
+  location:  Las Vegas, Nevada, United States
+  start:     2022-03-24      # March 24-25
+  end:       2022-03-25
+  days:      2
+  month:     3
+  tickets:   $299 - $499
+  url:       https://www.sincityruby.com/
+  updated:   2022-01-22       ## note: used for feed.xml|json
+
+
+- name:      European Ruby Konference (EuRuKo)
+  location:  Helsinki, Finnland
+  start:     2022-10-13      # 13-14.10.2022
+  end:       2022-10-14
+  days:      2
+  month:     10
+  url:       https://2022.euruko.org
+  twitter:   euruko
+  updated:   2022-01-22       ## note: used for feed.xml|json
