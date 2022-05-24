@@ -40,7 +40,16 @@
   month:     8
   url:       https://west.railscamp.us/2022
   twitter:   railscamp_usa
-
+  
+  
+- name:      wrocloverb 2022
+  location:  University of Wrocław, Institute of Computer Science, Wrocław, Poland
+  start:     2022-09-16
+  end:       2022-09-18
+  days:      3
+  month:     9
+  url:       https://wrocloverb.com/
+  twitter:   wrocloverb
 
 
 - name:      European Ruby Konference (EuRuKo)
