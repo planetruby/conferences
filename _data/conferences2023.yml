@@ -1,0 +1,39 @@
+#############################
+#  ruby event news in 2023
+#
+#  published at the Calendar @ Planet Ruby
+#    see https://planetruby.github.io/calendar/2023
+
+
+- name: RubyConf Australia
+  location: Melbourne, Australia
+  start: 2023-02-20
+  end: 2023-02-21
+  days: 2
+  month: 2
+  url: https://www.rubyconf.org.au
+  twitter: rubyconf_au
+  updated: 2023-01-05   ## note: used for feed.xml|json
+  
+
+- name: RailsConf (United States)
+  location: Atlanta, Georgia, United States
+  start: 2023-04-24
+  end: 2023-04-26
+  days: 3
+  month: 4
+  url: https://railsconf.org
+  twitter: railsconf
+  updated: 2023-01-05   ## note: used for feed.xml|json
+
+- name: RubyKaigi
+  location: Nagano, Japan
+  start: 2023-05-11
+  end: 2023-05-13
+  days: 3
+  month: 4
+  url: https://rubykaigi.org/2023
+  twitter: rubykaigi
+  updated: 2023-01-05   ## note: used for feed.xml|json
+
+
