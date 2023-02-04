@@ -79,6 +79,7 @@
   url: https://rubyconfth.com
   twitter:  rubyconfth
   mastodon: ruby.social/@rubyconfth
+  updated: 2023-02-04   ## note: used for feed.xml|json
   
 
 - name: Helvetic Ruby
@@ -90,8 +91,7 @@
   url: https://helvetic-ruby.ch
   twitter: helvetic_ruby
   mastodon: ruby.social/@helvetic_ruby
-
-
+  updated: 2023-02-04   ## note: used for feed.xml|json
 
 
 
