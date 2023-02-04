@@ -5,8 +5,8 @@
 #    see https://planetruby.github.io/calendar/2023
 
 
-- name: RubyConf Australia
-  location: Melbourne, Australia
+- name: RubyConf Australia (AU)
+  location: Melbourne,  Victoria,  Australia
   start: 2023-02-20
   end: 2023-02-21
   days: 2
@@ -21,6 +21,7 @@
   end: 2023-03-18
   days: 1
   month: 3
+  tickets:  (FREE)
   url: https://railsgirls.nl
   twitter: RailsGirls_NL
   updated: 2023-01-25   ## note: used for feed.xml|json
@@ -31,6 +32,7 @@
   end: 2023-04-26
   days: 3
   month: 4
+  tickets: ($750+$66.75 Tax - Individual, $1100+$97.90 Tax - Corporate, $1500+$133.50 Tax - Supporter)
   url: https://railsconf.org
   twitter: railsconf
   updated: 2023-01-05   ## note: used for feed.xml|json
@@ -41,6 +43,7 @@
   end: 2023-05-13
   days: 3
   month: 5
+  tickets: (¥15000 - Early)
   url: https://rubykaigi.org/2023
   twitter: rubykaigi
   updated: 2023-01-05   ## note: used for feed.xml|json
@@ -56,3 +59,47 @@
   updated:   2023-01-05   ## note: used for feed.xml|json
 
 
+- name: Brighton Ruby
+  location:  Brighton, Sussex, England, United Kingdom
+  start: 2023-06-30
+  end:   2023-06-30
+  days: 1
+  month: 6
+  tickets:  (£129 - Regular/Early)
+  url: https://brightonruby.com
+  twitter: brightonruby
+
+
+- name: RubyConf Thailand (TH)
+  location: Bangkok, Thailand
+  start: 2023-10-06
+  end: 2023-10-07
+  days: 2
+  month: 10
+  url: https://rubyconfth.com
+  twitter:  rubyconfth
+  mastodon: ruby.social/@rubyconfth
+  
+
+- name: Helvetic Ruby
+  location: Bern, Switzerland
+  start_date: 2023-11-24
+  end_date: 2023-11-24
+  days: 1
+  month: 11
+  url: https://helvetic-ruby.ch
+  twitter: helvetic_ruby
+  mastodon: ruby.social/@helvetic_ruby
+
+
+
+
+
+- name:      ONLINE - Ruby Advent Calendar
+  location:  Planet Ruby
+  start:     2023-12-01
+  end:       2023-12-25
+  days:      25
+  month:     12
+  tickets:   (FREE)
+  url:       https://planetruby.github.io/gems/
