@@ -50,7 +50,7 @@
 
 
 - name:      Punk's Not Dead Conf - Ruby (Pixel) Art Programming
-  location:  Vienna, Austria, Central Europe
+  location:  Vienna, Austria
   start:     2023-06-29
   end:       2023-06-30
   days:      2
@@ -84,8 +84,8 @@
 
 - name: Helvetic Ruby
   location: Bern, Switzerland
-  start_date: 2023-11-24
-  end_date: 2023-11-24
+  start:   2023-11-24
+  end:     2023-11-24
   days: 1
   month: 11
   url: https://helvetic-ruby.ch
