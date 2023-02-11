@@ -5,7 +5,7 @@
 #    see https://planetruby.github.io/calendar/2023
 
 
-- name: RubyConf Australia (AU)
+- name: Ruby Conf Australia (AU)
   location: Melbourne,  Victoria,  Australia
   start: 2023-02-20
   end: 2023-02-21
@@ -16,8 +16,8 @@
   twitter: rubyconf_au
   updated: 2023-01-05   ## note: used for feed.xml|json
 
-- name: RailsGirls Rotterdam
-  location: Rotterdam, Netherlands
+- name: Rails Girls Rotterdam
+  location: Rotterdam, South Holland, Netherlands
   start: 2023-03-18
   end: 2023-03-18
   days: 1
@@ -27,18 +27,18 @@
   twitter: RailsGirls_NL
   updated: 2023-01-25   ## note: used for feed.xml|json
 
-- name: RailsConf (United States)
+- name: Rails Conf (United States)
   location: Atlanta, Georgia, United States
   start: 2023-04-24
   end: 2023-04-26
   days: 3
   month: 4
-  tickets: ($750+$66.75 Tax - Individual, $1100+$97.90 Tax - Corporate, $1500+$133.50 Tax - Supporter)
+  tickets: ($750+Tax - Individual, $1100+Tax - Corporate, $1500+Tax - Supporter)
   url: https://railsconf.org
   twitter: railsconf
   updated: 2023-01-05   ## note: used for feed.xml|json
 
-- name: RubyKaigi
+- name: Ruby Kaigi
   location: Nagano, Japan
   start: 2023-05-11
   end: 2023-05-13
@@ -48,6 +48,18 @@
   url: https://rubykaigi.org/2023
   twitter: rubykaigi
   updated: 2023-01-05   ## note: used for feed.xml|json
+
+
+- name: Ruby Day Italy 
+  location: Verona, Veneto, Italy
+  start: 2023-06-16
+  end: 2023-06-16
+  days: 1
+  month: 6
+  tickets: (€79+Tax - Early, €119+Tax - Late) 
+  url: https://2023.rubyday.it
+  twitter: rubydayit
+  updated: 2023-02-11   ## note: used for feed.xml|json
 
 
 - name:      Punk's Not Dead Conf - Ruby (Pixel) Art Programming
@@ -71,7 +83,19 @@
   twitter: brightonruby
 
 
-- name: RubyConf Thailand (TH)
+- name: Wrocław Ruby
+  location: Wrocław, Lower Silesia, Poland
+  start: 2023-09-15
+  end: 2023-09-17
+  days:    3
+  month:   9
+  url: https://wrocloverb.com
+  tickets:  (€90+Tax - Early, €800+Tax - Supporter)
+  twitter: wrocloverb
+  updated: 2023-02-11   ## note: used for feed.xml|json
+  
+  
+- name: Ruby Conf Thailand (TH)
   location: Bangkok, Thailand
   start: 2023-10-06
   end: 2023-10-07
