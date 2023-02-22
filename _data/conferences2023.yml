@@ -47,8 +47,8 @@
   tickets: (¥15000 - Early)
   url: https://rubykaigi.org/2023
   twitter: rubykaigi
+  mastodon: ruby.social/@rubykaigi
   updated: 2023-01-05   ## note: used for feed.xml|json
-
 
 - name: Ruby Day Italy 2023
   location: Verona, Veneto, Italy
@@ -61,7 +61,7 @@
   twitter: rubydayit
   updated: 2023-02-11   ## note: used for feed.xml|json
 
-- name: Ruby Unconf 2023
+- name: Ruby Unconf (Europe) 2023
   location: Hamburg, Germany
   start: 2023-06-10
   end: 2023-06-11
@@ -70,8 +70,8 @@
   tickets: (€75 - Regular, €80 - Business)
   url: https://2023.rubyunconf.eu
   twitter: rubyunconfeu
+  mastodon: ruby.social/@rubyunconf
   updated:  2023-02-22    ## note: used for feed.xml|json
-
 
 - name: Brighton Ruby 2023
   location:  Brighton, Sussex, England, United Kingdom
