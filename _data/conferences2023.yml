@@ -95,6 +95,17 @@
   twitter: wrocloverb
   updated: 2023-02-11   ## note: used for feed.xml|json
   
+- name: Friendly.rb
+  location: Bucharest, Romania
+  start:   2023-09-27
+  end:     2023-09-28
+  days: 2
+  month: 09
+  url: https://friendlyrb.com
+  twitter: friendlyrb
+  mastodon: ruby.social/@friendlyrb
+  updated: 2023-02-22   ## note: used for feed.xml|json
+  
   
 - name: Ruby Conf Thailand (TH) 2023
   location: Bangkok, Thailand
