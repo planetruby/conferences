@@ -5,7 +5,7 @@
 #    see https://planetruby.github.io/calendar/2023
 
 
-- name: Ruby Conf Australia (AU)
+- name: Ruby Conf Australia (AU) 2023
   location: Melbourne,  Victoria,  Australia
   start: 2023-02-20
   end: 2023-02-21
@@ -27,7 +27,7 @@
   twitter: RailsGirls_NL
   updated: 2023-01-25   ## note: used for feed.xml|json
 
-- name: Rails Conf (United States)
+- name: Rails Conf (United States) 2023
   location: Atlanta, Georgia, United States
   start: 2023-04-24
   end: 2023-04-26
@@ -38,7 +38,7 @@
   twitter: railsconf
   updated: 2023-01-05   ## note: used for feed.xml|json
 
-- name: Ruby Kaigi
+- name: Ruby Kaigi 2023
   location: Nagano, Japan
   start: 2023-05-11
   end: 2023-05-13
@@ -50,7 +50,7 @@
   updated: 2023-01-05   ## note: used for feed.xml|json
 
 
-- name: Ruby Day Italy 
+- name: Ruby Day Italy 2023
   location: Verona, Veneto, Italy
   start: 2023-06-16
   end: 2023-06-16
@@ -61,18 +61,19 @@
   twitter: rubydayit
   updated: 2023-02-11   ## note: used for feed.xml|json
 
+- name: Ruby Unconf 2023
+  location: Hamburg, Germany
+  start: 2023-06-10
+  end: 2023-06-11
+  days: 2
+  month: 6
+  tickets: (€75 - Regular, €80 - Business)
+  url: https://2023.rubyunconf.eu
+  twitter: rubyunconfeu
+  updated:  2023-02-22    ## note: used for feed.xml|json
 
-- name:      Punk's Not Dead Conf - Ruby (Pixel) Art Programming
-  location:  Vienna, Austria
-  start:     2023-06-29
-  end:       2023-06-30
-  days:      2
-  month:     6
-  url:       https://viennacrypto.github.io/punksnotdead2023/
-  updated:   2023-01-05   ## note: used for feed.xml|json
 
-
-- name: Brighton Ruby
+- name: Brighton Ruby 2023
   location:  Brighton, Sussex, England, United Kingdom
   start: 2023-06-30
   end:   2023-06-30
@@ -83,7 +84,7 @@
   twitter: brightonruby
 
 
-- name: Wrocław Ruby
+- name: Wrocław Ruby (wroclove.rb) 2023
   location: Wrocław, Lower Silesia, Poland
   start: 2023-09-15
   end: 2023-09-17
@@ -95,7 +96,7 @@
   updated: 2023-02-11   ## note: used for feed.xml|json
   
   
-- name: Ruby Conf Thailand (TH)
+- name: Ruby Conf Thailand (TH) 2023
   location: Bangkok, Thailand
   start: 2023-10-06
   end: 2023-10-07
@@ -107,7 +108,7 @@
   updated: 2023-02-04   ## note: used for feed.xml|json
   
 
-- name: Helvetic Ruby
+- name: Helvetic Ruby 2023
   location: Bern, Switzerland
   start:   2023-11-24
   end:     2023-11-24
@@ -120,7 +121,7 @@
 
 
 
-- name:      ONLINE - Ruby Advent Calendar
+- name:      ONLINE - Ruby Advent Calendar 2023
   location:  Planet Ruby
   start:     2023-12-01
   end:       2023-12-25
