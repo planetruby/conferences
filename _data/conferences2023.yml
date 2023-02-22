@@ -95,13 +95,14 @@
   twitter: wrocloverb
   updated: 2023-02-11   ## note: used for feed.xml|json
   
-- name: Friendly.rb
+- name: Friendly.rb 2023
   location: Bucharest, Romania
   start:   2023-09-27
   end:     2023-09-28
-  days: 2
-  month: 09
+  days:   2
+  month: 9
   url: https://friendlyrb.com
+  tickets: ($150 - Early, $200 - Regular, $250 - Supporter)
   twitter: friendlyrb
   mastodon: ruby.social/@friendlyrb
   updated: 2023-02-22   ## note: used for feed.xml|json
